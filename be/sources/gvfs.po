@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: gnome-by\n"
 "Report-Msgid-Bugs-To: https://bugzilla.gnome.org/enter_bug.cgi?product=gvfs&keywords=I18N+L10N&component=general\n"
 "POT-Creation-Date: 2017-11-28 15:58+0000\n"
-"PO-Revision-Date: 2019-10-14 12:59\n"
+"PO-Revision-Date: 2019-10-14 13:19\n"
 "Last-Translator: Zmicer Turok (zmicer)\n"
 "Language-Team: Belarusian\n"
 "Language: be_BY\n"
@@ -700,7 +700,7 @@ msgstr "Не атрымалася адкрыць каталог"
 
 #: daemon/gvfsbackendafc.c:1344
 msgid "Backups are not yet supported."
-msgstr ""
+msgstr "Стварэнне рэзервовых копій яшчэ не падтрымліваецца."
 
 #: daemon/gvfsbackendafc.c:1506 daemon/gvfsbackendsmb.c:712
 #: daemon/gvfsbackendsmb.c:1191
@@ -726,7 +726,7 @@ msgstr "Гэты тып пераносу не падтрымліваецца"
 #: daemon/gvfsbackendsftp.c:5332 daemon/gvfsbackendsmb.c:1683
 #: daemon/gvfsftptask.c:431
 msgid "Operation unsupported"
-msgstr ""
+msgstr "Аперацыя не падтрымліваецца"
 
 #: daemon/gvfsbackendafc.c:2595 daemon/gvfsbackenddav.c:2828
 #: daemon/gvfsbackendftp.c:1444
@@ -802,7 +802,7 @@ msgstr "Немагчыма перамясціць каталог на месца
 
 #: daemon/gvfsbackendafp.c:1270 daemon/gvfsbackendafp.c:1359
 msgid "backups not supported"
-msgstr ""
+msgstr "стварэнне рэзервовых копій не падтрымліваецца"
 
 #: daemon/gvfsbackendafp.c:1284
 #, c-format
@@ -915,7 +915,7 @@ msgstr "Рухавік не падтрымлівае гэтай аперацыі
 
 #: daemon/gvfsbackendburn.c:852
 msgid "No such file or directory in target path"
-msgstr ""
+msgstr "Па мэтаваму шляху не знойдзена такога файла альбо каталога"
 
 #: daemon/gvfsbackendburn.c:884 daemon/gvfsbackenddav.c:2906
 #: daemon/gvfsbackendsftp.c:2146 daemon/gvfsbackendsftp.c:5012
@@ -932,7 +932,7 @@ msgstr "Мэтавы файл існуе"
 #: daemon/gvfsbackendsftp.c:6052 daemon/gvfsbackendsftp.c:6523
 #: daemon/gvfsbackendsftp.c:6585
 msgid "Not supported"
-msgstr ""
+msgstr "Не падтрымліваецца"
 
 #: daemon/gvfsbackend.c:856 daemon/gvfsjobunmount.c:197
 #: daemon/gvfsjobunmount.c:264
