@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: gnome-by\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gsettings-desktop-schemas/issues\n"
 "POT-Creation-Date: 2019-08-17 20:57+0000\n"
-"PO-Revision-Date: 2019-10-14 11:10\n"
+"PO-Revision-Date: 2019-10-14 12:18\n"
 "Last-Translator: Zmicer Turok (zmicer)\n"
 "Language-Team: Belarusian\n"
 "Language: be_BY\n"
@@ -20,7 +20,7 @@ msgstr ""
 
 #: schemas/org.gnome.desktop.a11y.applications.gschema.xml.in:6
 msgid "On-screen keyboard"
-msgstr ""
+msgstr "Экранная клавіятура"
 
 #: schemas/org.gnome.desktop.a11y.applications.gschema.xml.in:7
 msgid "Whether the on-screen keyboard is turned on."
