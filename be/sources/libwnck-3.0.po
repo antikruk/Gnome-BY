@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: gnome-by\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-09-09 13:09+0100\n"
-"PO-Revision-Date: 2019-10-14 11:08\n"
+"PO-Revision-Date: 2019-10-14 13:19\n"
 "Last-Translator: Zmicer Turok (zmicer)\n"
 "Language-Team: Belarusian\n"
 "Language: be_BY\n"
@@ -42,150 +42,150 @@ msgstr ""
 #.
 #: ../libwnck/application.c:51
 msgid "Untitled application"
-msgstr ""
+msgstr "Праграма без назвы"
 
 #: ../libwnck/pager-accessible.c:342
 msgid "Workspace Switcher"
-msgstr ""
+msgstr "Пераключальнік працоўных прастораў"
 
 #: ../libwnck/pager-accessible.c:353
 msgid "Tool to switch between workspaces"
-msgstr ""
+msgstr "Інструмент для пераключэння паміж працоўнымі прасторамі"
 
 #: ../libwnck/pager-accessible.c:465
 #, c-format
 msgid "Click this to switch to workspace %s"
-msgstr ""
+msgstr "Пстрыкніце, каб перайсці на працоўную прастору %s"
 
 #: ../libwnck/pager.c:2200
 #, c-format
 msgid "Click to start dragging \"%s\""
-msgstr ""
+msgstr "Пстрыкніце, каб пачаць перацягванне \"%s\""
 
 #: ../libwnck/pager.c:2203
 #, c-format
 msgid "Current workspace: \"%s\""
-msgstr ""
+msgstr "Бягучая працоўная прастора: \"%s\""
 
 #: ../libwnck/pager.c:2208
 #, c-format
 msgid "Click to switch to \"%s\""
-msgstr ""
+msgstr "Пстрыкніце, каб перайсці на \"%s\""
 
 #: ../libwnck/selector.c:1180
 msgid "No Windows Open"
-msgstr ""
+msgstr "Няма адкрытых акон"
 
 #: ../libwnck/selector.c:1236
 msgid "Window Selector"
-msgstr ""
+msgstr "Абіральнік акон"
 
 #: ../libwnck/selector.c:1237
 msgid "Tool to switch between windows"
-msgstr ""
+msgstr "Інструмент для пераключэння паміж вокнамі"
 
 #: ../libwnck/tasklist.c:673
 msgid "Window List"
-msgstr ""
+msgstr "Спіс акон"
 
 #: ../libwnck/tasklist.c:674
 msgid "Tool to switch between visible windows"
-msgstr ""
+msgstr "Інструмент для пераключэння паміж бачнымі вокнамі"
 
 #: ../libwnck/tasklist.c:2896
 msgid "Mi_nimize All"
-msgstr ""
+msgstr "_Згарнуць усе"
 
 #: ../libwnck/tasklist.c:2907
 msgid "Un_minimize All"
-msgstr ""
+msgstr "_Скасаваць згортванне акон"
 
 #: ../libwnck/tasklist.c:2915
 msgid "Ma_ximize All"
-msgstr ""
+msgstr "_Разгарнуць усё"
 
 #: ../libwnck/tasklist.c:2926
 msgid "_Unmaximize All"
-msgstr ""
+msgstr "Ск_асаваць разгортванне акон"
 
 #: ../libwnck/tasklist.c:2938
 msgid "_Close All"
-msgstr ""
+msgstr "_Закрыць усе"
 
 #: ../libwnck/window-action-menu.c:413
 msgid "Unmi_nimize"
-msgstr ""
+msgstr "_Скасаваць згортванне акна"
 
 #: ../libwnck/window-action-menu.c:420
 msgid "Mi_nimize"
-msgstr ""
+msgstr "З_гарнуць"
 
 #: ../libwnck/window-action-menu.c:428
 msgid "Unma_ximize"
-msgstr ""
+msgstr "Скасаваць раз_гортванне акна"
 
 #: ../libwnck/window-action-menu.c:435
 msgid "Ma_ximize"
-msgstr ""
+msgstr "_Разгарнуць"
 
 #: ../libwnck/window-action-menu.c:742 ../libwnck/workspace.c:281
 #, c-format
 msgid "Workspace %d"
-msgstr ""
+msgstr "Працоўная прастора %d"
 
 #: ../libwnck/window-action-menu.c:751 ../libwnck/window-action-menu.c:898
 #, c-format
 msgid "Workspace 1_0"
-msgstr ""
+msgstr "Працоўная прастора 1_0"
 
 #: ../libwnck/window-action-menu.c:753 ../libwnck/window-action-menu.c:900
 #, c-format
 msgid "Workspace %s%d"
-msgstr ""
+msgstr "Працоўная прастора %s%d"
 
 #: ../libwnck/window-action-menu.c:1043
 msgid "_Move"
-msgstr ""
+msgstr "_Перамясціць"
 
 #: ../libwnck/window-action-menu.c:1050
 msgid "_Resize"
-msgstr ""
+msgstr "_Змяніць памер"
 
 #: ../libwnck/window-action-menu.c:1059
 msgid "Always On _Top"
-msgstr ""
+msgstr "Заўсёды _наверсе"
 
 #: ../libwnck/window-action-menu.c:1067
 msgid "_Always on Visible Workspace"
-msgstr ""
+msgstr "Заўсёды на _бачнай працоўнай прасторы"
 
 #: ../libwnck/window-action-menu.c:1072
 msgid "_Only on This Workspace"
-msgstr ""
+msgstr "_Толькі на гэтай працоўнай прасторы"
 
 #: ../libwnck/window-action-menu.c:1079
 msgid "Move to Workspace _Left"
-msgstr ""
+msgstr "Перамясціць на працоўную прастору з_лева"
 
 #: ../libwnck/window-action-menu.c:1085
 msgid "Move to Workspace R_ight"
-msgstr ""
+msgstr "Перамясціць на працоўную прастору с_права"
 
 #: ../libwnck/window-action-menu.c:1091
 msgid "Move to Workspace _Up"
-msgstr ""
+msgstr "Перамясціць на працоўную прастору з_верху"
 
 #: ../libwnck/window-action-menu.c:1097
 msgid "Move to Workspace _Down"
-msgstr ""
+msgstr "Перамясціць на працоўную прастору з_нізу"
 
 #: ../libwnck/window-action-menu.c:1100
 msgid "Move to Another _Workspace"
-msgstr ""
+msgstr "П_ерамясціць на іншую працоўную прастору"
 
 #: ../libwnck/window-action-menu.c:1120
 msgid "_Close"
-msgstr ""
+msgstr "_Закрыць"
 
 #. *
 #. * SECTION:window
@@ -198,16 +198,16 @@ msgstr ""
 #.
 #: ../libwnck/window.c:50
 msgid "Untitled window"
-msgstr ""
+msgstr "Акно без назвы"
 
 #: ../libwnck/wnckprop.c:138
 msgid "X window ID of the window to examine or modify"
-msgstr ""
+msgstr "Ідэнтыфікатар мэтавага акна X-сістэмы"
 
 #: ../libwnck/wnckprop.c:138 ../libwnck/wnckprop.c:145
 #: ../libwnck/wnckprop.c:155
 msgid "XID"
-msgstr ""
+msgstr "XID"
 
 #. Translators: A group leader is the window that is the "owner" of a
 #. * group of windows, ie: if you have multiple windows in one
@@ -215,181 +215,181 @@ msgstr ""
 #. * (like the application name).
 #: ../libwnck/wnckprop.c:144
 msgid "X window ID of the group leader of an application to examine"
-msgstr ""
+msgstr "Ідэнтыфікатар галоўнага акна мэтавай праграмы"
 
 #. Translators: A class is like a "family". E.g., all gvim windows
 #. * are of the same class.
 #: ../libwnck/wnckprop.c:149
 msgid "Class resource of the class group to examine"
-msgstr ""
+msgstr "Рэсурс класа мэтавай групы класаў"
 
 #: ../libwnck/wnckprop.c:149
 msgid "CLASS"
-msgstr ""
+msgstr "КЛАС"
 
 #: ../libwnck/wnckprop.c:151
 msgid "NUMBER of the workspace to examine or modify"
-msgstr ""
+msgstr "НУМАР працоўнай прасторы для прагляду альбо змены"
 
 #: ../libwnck/wnckprop.c:151 ../libwnck/wnckprop.c:153
 #: ../libwnck/wnckprop.c:171 ../libwnck/wnckprop.c:173
 #: ../libwnck/wnckprop.c:175 ../libwnck/wnckprop.c:272
 msgid "NUMBER"
-msgstr ""
+msgstr "НУМАР"
 
 #: ../libwnck/wnckprop.c:153
 msgid "NUMBER of the screen to examine or modify"
-msgstr ""
+msgstr "НУМАР экрана для прагляду альбо змены"
 
 #: ../libwnck/wnckprop.c:155
 msgid "Alias of --window"
-msgstr ""
+msgstr "Тое самае, што --window"
 
 #. Translators: A class is like a "family". E.g., all gvim windows
 #. * are of the same class.
 #: ../libwnck/wnckprop.c:163
 msgid "List windows of the application/class group/workspace/screen (output format: \"XID: Window Name\")"
-msgstr ""
+msgstr "Пералічыць вокны праграмы/групы класаў/працоўнай прасторы/экрана (фармат вываду:\"XID: Назва акна\")"
 
 #: ../libwnck/wnckprop.c:165
 msgid "List workspaces of the screen (output format: \"Number: Workspace Name\")"
-msgstr ""
+msgstr "Пералічыць працоўныя прасторы экрана (фармат вываду: \"Нумар: Назва прасторы\")"
 
 #: ../libwnck/wnckprop.c:171
 msgid "Change the number of workspaces of the screen to NUMBER"
-msgstr ""
+msgstr "Змяніць колькасць працоўных прастораў экрана на КОЛЬКАСЦЬ"
 
 #: ../libwnck/wnckprop.c:173
 msgid "Change the workspace layout of the screen to use NUMBER rows"
-msgstr ""
+msgstr "Размясціць працоўныя прасторы на  экране ў КОЛЬКАСЦЬ радкоў"
 
 #: ../libwnck/wnckprop.c:175
 msgid "Change the workspace layout of the screen to use NUMBER columns"
-msgstr ""
+msgstr "Размясціць працоўныя прасторы на  экране ў КОЛЬКАСЦЬ слупкоў"
 
 #: ../libwnck/wnckprop.c:177
 msgid "Show the desktop"
-msgstr ""
+msgstr "Паказаць працоўны стол"
 
 #: ../libwnck/wnckprop.c:179
 msgid "Stop showing the desktop"
-msgstr ""
+msgstr "Спыніць паказ працоўнага стала"
 
 #. Translators: 'viewport' is kind of the viewable area. A viewport
 #. * can be used to implement workspaces (e.g. compiz is an example);
 #. * however it is not just the current workspace.
 #: ../libwnck/wnckprop.c:184
 msgid "Move the viewport of the current workspace to X coordinate X"
-msgstr ""
+msgstr "Перамясціць бачную вобласць бягучай працоўнай прасторы на пэўную каардынату X"
 
 #: ../libwnck/wnckprop.c:184 ../libwnck/wnckprop.c:274
 msgid "X"
-msgstr ""
+msgstr "X"
 
 #. Translators: 'viewport' is kind of the viewable area. A viewport
 #. * can be used to implement workspaces (e.g. compiz is an example);
 #. * however it is not just the current workspace.
 #: ../libwnck/wnckprop.c:189
 msgid "Move the viewport of the current workspace to Y coordinate Y"
-msgstr ""
+msgstr "Перамясціць бачную вобласць бягучай працоўнай прасторы на пэўную каардынату Y"
 
 #: ../libwnck/wnckprop.c:189 ../libwnck/wnckprop.c:276
 msgid "Y"
-msgstr ""
+msgstr "Y"
 
 #: ../libwnck/wnckprop.c:195
 msgid "Minimize the window"
-msgstr ""
+msgstr "Згарнуць акно"
 
 #: ../libwnck/wnckprop.c:197
 msgid "Unminimize the window"
-msgstr ""
+msgstr "Скасаваць згортванне акна"
 
 #: ../libwnck/wnckprop.c:199
 msgid "Maximize the window"
-msgstr ""
+msgstr "Разгарнуць акно"
 
 #: ../libwnck/wnckprop.c:201
 msgid "Unmaximize the window"
-msgstr ""
+msgstr "Скасаваць разгортванне акна"
 
 #: ../libwnck/wnckprop.c:203
 msgid "Maximize horizontally the window"
-msgstr ""
+msgstr "Разгарнуць акно па гарызанталі"
 
 #: ../libwnck/wnckprop.c:205
 msgid "Unmaximize horizontally the window"
-msgstr ""
+msgstr "Скасаваць гарызантальнае разгортванне акна"
 
 #: ../libwnck/wnckprop.c:207
 msgid "Maximize vertically the window"
-msgstr ""
+msgstr "Разгарнуць акно па вертыкалі"
 
 #: ../libwnck/wnckprop.c:209
 msgid "Unmaximize vertically the window"
-msgstr ""
+msgstr "Скасаваць вертыкальнае разгортванне акна"
 
 #: ../libwnck/wnckprop.c:211
 msgid "Start moving the window via the keyboard"
-msgstr ""
+msgstr "Пачаць перамяшчэнне акна пры дапамозе клавіятуры"
 
 #: ../libwnck/wnckprop.c:213
 msgid "Start resizing the window via the keyboard"
-msgstr ""
+msgstr "Пачаць змену памеру акна пры дапамозе клавіятуры"
 
 #: ../libwnck/wnckprop.c:215
 msgid "Activate the window"
-msgstr ""
+msgstr "Задзейнічаць акно"
 
 #: ../libwnck/wnckprop.c:217
 msgid "Close the window"
-msgstr ""
+msgstr "Закрыць акно"
 
 #: ../libwnck/wnckprop.c:220
 msgid "Make the window fullscreen"
-msgstr ""
+msgstr "Разгарнуць акно на ўвесь экран"
 
 #: ../libwnck/wnckprop.c:222
 msgid "Make the window quit fullscreen mode"
-msgstr ""
+msgstr "Выйсці з поўнаэкраннага рэжыму"
 
 #: ../libwnck/wnckprop.c:224
 msgid "Make the window always on top"
-msgstr ""
+msgstr "Заўсёды паказваць акно па-над іншымі"
 
 #: ../libwnck/wnckprop.c:226
 msgid "Make the window not always on top"
-msgstr ""
+msgstr "Не паказваць акно па-над іншымі"
 
 #: ../libwnck/wnckprop.c:228
 msgid "Make the window below other windows"
-msgstr ""
+msgstr "Паказваць акно пад іншымі"
 
 #: ../libwnck/wnckprop.c:230
 msgid "Make the window not below other windows"
-msgstr ""
+msgstr "Не паказваць акно пад іншымі"
 
 #: ../libwnck/wnckprop.c:232
 msgid "Shade the window"
-msgstr ""
+msgstr "Згарнуць акно ў загаловак"
 
 #: ../libwnck/wnckprop.c:234
 msgid "Unshade the window"
-msgstr ""
+msgstr "Разгарнуць акно з загалоўка"
 
 #. Translators: 'viewport' is kind of the viewable area. A viewport
 #. * can be used to implement workspaces (e.g. compiz is an example);
 #. * however it is not just the current workspace.
 #: ../libwnck/wnckprop.c:239
 msgid "Make the window have a fixed position in the viewport"
-msgstr ""
+msgstr "Замацаваць пазіцыю акна ў бачнай вобласці"
 
 #. Translators: 'viewport' is kind of the viewable area. A viewport
 #. * can be used to implement workspaces (e.g. compiz is an example);
 #. * however it is not just the current workspace.
 #: ../libwnck/wnckprop.c:244
 msgid "Make the window not have a fixed position in the viewport"
-msgstr ""
+msgstr "Адмацаваць пазіцыю акна ў бачнай вобласці"
 
 #. Translators: A pager is the technical term for the workspace
 #. * switcher. It's a representation of all workspaces with windows
@@ -398,7 +398,7 @@ msgstr ""
 #.
 #: ../libwnck/wnckprop.c:251
 msgid "Make the window not appear in pagers"
-msgstr ""
+msgstr "Прыбраць акно з пераключальніка акон"
 
 #. Translators: A pager is the technical term for the workspace
 #. * switcher. It's a representation of all workspaces with windows
@@ -407,162 +407,162 @@ msgstr ""
 #.
 #: ../libwnck/wnckprop.c:258
 msgid "Make the window appear in pagers"
-msgstr ""
+msgstr "Паказваць акно ў пераключальніку акон"
 
 #. Translators: "tasklist" is the list of running applications (the
 #. * window list)
 #: ../libwnck/wnckprop.c:262
 msgid "Make the window not appear in tasklists"
-msgstr ""
+msgstr "Прыбраць акно са спіса задач"
 
 #. Translators: "tasklist" is the list of running applications (the
 #. * window list)
 #: ../libwnck/wnckprop.c:266
 msgid "Make the window appear in tasklists"
-msgstr ""
+msgstr "Паказваць акно ў спісе задач"
 
 #: ../libwnck/wnckprop.c:268
 msgid "Make the window visible on all workspaces"
-msgstr ""
+msgstr "Паказваць акно на ўсіх працоўных прасторах"
 
 #: ../libwnck/wnckprop.c:270
 msgid "Make the window visible on the current workspace only"
-msgstr ""
+msgstr "Паказваць акно толькі на бягучай працоўнай прасторы"
 
 #: ../libwnck/wnckprop.c:272
 msgid "Move the window to workspace NUMBER (first workspace is 0)"
-msgstr ""
+msgstr "Перамясціць акно на працоўную прастору з нумар НУМАР (першая прастора мае нумар 0)"
 
 #: ../libwnck/wnckprop.c:274
 msgid "Change the X coordinate of the window to X"
-msgstr ""
+msgstr "Змяніць X-каардынату акна"
 
 #: ../libwnck/wnckprop.c:276
 msgid "Change the Y coordinate of the window to Y"
-msgstr ""
+msgstr "Змяніць Y-каардынату акна"
 
 #: ../libwnck/wnckprop.c:278
 msgid "Change the width of the window to WIDTH"
-msgstr ""
+msgstr "Змяніць шырыню акна на ШЫРЫНЯ"
 
 #: ../libwnck/wnckprop.c:278
 msgid "WIDTH"
-msgstr ""
+msgstr "ШЫРЫНЯ"
 
 #: ../libwnck/wnckprop.c:280
 msgid "Change the height of the window to HEIGHT"
-msgstr ""
+msgstr "Змяніць вышыню акна на ВЫШЫНЯ"
 
 #: ../libwnck/wnckprop.c:280
 msgid "HEIGHT"
-msgstr ""
+msgstr "ВЫШЫНЯ"
 
 #. Translators: do not translate "normal, desktop, dock..."
 #: ../libwnck/wnckprop.c:283
 msgid "Change the type of the window to TYPE (valid values: normal, desktop, dock, dialog, toolbar, menu, utility, splash)"
-msgstr ""
+msgstr "Змяніць тып акна (магчымыя значэнні: normal: звычайнае , desktop: працоўны стол,dock: убудаванае, dialog: дыялог, toolbar: панэль інструментаў, menu: меню, utility: утыліта, splash: застаўка)"
 
 #: ../libwnck/wnckprop.c:283
 msgid "TYPE"
-msgstr ""
+msgstr "ТЫП"
 
 #: ../libwnck/wnckprop.c:289
 msgid "Change the name of the workspace to NAME"
-msgstr ""
+msgstr "Змяніць назву працоўнай прасторы на НАЗВА"
 
 #: ../libwnck/wnckprop.c:289
 msgid "NAME"
-msgstr ""
+msgstr "НАЗВА"
 
 #: ../libwnck/wnckprop.c:291
 msgid "Activate the workspace"
-msgstr ""
+msgstr "Задзейнічаць працоўную прастору"
 
 #: ../libwnck/wnckprop.c:385 ../libwnck/wnckprop.c:409
 #: ../libwnck/wnckprop.c:445 ../libwnck/wnckprop.c:468
 #, c-format
 msgid "Invalid value \"%s\" for --%s"
-msgstr ""
+msgstr "Хібнае значэнне \"%s\" для --%s"
 
 #: ../libwnck/wnckprop.c:502 ../libwnck/wnckprop.c:521
 #, c-format
 msgid "Conflicting options are present: screen %d should be interacted with, but --%s has been used\n"
-msgstr ""
+msgstr "Ужытыя несумяшчальныя параметры: патрабуецца экран %d, а выкарыстоўваецца --%s\n"
 
 #: ../libwnck/wnckprop.c:511
 #, c-format
 msgid "Conflicting options are present: windows or workspaces of screen %d should be listed, but --%s has been used\n"
-msgstr ""
+msgstr "Ужытыя несумяшчальныя параметры: патрэбна пералічыць вокны ці працоўныя прасторы экрана %d, а выкарыстоўваецца --%s\n"
 
 #: ../libwnck/wnckprop.c:534 ../libwnck/wnckprop.c:554
 #, c-format
 msgid "Conflicting options are present: workspace %d should be interacted with, but --%s has been used\n"
-msgstr ""
+msgstr "Ужытыя несумяшчальныя параметры: патрабуецца працоўная прастора %d, а выкарыстоўваецца --%s\n"
 
 #: ../libwnck/wnckprop.c:544
 #, c-format
 msgid "Conflicting options are present: windows of workspace %d should be listed, but --%s has been used\n"
-msgstr ""
+msgstr "Ужытыя несумяшчальныя параметры: патрэбна пералічыць вокны працоўнай прасторы %d, а выкарыстоўваецца --%s\n"
 
 #: ../libwnck/wnckprop.c:566
 #, c-format
 msgid "Conflicting options are present: an application should be interacted with, but --%s has been used\n"
-msgstr ""
+msgstr "Ужытыя несумяшчальныя параметры: патрэбна працаваць з праграмай, а выкарыстоўваецца --%s\n"
 
 #: ../libwnck/wnckprop.c:576
 #, c-format
 msgid "Conflicting options are present: windows of an application should be listed, but --%s has been used\n"
-msgstr ""
+msgstr "Ужытыя несумяшчальныя параметры: патрэбна пералічыць вокны праграмы, а выкарыстоўваецца --%s\n"
 
 #. Translators: A class is like a "family". E.g., all gvim windows
 #. * are of the same class.
 #: ../libwnck/wnckprop.c:590
 #, c-format
 msgid "Conflicting options are present: class group \"%s\" should be interacted with, but --%s has been used\n"
-msgstr ""
+msgstr "Ужытыя несумяшчальныя параметры: патрэбна працаваць з групай класаў \"%s\", а выкарыстоўваецца --%s\n"
 
 #. Translators: A class is like a "family". E.g., all gvim windows
 #. * are of the same class.
 #: ../libwnck/wnckprop.c:602
 #, c-format
 msgid "Conflicting options are present: windows of class group \"%s\" should be listed, but --%s has been used\n"
-msgstr ""
+msgstr "Ужытыя несумяшчальныя параметры: патрэбна пералічыць вокны з групы класаў \"%s\", а выкарыстоўваецца --%s\n"
 
 #: ../libwnck/wnckprop.c:614 ../libwnck/wnckprop.c:623
 #, c-format
 msgid "Conflicting options are present: a window should be interacted with, but --%s has been used\n"
-msgstr ""
+msgstr "Ужытыя несумяшчальныя параметры: патрэбна працаваць з акном, а выкарыстоўваецца --%s\n"
 
 #: ../libwnck/wnckprop.c:642 ../libwnck/wnckprop.c:723
 #: ../libwnck/wnckprop.c:770
 #, c-format
 msgid "Conflicting options are present: --%s and --%s\n"
-msgstr ""
+msgstr "Ужытыя несумяшчальныя параметры: --%s і --%s\n"
 
 #: ../libwnck/wnckprop.c:681
 #, c-format
 msgid "Invalid argument \"%d\" for --%s: the argument must be strictly positive\n"
-msgstr ""
+msgstr "Хібны аргумент \"%d\" для параметра --%s: аргумент мусіць быць строга дадатным\n"
 
 #: ../libwnck/wnckprop.c:694
 #, c-format
 msgid "Invalid argument \"%d\" for --%s: the argument must be positive\n"
-msgstr ""
+msgstr "Хібны аргумент \"%d\" для параметра --%s: аргумент мусіць быць дадатным\n"
 
 #: ../libwnck/wnckprop.c:789
 #, c-format
 msgid "Conflicting options are present: --%s or --%s, and --%s\n"
-msgstr ""
+msgstr "Ужытыя несумяшчальныя параметры: --%s (ці --%s) і --%s\n"
 
 #: ../libwnck/wnckprop.c:821
 #, c-format
 msgid "Invalid argument \"%s\" for --%s, valid values are: %s\n"
-msgstr ""
+msgstr "Хібны аргумент \"%s\" для параметра --%s, магчымыя значэнні: %s\n"
 
 #: ../libwnck/wnckprop.c:864
 #, c-format
 msgid "Cannot change the workspace layout on the screen: the layout is already owned\n"
-msgstr ""
+msgstr "Не атрымалася змяніць схему размяшчэння працоўных прастораў на экране: схема ўжо выкарыстоўваецца\n"
 
 #. Translators: 'viewport' is kind of the viewable area. A viewport
 #. * can be used to implement workspaces (e.g. compiz is an example);
@@ -570,7 +570,7 @@ msgstr ""
 #: ../libwnck/wnckprop.c:899
 #, c-format
 msgid "Viewport cannot be moved: the current workspace does not contain a viewport\n"
-msgstr ""
+msgstr "Не атрымалася перамясціць бачную вобласць: на бягучай працоўнай прасторы няма бачнай вобласці\n"
 
 #. Translators: 'viewport' is kind of the viewable area. A viewport
 #. * can be used to implement workspaces (e.g. compiz is an example);
@@ -578,7 +578,7 @@ msgstr ""
 #: ../libwnck/wnckprop.c:906
 #, c-format
 msgid "Viewport cannot be moved: there is no current workspace\n"
-msgstr ""
+msgstr "Не атрымалася перамясціць бачную вобласць: няма бягучай працоўнай прасторы\n"
 
 #. FIXME: why do we have dual & boolean API. This is not consistent!
 #: ../libwnck/wnckprop.c:942 ../libwnck/wnckprop.c:951
@@ -587,59 +587,59 @@ msgstr ""
 #: ../libwnck/wnckprop.c:993 ../libwnck/wnckprop.c:1042
 #, c-format
 msgid "Action not allowed\n"
-msgstr ""
+msgstr "Дзеянне забаронена\n"
 
 #: ../libwnck/wnckprop.c:1038
 #, c-format
 msgid "Window cannot be moved to workspace %d: the workspace does not exist\n"
-msgstr ""
+msgstr "Не атрымалася перамясціць акно на працоўную прастору %d: такой прасторы не існуе\n"
 
 #. Translators: 'unset' in the sense of "something has not been set".
 #: ../libwnck/wnckprop.c:1102 ../libwnck/wnckprop.c:1234
 msgid "<name unset>"
-msgstr ""
+msgstr "<назва не вызначаная>"
 
 #. Translators: %lu is a window number and %s a window name
 #: ../libwnck/wnckprop.c:1105
 #, c-format
 msgid "%lu: %s\n"
-msgstr ""
+msgstr "%lu: %s\n"
 
 #. Translators: %d is a workspace number and %s a workspace name
 #: ../libwnck/wnckprop.c:1125
 #, c-format
 msgid "%d: %s\n"
-msgstr ""
+msgstr "%d: %s\n"
 
 #: ../libwnck/wnckprop.c:1188
 #, c-format
 msgid "Screen Number: %d\n"
-msgstr ""
+msgstr "Нумар экрана: %d\n"
 
 #: ../libwnck/wnckprop.c:1190 ../libwnck/wnckprop.c:1271
 #, c-format
 msgid "Geometry (width, height): %d, %d\n"
-msgstr ""
+msgstr "Геаметрыя (шырыня, вышыня): %d, %d\n"
 
 #: ../libwnck/wnckprop.c:1194
 #, c-format
 msgid "Number of Workspaces: %d\n"
-msgstr ""
+msgstr "Колькасць працоўных прастораў: %d\n"
 
 #: ../libwnck/wnckprop.c:1200
 #, c-format
 msgid "Workspace Layout (rows, columns, orientation): %d, %d, %s\n"
-msgstr ""
+msgstr "Пазіцыя працоўных прастораў (радкоў, слупкоў, арыентацыя): %d, %d, %s\n"
 
 #: ../libwnck/wnckprop.c:1210 ../libwnck/wnckprop.c:1267
 #: ../libwnck/wnckprop.c:1464
 msgid "<no EWMH-compliant window manager>"
-msgstr ""
+msgstr "<няма узгодненага EWMH кіраўніка акон>"
 
 #: ../libwnck/wnckprop.c:1211
 #, c-format
 msgid "Window Manager: %s\n"
-msgstr ""
+msgstr "Кіраўнік акон: %s\n"
 
 #. Translators: %d is a workspace number and %s a workspace name
 #: ../libwnck/wnckprop.c:1216 ../libwnck/wnckprop.c:1297
@@ -647,7 +647,7 @@ msgstr ""
 #: ../libwnck/wnckprop.c:1333 ../libwnck/wnckprop.c:1449
 #, c-format
 msgid "%d (\"%s\")"
-msgstr ""
+msgstr "%d (\"%s\")"
 
 #. Translators: "none" here means "no workspace"
 #: ../libwnck/wnckprop.c:1221 ../libwnck/wnckprop.c:1302
@@ -655,69 +655,69 @@ msgstr ""
 #: ../libwnck/wnckprop.c:1338 ../libwnck/wnckprop.c:1456
 msgctxt "workspace"
 msgid "none"
-msgstr ""
+msgstr "няма"
 
 #: ../libwnck/wnckprop.c:1222
 #, c-format
 msgid "Active Workspace: %s\n"
-msgstr ""
+msgstr "Актыўная працоўная прастора: %s\n"
 
 #: ../libwnck/wnckprop.c:1231
 #, c-format
 msgid "\"%s\""
-msgstr ""
+msgstr "\"%s\""
 
 #. Translators: %lu is a window identifier (number) and %s a window name
 #: ../libwnck/wnckprop.c:1237
 #, c-format
 msgid "%lu (%s)"
-msgstr ""
+msgstr "%lu (%s)"
 
 #. Translators: "none" here means "no window"
 #: ../libwnck/wnckprop.c:1243
 msgctxt "window"
 msgid "none"
-msgstr ""
+msgstr "няма"
 
 #: ../libwnck/wnckprop.c:1244
 #, c-format
 msgid "Active Window: %s\n"
-msgstr ""
+msgstr "Бягучае акно: %s\n"
 
 #: ../libwnck/wnckprop.c:1247
 #, c-format
 msgid "Showing the desktop: %s\n"
-msgstr ""
+msgstr " Паказаны працоўны стол: %s\n"
 
 #: ../libwnck/wnckprop.c:1249
 msgid "true"
-msgstr ""
+msgstr "так"
 
 #: ../libwnck/wnckprop.c:1249
 msgid "false"
-msgstr ""
+msgstr "не"
 
 #: ../libwnck/wnckprop.c:1260
 #, c-format
 msgid "Workspace Name: %s\n"
-msgstr ""
+msgstr "Назва працоўнай прасторы: %s\n"
 
 #: ../libwnck/wnckprop.c:1261
 #, c-format
 msgid "Workspace Number: %d\n"
-msgstr ""
+msgstr "Нумар працоўнай прасторы: %d\n"
 
 #: ../libwnck/wnckprop.c:1268 ../libwnck/wnckprop.c:1465
 #, c-format
 msgid "On Screen: %d (Window Manager: %s)\n"
-msgstr ""
+msgstr "На экране: %d (кіраўнік акон: %s)\n"
 
 #. Translators: 'viewport' is kind of the viewable area. A viewport can be
 #. * used to implement workspaces (e.g. compiz is an example); however it is
 #. * not just the current workspace.
 #: ../libwnck/wnckprop.c:1283
 msgid "<no viewport>"
-msgstr ""
+msgstr "<няма бачнай вобласці>"
 
 #. Translators: 'viewport' is kind of the viewable area. A viewport can be
 #. * used to implement workspaces (e.g. compiz is an example); however it is
@@ -725,52 +725,52 @@ msgstr ""
 #: ../libwnck/wnckprop.c:1287
 #, c-format
 msgid "Viewport position (x, y): %s\n"
-msgstr ""
+msgstr "Пазіцыя бачнай вобласці (x, y): %s\n"
 
 #: ../libwnck/wnckprop.c:1290
 #, c-format
 msgid "Position in Layout (row, column): %d, %d\n"
-msgstr ""
+msgstr "Пазіцыя ў схеме (радок, слупок): %d, %d\n"
 
 #: ../libwnck/wnckprop.c:1303
 #, c-format
 msgid "Left Neighbor: %s\n"
-msgstr ""
+msgstr "Сусед злева: %s\n"
 
 #: ../libwnck/wnckprop.c:1315
 #, c-format
 msgid "Right Neighbor: %s\n"
-msgstr ""
+msgstr "Сусед справа: %s\n"
 
 #: ../libwnck/wnckprop.c:1327
 #, c-format
 msgid "Top Neighbor: %s\n"
-msgstr ""
+msgstr "Сусед зверху: %s\n"
 
 #: ../libwnck/wnckprop.c:1339
 #, c-format
 msgid "Bottom Neighbor: %s\n"
-msgstr ""
+msgstr "Сусед знізу: %s\n"
 
 #. Translators: A class is like a "family". E.g., all gvim windows are of the
 #. * same class.
 #: ../libwnck/wnckprop.c:1352 ../libwnck/wnckprop.c:1511
 #, c-format
 msgid "Class Group ID: %s\n"
-msgstr ""
+msgstr "Ідэнтыфікатар групы класаў: %s\n"
 
 #. Translators: A class is like a "family". E.g., all gvim windows are of the
 #. * same class.
 #: ../libwnck/wnckprop.c:1356
 #, c-format
 msgid "Class Group Name: %s\n"
-msgstr ""
+msgstr "Назва групы класаў: %s\n"
 
 #. Translators: 'set' in the sense of "something has been set".
 #: ../libwnck/wnckprop.c:1362 ../libwnck/wnckprop.c:1386
 #: ../libwnck/wnckprop.c:1440
 msgid "set"
-msgstr ""
+msgstr "вызначана"
 
 #. Translators: 'unset' in the sense of "something has not been set".
 #: ../libwnck/wnckprop.c:1365 ../libwnck/wnckprop.c:1389
@@ -779,97 +779,97 @@ msgstr ""
 #: ../libwnck/wnckprop.c:1508 ../libwnck/wnckprop.c:1517
 #: ../libwnck/wnckprop.c:1529 ../libwnck/wnckprop.c:1537
 msgid "<unset>"
-msgstr ""
+msgstr "<не вызначана>"
 
 #: ../libwnck/wnckprop.c:1366 ../libwnck/wnckprop.c:1390
 #: ../libwnck/wnckprop.c:1444
 #, c-format
 msgid "Icons: %s\n"
-msgstr ""
+msgstr "Значкі: %s\n"
 
 #: ../libwnck/wnckprop.c:1369 ../libwnck/wnckprop.c:1407
 #, c-format
 msgid "Number of Windows: %d\n"
-msgstr ""
+msgstr "Колькасць акон: %d\n"
 
 #: ../libwnck/wnckprop.c:1381 ../libwnck/wnckprop.c:1427
 #, c-format
 msgid "Name: %s\n"
-msgstr ""
+msgstr "Назва: %s\n"
 
 #. Translators: note that "Icon" here has a specific window
 #. * management-related meaning. It means minimized.
 #: ../libwnck/wnckprop.c:1382 ../libwnck/wnckprop.c:1436
 #, c-format
 msgid "Icon Name: %s\n"
-msgstr ""
+msgstr "Назва значка: %s\n"
 
 #: ../libwnck/wnckprop.c:1397 ../libwnck/wnckprop.c:1530
 #, c-format
 msgid "PID: %s\n"
-msgstr ""
+msgstr "PID: %s\n"
 
 #. Translators: "none" here means "no startup ID"
 #: ../libwnck/wnckprop.c:1404
 msgctxt "startupID"
 msgid "none"
-msgstr ""
+msgstr "няма"
 
 #: ../libwnck/wnckprop.c:1405
 #, c-format
 msgid "Startup ID: %s\n"
-msgstr ""
+msgstr "Ідэнтыфікатар запуску: %s\n"
 
 #: ../libwnck/wnckprop.c:1453
 msgid "all workspaces"
-msgstr ""
+msgstr "усе працоўныя прасторы"
 
 #: ../libwnck/wnckprop.c:1457
 #, c-format
 msgid "On Workspace: %s\n"
-msgstr ""
+msgstr "На працоўнай прасторы: %s\n"
 
 #: ../libwnck/wnckprop.c:1472
 msgid "normal window"
-msgstr ""
+msgstr "звычайнае акно"
 
 #: ../libwnck/wnckprop.c:1475
 msgid "desktop"
-msgstr ""
+msgstr "працоўны стол"
 
 #: ../libwnck/wnckprop.c:1478
 msgid "dock or panel"
-msgstr ""
+msgstr "убудаванае акно або панэль"
 
 #: ../libwnck/wnckprop.c:1481
 msgid "dialog window"
-msgstr ""
+msgstr "дыялогавае акно"
 
 #: ../libwnck/wnckprop.c:1484
 msgid "tearoff toolbar"
-msgstr ""
+msgstr "выплыўная панэль інструментаў"
 
 #: ../libwnck/wnckprop.c:1487
 msgid "tearoff menu"
-msgstr ""
+msgstr "выплыўное меню"
 
 #: ../libwnck/wnckprop.c:1490
 msgid "utility window"
-msgstr ""
+msgstr "дапаможнае акно"
 
 #: ../libwnck/wnckprop.c:1493
 msgid "splash screen"
-msgstr ""
+msgstr "экранная застаўка"
 
 #: ../libwnck/wnckprop.c:1498
 #, c-format
 msgid "Window Type: %s\n"
-msgstr ""
+msgstr "Тып акна: %s\n"
 
 #: ../libwnck/wnckprop.c:1501
 #, c-format
 msgid "Geometry (x, y, width, height): %d, %d, %d, %d\n"
-msgstr ""
+msgstr "Геаметрыя (x, y, шырыня, вышыня): %d, %d, %d, %d\n"
 
 #. Translators: A class is like a "family". E.g., all gvim windows are of the
 #. * same class. The class instance is a way to differentiate windows belonging
@@ -877,17 +877,17 @@ msgstr ""
 #: ../libwnck/wnckprop.c:1521
 #, c-format
 msgid "Class Instance: %s\n"
-msgstr ""
+msgstr "Асобнік класа: %s\n"
 
 #: ../libwnck/wnckprop.c:1523
 #, c-format
 msgid "XID: %lu\n"
-msgstr ""
+msgstr "XID: %lu\n"
 
 #: ../libwnck/wnckprop.c:1538
 #, c-format
 msgid "Session ID: %s\n"
-msgstr ""
+msgstr "Ідэнтыфікатар сеанса: %s\n"
 
 #. Translators: A group leader is the window that is the "owner" of a group
 #. * of windows, ie: if you have multiple windows in one application, one
@@ -896,14 +896,14 @@ msgstr ""
 #: ../libwnck/wnckprop.c:1545
 #, c-format
 msgid "Group Leader: %lu\n"
-msgstr ""
+msgstr "Галоўнае акно: %lu\n"
 
 #. Translators: A window can be transient for another window: it means it's
 #. * on top of it
 #: ../libwnck/wnckprop.c:1551
 #, c-format
 msgid "Transient for: %lu\n"
-msgstr ""
+msgstr "Перакрывае: %lu\n"
 
 #. FIXME: else print something?
 #. Translators: we're building a list of items here.             * For example, the result is "a, b".                            * In this case, the first string is "a", the second             * string is ", " and the third string is "b".                   * We can then use this information here to also                 * recursively build longer lists, like "a, b, c, d"
@@ -911,56 +911,56 @@ msgstr ""
 #: ../libwnck/wnckprop.c:1566 ../libwnck/wnckprop.c:1614
 #, c-format
 msgid "%1$s%2$s%3$s"
-msgstr ""
+msgstr "%1$s%2$s%3$s"
 
 #. Translators: see comment for "%1$s%2$s%3$s" in order          * to properly translate this
 #: ../libwnck/wnckprop.c:1570 ../libwnck/wnckprop.c:1616
 msgid ", "
-msgstr ""
+msgstr ", "
 
 #: ../libwnck/wnckprop.c:1576
 msgid "minimized"
-msgstr ""
+msgstr "згорнутае"
 
 #: ../libwnck/wnckprop.c:1577
 msgid "maximized"
-msgstr ""
+msgstr "разгорнутае"
 
 #: ../libwnck/wnckprop.c:1581
 msgid "maximized horizontally"
-msgstr ""
+msgstr "разгорнутае гарызантальна"
 
 #: ../libwnck/wnckprop.c:1583
 msgid "maximized vertically"
-msgstr ""
+msgstr "разгорнутае вертыкальна"
 
 #: ../libwnck/wnckprop.c:1585
 msgid "shaded"
-msgstr ""
+msgstr "згорнутае ў загаловак"
 
 #: ../libwnck/wnckprop.c:1586
 msgid "pinned"
-msgstr ""
+msgstr "прычэпленае"
 
 #: ../libwnck/wnckprop.c:1587
 msgid "sticky"
-msgstr ""
+msgstr "ліпучае"
 
 #: ../libwnck/wnckprop.c:1588
 msgid "above"
-msgstr ""
+msgstr "наверсе"
 
 #: ../libwnck/wnckprop.c:1589
 msgid "below"
-msgstr ""
+msgstr "знізу"
 
 #: ../libwnck/wnckprop.c:1590
 msgid "fullscreen"
-msgstr ""
+msgstr "на ўвесь экран"
 
 #: ../libwnck/wnckprop.c:1591
 msgid "needs attention"
-msgstr ""
+msgstr "патрабуе ўвагі"
 
 #. Translators: A pager is the technical term for the workspace switcher.
 #. * It's a representation of all workspaces with windows inside it.
@@ -968,193 +968,195 @@ msgstr ""
 #. * where this term is also used in translatable strings
 #: ../libwnck/wnckprop.c:1596
 msgid "skip pager"
-msgstr ""
+msgstr "схавана для пераключальніка акон"
 
 #. Translators: "tasklist" is the list of running applications (the window
 #. * list)
 #: ../libwnck/wnckprop.c:1599
 msgid "skip tasklist"
-msgstr ""
+msgstr "схавана для спіса задач"
 
 #: ../libwnck/wnckprop.c:1601
 msgid "normal"
-msgstr ""
+msgstr "звычайнае"
 
 #: ../libwnck/wnckprop.c:1602
 #, c-format
 msgid "State: %s\n"
-msgstr ""
+msgstr "Стан: %s\n"
 
 #: ../libwnck/wnckprop.c:1623
 msgid "move"
-msgstr ""
+msgstr "перамясціць"
 
 #: ../libwnck/wnckprop.c:1624
 msgid "resize"
-msgstr ""
+msgstr "змяніць памер"
 
 #: ../libwnck/wnckprop.c:1625
 msgid "shade"
-msgstr ""
+msgstr "згарнуць у загаловак"
 
 #: ../libwnck/wnckprop.c:1626
 msgid "unshade"
-msgstr ""
+msgstr "разгарнуць з загалоўка"
 
 #: ../libwnck/wnckprop.c:1627
 msgid "stick"
-msgstr ""
+msgstr "прыляпіць"
 
 #: ../libwnck/wnckprop.c:1628
 msgid "unstick"
-msgstr ""
+msgstr "адляпіць"
 
 #: ../libwnck/wnckprop.c:1630
 msgid "maximize horizontally"
-msgstr ""
+msgstr "разгарнуць гарызантальна"
 
 #: ../libwnck/wnckprop.c:1632
 msgid "unmaximize horizontally"
-msgstr ""
+msgstr "скасаваць вертыкальнае разгортванне"
 
 #: ../libwnck/wnckprop.c:1634
 msgid "maximize vertically"
-msgstr ""
+msgstr "разгарнуць па вертыкалі"
 
 #: ../libwnck/wnckprop.c:1636
 msgid "unmaximize vertically"
-msgstr ""
+msgstr "скасаваць вертыкальнае разгортванне"
 
 #: ../libwnck/wnckprop.c:1639
 msgid "change workspace"
-msgstr ""
+msgstr "змяніць працоўную прастору"
 
 #: ../libwnck/wnckprop.c:1641
 msgid "pin"
-msgstr ""
+msgstr "прычапіць"
 
 #: ../libwnck/wnckprop.c:1643
 msgid "unpin"
-msgstr ""
+msgstr "адчапіць"
 
 #: ../libwnck/wnckprop.c:1644
 msgid "minimize"
-msgstr ""
+msgstr "згарнуць"
 
 #: ../libwnck/wnckprop.c:1645
 msgid "unminimize"
-msgstr ""
+msgstr "скасаваць згортванне акна"
 
 #: ../libwnck/wnckprop.c:1646
 msgid "maximize"
-msgstr ""
+msgstr "разгарнуць"
 
 #: ../libwnck/wnckprop.c:1647
 msgid "unmaximize"
-msgstr ""
+msgstr "скасаваць разгортванне акна"
 
 #: ../libwnck/wnckprop.c:1649
 msgid "change fullscreen mode"
-msgstr ""
+msgstr "пераключыць поўнаэкранны рэжым"
 
 #: ../libwnck/wnckprop.c:1650
 msgid "close"
-msgstr ""
+msgstr "закрыць"
 
 #: ../libwnck/wnckprop.c:1652
 msgid "make above"
-msgstr ""
+msgstr "размяшчэнне па-над"
 
 #: ../libwnck/wnckprop.c:1654
 msgid "unmake above"
-msgstr ""
+msgstr "скасаваць размяшчэнне па-над"
 
 #: ../libwnck/wnckprop.c:1656
 msgid "make below"
-msgstr ""
+msgstr "размяшчэнне пад"
 
 #: ../libwnck/wnckprop.c:1658
 msgid "unmake below"
-msgstr ""
+msgstr "скасаваць размяшчэнне пад"
 
 #: ../libwnck/wnckprop.c:1660
 msgid "no action possible"
-msgstr ""
+msgstr "дзеянні немагчымыя"
 
 #: ../libwnck/wnckprop.c:1661
 #, c-format
 msgid "Possible Actions: %s\n"
-msgstr ""
+msgstr "Магчымыя дзеянні: %s\n"
 
 #: ../libwnck/wnckprop.c:1842
 msgid "Print or modify the properties of a screen/workspace/window, or interact with it, following the EWMH specification.\n"
 "For information about this specification, see:\n"
 "\thttp://freedesktop.org/wiki/Specifications/wm-spec"
-msgstr ""
+msgstr "Вывесці альбо змяніць значэнні уласцівасцяў экрана/працоўнай прасторы/акон або працаваць з імі ў адпаведнасці са спецыфікацыяй EWMH.\n"
+"Каб атрымаць больш звестак пра спецыфікацыю, гл.:\n"
+"\thttp://freedesktop.org/wiki/Specifications/wm-spec"
 
 #: ../libwnck/wnckprop.c:1852
 msgid "Options to list windows or workspaces"
-msgstr ""
+msgstr "Параметры пераліку акон і працоўных прастораў"
 
 #: ../libwnck/wnckprop.c:1853
 msgid "Show options to list windows or workspaces"
-msgstr ""
+msgstr "Паказаць параметры пераліку акон і працоўных прастораў"
 
 #: ../libwnck/wnckprop.c:1860
 msgid "Options to modify properties of a window"
-msgstr ""
+msgstr "Параметры змены ўласцівасцяў акна"
 
 #: ../libwnck/wnckprop.c:1861
 msgid "Show options to modify properties of a window"
-msgstr ""
+msgstr "Паказаць параметры змены ўласцівасцяў акна"
 
 #: ../libwnck/wnckprop.c:1868
 msgid "Options to modify properties of a workspace"
-msgstr ""
+msgstr "Параметры змены ўласцівасцяў працоўнай прасторы"
 
 #: ../libwnck/wnckprop.c:1869
 msgid "Show options to modify properties of a workspace"
-msgstr ""
+msgstr "Паказаць параметры змены ўласцівасцяў працоўнай прасторы"
 
 #: ../libwnck/wnckprop.c:1876
 msgid "Options to modify properties of a screen"
-msgstr ""
+msgstr "Параметры змены ўласцівасцяў экрана"
 
 #: ../libwnck/wnckprop.c:1877
 msgid "Show options to modify properties of a screen"
-msgstr ""
+msgstr "Паказаць параметры змены ўласцівасцяў экрана"
 
 #: ../libwnck/wnckprop.c:1888
 #, c-format
 msgid "Error while parsing arguments: %s\n"
-msgstr ""
+msgstr "Падчас разбору аргументаў адбылася памылка: %s\n"
 
 #: ../libwnck/wnckprop.c:1911
 #, c-format
 msgid "Cannot interact with screen %d: the screen does not exist\n"
-msgstr ""
+msgstr "Не атрымалася звярнуцца да экрана %d: такога экрана не існуе\n"
 
 #: ../libwnck/wnckprop.c:1967
 #, c-format
 msgid "Cannot interact with workspace %d: the workspace cannot be found\n"
-msgstr ""
+msgstr "Не атрымалася звярнуцца да працоўнай прасторы %d: такой прасторы не знойдзена\n"
 
 #. Translators: A class is like a "family". E.g., all gvim windows are
 #. * of the same class.
 #: ../libwnck/wnckprop.c:1991
 #, c-format
 msgid "Cannot interact with class group \"%s\": the class group cannot be found\n"
-msgstr ""
+msgstr "Не атрымалася звярнуцца да групы класаў \"%s\": такой групы не знойдзена\n"
 
 #: ../libwnck/wnckprop.c:2014
 #, c-format
 msgid "Cannot interact with application having its group leader with XID %lu: the application cannot be found\n"
-msgstr ""
+msgstr "Не атрымалася звярнуцца да праграмы з XID галоўнага акна %lu: такой праграмы не знойдзена\n"
 
 #: ../libwnck/wnckprop.c:2037
 #, c-format
 msgid "Cannot interact with window with XID %lu: the window cannot be found\n"
-msgstr ""
+msgstr "Не атрымалася звярнуцца да акна з XID %lu: такога акна не знойдзена\n"
 
 #~ msgid "Use N_ROWS rows"
 #~ msgstr "Use N_ROWS rows"
