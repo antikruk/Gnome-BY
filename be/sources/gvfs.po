@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: gnome-by\n"
 "Report-Msgid-Bugs-To: https://bugzilla.gnome.org/enter_bug.cgi?product=gvfs&keywords=I18N+L10N&component=general\n"
 "POT-Creation-Date: 2017-11-28 15:58+0000\n"
-"PO-Revision-Date: 2019-10-14 13:19\n"
+"PO-Revision-Date: 2019-10-14 14:30\n"
 "Last-Translator: Zmicer Turok (zmicer)\n"
 "Language-Team: Belarusian\n"
 "Language: be_BY\n"
@@ -1422,11 +1422,11 @@ msgstr "памылка libmtp: %s"
 
 #: daemon/gvfsbackendmtp.c:843
 msgid "Unexpected host URI format."
-msgstr ""
+msgstr "Нечаканы фармат URI хоста."
 
 #: daemon/gvfsbackendmtp.c:853
 msgid "Malformed host URI."
-msgstr ""
+msgstr "Хібны URI хоста."
 
 #: daemon/gvfsbackendmtp.c:866
 #| msgid "Couldn't find matching udev device."
@@ -1453,7 +1453,7 @@ msgstr "Агульная памылка libmtp"
 #, c-format
 #| msgid "Unable to open MTP device '%s'"
 msgid "Unable to open MTP device “%s”"
-msgstr ""
+msgstr "Не атрымалася адкрыць прыладу MTP \"%s\""
 
 #: daemon/gvfsbackendmtp.c:1101
 msgid "Device not found"
@@ -1676,7 +1676,7 @@ msgstr "Падчас стварэння рэзервовай копіі файл
 
 #: daemon/gvfsbackendsftp.c:3653 daemon/gvfsbackendsftp.c:3829
 msgid "backups not supported yet"
-msgstr ""
+msgstr "стварэнне рэзервовых копій не падтрымліваецца"
 
 #: daemon/gvfsbackendsftp.c:5242
 msgid "Value out of range, sftp only supports 32bit timestamps"
@@ -2020,11 +2020,11 @@ msgstr "Дэман метаданых GVFS"
 
 #: monitor/gdu/gdu-volume-monitor-daemon.c:40
 msgid "GVfs GDU Volume Monitor"
-msgstr ""
+msgstr "Назіральнік за дыскавымі тамамі GVfs GDU"
 
 #: monitor/gdu/ggdudrive.c:168
 msgid "Floppy Drive"
-msgstr ""
+msgstr "Дыскавод Floppy"
 
 #: monitor/gdu/ggdudrive.c:258 monitor/udisks2/gvfsudisks2drive.c:290
 #, c-format
@@ -2042,11 +2042,11 @@ msgstr "Не атрымалася выняць носьбіт; адзін аль
 #: monitor/gdu/ggdudrive.c:1017
 msgid "Start drive in degraded mode?\n"
 "Starting a drive in degraded mode means that the drive is no longer tolerant to failures. Data on the drive may be irrevocably lost if a component fails."
-msgstr ""
+msgstr "Запусціць прыладу ў абмежаваным рэжыме? Пры гэтым яна не будзе абароненая ад хібаў. Даныя могуць назаўжды страціцца."
 
 #: monitor/gdu/ggdudrive.c:1023
 msgid "Start Anyway"
-msgstr ""
+msgstr "Усё адно запусціць"
 
 #: monitor/gdu/ggdumount.c:857 monitor/udisks2/gvfsudisks2mount.c:640
 msgid "One or more programs are preventing the unmount operation."
@@ -2055,18 +2055,18 @@ msgstr "Адна альбо некалькі праграм не дазваля�
 #. Translators: can't get block device with unencrypted data to unmount
 #: monitor/gdu/ggdumount.c:986
 msgid "Cannot get LUKS cleartext slave"
-msgstr ""
+msgstr "Немагчыма атрымаць прыладу LUKS cleartext"
 
 #. Translators: can't get block device with unencrypted data from path
 #: monitor/gdu/ggdumount.c:1009
 #, c-format
 #| msgid "Cannot get LUKS cleartext slave from path `%s'"
 msgid "Cannot get LUKS cleartext slave from path “%s”"
-msgstr ""
+msgstr "Немагчыма атрымаць прыладу LUKS cleartext па шляху \"%s\""
 
 #: monitor/gdu/ggduvolume.c:337
 msgid "Floppy Disk"
-msgstr ""
+msgstr "Дыскета"
 
 #: monitor/gdu/ggduvolume.c:1097
 #, c-format
@@ -2075,7 +2075,7 @@ msgstr ""
 #| "The device \"%s\" contains encrypted data on partition %d."
 msgid "Enter a password to unlock the volume\n"
 "The device “%s” contains encrypted data on partition %d."
-msgstr ""
+msgstr "Увядзіце пароль, каб разблакаваць том. На прыладзе \"%s\" у раздзеле %d змяшчаюцца зашыфраваныя даныя."
 
 #: monitor/gdu/ggduvolume.c:1104
 #, c-format
@@ -2084,13 +2084,13 @@ msgstr ""
 #| "The device %s contains encrypted data."
 msgid "Enter a password to unlock the volume\n"
 "The device “%s” contains encrypted data."
-msgstr ""
+msgstr "Увядзіце пароль, каб разблакаваць том. На прыладзе \"%s\" змяшчаюцца зашыфраваныя даныя."
 
 #: monitor/gdu/ggduvolume.c:1111
 #, c-format
 msgid "Enter a password to unlock the volume\n"
 "The device %s contains encrypted data."
-msgstr ""
+msgstr "Увядзіце пароль, каб разблакаваць том. На прыладзе %s змяшчаюцца зашыфраваныя даныя."
 
 #: monitor/goa/goavolume.c:208 monitor/goa/goavolume.c:247
 #, c-format
