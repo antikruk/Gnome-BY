@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: gnome-by\n"
 "Report-Msgid-Bugs-To: https://bugzilla.gnome.org/enter_bug.cgi?product=gvfs&keywords=I18N+L10N&component=general\n"
 "POT-Creation-Date: 2017-11-28 15:58+0000\n"
-"PO-Revision-Date: 2019-10-14 13:54\n"
+"PO-Revision-Date: 2019-10-14 13:59\n"
 "Last-Translator: Zmicer Turok (zmicer)\n"
 "Language-Team: Belarusian\n"
 "Language: be_BY\n"
@@ -2042,11 +2042,11 @@ msgstr "Не атрымалася выняць носьбіт; адзін аль
 #: monitor/gdu/ggdudrive.c:1017
 msgid "Start drive in degraded mode?\n"
 "Starting a drive in degraded mode means that the drive is no longer tolerant to failures. Data on the drive may be irrevocably lost if a component fails."
-msgstr ""
+msgstr "Запусціць прыладу ў абмежаваным рэжыме? Пры гэтым яна не будзе абароненая ад хібаў. Даныя могуць назаўжды страціцца."
 
 #: monitor/gdu/ggdudrive.c:1023
 msgid "Start Anyway"
-msgstr ""
+msgstr "Усё адно запусціць"
 
 #: monitor/gdu/ggdumount.c:857 monitor/udisks2/gvfsudisks2mount.c:640
 msgid "One or more programs are preventing the unmount operation."
@@ -2066,7 +2066,7 @@ msgstr ""
 
 #: monitor/gdu/ggduvolume.c:337
 msgid "Floppy Disk"
-msgstr ""
+msgstr "Дыскета"
 
 #: monitor/gdu/ggduvolume.c:1097
 #, c-format
