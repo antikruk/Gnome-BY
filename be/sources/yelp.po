@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: gnome-by\n"
 "Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=yelp&keywords=I18N+L10N&component=General\n"
 "POT-Creation-Date: 2016-08-19 16:59+0000\n"
-"PO-Revision-Date: 2019-10-14 13:26\n"
+"PO-Revision-Date: 2019-10-14 18:18\n"
 "Last-Translator: Zmicer Turok (zmicer)\n"
 "Language-Team: Belarusian\n"
 "Language: be_BY\n"
@@ -253,7 +253,7 @@ msgstr "С_капіяваць тэкст"
 
 #: ../libyelp/yelp-view.c:525
 msgid "Yelp URI"
-msgstr ""
+msgstr "URI Yelp"
 
 #: ../libyelp/yelp-view.c:526
 msgid "A YelpUri with the current location"
@@ -293,7 +293,7 @@ msgstr ""
 
 #: ../libyelp/yelp-view.c:571
 msgid "Page Description"
-msgstr ""
+msgstr "Апісанне старонкі"
 
 #: ../libyelp/yelp-view.c:572
 msgid "The description of the page being viewed"
@@ -413,11 +413,11 @@ msgstr "Паменшыць тэкст"
 
 #: ../src/yelp-window.c:211
 msgid "Application"
-msgstr ""
+msgstr "Праграма"
 
 #: ../src/yelp-window.c:212
 msgid "A YelpApplication instance that controls this window"
-msgstr ""
+msgstr "Асобнік YelpApplication, што кіруе гэтым акном"
 
 #: ../src/yelp-window.c:343
 msgid "Back"
