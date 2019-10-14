@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: gnome-by\n"
 "Report-Msgid-Bugs-To: https://bugzilla.gnome.org/enter_bug.cgi?product=folks&keywords=I18N+L10N&component=general\n"
 "POT-Creation-Date: 2017-09-27 12:13+0000\n"
-"PO-Revision-Date: 2019-10-14 11:08\n"
+"PO-Revision-Date: 2019-10-14 12:18\n"
 "Last-Translator: Zmicer Turok (zmicer)\n"
 "Language-Team: Belarusian\n"
 "Language: be_BY\n"
@@ -25,7 +25,7 @@ msgstr ""
 
 #: backends/bluez/bluez-backend.vala:734
 msgid "No BlueZ 5 object manager running, so the BlueZ backend will be inactive. Either your BlueZ installation is too old (only version 5 is supported) or the service can’t be started."
-msgstr ""
+msgstr "Кіраўнік аб’ектаў BlueZ 5 не запушчаны, таму BlueZ не будзе актыўным. Альбо версія BlueZ занадта старая (падтрымліваецца толькі версія 5), альбо службу немагчыма запусціць."
 
 #: backends/bluez/bluez-backend.vala:747
 msgid "Error connecting to OBEX transfer daemon over D-Bus. Ensure BlueZ and obexd are installed."
