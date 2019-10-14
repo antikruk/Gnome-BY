@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: gnome-by\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-07-18 00:25+0000\n"
-"PO-Revision-Date: 2019-10-14 12:38\n"
+"PO-Revision-Date: 2019-10-14 13:00\n"
 "Last-Translator: Zmicer Turok (zmicer)\n"
 "Language-Team: Belarusian\n"
 "Language: be_BY\n"
@@ -7261,163 +7261,163 @@ msgstr "Для атрымання прадвызначанага прынтар�
 #: modules/printbackends/gtkprintbackendcups.c:1157
 #, c-format
 msgid "Authentication is required to get printers from %s"
-msgstr ""
+msgstr "Для атрымання спіса прынтараў з \"%s\" патрабуецца аўтэнтыфікацыя"
 
 #: modules/printbackends/gtkprintbackendcups.c:1162
 #, c-format
 msgid "Authentication is required to get a file from %s"
-msgstr ""
+msgstr "Для атрымання файла з \"%s\" патрабуецца аўтэнтыфікацыя"
 
 #: modules/printbackends/gtkprintbackendcups.c:1164
 #, c-format
 msgid "Authentication is required on %s"
-msgstr ""
+msgstr "Для \"%s\" патрабуецца аўтэнтыфікацыя"
 
 #: modules/printbackends/gtkprintbackendcups.c:1400
 msgid "Domain:"
-msgstr ""
+msgstr "Дамен:"
 
 #: modules/printbackends/gtkprintbackendcups.c:1430
 #, c-format
 msgid "Authentication is required to print document “%s”"
-msgstr ""
+msgstr "Для друку дакумента \"%s\" патрабуецца аўтэнтыфікацыя"
 
 #: modules/printbackends/gtkprintbackendcups.c:1435
 #, c-format
 msgid "Authentication is required to print this document on printer %s"
-msgstr ""
+msgstr "Для друку гэтага дакумента на прынтары \"%s\" патрабуецца аўтэнтыфікацыя"
 
 #: modules/printbackends/gtkprintbackendcups.c:1437
 msgid "Authentication is required to print this document"
-msgstr ""
+msgstr "Для друку гэтага дакумента патрабуецца аўтэнтыфікацыя"
 
 #: modules/printbackends/gtkprintbackendcups.c:2511
 #, c-format
 msgid "Printer “%s” is low on toner."
-msgstr ""
+msgstr "У прынтары \"%s\" амаль скончыўся тонер."
 
 #: modules/printbackends/gtkprintbackendcups.c:2515
 #, c-format
 msgid "Printer “%s” has no toner left."
-msgstr ""
+msgstr "У прынтары \"%s\" скончыўся тонер."
 
 #. Translators: "Developer" like on photo development context
 #: modules/printbackends/gtkprintbackendcups.c:2520
 #, c-format
 msgid "Printer “%s” is low on developer."
-msgstr ""
+msgstr "У прынтары \"%s\" амаль скончыўся праяўляльнік."
 
 #. Translators: "Developer" like on photo development context
 #: modules/printbackends/gtkprintbackendcups.c:2525
 #, c-format
 msgid "Printer “%s” is out of developer."
-msgstr ""
+msgstr "У прынтары \"%s\" скончыўся праяўляльнік."
 
 #. Translators: "marker" is one color bin of the printer
 #: modules/printbackends/gtkprintbackendcups.c:2530
 #, c-format
 msgid "Printer “%s” is low on at least one marker supply."
-msgstr ""
+msgstr "У прынтары \"%s\" амаль скончылася фарба аднаго з колераў."
 
 #. Translators: "marker" is one color bin of the printer
 #: modules/printbackends/gtkprintbackendcups.c:2535
 #, c-format
 msgid "Printer “%s” is out of at least one marker supply."
-msgstr ""
+msgstr "У прынтары \"%s\" скончылася фарба аднаго з колераў."
 
 #: modules/printbackends/gtkprintbackendcups.c:2539
 #, c-format
 msgid "The cover is open on printer “%s”."
-msgstr ""
+msgstr "Вечка прынтара \"%s\" адчынена."
 
 #: modules/printbackends/gtkprintbackendcups.c:2543
 #, c-format
 msgid "The door is open on printer “%s”."
-msgstr ""
+msgstr "Дзверцы прынтара \"%s\" адчыненыя."
 
 #: modules/printbackends/gtkprintbackendcups.c:2547
 #, c-format
 msgid "Printer “%s” is low on paper."
-msgstr ""
+msgstr "У прынтары \"%s\" амаль скончылася папера."
 
 #: modules/printbackends/gtkprintbackendcups.c:2551
 #, c-format
 msgid "Printer “%s” is out of paper."
-msgstr ""
+msgstr "У прынтары \"%s\" скончылася папера."
 
 #: modules/printbackends/gtkprintbackendcups.c:2555
 #, c-format
 msgid "Printer “%s” is currently offline."
-msgstr ""
+msgstr "Прынтар \"%s\" зараз адлучаны."
 
 #: modules/printbackends/gtkprintbackendcups.c:2559
 #, c-format
 msgid "There is a problem on printer “%s”."
-msgstr ""
+msgstr "З прынтарам \"%s\" ёсць пэўныя праблемы."
 
 #. Translators: this is a printer status.
 #: modules/printbackends/gtkprintbackendcups.c:2579
 msgid "Paused; Rejecting Jobs"
-msgstr ""
+msgstr "Прыпынена; адхіленне задач"
 
 #. Translators: this is a printer status.
 #: modules/printbackends/gtkprintbackendcups.c:2585
 msgid "Rejecting Jobs"
-msgstr ""
+msgstr "Адхіленне задач"
 
 #. Translators: this string connects multiple printer states together.
 #: modules/printbackends/gtkprintbackendcups.c:2626
 msgid "; "
-msgstr ""
+msgstr "; "
 
 #: modules/printbackends/gtkprintbackendcups.c:4339
 #: modules/printbackends/gtkprintbackendcups.c:4406
 msgctxt "printing option"
 msgid "Two Sided"
-msgstr ""
+msgstr "З двух бакоў"
 
 #: modules/printbackends/gtkprintbackendcups.c:4340
 msgctxt "printing option"
 msgid "Paper Type"
-msgstr ""
+msgstr "Тып паперы"
 
 #: modules/printbackends/gtkprintbackendcups.c:4341
 msgctxt "printing option"
 msgid "Paper Source"
-msgstr ""
+msgstr "Крыніца паперы"
 
 #: modules/printbackends/gtkprintbackendcups.c:4342
 #: modules/printbackends/gtkprintbackendcups.c:4407
 msgctxt "printing option"
 msgid "Output Tray"
-msgstr ""
+msgstr "Прастора апавяшчэнняў вываду"
 
 #: modules/printbackends/gtkprintbackendcups.c:4343
 msgctxt "printing option"
 msgid "Resolution"
-msgstr ""
+msgstr "Раздзяляльная здольнасць"
 
 #: modules/printbackends/gtkprintbackendcups.c:4344
 msgctxt "printing option"
 msgid "GhostScript pre-filtering"
-msgstr ""
+msgstr "Папярэдняя GhostScript-фільтрацыя"
 
 #: modules/printbackends/gtkprintbackendcups.c:4353
 msgctxt "printing option value"
 msgid "One Sided"
-msgstr ""
+msgstr "З аднаго боку"
 
 #. Translators: this is an option of "Two Sided"
 #: modules/printbackends/gtkprintbackendcups.c:4355
 msgctxt "printing option value"
 msgid "Long Edge (Standard)"
-msgstr ""
+msgstr "Доўгі бок"
 
 #. Translators: this is an option of "Two Sided"
 #: modules/printbackends/gtkprintbackendcups.c:4357
 msgctxt "printing option value"
 msgid "Short Edge (Flip)"
-msgstr ""
+msgstr "Кароткі бок"
 
 #. Translators: this is an option of "Paper Source"
 #: modules/printbackends/gtkprintbackendcups.c:4359
@@ -7425,7 +7425,7 @@ msgstr ""
 #: modules/printbackends/gtkprintbackendcups.c:4369
 msgctxt "printing option value"
 msgid "Auto Select"
-msgstr ""
+msgstr "Аўтавыбар"
 
 #. Translators: this is an option of "Paper Source"
 #. Translators: this is an option of "Resolution"
@@ -7435,185 +7435,185 @@ msgstr ""
 #: modules/printbackends/gtkprintbackendcups.c:4371
 msgctxt "printing option value"
 msgid "Printer Default"
-msgstr ""
+msgstr "Прадвызначана для прынтара"
 
 #. Translators: this is an option of "GhostScript"
 #: modules/printbackends/gtkprintbackendcups.c:4373
 msgctxt "printing option value"
 msgid "Embed GhostScript fonts only"
-msgstr ""
+msgstr "Убудоўваць толькі шрыфты GhostScript"
 
 #. Translators: this is an option of "GhostScript"
 #: modules/printbackends/gtkprintbackendcups.c:4375
 msgctxt "printing option value"
 msgid "Convert to PS level 1"
-msgstr ""
+msgstr "Пераўтварыць у PS-1"
 
 #. Translators: this is an option of "GhostScript"
 #: modules/printbackends/gtkprintbackendcups.c:4377
 msgctxt "printing option value"
 msgid "Convert to PS level 2"
-msgstr ""
+msgstr "Пераўтварыць у PS-2"
 
 #. Translators: this is an option of "GhostScript"
 #: modules/printbackends/gtkprintbackendcups.c:4379
 msgctxt "printing option value"
 msgid "No pre-filtering"
-msgstr ""
+msgstr "Без папярэдняга фільтравання"
 
 #. Translators: "Miscellaneous" is the label for a button, that opens
 #. up an extra panel of settings in a print dialog.
 #: modules/printbackends/gtkprintbackendcups.c:4388
 msgctxt "printing option group"
 msgid "Miscellaneous"
-msgstr ""
+msgstr "Рознае"
 
 #: modules/printbackends/gtkprintbackendcups.c:4415
 msgctxt "sides"
 msgid "One Sided"
-msgstr ""
+msgstr "З аднаго боку"
 
 #. Translators: this is an option of "Two Sided"
 #: modules/printbackends/gtkprintbackendcups.c:4417
 msgctxt "sides"
 msgid "Long Edge (Standard)"
-msgstr ""
+msgstr "Доўгі бок"
 
 #. Translators: this is an option of "Two Sided"
 #: modules/printbackends/gtkprintbackendcups.c:4419
 msgctxt "sides"
 msgid "Short Edge (Flip)"
-msgstr ""
+msgstr "Кароткі бок"
 
 #. Translators: Top output bin
 #: modules/printbackends/gtkprintbackendcups.c:4422
 msgctxt "output-bin"
 msgid "Top Bin"
-msgstr ""
+msgstr "Верхні кантэйнер"
 
 #. Translators: Middle output bin
 #: modules/printbackends/gtkprintbackendcups.c:4424
 msgctxt "output-bin"
 msgid "Middle Bin"
-msgstr ""
+msgstr "Сярэдні кантэйнер"
 
 #. Translators: Bottom output bin
 #: modules/printbackends/gtkprintbackendcups.c:4426
 msgctxt "output-bin"
 msgid "Bottom Bin"
-msgstr ""
+msgstr "Ніжні кантэйнер"
 
 #. Translators: Side output bin
 #: modules/printbackends/gtkprintbackendcups.c:4428
 msgctxt "output-bin"
 msgid "Side Bin"
-msgstr ""
+msgstr "Бакавы кантэйнер"
 
 #. Translators: Left output bin
 #: modules/printbackends/gtkprintbackendcups.c:4430
 msgctxt "output-bin"
 msgid "Left Bin"
-msgstr ""
+msgstr "Левы кантэйнер"
 
 #. Translators: Right output bin
 #: modules/printbackends/gtkprintbackendcups.c:4432
 msgctxt "output-bin"
 msgid "Right Bin"
-msgstr ""
+msgstr "Правы кантэйнер"
 
 #. Translators: Center output bin
 #: modules/printbackends/gtkprintbackendcups.c:4434
 msgctxt "output-bin"
 msgid "Center Bin"
-msgstr ""
+msgstr "Кантэйнер пасярэдзіне"
 
 #. Translators: Rear output bin
 #: modules/printbackends/gtkprintbackendcups.c:4436
 msgctxt "output-bin"
 msgid "Rear Bin"
-msgstr ""
+msgstr "Задні кантэйнер"
 
 #. Translators: Output bin where one sided output is oriented in the face-up position
 #: modules/printbackends/gtkprintbackendcups.c:4438
 msgctxt "output-bin"
 msgid "Face Up Bin"
-msgstr ""
+msgstr "Кантэйнер тварам уверх"
 
 #. Translators: Output bin where one sided output is oriented in the face-down position
 #: modules/printbackends/gtkprintbackendcups.c:4440
 msgctxt "output-bin"
 msgid "Face Down Bin"
-msgstr ""
+msgstr "Кантэйнер тварам уніз"
 
 #. Translators: Large capacity output bin
 #: modules/printbackends/gtkprintbackendcups.c:4442
 msgctxt "output-bin"
 msgid "Large Capacity Bin"
-msgstr ""
+msgstr "Вялікі кантэйнер"
 
 #. Translators: Output stacker number %d
 #: modules/printbackends/gtkprintbackendcups.c:4464
 #, c-format
 msgctxt "output-bin"
 msgid "Stacker %d"
-msgstr ""
+msgstr "Назапашвальнік %d"
 
 #. Translators: Output mailbox number %d
 #: modules/printbackends/gtkprintbackendcups.c:4468
 #, c-format
 msgctxt "output-bin"
 msgid "Mailbox %d"
-msgstr ""
+msgstr "Паштовая скрыня %d"
 
 #. Translators: Private mailbox
 #: modules/printbackends/gtkprintbackendcups.c:4472
 msgctxt "output-bin"
 msgid "My Mailbox"
-msgstr ""
+msgstr "Мая паштовая скрыня"
 
 #. Translators: Output tray number %d
 #: modules/printbackends/gtkprintbackendcups.c:4476
 #, c-format
 msgctxt "output-bin"
 msgid "Tray %d"
-msgstr ""
+msgstr "Прастора апавяшчэнняў %d"
 
 #: modules/printbackends/gtkprintbackendcups.c:4947
 msgid "Printer Default"
-msgstr ""
+msgstr "Прадвызначана для прынтара"
 
 #. Translators: These strings name the possible values of the
 #. * job priority option in the print dialog
 #.
 #: modules/printbackends/gtkprintbackendcups.c:5388
 msgid "Urgent"
-msgstr ""
+msgstr "Тэрмінова"
 
 #: modules/printbackends/gtkprintbackendcups.c:5388
 msgid "High"
-msgstr ""
+msgstr "Высокі"
 
 #: modules/printbackends/gtkprintbackendcups.c:5388
 msgid "Medium"
-msgstr ""
+msgstr "Сярэдні"
 
 #: modules/printbackends/gtkprintbackendcups.c:5388
 msgid "Low"
-msgstr ""
+msgstr "Нізкі"
 
 #. Translators, this string is used to label the job priority option
 #. * in the print dialog
 #.
 #: modules/printbackends/gtkprintbackendcups.c:5418
 msgid "Job Priority"
-msgstr ""
+msgstr "Прыярытэт задачы"
 
 #. Translators, this string is used to label the billing info entry
 #. * in the print dialog
 #.
 #: modules/printbackends/gtkprintbackendcups.c:5429
 msgid "Billing Info"
-msgstr ""
+msgstr "Білінг"
 
 #. Translators, these strings are names for various 'standard' cover
 #. * pages that the printing system may support.
@@ -7621,37 +7621,37 @@ msgstr ""
 #: modules/printbackends/gtkprintbackendcups.c:5453
 msgctxt "cover page"
 msgid "None"
-msgstr ""
+msgstr "Няма"
 
 #: modules/printbackends/gtkprintbackendcups.c:5454
 msgctxt "cover page"
 msgid "Classified"
-msgstr ""
+msgstr "Класіфікавана"
 
 #: modules/printbackends/gtkprintbackendcups.c:5455
 msgctxt "cover page"
 msgid "Confidential"
-msgstr ""
+msgstr "Канфідэнцыйна"
 
 #: modules/printbackends/gtkprintbackendcups.c:5456
 msgctxt "cover page"
 msgid "Secret"
-msgstr ""
+msgstr "Сакрэтна"
 
 #: modules/printbackends/gtkprintbackendcups.c:5457
 msgctxt "cover page"
 msgid "Standard"
-msgstr ""
+msgstr "Стандартна"
 
 #: modules/printbackends/gtkprintbackendcups.c:5458
 msgctxt "cover page"
 msgid "Top Secret"
-msgstr ""
+msgstr "Надзвычай сакрэтна"
 
 #: modules/printbackends/gtkprintbackendcups.c:5459
 msgctxt "cover page"
 msgid "Unclassified"
-msgstr ""
+msgstr "Не класіфікавана"
 
 #. Translators, this string is used to label the pages-per-sheet option
 #. * in the print dialog
@@ -7659,7 +7659,7 @@ msgstr ""
 #: modules/printbackends/gtkprintbackendcups.c:5471
 msgctxt "printer option"
 msgid "Pages per Sheet"
-msgstr ""
+msgstr "Старонак на аркушы"
 
 #. Translators, this string is used to label the option in the print
 #. * dialog that controls in what order multiple pages are arranged
@@ -7667,7 +7667,7 @@ msgstr ""
 #: modules/printbackends/gtkprintbackendcups.c:5488
 msgctxt "printer option"
 msgid "Page Ordering"
-msgstr ""
+msgstr "Парадак старонак"
 
 #. Translators, this is the label used for the option in the print
 #. * dialog that controls the front cover page.
@@ -7675,7 +7675,7 @@ msgstr ""
 #: modules/printbackends/gtkprintbackendcups.c:5530
 msgctxt "printer option"
 msgid "Before"
-msgstr ""
+msgstr "Перад"
 
 #. Translators, this is the label used for the option in the print
 #. * dialog that controls the back cover page.
@@ -7683,7 +7683,7 @@ msgstr ""
 #: modules/printbackends/gtkprintbackendcups.c:5545
 msgctxt "printer option"
 msgid "After"
-msgstr ""
+msgstr "Пасля"
 
 #. Translators: this is the name of the option that controls when
 #. * a print job is printed. Possible values are 'now', a specified time,
@@ -7692,7 +7692,7 @@ msgstr ""
 #: modules/printbackends/gtkprintbackendcups.c:5565
 msgctxt "printer option"
 msgid "Print at"
-msgstr ""
+msgstr "Друкаваць у"
 
 #. Translators: this is the name of the option that allows the user
 #. * to specify a time when a print job will be printed.
@@ -7700,7 +7700,7 @@ msgstr ""
 #: modules/printbackends/gtkprintbackendcups.c:5576
 msgctxt "printer option"
 msgid "Print at time"
-msgstr ""
+msgstr "Час пачатку друку"
 
 #. Translators: this format is used to display a custom
 #. * paper size. The two placeholders are replaced with
@@ -7710,75 +7710,75 @@ msgstr ""
 #: modules/printbackends/gtkprintbackendcups.c:5621
 #, c-format
 msgid "Custom %s×%s"
-msgstr ""
+msgstr "Адвольна %sx%s"
 
 #. TRANSLATORS: this this the ICC color profile to use for this job
 #: modules/printbackends/gtkprintbackendcups.c:5731
 msgctxt "printer option"
 msgid "Printer Profile"
-msgstr ""
+msgstr "Профіль прынтара"
 
 #. TRANSLATORS: this is when color profile information is unavailable
 #: modules/printbackends/gtkprintbackendcups.c:5738
 msgctxt "printer option value"
 msgid "Unavailable"
-msgstr ""
+msgstr "Недаступна"
 
 #: modules/printbackends/gtkprintbackendfile.c:235
 msgid "output"
-msgstr ""
+msgstr "вывад"
 
 #: modules/printbackends/gtkprintbackendfile.c:511
 msgid "Print to File"
-msgstr ""
+msgstr "Друкаваць у файл"
 
 #: modules/printbackends/gtkprintbackendfile.c:637
 msgid "PDF"
-msgstr ""
+msgstr "PDF"
 
 #: modules/printbackends/gtkprintbackendfile.c:637
 msgid "PostScript"
-msgstr ""
+msgstr "Паслярадковыя"
 
 #: modules/printbackends/gtkprintbackendfile.c:637
 msgid "SVG"
-msgstr ""
+msgstr "SVG"
 
 #: modules/printbackends/gtkprintbackendfile.c:709
 msgid "File"
-msgstr ""
+msgstr "Файл"
 
 #: modules/printbackends/gtkprintbackendfile.c:719
 msgid "_Output format"
-msgstr ""
+msgstr "_Выходны фармат"
 
 #: modules/printbackends/gtkprintbackendlpr.c:378
 msgid "Print to LPR"
-msgstr ""
+msgstr "Друк у LPR"
 
 #: modules/printbackends/gtkprintbackendlpr.c:404
 msgid "Pages Per Sheet"
-msgstr ""
+msgstr "Старонак на аркушы"
 
 #: modules/printbackends/gtkprintbackendlpr.c:411
 msgid "Command Line"
-msgstr ""
+msgstr "Загадны радок"
 
 #. TRANSLATORS: when we're running an old CUPS, and
 #. * it hasn't registered the device with colord
 #: modules/printbackends/gtkprintercups.c:269
 msgid "Color management unavailable"
-msgstr ""
+msgstr "Кіраванне колерамі недаступна"
 
 #. TRANSLATORS: when there is no color profile available
 #: modules/printbackends/gtkprintercups.c:281
 msgid "No profile available"
-msgstr ""
+msgstr "Профілі адсутнічаюць"
 
 #. TRANSLATORS: when the color profile has no title
 #: modules/printbackends/gtkprintercups.c:292
 msgid "Unspecified profile"
-msgstr ""
+msgstr "Нявызначаны профіль"
 
 #~ msgid "Reading not implemented."
 #~ msgstr "Reading not implemented."
