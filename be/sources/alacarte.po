@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: gnome-by\n"
 "Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=alacarte&keywords=I18N+L10N&component=general\n"
 "POT-Creation-Date: 2012-09-12 19:27+0000\n"
-"PO-Revision-Date: 2019-10-14 11:08\n"
+"PO-Revision-Date: 2019-10-14 11:49\n"
 "Last-Translator: Zmicer Turok (zmicer)\n"
 "Language-Team: Belarusian\n"
 "Language: be_BY\n"
@@ -24,51 +24,51 @@ msgstr ""
 
 #: ../Alacarte/MainWindow.py:151
 msgid "Name"
-msgstr ""
+msgstr "Назва"
 
 #: ../Alacarte/MainWindow.py:164
 msgid "Show"
-msgstr ""
+msgstr "Паказаць"
 
 #: ../Alacarte/MainWindow.py:172
 msgid "Item"
-msgstr ""
+msgstr "Элемент"
 
 #: ../data/alacarte.desktop.in.in.h:1 ../data/alacarte.ui.h:1
 msgid "Main Menu"
-msgstr ""
+msgstr "Галоўнае меню"
 
 #: ../data/alacarte.desktop.in.in.h:2
 msgid "Add or remove applications from the main menu"
-msgstr ""
+msgstr "Рэдагаванне галоўнага меню праграм"
 
 #: ../data/alacarte.ui.h:2
 msgid "Restore the default menu layout"
-msgstr ""
+msgstr "Аднавіць прадвызначаны выгляд меню"
 
 #: ../data/alacarte.ui.h:3
 msgid "Restore System Configuration"
-msgstr ""
+msgstr "Аднавіць сістэмную канфігурацыю"
 
 #: ../data/alacarte.ui.h:4
 msgid "_New Menu"
-msgstr ""
+msgstr "_Новае меню"
 
 #: ../data/alacarte.ui.h:5
 msgid "Ne_w Item"
-msgstr ""
+msgstr "_Новы элемент"
 
 #: ../data/alacarte.ui.h:6
 msgid "New _Separator"
-msgstr ""
+msgstr "Новы _падзяляльнік"
 
 #: ../data/alacarte.ui.h:7
 msgid "Move Up"
-msgstr ""
+msgstr "Перамясціць вышэй"
 
 #: ../data/alacarte.ui.h:8
 msgid "Move Down"
-msgstr ""
+msgstr "Перамясціць ніжэй"
 
 #~ msgid "It_ems:"
 #~ msgstr "It_ems:"
