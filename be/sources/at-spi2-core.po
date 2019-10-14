@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: gnome-by\n"
 "Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=at-spi&keywords=I18N+L10N&component=general\n"
 "POT-Creation-Date: 2014-02-03 23:50+0000\n"
-"PO-Revision-Date: 2019-10-14 11:08\n"
+"PO-Revision-Date: 2019-10-14 11:50\n"
 "Last-Translator: Zmicer Turok (zmicer)\n"
 "Language-Team: Belarusian\n"
 "Language: be_BY\n"
@@ -23,11 +23,11 @@ msgstr ""
 #: ../atspi/atspi-component.c:325 ../atspi/atspi-misc.c:1034
 #: ../atspi/atspi-value.c:111
 msgid "The application no longer exists"
-msgstr ""
+msgstr "Праграма больш не існуе"
 
 #: ../atspi/atspi-misc.c:1777
 msgid "Attempted synchronous call where prohibited"
-msgstr ""
+msgstr "Спроба сінхроннага выкліку ў забароненым месцы"
 
 #~ msgid "AT-SPI: Unknown signature %s for RemoveAccessible"
 #~ msgstr "AT-SPI: Unknown signature %s for RemoveAccessible"
