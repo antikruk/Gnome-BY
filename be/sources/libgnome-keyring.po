@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: gnome-by\n"
 "Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug?product=gnome-keyring&component=libgnome-keyring\n"
 "POT-Creation-Date: 2010-02-24 13:43+0000\n"
-"PO-Revision-Date: 2019-10-14 11:09\n"
+"PO-Revision-Date: 2019-10-14 12:59\n"
 "Last-Translator: Zmicer Turok (zmicer)\n"
 "Language-Team: Belarusian\n"
 "Language: be_BY\n"
@@ -22,38 +22,38 @@ msgstr ""
 
 #: ../library/gnome-keyring-utils.c:100
 msgid "Access Denied"
-msgstr ""
+msgstr "Адмоўлена ў доступе"
 
 #: ../library/gnome-keyring-utils.c:102
 msgid "The gnome-keyring-daemon application is not running."
-msgstr ""
+msgstr "Праграма gnome-keyring-daemon не запушчаная."
 
 #: ../library/gnome-keyring-utils.c:104
 msgid "Error communicating with gnome-keyring-daemon"
-msgstr ""
+msgstr "Памылка сувязі з gnome-keyring-daemon"
 
 #: ../library/gnome-keyring-utils.c:106
 msgid "A keyring with that name already exists"
-msgstr ""
+msgstr "Вязка ключоў з такой назвай ужо існуе"
 
 #: ../library/gnome-keyring-utils.c:108
 msgid "Programmer error: The application sent invalid data."
-msgstr ""
+msgstr "Памылка праграмавання: праграма адправіла хібныя даныя."
 
 #: ../library/gnome-keyring-utils.c:110
 msgid "No matching results"
-msgstr ""
+msgstr "Вынікаў няма"
 
 #: ../library/gnome-keyring-utils.c:112
 msgid "A keyring with that name does not exist."
-msgstr ""
+msgstr "Вязка ключоў з такой назвай не існуе."
 
 #: ../library/gnome-keyring-utils.c:119
 msgid "The keyring has already been unlocked."
-msgstr ""
+msgstr "Гэтая вязка ключоў ужо разблакаваная."
 
 #. TRANSLATORS: This is the name of an automatically created default keyring.
 #: ../library/gnome-keyring.c:2685
 msgid "Default"
-msgstr ""
+msgstr "Прадвызначаная"
 
