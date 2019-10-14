@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: gnome-by\n"
 "Report-Msgid-Bugs-To: https://bugzilla.gnome.org/enter_bug.cgi?product=gvfs&keywords=I18N+L10N&component=general\n"
 "POT-Creation-Date: 2017-11-28 15:58+0000\n"
-"PO-Revision-Date: 2019-10-14 11:09\n"
+"PO-Revision-Date: 2019-10-14 12:59\n"
 "Last-Translator: Zmicer Turok (zmicer)\n"
 "Language-Team: Belarusian\n"
 "Language: be_BY\n"
@@ -19,61 +19,61 @@ msgstr ""
 
 #: client/gdaemonfile.c:433 client/gdaemonfile.c:2703
 msgid "Operation not supported, files on different mounts"
-msgstr ""
+msgstr "Аперацыя не падтрымліваецца, файлы размяшчаюцца на розных пунктах мантавання"
 
 #: client/gdaemonfile.c:997 client/gdaemonfile.c:3059
 #: client/gvfsiconloadable.c:286 daemon/gvfsjobopenforread.c:183
 #: daemon/gvfsjobopenforwrite.c:326
 #| msgid "Couldn't get stream file descriptor"
 msgid "Couldn’t get stream file descriptor"
-msgstr ""
+msgstr "Не ўдалося атрымаць файлавы дэскрыптар струменя"
 
 #: client/gdaemonfile.c:1113 client/gdaemonfile.c:1185
 #: client/gvfsiconloadable.c:125
 #| msgid "Didn't get stream file descriptor"
 msgid "Didn’t get stream file descriptor"
-msgstr ""
+msgstr "Дэскрыптар файла струменя не атрыманы"
 
 #: client/gdaemonfile.c:1307
 #, c-format
 msgid "Invalid return value from %s"
-msgstr ""
+msgstr "Функцыя %s вярнула хібнае значэнне"
 
 #. translators: this is an error message when there is no user visible "mount" object
 #. corresponding to a particular path/uri
 #: client/gdaemonfile.c:2157 client/gdaemonfile.c:3322
 msgid "Could not find enclosing mount"
-msgstr ""
+msgstr "Не атрымалася знайсці адпаведны пункт мантавання"
 
 #: client/gdaemonfile.c:2189
 #, c-format
 msgid "Invalid filename %s"
-msgstr ""
+msgstr "Хібная назва файла %s"
 
 #: client/gdaemonfile.c:2503 client/gdaemonfile.c:2513
 #: client/gdaemonfile.c:2535 client/gdaemonvfs.c:1235 client/gdaemonvfs.c:1256
 #: client/gdaemonvfs.c:1267 client/gdaemonvfs.c:1299
 #, c-format
 msgid "Error setting file metadata: %s"
-msgstr ""
+msgstr "Падчас прызначэння метаданых файла адбылася памылка: %s"
 
 #: client/gdaemonfile.c:2504 client/gdaemonvfs.c:1257
 #| msgid "can't open metadata tree"
 msgid "can’t open metadata tree"
-msgstr ""
+msgstr "не атрымалася адкрыць дрэва метаданых"
 
 #: client/gdaemonfile.c:2514 client/gdaemonvfs.c:1268
 #| msgid "can't get metadata proxy"
 msgid "can’t get metadata proxy"
-msgstr ""
+msgstr "не ўдалося атрымаць проскі метаданых"
 
 #: client/gdaemonfile.c:2536 client/gdaemonvfs.c:1300
 msgid "values must be string or list of strings"
-msgstr ""
+msgstr "значэнні мусяць быць радкамі або спісамі радкоў"
 
 #: client/gdaemonfile.c:2695
 msgid "Operation not supported"
-msgstr ""
+msgstr "Аперацыя не падтрымліваецца"
 
 #: client/gdaemonfileinputstream.c:544 client/gdaemonfileinputstream.c:552
 #: client/gdaemonfileinputstream.c:1686 client/gdaemonfileinputstream.c:1695
@@ -81,13 +81,13 @@ msgstr ""
 #: client/gdaemonfileoutputstream.c:1433 client/gdaemonfileoutputstream.c:1442
 #, c-format
 msgid "Error in stream protocol: %s"
-msgstr ""
+msgstr "Памылка ў пратаколе струменя: %s"
 
 #: client/gdaemonfileinputstream.c:552 client/gdaemonfileinputstream.c:1695
 #: client/gdaemonfileoutputstream.c:503 client/gdaemonfileoutputstream.c:1442
 #: daemon/gvfsbackendmtp.c:2408 daemon/gvfsbackendmtp.c:2804
 msgid "End of stream"
-msgstr ""
+msgstr "Канец струменя"
 
 #: client/gdaemonfileinputstream.c:649 client/gdaemonfileinputstream.c:802
 #: client/gdaemonfileinputstream.c:922 client/gdaemonfileinputstream.c:1173
@@ -99,29 +99,29 @@ msgstr ""
 #: daemon/gvfsbackendtest.c:188 daemon/gvfschannel.c:350
 #: daemon/gvfsftptask.c:224 monitor/gdu/ggdumount.c:1072
 msgid "Operation was cancelled"
-msgstr ""
+msgstr "Аперацыя скасаваная"
 
 #: client/gdaemonfileinputstream.c:1355 client/gdaemonfileoutputstream.c:1035
 msgid "Seek not supported on stream"
-msgstr ""
+msgstr "Струмень не падтрымлівае пошуку"
 
 #: client/gdaemonfileoutputstream.c:1204
 msgid "Truncate not supported on stream"
-msgstr ""
+msgstr "Струмень не падтрымлівае абразанне"
 
 #: client/gdaemonvfs.c:781
 #, c-format
 msgid "Error while getting mount info: %s"
-msgstr ""
+msgstr "Падчас збору звестак пра прымантаваны раздзел адбылася памылка: %s"
 
 #: common/gvfsdaemonprotocol.c:358
 msgid "Invalid file info format"
-msgstr ""
+msgstr "Хібны фармат звестак пра файл"
 
 #: common/gvfsdnssdresolver.c:208
 #, c-format
 msgid "Error initializing Avahi: %s"
-msgstr ""
+msgstr "Памылка ініцыялізацыі Avahi: %s"
 
 #. Translators:
 #. * - the first %s refers to the service type
@@ -132,7 +132,7 @@ msgstr ""
 #, c-format
 #| msgid "Error resolving \"%s\" service \"%s\" on domain \"%s\""
 msgid "Error resolving “%s” service “%s” on domain “%s”"
-msgstr ""
+msgstr "Падчас вызначэння адрасу \"%s\" службы \"%s\" на дамене \"%s\" адбылася памылка"
 
 #. Translators:
 #. * - the first %s refers to the service type
@@ -146,7 +146,7 @@ msgstr ""
 #| "Error resolving \"%s\" service \"%s\" on domain \"%s\". One or more TXT "
 #| "records are missing. Keys required: \"%s\"."
 msgid "Error resolving “%s” service “%s” on domain “%s”. One or more TXT records are missing. Keys required: “%s”."
-msgstr ""
+msgstr "Падчас вызначэння адрасу \"%s\" службы \"%s\" на дамене \"%s\" адбылася памылка. Адсутнічае адзін ці некалькі запісаў TXT. Патрабуюцца ключы: \"%s\"."
 
 #. Translators:
 #. * - the first %s refers to the service type
@@ -157,90 +157,90 @@ msgstr ""
 #, c-format
 #| msgid "Timed out resolving \"%s\" service \"%s\" on domain \"%s\""
 msgid "Timed out resolving “%s” service “%s” on domain “%s”"
-msgstr ""
+msgstr "Сыйшоў тэрмін чакання для вызначэння адрасу \"%s\" паслугі \"%s\" на дамене \"%s\""
 
 #: common/gvfsdnssdresolver.c:1164
 #| msgid "Error initializing Avahi: %s"
 msgid "Error initializing Avahi resolver"
-msgstr ""
+msgstr "Падчас ініцыялізацыі вызначальніка адрасоў Avahi адбылася памылка"
 
 #: common/gvfsdnssdutils.c:233 common/gvfsdnssdutils.c:263
 #: common/gvfsdnssdutils.c:280
 #, c-format
 #| msgid "Malformed DNS-SD encoded_triple '%s'"
 msgid "Malformed DNS-SD encoded_triple “%s”"
-msgstr ""
+msgstr "Хібны DNS-SD encoded_triple \"%s\""
 
 #: common/gvfsicon.c:250
 #, c-format
 #| msgid "Can't handle version %d of GVfsIcon encoding"
 msgid "Can’t handle version %d of GVfsIcon encoding"
-msgstr ""
+msgstr "Не атрымалася апрацаваць версію %d кадавання GVfsIcon"
 
 #: common/gvfsicon.c:260
 msgid "Malformed input data for GVfsIcon"
-msgstr ""
+msgstr "Хібныя ўваходныя даныя для GVfsIcon"
 
 #. translators: This is the default daemon's application name,
 #. * the %s is the type of the backend, like "FTP"
 #: daemon/daemon-main.c:100
 #, c-format
 msgid "%s File System Service"
-msgstr ""
+msgstr "Служба файлавай сістэмы %s"
 
 #: daemon/daemon-main.c:178
 #, c-format
 msgid "Error: %s"
-msgstr ""
+msgstr "Памылка: %s"
 
 #: daemon/daemon-main.c:236
 #, c-format
 msgid "Usage: %s --spawner dbus-id object_path"
-msgstr ""
+msgstr "Выкарыстанне: %s --spawner dbus-id шлях_да_аб'екта"
 
 #: daemon/daemon-main.c:260 daemon/daemon-main.c:278
 #, c-format
 #| msgid "Usage: %s key=value key=value ..."
 msgid "Usage: %s key=value key=value …"
-msgstr ""
+msgstr "Выкарыстанне: %s ключ=значэнне ключ=значэнне …"
 
 #: daemon/daemon-main.c:276
 msgid "No mount type specified"
-msgstr ""
+msgstr "Тып мантавання не вызначаны"
 
 #: daemon/daemon-main.c:308
 #, c-format
 msgid "mountpoint for %s already running"
-msgstr ""
+msgstr "пункт мантавання для %s ужо задзейнічаны"
 
 #: daemon/daemon-main.c:337
 msgid "error starting mount daemon"
-msgstr ""
+msgstr "не атрымалася запусціць дэман мантавання"
 
 #: daemon/gvfsafpconnection.c:781
 msgid "The connection is not opened"
-msgstr ""
+msgstr "Злучэнне не адкрыта"
 
 #: daemon/gvfsafpconnection.c:788
 msgid "The connection is closed"
-msgstr ""
+msgstr "Злучэнне закрыта"
 
 #: daemon/gvfsafpconnection.c:895
 msgid "Got EOS"
-msgstr ""
+msgstr "Атрыманы EOS"
 
 #: daemon/gvfsafpconnection.c:1058 daemon/gvfsafpconnection.c:1100
 #: daemon/gvfsftptask.c:399
 msgid "Host closed connection"
-msgstr ""
+msgstr "Хост закрыў злучэнне"
 
 #: daemon/gvfsafpconnection.c:1519
 msgid "Connection unexpectedly went down"
-msgstr ""
+msgstr "Злучэнне нечакана страцілася"
 
 #: daemon/gvfsafpconnection.c:1546
 msgid "Got unexpected end of stream"
-msgstr ""
+msgstr "Атрыманы нечаканы канец струменя"
 
 #. Translators: %d is a constant, currently hardcoded to 256
 #: daemon/gvfsafpserver.c:198 daemon/gvfsafpserver.c:480
@@ -251,42 +251,42 @@ msgstr ""
 #| "The server doesn't support passwords longer than %d characters."
 msgid "The server doesn’t support passwords longer than %d character."
 msgid_plural "The server doesn’t support passwords longer than %d characters."
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
+msgstr[0] "Сервер не падтрымлівае пароляў даўжэй %d сімвалу."
+msgstr[1] "Сервер не падтрымлівае пароляў, даўжэй %d сімвалаў."
+msgstr[2] "Сервер не падтрымлівае пароляў даўжэй %d сімвалаў."
+msgstr[3] "Сервер не падтрымлівае пароляў даўжэй %d сімвалаў."
 
 #: daemon/gvfsafpserver.c:224 daemon/gvfsafpserver.c:533
 msgid "An invalid username was provided."
-msgstr ""
+msgstr "Пададзена хібнае імя карыстальніка."
 
 #: daemon/gvfsafpserver.c:393
 #, c-format
 msgid "Unable to login to the server “%s” with the given password."
-msgstr ""
+msgstr "Не ўдалося ўвайсці на сервер \"%s\" з гэтым паролем."
 
 #: daemon/gvfsafpserver.c:428 daemon/gvfsafpserver.c:650
 #: daemon/gvfsafpserver.c:826 daemon/gvfsafpserver.c:874
 #: daemon/gvfsafpserver.c:990 daemon/gvfsafpserver.c:1664
 #, c-format
 msgid "Unable to connect to the server “%s”. A communication problem occurred."
-msgstr ""
+msgstr "Не ўдалося злучыцца з серверам \"%s\". Узнікла памылка сувязі."
 
 #: daemon/gvfsafpserver.c:623
 #, c-format
 msgid "Unable to connect to the server “%s” with the given password."
-msgstr ""
+msgstr "Не ўдалося злучыцца з серверам \"%s\" з гэтым паролем."
 
 #: daemon/gvfsafpserver.c:676 daemon/gvfsafpserver.c:701
 #, c-format
 #| msgid "The server “%s” doesn't support anonymous access."
 msgid "The server “%s” doesn’t support anonymous access."
-msgstr ""
+msgstr "Сервер \"%s\" не падтрымлівае ананімны доступ."
 
 #: daemon/gvfsafpserver.c:729
 #, c-format
 msgid "Unable to connect to the server “%s”. No suitable authentication mechanism was found."
-msgstr ""
+msgstr "Не атрымалася злучыцца з серверам \"%s\". Не знойдзены прыдатны спосаб аўтэнтыфікацыі."
 
 #: daemon/gvfsafpserver.c:804
 #, c-format
@@ -294,74 +294,74 @@ msgstr ""
 #| "Unable to connect to the server “%s”. The server doesn't support AFP "
 #| "version 3.0 or later."
 msgid "Unable to connect to the server “%s”. The server doesn’t support AFP version 3.0 or later."
-msgstr ""
+msgstr "Не ўдалося злучыцца з серверам \"%s\". Сервер не падтрымлівае AFP версіі 3.0 ці пазней."
 
 #: daemon/gvfsafpserver.c:915
 msgid "Permission denied."
-msgstr ""
+msgstr "Доступ забаронены."
 
 #: daemon/gvfsafpserver.c:920
 msgid "The command is not supported by the server."
-msgstr ""
+msgstr "Загад не падтрымліваецца серверам."
 
 #: daemon/gvfsafpserver.c:924
 msgid "Your password has expired."
-msgstr ""
+msgstr "Ваш пароль састарэў."
 
 #: daemon/gvfsafpserver.c:928
 msgid "Your password needs to be changed."
-msgstr ""
+msgstr "Патрэбна змяніць пароль."
 
 #. translators: %s here is the hostname
 #: daemon/gvfsafpserver.c:1071
 #, c-format
 msgid "Enter your password for the server “%s”."
-msgstr ""
+msgstr "Увядзіце пароль для сервера \"%s\"."
 
 #. translators: %s here is the hostname
 #: daemon/gvfsafpserver.c:1074
 #, c-format
 msgid "Enter your name and password for the server “%s”."
-msgstr ""
+msgstr "Увядзіце імя і пароль для сервера \"%s\"."
 
 #: daemon/gvfsafpserver.c:1106
 msgid "The password prompt was cancelled."
-msgstr ""
+msgstr "Увод пароля скасаваны."
 
 #: daemon/gvfsafpserver.c:1224
 msgid "Unable to disconnect from the server."
-msgstr ""
+msgstr "Не атрымалася адлучыцца ад сервера."
 
 #: daemon/gvfsafpserver.c:1365 daemon/gvfsafpserver.c:1738
 msgid "Unable to connect to the server. A communication problem occurred."
-msgstr ""
+msgstr "Не атрымалася злучыцца з серверам праз памылку сувязі."
 
 #: daemon/gvfsafpserver.c:1697
 msgid "Identification not found."
-msgstr ""
+msgstr "Ідэнтыфікацыя адсутнічае."
 
 #: daemon/gvfsafputils.c:124
 #, c-format
 #| msgid "Got error \"%s\" from server"
 msgid "Got error “%s” from server"
-msgstr ""
+msgstr "Сервер адправіў памылку \"%s\""
 
 #: daemon/gvfsafputils.c:127
 #, c-format
 msgid "Got unknown error code %d from server"
-msgstr ""
+msgstr "Сервер адправіў невядомы код памылкі %d"
 
 #: daemon/gvfsafpvolume.c:140
 #| msgid "Volume doesn't exist"
 msgid "Volume doesn’t exist"
-msgstr ""
+msgstr "Том не існуе"
 
 #. Translators: first %s is volumename and second servername
 #: daemon/gvfsafpvolume.c:162
 #, c-format
 #| msgid "Couldn't load %s on %s"
 msgid "Couldn’t load %s on %s"
-msgstr ""
+msgstr "Не атрымалася загрузіць %s на %s"
 
 #: daemon/gvfsafpvolume.c:398 daemon/gvfsafpvolume.c:659
 #: daemon/gvfsafpvolume.c:803 daemon/gvfsafpvolume.c:984
@@ -373,7 +373,7 @@ msgstr ""
 #: daemon/gvfsbackendsftp.c:1118 daemon/gvfsbackendsftp.c:2150
 #: daemon/gvfsftptask.c:439
 msgid "Permission denied"
-msgstr ""
+msgstr "Доступ забаронены"
 
 #: daemon/gvfsafpvolume.c:402 daemon/gvfsafpvolume.c:1656
 #: daemon/gvfsafpvolume.c:2410 daemon/gvfsbackendafc.c:218
@@ -391,7 +391,7 @@ msgstr ""
 #: daemon/gvfsbackendsmbbrowse.c:1322 daemon/gvfsbackendsmbbrowse.c:1395
 #| msgid "File doesn't exist"
 msgid "File doesn’t exist"
-msgstr ""
+msgstr "Файл не існуе"
 
 #: daemon/gvfsafpvolume.c:406 daemon/gvfsafpvolume.c:2414
 #: daemon/gvfsbackendafp.c:289 daemon/gvfsbackendafp.c:492
@@ -402,43 +402,43 @@ msgstr ""
 #: daemon/gvfsbackendsftp.c:3768 daemon/gvfsbackendsftp.c:4837
 #: daemon/gvfsbackendsftp.c:5876
 msgid "File is directory"
-msgstr ""
+msgstr "Файл з'яўляецца каталогам"
 
 #: daemon/gvfsafpvolume.c:410
 msgid "Too many files open"
-msgstr ""
+msgstr "Занадта шмат адкрытых файлаў"
 
 #: daemon/gvfsafpvolume.c:663 daemon/gvfsafpvolume.c:811
 msgid "Target file is open"
-msgstr ""
+msgstr "Мэтавы файл адкрыты"
 
 #: daemon/gvfsafpvolume.c:667 daemon/gvfsbackendafc.c:222
 #: daemon/gvfsbackendburn.c:421 daemon/gvfsbackenddav.c:2723
 #: daemon/gvfsbackendsftp.c:2144
 msgid "Directory not empty"
-msgstr ""
+msgstr "Каталог не пусты"
 
 #: daemon/gvfsafpvolume.c:671
 msgid "Target object is marked as not deletable (DeleteInhibit)"
-msgstr ""
+msgstr "Мэтавы аб'ект пазначаны як аб'ект, які немагчыма выдаліць (DeleteInhibit)"
 
 #: daemon/gvfsafpvolume.c:675 daemon/gvfsafpvolume.c:1184
 #: daemon/gvfsafpvolume.c:2042 daemon/gvfsbackendgoogle.c:214
 #| msgid "Target object doesn't exist"
 msgid "Target object doesn’t exist"
-msgstr ""
+msgstr "Мэтавы аб'ект не існуе"
 
 #: daemon/gvfsafpvolume.c:679 daemon/gvfsafpvolume.c:823
 #: daemon/gvfsafpvolume.c:1006 daemon/gvfsafpvolume.c:1188
 #: daemon/gvfsafpvolume.c:2046
 msgid "Volume is read-only"
-msgstr ""
+msgstr "Том даступны толькі для чытання"
 
 #: daemon/gvfsafpvolume.c:807 daemon/gvfsafpvolume.c:988
 #: daemon/gvfsafpvolume.c:1507 daemon/gvfsafpvolume.c:1921
 #: daemon/gvfsafpvolume.c:2538
 msgid "Not enough space on volume"
-msgstr ""
+msgstr "На томе не стае вольнай прасторы"
 
 #: daemon/gvfsafpvolume.c:815 daemon/gvfsafpvolume.c:1359
 #: daemon/gvfsafpvolume.c:1511 daemon/gvfsbackendafp.c:296
@@ -454,207 +454,207 @@ msgstr ""
 #: daemon/gvfsbackendmtp.c:2062 daemon/gvfsbackendnfs.c:2497
 #: daemon/gvfsbackendsftp.c:4846 daemon/gvfsbackendsmb.c:2037
 msgid "Target file already exists"
-msgstr ""
+msgstr "Мэтавы файл ужо існуе"
 
 #: daemon/gvfsafpvolume.c:819 daemon/gvfsafpvolume.c:998
 #| msgid "Ancestor directory doesn't exist"
 msgid "Ancestor directory doesn’t exist"
-msgstr ""
+msgstr "Бацькоўскі каталог не існуе"
 
 #. Translators: flat means volume doesn't support directories
 #. (all files are in the volume root)
 #: daemon/gvfsafpvolume.c:994
 #| msgid "Volume is flat and doesn't support directories"
 msgid "Volume is flat and doesn’t support directories"
-msgstr ""
+msgstr "Том плоскі і не падтрымлівае падкаталогаў"
 
 #: daemon/gvfsafpvolume.c:1002
 msgid "Target directory already exists"
-msgstr ""
+msgstr "Мэтавы каталог ужо існуе"
 
 #: daemon/gvfsafpvolume.c:1172 daemon/gvfsbackendafp.c:604
 #| msgid "Can't rename volume"
 msgid "Can’t rename volume"
-msgstr ""
+msgstr "Немагчыма змяніць назву тома"
 
 #: daemon/gvfsafpvolume.c:1176
 msgid "Object with that name already exists"
-msgstr ""
+msgstr "Аб'ект з такой назвай ужо існуе"
 
 #: daemon/gvfsafpvolume.c:1180
 msgid "Target object is marked as not renameable (RenameInhibit)"
-msgstr ""
+msgstr "Мэтавы аб'ект пазначаны як аб'ект, назву якога немагчыма змяніць (RenameInhibit)"
 
 #: daemon/gvfsafpvolume.c:1347
 #| msgid "Can't move directory into one of its descendants"
 msgid "Can’t move directory into one of its descendants"
-msgstr ""
+msgstr "Немагчыма перамясціць каталог у адзін з укладзеных у яго падкаталогаў"
 
 #: daemon/gvfsafpvolume.c:1351
 #| msgid "Can't move sharepoint into a shared directory"
 msgid "Can’t move sharepoint into a shared directory"
-msgstr ""
+msgstr "Немагчыма перамясціць пункт супольнага рэсурса ў агульнадаступны каталог"
 
 #: daemon/gvfsafpvolume.c:1355
 #| msgid "Can't move a shared directory into the Trash"
 msgid "Can’t move a shared directory into the Trash"
-msgstr ""
+msgstr "Немагчыма перамясціць агульнадаступны каталог у сметніцу"
 
 #: daemon/gvfsafpvolume.c:1363
 msgid "Object being moved is marked as not renameable (RenameInhibit)"
-msgstr ""
+msgstr "Аб'ект для перамяшчэння пазначаны як аб'ект, назву якога немагчыма змяніць (RenameInhibit)"
 
 #: daemon/gvfsafpvolume.c:1367
 #| msgid "Object being moved doesn't exist"
 msgid "Object being moved doesn’t exist"
-msgstr ""
+msgstr "Аб'ект для перамяшчэння не існуе"
 
 #: daemon/gvfsafpvolume.c:1499
 #| msgid "Server doesn't support the FPCopyFile operation"
 msgid "Server doesn’t support the FPCopyFile operation"
-msgstr ""
+msgstr "Сервер не падтрымліваю аперацыю FPCopyFile"
 
 #: daemon/gvfsafpvolume.c:1503
 msgid "Unable to open source file for reading"
-msgstr ""
+msgstr "Не атрымалася адкрыць зыходны файл для чытання"
 
 #: daemon/gvfsafpvolume.c:1515
 #| msgid "Source file and/or destination directory doesn't exist"
 msgid "Source file and/or destination directory doesn’t exist"
-msgstr ""
+msgstr "Зыходны файл і/ці мэтавы каталог не існуе"
 
 #: daemon/gvfsafpvolume.c:1519
 msgid "Source file is a directory"
-msgstr ""
+msgstr "Зыходны файл з'яўляецца каталогам"
 
 #. Translators: range conflict means
 #. requested data are locked by another user
 #: daemon/gvfsafpvolume.c:1927
 msgid "Range lock conflict exists"
-msgstr ""
+msgstr "Канфлікт блакавання дыяпазону"
 
 #: daemon/gvfsafpvolume.c:2197 daemon/gvfsbackendmtp.c:1449
 #: daemon/gvfsbackendmtp.c:1474 daemon/gvfsbackendmtp.c:1624
 #: daemon/gvfsbackendmtp.c:2007 daemon/gvfsbackendmtp.c:2554
 #| msgid "Directory doesn't exist"
 msgid "Directory doesn’t exist"
-msgstr ""
+msgstr "Каталог не існуе"
 
 #: daemon/gvfsafpvolume.c:2201
 msgid "Target object is not a directory"
-msgstr ""
+msgstr "Мэтавы аб'ект не з'яўляецца каталогам"
 
 #: daemon/gvfsafpvolume.c:2534
 msgid "File is not open for write access"
-msgstr ""
+msgstr "Файл не адкрыты для запісу"
 
 #: daemon/gvfsafpvolume.c:2542
 msgid "File is locked by another user"
-msgstr ""
+msgstr "Файл заблакаваны іншым карыстальнікам"
 
 #: daemon/gvfsafpvolume.c:2674
 msgid "File is not open for read access"
-msgstr ""
+msgstr "Файл не адкрыты для чытання"
 
 #: daemon/gvfsbackendadmin.c:845 daemon/gvfsbackendafc.c:475
 #: daemon/gvfsbackendarchive.c:638 daemon/gvfsbackendarchive.c:667
 #: daemon/gvfsbackenddav.c:1863 daemon/gvfsbackendgoogle.c:1668
 #: daemon/gvfsbackendhttp.c:256 daemon/gvfsbackendsmb.c:569
 msgid "Invalid mount spec"
-msgstr ""
+msgstr "Хібная спецыфікацыя мантавання"
 
 #: daemon/gvfsbackendafc.c:214
 msgid "Internal Apple File Control error"
-msgstr ""
+msgstr "Унутраная памылка Apple File Control"
 
 #: daemon/gvfsbackendafc.c:226
 msgid "The device did not respond"
-msgstr ""
+msgstr "Прылада не адказвае"
 
 #: daemon/gvfsbackendafc.c:230
 msgid "The connection was interrupted"
-msgstr ""
+msgstr "Злучэнне перарванае"
 
 #: daemon/gvfsbackendafc.c:234
 msgid "Invalid Apple File Control data received"
-msgstr ""
+msgstr "Ад Apple File Control атрыманыя хібныя даныя"
 
 #: daemon/gvfsbackendafc.c:238
 #, c-format
 msgid "Unhandled Apple File Control error (%d)"
-msgstr ""
+msgstr "Невядомая памылка Apple File Control (%d)"
 
 #: daemon/gvfsbackendafc.c:254
 msgid "Listing applications installed on device failed"
-msgstr ""
+msgstr "Не ўдалося атрымаць спіс праграм, усталяваных на прыладзе"
 
 #: daemon/gvfsbackendafc.c:270
 msgid "Accessing application icons on device failed"
-msgstr ""
+msgstr "Не ўдалося атрымаць доступ да значкоў праграм, усталяваных на прыладзе"
 
 #: daemon/gvfsbackendafc.c:292
 msgid "Lockdown Error: Invalid Argument"
-msgstr ""
+msgstr "Памылка блакавання: хібны аргумент"
 
 #: daemon/gvfsbackendafc.c:296
 msgid "The device is password protected"
-msgstr ""
+msgstr "Прылада абароненая паролям"
 
 #: daemon/gvfsbackendafc.c:300
 msgid "Unable to connect"
-msgstr ""
+msgstr "Не атрымалася злучыцца"
 
 #: daemon/gvfsbackendafc.c:304
 msgid "User refused to trust this computer"
-msgstr ""
+msgstr "Карыстальнік адмовіўся давяраць гэтаму камп'ютару"
 
 #: daemon/gvfsbackendafc.c:308
 msgid "The user has not trusted this computer"
-msgstr ""
+msgstr "Карыстальнік не давярае гэтаму камп'ютару"
 
 #: daemon/gvfsbackendafc.c:312
 #, c-format
 msgid "Unhandled Lockdown error (%d)"
-msgstr ""
+msgstr "Невядомая памылка блакавання (%d)"
 
 #: daemon/gvfsbackendafc.c:329
 msgid "libimobiledevice Error: Invalid Argument"
-msgstr ""
+msgstr "Памылка libimobiledevice: хібны аргумент"
 
 #: daemon/gvfsbackendafc.c:333
 msgid "libimobiledevice Error: No device found. Make sure usbmuxd is set up correctly."
-msgstr ""
+msgstr "памылка libimobiledevice: прылада не знойдзеная. Праверце, каб служба usbmuxd была ўсталяваная."
 
 #: daemon/gvfsbackendafc.c:337
 #, c-format
 msgid "Unhandled libimobiledevice error (%d)"
-msgstr ""
+msgstr "Невядомая памылка libimobiledevice (%d)"
 
 #: daemon/gvfsbackendafc.c:458
 msgid "Try again"
-msgstr ""
+msgstr "Паўтарыць спробу"
 
 #: daemon/gvfsbackendafc.c:458 daemon/gvfsbackend.c:1011
 #: monitor/gdu/ggdudrive.c:1024 monitor/gdu/ggdumount.c:923
 #: monitor/udisks2/gvfsudisks2mount.c:756
 msgid "Cancel"
-msgstr ""
+msgstr "Скасаваць"
 
 #: daemon/gvfsbackendafc.c:481 daemon/gvfsbackendafc.c:511
 msgid "Invalid AFC location: must be in the form of afc://uuid:port-number"
-msgstr ""
+msgstr "Хібны адрас AFC: ён мусіць мець форму afc://uuid:нумар-порта"
 
 #: daemon/gvfsbackendafc.c:497
 msgid "Apple Mobile Device"
-msgstr ""
+msgstr "Мабільная прылада Apple"
 
 #: daemon/gvfsbackendafc.c:502
 msgid "Apple Mobile Device, Jailbroken"
-msgstr ""
+msgstr "Мабільная прылада Apple (jailbreak)"
 
 #: daemon/gvfsbackendafc.c:507
 msgid "Documents on Apple Mobile Device"
-msgstr ""
+msgstr "Дакументы на мабільнай прыладзе Apple"
 
 #. translators:
 #. * This is the device name, with the service being browsed in brackets, eg.:
@@ -662,7 +662,7 @@ msgstr ""
 #: daemon/gvfsbackendafc.c:567
 #, c-format
 msgid "%s (jailbreak)"
-msgstr ""
+msgstr "%s (jailbreak)"
 
 #. translators:
 #. * This is "Documents on foo" where foo is the device name, eg.:
@@ -670,7 +670,7 @@ msgstr ""
 #: daemon/gvfsbackendafc.c:574 monitor/afc/afcvolume.c:176
 #, c-format
 msgid "Documents on %s"
-msgstr ""
+msgstr "Дакументы на %s"
 
 #. translators:
 #. * %s is the device name. 'Try again' is the caption of the button
@@ -678,7 +678,7 @@ msgstr ""
 #: daemon/gvfsbackendafc.c:648
 #, c-format
 msgid "The device “%s” is locked. Enter the passcode on the device and click “Try again”."
-msgstr ""
+msgstr "Прылада \"%s\" заблакаваная. Увядзіце пароль на прыладзе і пстрыкніце \"Паўтарыць спробу\"."
 
 #. translators:
 #. * %s is the device name. 'Try again' is the caption of the button
@@ -687,7 +687,7 @@ msgstr ""
 #: daemon/gvfsbackendafc.c:656
 #, c-format
 msgid "The device “%s” is not trusted yet. Select “Trust” on the device and click “Try again”."
-msgstr ""
+msgstr "Прылада \"%s\" не з'яўляецца даверанай. Абярыце \"Давяраць\" на прыладзе і пстрыкніце \"Паўтарыць спробу\"."
 
 #: daemon/gvfsbackendafc.c:1124 daemon/gvfsbackendarchive.c:745
 #: daemon/gvfsbackendcomputer.c:657 daemon/gvfsbackendgoogle.c:2247
@@ -696,7 +696,7 @@ msgstr ""
 #: daemon/gvfsbackendsmb.c:659 daemon/gvfsbackendtrash.c:234
 #| msgid "Can't open directory"
 msgid "Can’t open directory"
-msgstr ""
+msgstr "Не атрымалася адкрыць каталог"
 
 #: daemon/gvfsbackendafc.c:1344
 msgid "Backups are not yet supported."
@@ -705,7 +705,7 @@ msgstr ""
 #: daemon/gvfsbackendafc.c:1506 daemon/gvfsbackendsmb.c:712
 #: daemon/gvfsbackendsmb.c:1191
 msgid "Unsupported seek type"
-msgstr ""
+msgstr "Гэты тып пераносу не падтрымліваецца"
 
 #. Return G_IO_ERROR_NOT_SUPPORTED instead of
 #. * G_IO_ERROR_CANT_CREATE_BACKUP to proceed with the GIO
@@ -731,7 +731,7 @@ msgstr ""
 #: daemon/gvfsbackendafc.c:2595 daemon/gvfsbackenddav.c:2828
 #: daemon/gvfsbackendftp.c:1444
 msgid "Backups not supported"
-msgstr ""
+msgstr "Стварэнне рэзервовых копій не падтрымліваецца"
 
 #: daemon/gvfsbackendafpbrowse.c:208 daemon/gvfsbackendcomputer.c:958
 #: daemon/gvfsbackendcomputer.c:1053 daemon/gvfsbackendcomputer.c:1159
@@ -739,7 +739,7 @@ msgstr ""
 #: daemon/gvfsbackendcomputer.c:1391 daemon/gvfsbackendsmbbrowse.c:1063
 #: daemon/gvfsbackendsmbbrowse.c:1109
 msgid "Not a mountable file"
-msgstr ""
+msgstr "Файл не з’яўляецца мантавальным"
 
 #. Translators: first %s is username and second serververname
 #. Translators: first %s is volumename and second servername
@@ -758,30 +758,30 @@ msgstr ""
 #: daemon/gvfsbackendsmb.c:1365
 #, c-format
 msgid "%s on %s"
-msgstr ""
+msgstr "%s на %s"
 
 #. Translators: %s is the servername
 #: daemon/gvfsbackendafpbrowse.c:455
 #, c-format
 msgid "%s"
-msgstr ""
+msgstr "%s"
 
 #: daemon/gvfsbackendafpbrowse.c:488 daemon/gvfsbackendafp.c:2139
 #: daemon/gvfsbackendarchive.c:627 daemon/gvfsbackendftp.c:706
 #: daemon/gvfsbackendnfs.c:197 daemon/gvfsbackendsftp.c:2057
 msgid "No hostname specified"
-msgstr ""
+msgstr "Назва хоста не вызначаная"
 
 #: daemon/gvfsbackendafpbrowse.c:572 daemon/gvfsbackendafp.c:2234
 msgid "Apple Filing Protocol Service"
-msgstr ""
+msgstr "Служба Apple Filing Protocol"
 
 #: daemon/gvfsbackendafp.c:286 daemon/gvfsbackendburn.c:875
 #: daemon/gvfsbackenddav.c:2991 daemon/gvfsbackendftp.c:1592
 #: daemon/gvfsbackendgoogle.c:1810
 #| msgid "Can't copy directory over directory"
 msgid "Can’t copy directory over directory"
-msgstr ""
+msgstr "Немагчыма скапіяваць каталог на месца іншага каталога"
 
 #: daemon/gvfsbackendafp.c:305 daemon/gvfsbackendburn.c:891
 #: daemon/gvfsbackenddav.c:3020 daemon/gvfsbackendftp.c:1615
@@ -791,14 +791,14 @@ msgstr ""
 #: daemon/gvfsbackendmtp.c:2068
 #| msgid "Can't recursively copy directory"
 msgid "Can’t recursively copy directory"
-msgstr ""
+msgstr "Немагчыма рэкурсіўна скапіяваць каталог"
 
 #: daemon/gvfsbackendafp.c:489 daemon/gvfsbackenddav.c:2868
 #: daemon/gvfsbackendnfs.c:2481 daemon/gvfsbackendsftp.c:4832
 #: daemon/gvfsbackendsmb.c:2026
 #| msgid "Can't move directory over directory"
 msgid "Can’t move directory over directory"
-msgstr ""
+msgstr "Немагчыма перамясціць каталог на месца іншага каталога"
 
 #: daemon/gvfsbackendafp.c:1270 daemon/gvfsbackendafp.c:1359
 msgid "backups not supported"
@@ -807,35 +807,35 @@ msgstr ""
 #: daemon/gvfsbackendafp.c:1284
 #, c-format
 msgid "Unable to create temporary file (%s)"
-msgstr ""
+msgstr "Не атрымалася стварыць часовы файл (%s)"
 
 #: daemon/gvfsbackendafp.c:1348 daemon/gvfsbackenddav.c:2469
 #: daemon/gvfsbackendnfs.c:1184 daemon/gvfsbackendsftp.c:3783
 #: daemon/gvfsbackendsmb.c:1064
 msgid "The file was externally modified"
-msgstr ""
+msgstr "Файл быў зменены звонку"
 
 #: daemon/gvfsbackendafp.c:1765 daemon/gvfsbackendftp.c:1233
 #: daemon/gvfsbackendsftp.c:5296
 msgid "Invalid attribute type (uint32 expected)"
-msgstr ""
+msgstr "Хібны тып атрыбута (чакаўся uint32)"
 
 #. Translators: first %s is volumename, second username and third servername
 #: daemon/gvfsbackendafp.c:2099
 #, c-format
 msgid "%s for %s on %s"
-msgstr ""
+msgstr "%s для %s на %s"
 
 #: daemon/gvfsbackendafp.c:2148
 msgid "No volume specified"
-msgstr ""
+msgstr "Том не вызначаны"
 
 #. Translators: This is the name of the root in a mounted archive file,
 #. e.g. "/ in archive.tar.gz" for a file with the name "archive.tar.gz"
 #: daemon/gvfsbackendarchive.c:349
 #, c-format
 msgid "/ in %s"
-msgstr ""
+msgstr "/ у %s"
 
 #: daemon/gvfsbackendarchive.c:882 daemon/gvfsbackendburn.c:679
 #: daemon/gvfsbackendcomputer.c:729 daemon/gvfsbackenddnssd.c:474
@@ -844,16 +844,16 @@ msgstr ""
 #: daemon/gvfsbackendgoogle.c:1473 daemon/gvfsbackendnetwork.c:745
 #: daemon/gvfsbackendsftp.c:4322 daemon/gvfsftpdircache.c:157
 msgid "The file is not a directory"
-msgstr ""
+msgstr "Файл не з'яўляецца каталогам"
 
 #. Translators: This is the name of the backend
 #: daemon/gvfsbackendburn.c:346
 msgid "Burn"
-msgstr ""
+msgstr "Запісаць"
 
 #: daemon/gvfsbackendburn.c:372
 msgid "Unable to create temporary directory"
-msgstr ""
+msgstr "Не атрымалася стварыць часовы каталог"
 
 #: daemon/gvfsbackendburn.c:401 daemon/gvfsbackendburn.c:412
 #: daemon/gvfsbackendburn.c:447 daemon/gvfsbackendburn.c:671
@@ -867,25 +867,25 @@ msgstr ""
 #: daemon/gvfsbackendsftp.c:3330 daemon/gvfsbackendsftp.c:3350
 #: daemon/gvfsbackendtrash.c:218
 msgid "No such file or directory"
-msgstr ""
+msgstr "Такі файл альбо каталог не існуе"
 
 #: daemon/gvfsbackendburn.c:455 daemon/gvfsbackendburn.c:903
 #: daemon/gvfsbackendgoogle.c:1818
 #| msgid "Can't copy file over directory"
 msgid "Can’t copy file over directory"
-msgstr ""
+msgstr "Немагчыма скапіяваць файл на месца каталога"
 
 #. Translators: this is the display name of the backend
 #: daemon/gvfsbackendburn.c:650
 msgid "CD/DVD Creator"
-msgstr ""
+msgstr "Стваральнік CD/DVD"
 
 #: daemon/gvfsbackendburn.c:752 daemon/gvfsbackendburn.c:788
 #: daemon/gvfsbackendburn.c:923 daemon/gvfsbackendburn.c:985
 #: daemon/gvfsbackendburn.c:989 daemon/gvfsbackendburn.c:999
 #: daemon/gvfsbackendgphoto2.c:2615
 msgid "File exists"
-msgstr ""
+msgstr "Файл існуе"
 
 #: daemon/gvfsbackendburn.c:827 daemon/gvfsjobcloseread.c:113
 #: daemon/gvfsjobclosewrite.c:121 daemon/gvfsjobcopy.c:121
@@ -911,7 +911,7 @@ msgstr ""
 #: monitor/udisks2/gvfsudisks2mount.c:1134
 #: monitor/udisks2/gvfsudisks2volume.c:1675
 msgid "Operation not supported by backend"
-msgstr ""
+msgstr "Рухавік не падтрымлівае гэтай аперацыі"
 
 #: daemon/gvfsbackendburn.c:852
 msgid "No such file or directory in target path"
@@ -920,7 +920,7 @@ msgstr ""
 #: daemon/gvfsbackendburn.c:884 daemon/gvfsbackenddav.c:2906
 #: daemon/gvfsbackendsftp.c:2146 daemon/gvfsbackendsftp.c:5012
 msgid "Target file exists"
-msgstr ""
+msgstr "Мэтавы файл існуе"
 
 #: daemon/gvfsbackendburn.c:949 daemon/gvfsbackendcomputer.c:812
 #: daemon/gvfsbackenddav.c:3350 daemon/gvfsbackenddav.c:3382
@@ -937,140 +937,141 @@ msgstr ""
 #: daemon/gvfsbackend.c:856 daemon/gvfsjobunmount.c:197
 #: daemon/gvfsjobunmount.c:264
 msgid "File system is busy"
-msgstr ""
+msgstr "Файлавая сістэма занятая"
 
 #: daemon/gvfsbackend.c:1010 monitor/gdu/ggdumount.c:922
 #: monitor/udisks2/gvfsudisks2mount.c:754
 msgid "Unmount Anyway"
-msgstr ""
+msgstr "Усё роўна адмантаваць"
 
 #: daemon/gvfsbackend.c:1013 monitor/gdu/ggdumount.c:924
 #: monitor/udisks2/gvfsudisks2mount.c:757
 msgid "Volume is busy\n"
 "One or more applications are keeping the volume busy."
-msgstr ""
+msgstr "Том заняты\n"
+"Адна альбо некалькі праграм выкарыстоўваюць гэты том."
 
 #: daemon/gvfsbackendcdda.c:290 daemon/gvfsbackendgphoto2.c:1242
 #: daemon/gvfsbackendmtp.c:897
 msgid "Cannot create gudev client"
-msgstr ""
+msgstr "Не атрымалася стварыць кліент gudev"
 
 #: daemon/gvfsbackendcdda.c:304 daemon/gvfsbackendcdda.c:385
 msgid "No drive specified"
-msgstr ""
+msgstr "Прылада не вызначаная"
 
 #: daemon/gvfsbackendcdda.c:323
 #, c-format
 msgid "Cannot find drive %s"
-msgstr ""
+msgstr "Не атрымалася знайсці прыладу %s"
 
 #: daemon/gvfsbackendcdda.c:336
 #, c-format
 msgid "Drive %s does not contain audio files"
-msgstr ""
+msgstr "Прылада %s не змяшчае гукавых файлаў"
 
 #. Translator: %s is the device the disc is inserted into. 'cdda' is the name
 #. name of the backend and shouldn't be translated.
 #: daemon/gvfsbackendcdda.c:346
 #, c-format
 msgid "cdda mount on %s"
-msgstr ""
+msgstr "мантаванне cdda у %s"
 
 #: daemon/gvfsbackendcdda.c:347 daemon/gvfsbackendcdda.c:870
 #: monitor/gdu/ggduvolume.c:349 monitor/udisks2/gvfsudisks2volume.c:379
 msgid "Audio Disc"
-msgstr ""
+msgstr "Гукавы дыск"
 
 #: daemon/gvfsbackendcdda.c:411
 #, c-format
 msgid "File system is busy: %d open file"
 msgid_plural "File system is busy: %d open files"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
+msgstr[0] "Файлавая сістэма занятая: %d файл адкрыты"
+msgstr[1] "Файлавая сістэма занятая: %d файлы адкрытыя"
+msgstr[2] "Файлавая сістэма занятая: %d файлаў адкрыта"
+msgstr[3] "Файлавая сістэма занятая: %d файлаў адкрыта"
 
 #: daemon/gvfsbackendcdda.c:605
 #, c-format
 msgid "No such file %s on drive %s"
-msgstr ""
+msgstr "Файл %s адсутнічае на прыладзе %s"
 
 #. Translators: paranoia is the name of the cd audio reading library
 #: daemon/gvfsbackendcdda.c:714
 #, c-format
 #| msgid "Error from 'paranoia' on drive %s"
 msgid "Error from “paranoia” on drive %s"
-msgstr ""
+msgstr "Памылка \"paranoia\" на прыладзе %s"
 
 #: daemon/gvfsbackendcdda.c:777
 #, c-format
 msgid "Error seeking in stream on drive %s"
-msgstr ""
+msgstr "Памылка пераходу ў струмені на прыладзе %s"
 
 #: daemon/gvfsbackendcdda.c:899 daemon/gvfsbackendgphoto2.c:1509
 msgid "No such file"
-msgstr ""
+msgstr "Няма такога файла"
 
 #: daemon/gvfsbackendcdda.c:913
 #| msgid "The file does not exist or isn't an audio track"
 msgid "The file does not exist or isn’t an audio track"
-msgstr ""
+msgstr "Файл не існуе альбо не з'яўляецца аўдыятрэкам"
 
 #: daemon/gvfsbackendcdda.c:1019
 msgid "Audio CD File System Service"
-msgstr ""
+msgstr "Служба файлавай сістэмы для працы з гукавымі CD"
 
 #: daemon/gvfsbackendcomputer.c:198 daemon/gvfsbackendcomputer.c:771
 msgid "Computer"
-msgstr ""
+msgstr "Камп'ютар"
 
 #: daemon/gvfsbackendcomputer.c:532
 msgid "File System"
-msgstr ""
+msgstr "Файлавая сістэма"
 
 #: daemon/gvfsbackendcomputer.c:661
 #| msgid "Can't open mountable file"
 msgid "Can’t open mountable file"
-msgstr ""
+msgstr "Не атрымалася адкрыць мантуемы файл"
 
 #: daemon/gvfsbackendcomputer.c:858
 #, c-format
 msgid "Internal error: %s"
-msgstr ""
+msgstr "Унутраная памылка: %s"
 
 #: daemon/gvfsbackendcomputer.c:890 daemon/gvfsbackendcomputer.c:1008
 #| msgid "Can't mount file"
 msgid "Can’t mount file"
-msgstr ""
+msgstr "Не атрымалася прымантаваць файл"
 
 #: daemon/gvfsbackendcomputer.c:901
 msgid "No medium in the drive"
-msgstr ""
+msgstr "У прыладзе няма носьбіта"
 
 #: daemon/gvfsbackendcomputer.c:1072
 #| msgid "Can't unmount file"
 msgid "Can’t unmount file"
-msgstr ""
+msgstr "Не атрымалася адмантаваць файл"
 
 #: daemon/gvfsbackendcomputer.c:1202
 #| msgid "Can't eject file"
 msgid "Can’t eject file"
-msgstr ""
+msgstr "Не атрымалася выняць файл"
 
 #: daemon/gvfsbackendcomputer.c:1269 daemon/gvfsbackendcomputer.c:1276
 #| msgid "Can't start drive"
 msgid "Can’t start drive"
-msgstr ""
+msgstr "Не атрымалася запусціць прыладу"
 
 #: daemon/gvfsbackendcomputer.c:1342 daemon/gvfsbackendcomputer.c:1349
 #| msgid "Can't stop drive"
 msgid "Can’t stop drive"
-msgstr ""
+msgstr "Не атрымалася спыніць прыладу"
 
 #: daemon/gvfsbackendcomputer.c:1406 daemon/gvfsbackendcomputer.c:1413
 #| msgid "Can't poll file"
 msgid "Can’t poll file"
-msgstr ""
+msgstr "Не атрымалася апрацаваць файл"
 
 #. Translators: This is the name of the WebDAV share constructed as
 #. "WebDAV as <username> on <hostname>:<port>"; the ":<port>" part is
@@ -1078,34 +1079,34 @@ msgstr ""
 #: daemon/gvfsbackenddav.c:498
 #, c-format
 msgid "%s on %s%s"
-msgstr ""
+msgstr "%s на %s%s"
 
 #: daemon/gvfsbackenddav.c:703 daemon/gvfsbackenddav.c:2004
 #: daemon/gvfsbackendhttp.c:202
 #, c-format
 msgid "HTTP Error: %s"
-msgstr ""
+msgstr "Памылка HTTP: %s"
 
 #: daemon/gvfsbackenddav.c:720
 msgid "Could not parse response"
-msgstr ""
+msgstr "Не атрымалася разабраць адказ"
 
 #: daemon/gvfsbackenddav.c:729
 msgid "Empty response"
-msgstr ""
+msgstr "Пусты адказ"
 
 #: daemon/gvfsbackenddav.c:737
 msgid "Unexpected reply from server"
-msgstr ""
+msgstr "Нечаканы адказ сервера"
 
 #: daemon/gvfsbackenddav.c:1422 daemon/gvfsbackenddav.c:2131
 #: daemon/gvfsbackenddav.c:2223 daemon/gvfsbackenddav.c:2325
 msgid "Response invalid"
-msgstr ""
+msgstr "Хібны адказ"
 
 #: daemon/gvfsbackenddav.c:1565
 msgid "WebDAV share"
-msgstr ""
+msgstr "Рэсурс WebDAV"
 
 #. translators: %s here is the hostname
 #. Translators: %s is the hostname
@@ -1113,24 +1114,24 @@ msgstr ""
 #: daemon/gvfsbackendsftp.c:1167
 #, c-format
 msgid "Enter password for %s"
-msgstr ""
+msgstr "Увядзіце пароль для %s"
 
 #: daemon/gvfsbackenddav.c:1570
 msgid "Please enter proxy password"
-msgstr ""
+msgstr "Увядзіце пароль проксі-сервера"
 
 #: daemon/gvfsbackenddav.c:1990
 msgid "Not a WebDAV enabled share"
-msgstr ""
+msgstr "Гэта не рэсурс WebDAV"
 
 #: daemon/gvfsbackenddav.c:2012
 msgid "Could not find an enclosing directory"
-msgstr ""
+msgstr "Не атрымалася знайсці бацькоўскі каталог"
 
 #: daemon/gvfsbackenddav.c:2085 daemon/gvfsbackenddav.c:2178
 #: daemon/gvfsbackenddav.c:2251 daemon/gvfsbackenddav.c:2359
 msgid "Could not create request"
-msgstr ""
+msgstr "Не атрымалася стварыць запыт"
 
 #: daemon/gvfsbackenddav.c:2500 daemon/gvfsbackendftp.c:1085
 #: daemon/gvfsbackendgoogle.c:2622 daemon/gvfsbackendnfs.c:948
@@ -1138,55 +1139,55 @@ msgstr ""
 #: daemon/gvfsbackendnfs.c:1397 daemon/gvfsbackendsmb.c:1100
 #: daemon/gvfsbackendsmb.c:2054
 msgid "Backup file creation failed"
-msgstr ""
+msgstr "Не атрымалася стварыць рэзервовую копію файла"
 
 #: daemon/gvfsbackenddav.c:2873
 #| msgid "Can't move over directory"
 msgid "Can’t move over directory"
-msgstr ""
+msgstr "Немагчыма перамясціць на месца каталога"
 
 #: daemon/gvfsbackenddav.c:3142
 msgid "File length changed during transfer"
-msgstr ""
+msgstr "Памер файла змяніўся падчас перадачы"
 
 #: daemon/gvfsbackenddnssd.c:521 daemon/gvfsbackendnetwork.c:462
 msgid "Local Network"
-msgstr ""
+msgstr "Лакальная сетка"
 
 #: daemon/gvfsbackenddnssd.c:776 daemon/gvfsbackendnetwork.c:852
 #| msgid "Can't monitor file or directory."
 msgid "Can’t monitor file or directory."
-msgstr ""
+msgstr "Не атрымалася прасачыць за файлам альбо каталогам."
 
 #. TODO: Names, etc
 #: daemon/gvfsbackenddnssd.c:794
 msgid "Dns-SD"
-msgstr ""
+msgstr "Dns-SD"
 
 #: daemon/gvfsbackenddnssd.c:795 daemon/gvfsbackendnetwork.c:784
 #: daemon/gvfsbackendnetwork.c:932 daemon/gvfsbackendnetwork.c:933
 msgid "Network"
-msgstr ""
+msgstr "Сетка"
 
 #. Translators: the first %s is the username, the second the host name
 #: daemon/gvfsbackendftp.c:526 daemon/gvfsbackendsftp.c:1160
 #, c-format
 msgid "Enter password for %s on %s"
-msgstr ""
+msgstr "Увядзіце пароль для %s на %s"
 
 #: daemon/gvfsbackendftp.c:556 daemon/gvfsbackendsftp.c:1184
 #: daemon/gvfsbackendsmbbrowse.c:963 daemon/gvfsbackendsmb.c:524
 msgid "Password dialog cancelled"
-msgstr ""
+msgstr "Увод пароля скасаваны"
 
 #: daemon/gvfsbackendftp.c:769
 msgid "Insufficient permissions"
-msgstr ""
+msgstr "Не хапае правоў"
 
 #: daemon/gvfsbackendgoogle.c:1717 daemon/gvfsbackendgoogle.c:2296
 #: daemon/gvfsbackendgphoto2.c:1542
 msgid "Error getting data from file"
-msgstr ""
+msgstr "Не ўдалося атрымаць даныя з файла"
 
 #: daemon/gvfsbackendgoogle.c:2254 daemon/gvfsbackendsftp.c:2325
 #: daemon/gvfsbackendsftp.c:2732 daemon/gvfsbackendsftp.c:2795
@@ -1215,209 +1216,209 @@ msgstr ""
 #: daemon/gvfsbackendsftp.c:6378 daemon/gvfsbackendsftp.c:6395
 #: daemon/gvfsbackendsftp.c:6529 daemon/gvfsbackendsftp.c:6557
 msgid "Invalid reply received"
-msgstr ""
+msgstr "Атрыманы хібны адказ"
 
 #: daemon/gvfsbackendgoogle.c:2649 daemon/gvfsbackendnfs.c:1159
 msgid "Target file is a directory"
-msgstr ""
+msgstr "Мэтавы файл з'яўляецца каталогам"
 
 #: daemon/gvfsbackendgoogle.c:2657 daemon/gvfsbackendnfs.c:1169
 msgid "Target file is not a regular file"
-msgstr ""
+msgstr "Мэтавы файл не з'яўляецца звычайным файлам"
 
 #: daemon/gvfsbackendgoogle.c:2847 daemon/gvfsbackendgphoto2.c:3003
 msgid "Error writing file"
-msgstr ""
+msgstr "Памылка запісу файла"
 
 #. Translator: %s represents a more specific error message and %d the specific error code
 #: daemon/gvfsbackendgphoto2.c:479
 #, c-format
 msgid "%s: %d: Directory or file exists"
-msgstr ""
+msgstr "%s: %d: каталог альбо файл існуе"
 
 #. Translator: %s represents a more specific error message and %d the specific error code
 #: daemon/gvfsbackendgphoto2.c:486
 #, c-format
 msgid "%s: %d: No such file or directory"
-msgstr ""
+msgstr "%s: %d: няма такога файла альбо каталога"
 
 #. Translator: %s represents a more specific error message and %d the specific error code
 #: daemon/gvfsbackendgphoto2.c:492
 #, c-format
 msgid "%s: %d: Invalid filename"
-msgstr ""
+msgstr "%s: %d: хібная назва файла"
 
 #. Translator: %s represents a more specific error message and %d the specific error code
 #: daemon/gvfsbackendgphoto2.c:498
 #, c-format
 msgid "%s: %d: Not Supported"
-msgstr ""
+msgstr "%s: %d: не падтрымліваецца"
 
 #. Translator: %s represents the device, e.g. usb:001,042
 #: daemon/gvfsbackendgphoto2.c:686
 #, c-format
 msgid "Digital Camera (%s)"
-msgstr ""
+msgstr "Лічбавая камера (%s)"
 
 #: daemon/gvfsbackendgphoto2.c:1256 daemon/gvfsbackendmtp.c:889
 msgid "No device specified"
-msgstr ""
+msgstr "Прылада не вызначаная"
 
 #: daemon/gvfsbackendgphoto2.c:1272
 msgid "Cannot create gphoto2 context"
-msgstr ""
+msgstr "Не атрымалася стварыць кантэкст gphoto2"
 
 #: daemon/gvfsbackendgphoto2.c:1281
 msgid "Error creating camera"
-msgstr ""
+msgstr "Памылка стварэння камеры"
 
 #: daemon/gvfsbackendgphoto2.c:1293 daemon/gvfsbackendgphoto2.c:1302
 msgid "Error loading device information"
-msgstr ""
+msgstr "Падчас загрузкі інфармацыі пра прыладу адбылася памылка"
 
 #: daemon/gvfsbackendgphoto2.c:1313
 msgid "Error looking up device information"
-msgstr ""
+msgstr "Не атрымалася знайсці інфармацыю пра прыладу"
 
 #: daemon/gvfsbackendgphoto2.c:1322
 msgid "Error getting device information"
-msgstr ""
+msgstr "Не ўдалося атрымаць інфармацыю пра прыладу"
 
 #: daemon/gvfsbackendgphoto2.c:1336
 msgid "Error setting up camera communications port"
-msgstr ""
+msgstr "Падчас наладкі камунікацыйнага порта камеры адбылася памылка"
 
 #: daemon/gvfsbackendgphoto2.c:1346
 msgid "Error initializing camera"
-msgstr ""
+msgstr "Падчас ініцыялізацыі камеры адбылася памылка"
 
 #. Translator: %s represents the device, e.g. usb:001,042. 'gphoto2' is the name of the
 #. backend and shouldn't be translated.
 #: daemon/gvfsbackendgphoto2.c:1357
 #, c-format
 msgid "gphoto2 mount on %s"
-msgstr ""
+msgstr "мантаванне gphoto2 у %s"
 
 #: daemon/gvfsbackendgphoto2.c:1455
 msgid "No camera specified"
-msgstr ""
+msgstr "Камера не вызначаная"
 
 #: daemon/gvfsbackendgphoto2.c:1517 daemon/gvfsbackendgphoto2.c:3244
 msgid "Error creating file object"
-msgstr ""
+msgstr "Падчас стварэння файлавага аб'екта адбылася памылка"
 
 #: daemon/gvfsbackendgphoto2.c:1532 daemon/gvfsbackendgphoto2.c:3275
 msgid "Error getting file"
-msgstr ""
+msgstr "Падчас атрымання файла адбылася"
 
 #: daemon/gvfsbackendgphoto2.c:1600 daemon/gvfsbackendmtp.c:2371
 #, c-format
 #| msgid "Malformed icon identifier '%s'"
 msgid "Malformed icon identifier “%s”"
-msgstr ""
+msgstr "Хібны ідэнтыфікатар значка \"%s\""
 
 #: daemon/gvfsbackendgphoto2.c:1676 daemon/gvfsbackendgphoto2.c:2866
 #, c-format
 msgid "Error seeking in stream on camera %s"
-msgstr ""
+msgstr "Падчас пераходу ў струмені на камеры %s адбылася памылка"
 
 #: daemon/gvfsbackendgphoto2.c:1816 daemon/gvfsbackendsftp.c:3320
 #: daemon/gvfsbackendsmbbrowse.c:1391
 msgid "Not a directory"
-msgstr ""
+msgstr "Гэта не каталог"
 
 #: daemon/gvfsbackendgphoto2.c:1849
 msgid "Failed to get folder list"
-msgstr ""
+msgstr "Не ўдалося атрымаць спіс каталогаў"
 
 #: daemon/gvfsbackendgphoto2.c:1914
 msgid "Failed to get file list"
-msgstr ""
+msgstr "Не ўдалося атрымаць спіс файлаў"
 
 #: daemon/gvfsbackendgphoto2.c:2203
 msgid "Error creating directory"
-msgstr ""
+msgstr "Падчас стварэння каталога адбылася памылка"
 
 #: daemon/gvfsbackendgphoto2.c:2416
 msgid "Name already exists"
-msgstr ""
+msgstr "Назва ўжо выкарыстоўваецца"
 
 #: daemon/gvfsbackendgphoto2.c:2427 daemon/gvfsbackendgphoto2.c:3095
 msgid "New name too long"
-msgstr ""
+msgstr "Новая назва занадта доўгая"
 
 #: daemon/gvfsbackendgphoto2.c:2437 daemon/gvfsbackendgphoto2.c:3106
 msgid "Error renaming directory"
-msgstr ""
+msgstr "Падчас змены назвы каталога адбылася памылка"
 
 #: daemon/gvfsbackendgphoto2.c:2450 daemon/gvfsbackendgphoto2.c:3119
 msgid "Error renaming file"
-msgstr ""
+msgstr "Падчас змены назвы файла адбылася памылка"
 
 #: daemon/gvfsbackendgphoto2.c:2514
 #, c-format
 #| msgid "Directory '%s' is not empty"
 msgid "Directory “%s” is not empty"
-msgstr ""
+msgstr "Каталог \"%s\" не пусты"
 
 #: daemon/gvfsbackendgphoto2.c:2525
 msgid "Error deleting directory"
-msgstr ""
+msgstr "Падчас выдалення каталога адбылася памылка"
 
 #: daemon/gvfsbackendgphoto2.c:2551 daemon/gvfsbackendgphoto2.c:3296
 msgid "Error deleting file"
-msgstr ""
+msgstr "Падчас выдалення файла адбылася памылка"
 
 #: daemon/gvfsbackendgphoto2.c:2604
 #| msgid "Can't write to directory"
 msgid "Can’t write to directory"
-msgstr ""
+msgstr "Не атрымалася запісаць у каталог"
 
 #: daemon/gvfsbackendgphoto2.c:2651
 msgid "Cannot allocate new file to append to"
-msgstr ""
+msgstr "Не атрымалася адвесці новы файл, каб дадаць даныя ў канец"
 
 #: daemon/gvfsbackendgphoto2.c:2666
 msgid "Cannot read file to append to"
-msgstr ""
+msgstr "Не атрымалася прачытаць файл, каб дадаць даныя ў канец"
 
 #: daemon/gvfsbackendgphoto2.c:2677
 msgid "Cannot get data of file to append to"
-msgstr ""
+msgstr "Не ўдалося атрымаць даныя з файла, каб дадаць іх у канец"
 
 #: daemon/gvfsbackendgphoto2.c:3051
 msgid "Not supported (not same directory)"
-msgstr ""
+msgstr "Не падтрымліваецца (каталогі адрозніваюцца)"
 
 #: daemon/gvfsbackendgphoto2.c:3063
 msgid "Not supported (the source is a directory, the destination is a directory too)"
-msgstr ""
+msgstr "Не падтрымліваецца (і крыніца, і мэта з'яўляюцца каталогамі)"
 
 #: daemon/gvfsbackendgphoto2.c:3071
 msgid "Not supported (the source is a directory, but the destination is an existing file)"
-msgstr ""
+msgstr "Не падтрымліваецца (крыніца з'яўляецца каталогам, а мэтавы файл ужо існуе)"
 
 #: daemon/gvfsbackendgphoto2.c:3083
 msgid "Not supported (the source is a file, but the destination is a directory)"
-msgstr ""
+msgstr "Не падтрымліваецца (крыніца з'яўляецца файлам, а мэта каталогам)"
 
 #: daemon/gvfsbackendhttp.c:198
 #, c-format
 msgid "HTTP Client Error: %s"
-msgstr ""
+msgstr "Памылка кліента HTTP: %s"
 
 #: daemon/gvfsbackendlocaltest.c:860
 msgid "Directory notification not supported"
-msgstr ""
+msgstr "Апавяшчэнні для каталога не падтрымліваюцца"
 
 #: daemon/gvfsbackendmtp.c:554
 msgid "Unknown error."
-msgstr ""
+msgstr "Невядомая памылка."
 
 #: daemon/gvfsbackendmtp.c:560
 #, c-format
 msgid "libmtp error: %s"
-msgstr ""
+msgstr "памылка libmtp: %s"
 
 #: daemon/gvfsbackendmtp.c:843
 msgid "Unexpected host URI format."
@@ -1430,23 +1431,23 @@ msgstr ""
 #: daemon/gvfsbackendmtp.c:866
 #| msgid "Couldn't find matching udev device."
 msgid "Couldn’t find matching udev device."
-msgstr ""
+msgstr "Не атрымалася знайсці адпаведную прыладу udev."
 
 #: daemon/gvfsbackendmtp.c:1048
 msgid "No MTP devices found"
-msgstr ""
+msgstr "Прылад MTP не знойдзена"
 
 #: daemon/gvfsbackendmtp.c:1053
 msgid "Unable to connect to MTP device"
-msgstr ""
+msgstr "Не атрымалася злучыцца з прыладай MTP"
 
 #: daemon/gvfsbackendmtp.c:1058
 msgid "Unable to allocate memory while detecting MTP devices"
-msgstr ""
+msgstr "Не атрымалася адвесці памяць падчас пошуку прылад MTP"
 
 #: daemon/gvfsbackendmtp.c:1064
 msgid "Generic libmtp error"
-msgstr ""
+msgstr "Агульная памылка libmtp"
 
 #: daemon/gvfsbackendmtp.c:1081
 #, c-format
@@ -1456,159 +1457,159 @@ msgstr ""
 
 #: daemon/gvfsbackendmtp.c:1101
 msgid "Device not found"
-msgstr ""
+msgstr "Прылада не знойдзеная"
 
 #: daemon/gvfsbackendmtp.c:1377 daemon/gvfsbackendmtp.c:1485
 #: daemon/gvfsbackendmtp.c:1537
 msgid "File not found"
-msgstr ""
+msgstr "Файл не знойдзены"
 
 #: daemon/gvfsbackendmtp.c:1605
 msgid "Cannot make directory in this location"
-msgstr ""
+msgstr "Немагчыма стварыць каталог у гэтым месцы"
 
 #: daemon/gvfsbackendmtp.c:1675 daemon/gvfsbackendmtp.c:2133
 #: daemon/gvfsbackendmtp.c:2196 daemon/gvfsbackendmtp.c:2264
 #: daemon/gvfsbackendmtp.c:2634 daemon/gvfsbackendmtp.c:2700
 #: daemon/gvfsbackendsmbbrowse.c:1131
 msgid "Not a regular file"
-msgstr ""
+msgstr "Гэта незвычайны файл"
 
 #: daemon/gvfsbackendmtp.c:1721 daemon/gvfsbackendmtp.c:2034
 msgid "Target is a directory"
-msgstr ""
+msgstr "Мэта з'яўляецца каталогам"
 
 #: daemon/gvfsbackendmtp.c:1726 daemon/gvfsbackendmtp.c:2039
 #| msgid "Can't merge directories"
 msgid "Can’t merge directories"
-msgstr ""
+msgstr "Не атрымалася аб'яднаць каталогі"
 
 #: daemon/gvfsbackendmtp.c:1984 daemon/gvfsbackendmtp.c:2546
 msgid "Cannot write to this location"
-msgstr ""
+msgstr "Немагчыма запісаць у гэтым месцы"
 
 #: daemon/gvfsbackendmtp.c:2353
 #, c-format
 #| msgid "No thumbnail for entity '%s'"
 msgid "No thumbnail for entity “%s”"
-msgstr ""
+msgstr "Для элемента \"%s\" адсутнічае мініяцюра"
 
 #: daemon/gvfsbackendnetwork.c:168
 msgid "File Sharing"
-msgstr ""
+msgstr "Супольны доступ да файлаў"
 
 #: daemon/gvfsbackendnetwork.c:173
 msgid "Remote Login"
-msgstr ""
+msgstr "Адлеглы ўваход"
 
 #: daemon/gvfsbackendnetwork.c:333 daemon/gvfsbackendsmbbrowse.c:858
 msgid "Windows Network"
-msgstr ""
+msgstr "Сетка Windows"
 
 #. Translators: this is the friendly name of the 'network://' backend that
 #. * shows computers in your local network.
 #: daemon/gvfsbackendnetwork.c:1019
 msgid "Network Location Monitor"
-msgstr ""
+msgstr "Сеткавы назіральнік"
 
 #: daemon/gvfsbackendnfs.c:242
 msgid "Mount point does not exist"
-msgstr ""
+msgstr "Пункт мантавання не існуе"
 
 #: daemon/gvfsbackendnfs.c:266
 msgid "Permission denied: Perhaps this host is disallowed or a privileged port is needed"
-msgstr ""
+msgstr "Доступ забаронены: магчыма, хост забаронены ці патрабуецца прывілеяваны порт"
 
 #: daemon/gvfsbackendnfs.c:1055 daemon/gvfsbackendnfs.c:1078
 #: daemon/gvfsbackendnfs.c:1126 daemon/gvfsbackendsftp.c:3703
 #: daemon/gvfsbackendsftp.c:5831
 msgid "Unable to create temporary file"
-msgstr ""
+msgstr "Не атрымалася стварыць часовы файл"
 
 #: daemon/gvfsbackendnfs.c:2387
 msgid "Invalid attribute type"
-msgstr ""
+msgstr "Хібны тып атрыбута"
 
 #: daemon/gvfsbackendrecent.c:270
 msgid "The recent folder may not be deleted"
-msgstr ""
+msgstr "Немагчыма выдаліць нядаўні каталог"
 
 #. Translators: this is the display name of the backend
 #. translators: This is the name of the backend
 #: daemon/gvfsbackendrecent.c:688 daemon/gvfsbackendrecent.c:809
 msgid "Recent"
-msgstr ""
+msgstr "Нядаўняе"
 
 #: daemon/gvfsbackendsftp.c:337 daemon/gvfsbackendsftp.c:713
 msgid "Connection failed"
-msgstr ""
+msgstr "Не атрымалася злучыцца"
 
 #: daemon/gvfsbackendsftp.c:353
 msgid "Hostname not known"
-msgstr ""
+msgstr "Назва хоста невядомая"
 
 #: daemon/gvfsbackendsftp.c:360
 msgid "No route to host"
-msgstr ""
+msgstr "Адсутнічае маршрут да хоста"
 
 #: daemon/gvfsbackendsftp.c:368
 msgid "Connection refused by server"
-msgstr ""
+msgstr "Злучэнне адхілена серверам"
 
 #: daemon/gvfsbackendsftp.c:375
 msgid "Host key verification failed"
-msgstr ""
+msgstr "Не атрымалася праверыць ключ хоста"
 
 #: daemon/gvfsbackendsftp.c:382
 msgid "Too many authentication failures"
-msgstr ""
+msgstr "Зашмат няўдалых спробаў аўтэнтыфікацыі"
 
 #: daemon/gvfsbackendsftp.c:557
 msgid "Unable to spawn SSH program"
-msgstr ""
+msgstr "Не атрымалася запусціць праграму SSH"
 
 #: daemon/gvfsbackendsftp.c:573
 #, c-format
 msgid "Unable to spawn SSH program: %s"
-msgstr ""
+msgstr "Не атрымалася запусціць праграму SSH: %s"
 
 #: daemon/gvfsbackendsftp.c:675 daemon/gvfsbackendsftp.c:1051
 msgid "Timed out when logging in"
-msgstr ""
+msgstr "Тэрмін чакання ўваходу сыйшоў"
 
 #: daemon/gvfsbackendsftp.c:927
 msgid "Log In Anyway"
-msgstr ""
+msgstr "Усё роўна ўвайсці"
 
 #: daemon/gvfsbackendsftp.c:927
 msgid "Cancel Login"
-msgstr ""
+msgstr "Скасаваць уваход"
 
 #: daemon/gvfsbackendsftp.c:942
 msgid "Login dialog cancelled"
-msgstr ""
+msgstr "Дыялог ўваходу скасаваны"
 
 #: daemon/gvfsbackendsftp.c:961
 #| msgid "Can't send host identity confirmation"
 msgid "Can’t send host identity confirmation"
-msgstr ""
+msgstr "Не атрымалася адправіць пацвярджэнне сапраўднасці хоста"
 
 #. Translators: the first %s is the username, the second the host name
 #: daemon/gvfsbackendsftp.c:1157
 #, c-format
 msgid "Enter passphrase for secure key for %s on %s"
-msgstr ""
+msgstr "Увядзіце парольную фразу да ключа ssh для %s на %s"
 
 #. Translators: %s is the hostname
 #: daemon/gvfsbackendsftp.c:1164
 #, c-format
 msgid "Enter passphrase for secure key for %s"
-msgstr ""
+msgstr "Увядзіце парольную фразу да ключа ssh для %s"
 
 #: daemon/gvfsbackendsftp.c:1256
 #| msgid "Can't send password"
 msgid "Can’t send password"
-msgstr ""
+msgstr "Не атрымалася адправіць пароль"
 
 #: daemon/gvfsbackendsftp.c:1272
 #, c-format
@@ -1621,54 +1622,57 @@ msgstr ""
 msgid "Can’t verify the identity of “%s”.\n"
 "This happens when you log in to a computer the first time.\n\n"
 "The identity sent by the remote computer is “%s”. If you want to be absolutely sure it is safe to continue, contact the system administrator."
-msgstr ""
+msgstr "Не атрымалася праверыць сапраўднасць \"%s\".\n"
+"Так здараецца, калі вы ўпершыню ўваходзіце ў сістэму на камп'ютары.\n\n"
+"Камп'ютар падаў наступны ідэнтыфікатар: \"%s\". Калі вы хочаце ўпэўніцца ў бяспечнасці гэтага дзеяння, звярніцеся да свайго сістэмнага адміністратара."
 
 #: daemon/gvfsbackendsftp.c:1299
 #, c-format
 msgid "The host key for “%s” differs from the key for the IP address “%s”\n"
 "If you want to be absolutely sure it is safe to continue, contact the system administrator."
-msgstr ""
+msgstr "Ключ для хоста \"%s\" адрозніваецца ад ключа IP-адраса \"%s\"\n"
+"Калі вы хочаце ўпэўніцца ў бяспечнасці гэтага дзеяння, звярніцеся да свайго сістэмнага адміністратара."
 
 #: daemon/gvfsbackendsftp.c:1390
 msgid "The connection is closed (the underlying SSH process exited)"
-msgstr ""
+msgstr "Злучэнне закрыта (адпаведны працэс SSH завершаны)"
 
 #: daemon/gvfsbackendsftp.c:1391
 msgid "Internal error: Unknown Error"
-msgstr ""
+msgstr "Унутраная памылка: невядомая памылка"
 
 #: daemon/gvfsbackendsftp.c:1905 daemon/gvfsbackendsftp.c:1932
 msgid "Protocol error"
-msgstr ""
+msgstr "Памылка пратакола"
 
 #: daemon/gvfsbackendsftp.c:2047
 msgid "Unable to find supported SSH command"
-msgstr ""
+msgstr "Не атрымалася знайсці загад SSH, які падтрымліваецца"
 
 #: daemon/gvfsbackendsftp.c:2154
 #| msgid "Unknown error."
 msgid "Unknown reason"
-msgstr ""
+msgstr "Невядомая прычына"
 
 #: daemon/gvfsbackendsftp.c:2589 daemon/gvfsbackendsmb.c:1372
 #: daemon/gvfsdaemonutils.c:140
 msgid " (invalid encoding)"
-msgstr ""
+msgstr " (хібнае кадаванне)"
 
 #. Translators: This is the name of the root of an SFTP share, like "/ on <hostname>"
 #: daemon/gvfsbackendsftp.c:2601 daemon/gvfsftpdircache.c:431
 #, c-format
 msgid "/ on %s"
-msgstr ""
+msgstr "/ на %s"
 
 #: daemon/gvfsbackendsftp.c:2674
 msgid "Failure"
-msgstr ""
+msgstr "Няўдача"
 
 #: daemon/gvfsbackendsftp.c:3086
 #, c-format
 msgid "Error creating backup file: %s"
-msgstr ""
+msgstr "Падчас стварэння рэзервовай копіі файла адбылася памылка: %s"
 
 #: daemon/gvfsbackendsftp.c:3653 daemon/gvfsbackendsftp.c:3829
 msgid "backups not supported yet"
@@ -1676,143 +1680,143 @@ msgstr ""
 
 #: daemon/gvfsbackendsftp.c:5242
 msgid "Value out of range, sftp only supports 32bit timestamps"
-msgstr ""
+msgstr "Значэнне па-за дыяпазонам, sftp падтрымлівае толькі 32-бітавыя часавыя адбіткі"
 
 #: daemon/gvfsbackendsftp.c:5317 daemon/gvfsbackendsmb.c:1708
 msgid "Invalid attribute type (uint64 expected)"
-msgstr ""
+msgstr "Хібны тып атрыбута (чакаўся uint64)"
 
 #. translators: %s is a server name
 #: daemon/gvfsbackendsmbbrowse.c:371
 #, c-format
 msgid "Password required for %s"
-msgstr ""
+msgstr "Патрабуецца пароль для %s"
 
 #: daemon/gvfsbackendsmbbrowse.c:801 daemon/gvfsbackendsmbbrowse.c:840
 #: daemon/gvfsbackendsmb.c:394 daemon/gvfsbackendsmb.c:424
 #: daemon/gvfsbackendsmb.c:605
 #, c-format
 msgid "Internal Error (%s)"
-msgstr ""
+msgstr "Унутраная памылка (%s)"
 
 #. translators: Name for the location that lists the smb shares
 #. availible on a server (%s is the name of the server)
 #: daemon/gvfsbackendsmbbrowse.c:867
 #, c-format
 msgid "Windows shares on %s"
-msgstr ""
+msgstr "Супольныя рэсурсы Windows на %s"
 
 #. translators: We tried to mount a windows (samba) share, but failed
 #: daemon/gvfsbackendsmbbrowse.c:968
 #, c-format
 msgid "Failed to retrieve share list from server: %s"
-msgstr ""
+msgstr "Не ўдалося атрымаць спіс супольных рэсурсаў з сервера: %s"
 
 #: daemon/gvfsbackendsmbbrowse.c:1494
 msgid "Windows Network File System Service"
-msgstr ""
+msgstr "Файлавая служба сеткі Windows"
 
 #. translators: First %s is a share name, second is a server name
 #: daemon/gvfsbackendsmb.c:259
 #, c-format
 msgid "Password required for share %s on %s"
-msgstr ""
+msgstr "Патрабуецца пароль для рэсурса %s на %s"
 
 #. translators: We tried to mount a windows (samba) share, but failed
 #: daemon/gvfsbackendsmb.c:529
 #, c-format
 msgid "Failed to mount Windows share: %s"
-msgstr ""
+msgstr "Не атрымалася прымантаваць супольны рэсурс Windows: %s"
 
 #: daemon/gvfsbackendsmb.c:1299
 #, c-format
 msgid "Backup file creation failed: %s"
-msgstr ""
+msgstr "Не атрымалася стварыць рэзервовую копію файла: %s"
 
 #: daemon/gvfsbackendsmb.c:1877
 #| msgid "Can't rename file, filename already exists"
 msgid "Can’t rename file, filename already exists"
-msgstr ""
+msgstr "Не атрымалася змяніць назву файла, бо файл з такой назвай ужо існуе"
 
 #: daemon/gvfsbackendsmb.c:1928
 #, c-format
 msgid "Error deleting file: %s"
-msgstr ""
+msgstr "Падчас выдалення файла адбылася памылка: %s"
 
 #: daemon/gvfsbackendsmb.c:2002
 #, c-format
 msgid "Error moving file: %s"
-msgstr ""
+msgstr "Падчас перамяшчэння файла адбылася памылка: %s"
 
 #: daemon/gvfsbackendsmb.c:2074
 #, c-format
 msgid "Error removing target file: %s"
-msgstr ""
+msgstr "Падчас выдалення мэтавага файла адбылася памылка: %s"
 
 #: daemon/gvfsbackendsmb.c:2098
 #| msgid "Can't recursively move directory"
 msgid "Can’t recursively move directory"
-msgstr ""
+msgstr "Не атрымалася рэкурсіўна перамясціць каталог"
 
 #: daemon/gvfsbackendsmb.c:2144
 msgid "Windows Shares File System Service"
-msgstr ""
+msgstr "Файлавая служба супольных рэсурсаў Windows"
 
 #: daemon/gvfsbackendtrash.c:402 daemon/gvfsbackendtrash.c:461
 msgid "The trash folder may not be deleted"
-msgstr ""
+msgstr "Немагчыма выдаліць каталог сметніцы"
 
 #: daemon/gvfsbackendtrash.c:422 daemon/gvfsbackendtrash.c:478
 msgid "Items in the trash may not be modified"
-msgstr ""
+msgstr "Немагчыма змяняць змесціва сметніцы"
 
 #. Translators: this is the display name of the backend
 #. translators: This is the name of the backend
 #: daemon/gvfsbackendtrash.c:780 daemon/gvfsbackendtrash.c:895
 msgid "Trash"
-msgstr ""
+msgstr "Сметніца"
 
 #: daemon/gvfschannel.c:339
 msgid "Channel blocked"
-msgstr ""
+msgstr "Канал заблакаваны"
 
 #: daemon/gvfsdaemonutils.c:257
 msgid "The signing certificate authority is not known."
-msgstr ""
+msgstr "Цэнтр падпісання сертыфіката невядомы."
 
 #: daemon/gvfsdaemonutils.c:259
 msgid "The certificate does not match the identity of the site."
-msgstr ""
+msgstr "Сертыфікат не адпавядае ідэнтыфікатару пляцоўкі."
 
 #: daemon/gvfsdaemonutils.c:261
 #| msgid "The certificate's activation time is in the future."
 msgid "The certificate’s activation time is in the future."
-msgstr ""
+msgstr "Час актывацыі сертыфіката яшчэ не настаў."
 
 #: daemon/gvfsdaemonutils.c:263
 msgid "The certificate has expired."
-msgstr ""
+msgstr "Сертыфікат састарэў."
 
 #: daemon/gvfsdaemonutils.c:265
 msgid "The certificate has been revoked."
-msgstr ""
+msgstr "Сертыфікат быў адкліканы."
 
 #: daemon/gvfsdaemonutils.c:267
 #| msgid "The certificate's algorithm is considered insecure."
 msgid "The certificate’s algorithm is considered insecure."
-msgstr ""
+msgstr "Алгарытм сертыфіката лічыцца небяспечным."
 
 #: daemon/gvfsdaemonutils.c:269
 msgid "Error occurred when validating the certificate."
-msgstr ""
+msgstr "Падчас праверкі сертыфіката адбылася памылка."
 
 #: daemon/gvfsdaemonutils.c:331
 msgid "Yes"
-msgstr ""
+msgstr "Так"
 
 #: daemon/gvfsdaemonutils.c:331
 msgid "No"
-msgstr ""
+msgstr "Не"
 
 #: daemon/gvfsdaemonutils.c:341
 #, c-format
@@ -1825,191 +1829,194 @@ msgstr ""
 msgid "The site’s identity can’t be verified:%s\n\n"
 "%s\n\n"
 "Are you really sure you would like to continue?"
-msgstr ""
+msgstr "Немагчыма праверыць сапраўднасць пляцоўкі: %s\n\n"
+"%s\n\n"
+"Сапраўды хочаце працягнуць?"
 
 #: daemon/gvfsftpconnection.c:211
 msgid "Unexpected end of stream"
-msgstr ""
+msgstr "Нечаканы канец струменя"
 
 #: daemon/gvfsftpconnection.c:227 daemon/gvfsftpconnection.c:240
 #: daemon/gvfsftptask.c:451 daemon/gvfsftptask.c:879
 msgid "Invalid reply"
-msgstr ""
+msgstr "Хібны адказ"
 
 #: daemon/gvfsftpconnection.c:478
 msgid "Failed to create active FTP connection. Maybe your router does not support this?"
-msgstr ""
+msgstr "Не атрымалася наладзіць актыўнае злучэнне FTP. Магчыма, ваш маршрутызатар не падтрымлівае гэтага."
 
 #: daemon/gvfsftpconnection.c:485
 msgid "Failed to create active FTP connection."
-msgstr ""
+msgstr "Не атрымалася наладзіць актыўнае злучэнне FTP."
 
 #: daemon/gvfsftpfile.c:170
 msgid "Filename contains invalid characters."
-msgstr ""
+msgstr "Назва файла змяшчае хібныя сімвалы."
 
 #: daemon/gvfsftptask.c:292
 msgid "The FTP server is busy. Try again later"
-msgstr ""
+msgstr "Сервер FTP заняты. Паўтарыце спробу пазней"
 
 #: daemon/gvfsftptask.c:298
 msgid "Backend currently unmounting"
-msgstr ""
+msgstr "Рухавік адмантоўваецца"
 
 #: daemon/gvfsftptask.c:395
 msgid "Accounts are unsupported"
-msgstr ""
+msgstr "Акаўнты не падтрымліваюцца"
 
 #: daemon/gvfsftptask.c:403
 msgid "Cannot open data connection. Maybe your firewall prevents this?"
-msgstr ""
+msgstr "Не атрымалася адкрыць злучэнне для перадачы даных. Магчыма, гэтую аперацыю забараніў ваш брандмаўэр?"
 
 #: daemon/gvfsftptask.c:407
 msgid "Data connection closed"
-msgstr ""
+msgstr "Злучэнне для перадачы даных закрыта"
 
 #: daemon/gvfsftptask.c:414 daemon/gvfsftptask.c:418
 msgid "Operation failed"
-msgstr ""
+msgstr "Не атрымалася выканаць аперацыю"
 
 #: daemon/gvfsftptask.c:423
 msgid "No space left on server"
-msgstr ""
+msgstr "На серверы не засталося вольнай прасторы"
 
 #: daemon/gvfsftptask.c:435
 msgid "Unsupported network protocol"
-msgstr ""
+msgstr "Гэты сеткавы пратакол не падтрымліваецца"
 
 #: daemon/gvfsftptask.c:443
 msgid "Page type unknown"
-msgstr ""
+msgstr "Невядомы тып старонкі"
 
 #: daemon/gvfsftptask.c:447
 msgid "Invalid filename"
-msgstr ""
+msgstr "Хібная назва файла"
 
 #: daemon/gvfshttpinputstream.c:293
 msgid "Error seeking in stream"
-msgstr ""
+msgstr "Памылка пераходу ў струмені"
 
 #: daemon/gvfsjobmakesymlink.c:111
 msgid "Symlinks not supported by backend"
-msgstr ""
+msgstr "Рухавік не падтрымлівае сімвалічных спасылак"
 
 #: daemon/gvfsjobsetattribute.c:99
 msgid "Invalid dbus message"
-msgstr ""
+msgstr "Хібнае паведамленне D-Bus"
 
 #: daemon/gvfsjobunmount.c:123
 #, c-format
 msgid "%s has been unmounted\n"
-msgstr ""
+msgstr "%s быў адмантаваны\n"
 
 #: daemon/gvfsjobunmount.c:141
 #, c-format
 msgid "Unmounting %s\n"
 "Please wait"
-msgstr ""
+msgstr "Адмантоўванне %s\n"
+"Пачакайце"
 
 #: daemon/main.c:149 metadata/meta-daemon.c:374
 msgid "Replace old daemon."
-msgstr ""
+msgstr "Замяніць стары дэман."
 
 #: daemon/main.c:150
 #| msgid "Don't start fuse."
 msgid "Don’t start fuse."
-msgstr ""
+msgstr "Не запускаць fuse."
 
 #: daemon/main.c:151
 msgid "Enable debug output."
-msgstr ""
+msgstr "Уключыць адладачны вывад."
 
 #: daemon/main.c:152 metadata/meta-daemon.c:375
 msgid "Show program version."
-msgstr ""
+msgstr "Паказаць версію праграмы."
 
 #: daemon/main.c:168
 msgid "GVFS Daemon"
-msgstr ""
+msgstr "Дэман GVFS"
 
 #: daemon/main.c:171
 msgid "Main daemon for GVFS"
-msgstr ""
+msgstr "Галоўны дэман GVFS"
 
 #. Translators: the first %s is the application name,
 #. the second %s is the error message
 #: daemon/main.c:188 metadata/meta-daemon.c:401
 #, c-format
 msgid "%s: %s"
-msgstr ""
+msgstr "%s: %s"
 
 #: daemon/main.c:190 metadata/meta-daemon.c:403
 #, c-format
 #| msgid "Try \"%s --help\" for more information."
 msgid "Try “%s --help” for more information."
-msgstr ""
+msgstr "Каб атрымаць больш інфармацыі, выкарыстайце \"%s --help\"."
 
 #: daemon/mount.c:711
 #, c-format
 msgid "Automount failed: %s"
-msgstr ""
+msgstr "Не атрымалася аўтаматычна прымантаваць: %s"
 
 #: daemon/mount.c:755 daemon/mount.c:831
 msgid "The specified location is not mounted"
-msgstr ""
+msgstr "Вызначаны адрас не прымантаваны"
 
 #: daemon/mount.c:760
 msgid "The specified location is not supported"
-msgstr ""
+msgstr "Вызначаны адрас не падтрымліваецца"
 
 #: daemon/mount.c:943
 msgid "Location is already mounted"
-msgstr ""
+msgstr "Адрас ўжо прымантаваны"
 
 #: daemon/mount.c:952
 msgid "Location is not mountable"
-msgstr ""
+msgstr "Адрас не мантавальны"
 
 #: daemon/org.gtk.vfs.file-operations.policy.in.in:12
 #: daemon/org.gtk.vfs.file-operations.policy.in.in:23
 msgid "Perform file operations"
-msgstr ""
+msgstr "Выканаць файлавыя аперацыі"
 
 #: daemon/org.gtk.vfs.file-operations.policy.in.in:13
 #: daemon/org.gtk.vfs.file-operations.policy.in.in:24
 msgid "Authentication is required to perform file operations"
-msgstr ""
+msgstr "Для выканання аперацый з файламі патрабуецца аўтэнтыфікацыя"
 
 #: metadata/meta-daemon.c:170 metadata/meta-daemon.c:246
 #: metadata/meta-daemon.c:282
 #, c-format
 #| msgid "Can't find metadata file %s"
 msgid "Can’t find metadata file %s"
-msgstr ""
+msgstr "Не атрымалася знайсці файл метаданых %s"
 
 #: metadata/meta-daemon.c:188 metadata/meta-daemon.c:200
 msgid "Unable to set metadata key"
-msgstr ""
+msgstr "Немагчыма вызначыць ключ метаданых"
 
 #: metadata/meta-daemon.c:210
 msgid "Unable to unset metadata key"
-msgstr ""
+msgstr "Немагчыма прыбраць ключ метаданых"
 
 #: metadata/meta-daemon.c:256
 msgid "Unable to remove metadata keys"
-msgstr ""
+msgstr "Немагчыма выдаліць ключы метаданых"
 
 #: metadata/meta-daemon.c:293
 msgid "Unable to move metadata keys"
-msgstr ""
+msgstr "Немагчыма перамясціць ключы метаданых"
 
 #: metadata/meta-daemon.c:385
 msgid "GVFS Metadata Daemon"
-msgstr ""
+msgstr "Дэман метаданых GVFS"
 
 #: metadata/meta-daemon.c:388
 msgid "Metadata daemon for GVFS"
-msgstr ""
+msgstr "Дэман метаданых GVFS"
 
 #: monitor/gdu/gdu-volume-monitor-daemon.c:40
 msgid "GVfs GDU Volume Monitor"
@@ -2022,15 +2029,15 @@ msgstr ""
 #: monitor/gdu/ggdudrive.c:258 monitor/udisks2/gvfsudisks2drive.c:290
 #, c-format
 msgid "Unnamed Drive (%s)"
-msgstr ""
+msgstr "Прылада без назвы (%s)"
 
 #: monitor/gdu/ggdudrive.c:260 monitor/udisks2/gvfsudisks2drive.c:292
 msgid "Unnamed Drive"
-msgstr ""
+msgstr "Прылада без назвы"
 
 #: monitor/gdu/ggdudrive.c:561 monitor/udisks2/gvfsudisks2drive.c:624
 msgid "Failed to eject medium; one or more volumes on the medium are busy."
-msgstr ""
+msgstr "Не атрымалася выняць носьбіт; адзін альбо некалькі тамоў на ім выкарыстоўваюцца."
 
 #: monitor/gdu/ggdudrive.c:1017
 msgid "Start drive in degraded mode?\n"
@@ -2043,7 +2050,7 @@ msgstr ""
 
 #: monitor/gdu/ggdumount.c:857 monitor/udisks2/gvfsudisks2mount.c:640
 msgid "One or more programs are preventing the unmount operation."
-msgstr ""
+msgstr "Адна альбо некалькі праграм не дазваляюць адмантаваць."
 
 #. Translators: can't get block device with unencrypted data to unmount
 #: monitor/gdu/ggdumount.c:986
@@ -2088,22 +2095,22 @@ msgstr ""
 #: monitor/goa/goavolume.c:208 monitor/goa/goavolume.c:247
 #, c-format
 msgid "Failed to get org.gnome.OnlineAccounts.Files for %s"
-msgstr ""
+msgstr "Не ўдалося атрымаць org.gnome.OnlineAccounts.Files для %s"
 
 #: monitor/goa/goavolume.c:278
 #, c-format
 msgid "Invalid credentials for %s"
-msgstr ""
+msgstr "Хібныя ўліковыя даныя для доступу да %s"
 
 #: monitor/goa/goavolume.c:311
 #, c-format
 msgid "Unsupported authentication method for %s"
-msgstr ""
+msgstr "Метад аўтэнтыфікацыі не падтрымліваецца для %s"
 
 #: monitor/proxy/gvfsproxyvolumemonitordaemon.c:1037
 #| msgid "The specified location is not mounted"
 msgid "The given mount was not found"
-msgstr ""
+msgstr "Пададзены пункт мантавання не знойдзены"
 
 #: monitor/proxy/gvfsproxyvolumemonitordaemon.c:1045
 #: monitor/proxy/gvfsproxyvolumemonitordaemon.c:1224
@@ -2113,17 +2120,17 @@ msgstr ""
 #: monitor/proxy/gvfsproxyvolumemonitordaemon.c:1648
 #| msgid "Location is already mounted"
 msgid "An operation is already pending"
-msgstr ""
+msgstr "Аперацыя ўжо чакае"
 
 #: monitor/proxy/gvfsproxyvolumemonitordaemon.c:1128
 #| msgid "error starting mount daemon"
 msgid "No outstanding mount operation"
-msgstr ""
+msgstr "Невыкананых аперацый мантавання няма"
 
 #: monitor/proxy/gvfsproxyvolumemonitordaemon.c:1216
 #| msgid "No storage volumes found"
 msgid "The given volume was not found"
-msgstr ""
+msgstr "Пададзены том не знойдзены"
 
 #: monitor/proxy/gvfsproxyvolumemonitordaemon.c:1323
 #: monitor/proxy/gvfsproxyvolumemonitordaemon.c:1430
@@ -2131,26 +2138,27 @@ msgstr ""
 #: monitor/proxy/gvfsproxyvolumemonitordaemon.c:1640
 #| msgid "Device not found"
 msgid "The given drive was not found"
-msgstr ""
+msgstr "Пададзеная прылада не знойдзеная"
 
 #. Note that the GUI (Shell, Files) currently use the term
 #. * "Eject" for both GDrive.stop() and GDrive.eject().
 #.
 #: monitor/udisks2/gvfsudisks2mount.c:750
 msgid "Eject Anyway"
-msgstr ""
+msgstr "Усё роўна выняць"
 
 #: monitor/udisks2/gvfsudisks2utils.c:339
 #, c-format
 #| msgid "Timed out running command-line `%s'"
 msgid "Timed out running command-line “%s”"
-msgstr ""
+msgstr "Тэрмін чакання запуску загаднага радка \"%s\" сыйшоў"
 
 #: monitor/udisks2/gvfsudisks2utils.c:641
 #, c-format
 msgid "Unmounting %s\n"
 "Disconnecting from filesystem."
-msgstr ""
+msgstr "Адмантоўванне %s\n"
+"Адлучэнне ад файлавай сістэмы."
 
 #: monitor/udisks2/gvfsudisks2utils.c:643
 #, c-format
@@ -2159,19 +2167,22 @@ msgstr ""
 #| "Don't unplug until finished"
 msgid "Writing data to %s\n"
 "Device should not be unplugged."
-msgstr ""
+msgstr "Запіс даных у %s\n"
+"Не адлучайце прыладу."
 
 #: monitor/udisks2/gvfsudisks2utils.c:782
 #, c-format
 msgid "%s unmounted\n"
 "Filesystem has been disconnected."
-msgstr ""
+msgstr "%s адмантавана\n"
+"Файлавая сістэма адлучаная."
 
 #: monitor/udisks2/gvfsudisks2utils.c:784
 #, c-format
 msgid "%s can be safely unplugged\n"
 "Device can be removed."
-msgstr ""
+msgstr "%s можна бяспечна выняць\n"
+"Прыладу можна адлучыць."
 
 #. Translators: This is used for encrypted volumes.
 #. *              The first %s is the formatted size (e.g. "42.0 MB").
@@ -2179,7 +2190,7 @@ msgstr ""
 #: monitor/udisks2/gvfsudisks2volume.c:299
 #, c-format
 msgid "%s Encrypted"
-msgstr ""
+msgstr "%s зашыфравана"
 
 #. Translators: This is used for volume with no filesystem label.
 #. *              The first %s is the formatted size (e.g. "42.0 MB").
@@ -2187,42 +2198,43 @@ msgstr ""
 #: monitor/udisks2/gvfsudisks2volume.c:311
 #, c-format
 msgid "%s Volume"
-msgstr ""
+msgstr "Том %s"
 
 #. Translators: Name used for volume
 #: monitor/udisks2/gvfsudisks2volume.c:547
 msgid "Volume"
-msgstr ""
+msgstr "Том"
 
 #: monitor/udisks2/gvfsudisks2volume.c:1096
 #, c-format
 msgid "Error storing passphrase in keyring (%s)"
-msgstr ""
+msgstr "Падчас захавання парольнай фразы ў вязцы ключоў (%s) адбылася памылка"
 
 #: monitor/udisks2/gvfsudisks2volume.c:1129
 #, c-format
 msgid "Error deleting invalid passphrase from keyring (%s)"
-msgstr ""
+msgstr "Падчас выдалення хібнай парольнай фразы з вязкі ключоў (%s) адбылася памылка"
 
 #: monitor/udisks2/gvfsudisks2volume.c:1191
 msgid "The unlocked device does not have a recognizable file system on it"
-msgstr ""
+msgstr "Не атрымалася вызначыць файлавую сістэму на разблакаванай прыладзе"
 
 #: monitor/udisks2/gvfsudisks2volume.c:1219
 #, c-format
 msgid "Encryption passphrase for %s"
-msgstr ""
+msgstr "Парольная фраза шыфравання для %s"
 
 #: monitor/udisks2/gvfsudisks2volume.c:1418
 msgid "A passphrase is required to access the volume"
-msgstr ""
+msgstr "Для доступу да тома патрабуецца парольная фраза"
 
 #. Translators: This is the message shown to users
 #: monitor/udisks2/gvfsudisks2volume.c:1432
 #, c-format
 msgid "Enter a passphrase to unlock the volume\n"
 "The passphrase is needed to access encrypted data on %s."
-msgstr ""
+msgstr "Увядзіце парольную фразу, каб разблакаваць том.\n"
+"Для доступу да зашыфраваных даных на \"%s\" патрабуецца парольная фраза."
 
 #. Translators: this is used to describe the drive the encrypted media
 #. * is on - the first %s is the name (such as 'WD 2500JB External'), the
@@ -2231,11 +2243,11 @@ msgstr ""
 #: monitor/udisks2/gvfsudisks2volume.c:1595
 #, c-format
 msgid "%s (%s)"
-msgstr ""
+msgstr "%s (%s)"
 
 #: monitor/udisks2/udisks2volumemonitordaemon.c:40
 msgid "GVfs UDisks2 Volume Monitor"
-msgstr ""
+msgstr "Назіральнік за дыскавымі тамамі GVfs UDisks2"
 
 #~ msgid "Cannot connect to the system bus"
 #~ msgstr "Cannot connect to the system bus"
