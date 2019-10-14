@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: gnome-by\n"
 "Report-Msgid-Bugs-To: https://bugzilla.gnome.org/enter_bug.cgi?product=gvfs&keywords=I18N+L10N&component=general\n"
 "POT-Creation-Date: 2017-11-28 15:58+0000\n"
-"PO-Revision-Date: 2019-10-14 13:59\n"
+"PO-Revision-Date: 2019-10-14 14:20\n"
 "Last-Translator: Zmicer Turok (zmicer)\n"
 "Language-Team: Belarusian\n"
 "Language: be_BY\n"
@@ -2075,7 +2075,7 @@ msgstr "Дыскета"
 #| "The device \"%s\" contains encrypted data on partition %d."
 msgid "Enter a password to unlock the volume\n"
 "The device “%s” contains encrypted data on partition %d."
-msgstr ""
+msgstr "Увядзіце пароль, каб разблакаваць том. На прыладзе \"%s\" у раздзеле %d змяшчаюцца зашыфраваныя даныя."
 
 #: monitor/gdu/ggduvolume.c:1104
 #, c-format
@@ -2084,13 +2084,13 @@ msgstr ""
 #| "The device %s contains encrypted data."
 msgid "Enter a password to unlock the volume\n"
 "The device “%s” contains encrypted data."
-msgstr ""
+msgstr "Увядзіце пароль, каб разблакаваць том. На прыладзе \"%s\" змяшчаюцца зашыфраваныя даныя."
 
 #: monitor/gdu/ggduvolume.c:1111
 #, c-format
 msgid "Enter a password to unlock the volume\n"
 "The device %s contains encrypted data."
-msgstr ""
+msgstr "Увядзіце пароль, каб разблакаваць том. На прыладзе %s змяшчаюцца зашыфраваныя даныя."
 
 #: monitor/goa/goavolume.c:208 monitor/goa/goavolume.c:247
 #, c-format
