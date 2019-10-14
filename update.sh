@@ -56,7 +56,7 @@ url5=https://gitlab.gnome.org/GNOME/gcr/raw/master/po/en_GB.po
 url6=https://gitlab.gnome.org/GNOME/geary/blob/mainline/po/en_GB.po
 url7=https://gitlab.gnome.org/GNOME/gegl/raw/master/po/en_GB.po
 url8=https://gitlab.gnome.org/GNOME/glib-networking/raw/master/po/en_GB.po
-url9=
+url9=https://gitlab.gnome.org/GNOME/glib/raw/master/po/en_GB.po
 url10=https://gitlab.gnome.org/GNOME/gnome-disk-utility/raw/master/po/en_GB.po
 url11=https://gitlab.gnome.org/GNOME/gnome-keyring/raw/master/po/en_GB.po
 url12=https://gitlab.gnome.org/GNOME/gnome-menus/raw/master/po/en_GB.po
@@ -66,7 +66,7 @@ url15=https://gitlab.gnome.org/GNOME/gparted/raw/master/po/en_GB.po
 url16=https://gitlab.gnome.org/GNOME/gsettings-desktop-schemas/raw/master/po/en_GB.po
 url17=https://gitlab.gnome.org/GNOME/gspell/raw/master/po/en_GB.po
 url18=https://gitlab.gnome.org/Archive/gtk-engines/raw/master/po/en_GB.po
-url19=
+url19=https://gitlab.gnome.org/GNOME/gtk/raw/gtk-2-24/po/en_GB.po
 url20=https://gitlab.gnome.org/GNOME/gtk/raw/master/po/en_GB.po
 url21=https://gitlab.gnome.org/GNOME/gtk/raw/master/po-properties/en_GB.po
 url22=https://gitlab.gnome.org/GNOME/gtksourceview/raw/master/po/en_GB.po
@@ -80,7 +80,7 @@ url29=https://gitlab.gnome.org/GNOME/libgweather/raw/master/po-locations/en_GB.p
 url30=
 url31=https://gitlab.gnome.org/GNOME/libsecret/raw/master/po/en_GB.po
 url32=https://gitlab.gnome.org/GNOME/libsoup/raw/master/po/en_GB.po
-url33=
+url33=https://gitlab.gnome.org/GNOME/libwnck/raw/gnome-2-24/po/en_GB.po
 url34=https://gitlab.gnome.org/GNOME/libwnck/raw/master/po/en_GB.po
 url35=https://gitlab.gnome.org/GNOME/network-manager-applet/raw/master/po/en_GB.po
 url36=
@@ -88,7 +88,7 @@ url37=https://gitlab.gnome.org/GNOME/seahorse/raw/master/po/en_GB.po
 url38=https://l10n.gnome.org/POT/xdg-user-dirs-gtk.master/xdg-user-dirs-gtk.master.be.po
 url39=https://gitlab.gnome.org/GNOME/yelp/raw/master/po/en_GB.po
 url40=https://github.com/GNOME/yelp-xsl/raw/master/po/en_GB.po
-url41=
+url41=https://gitlab.gnome.org/GNOME/gtk/raw/gtk-2-24/po-properties/en_GB.po
 
 
 

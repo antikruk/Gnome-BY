@@ -19,27 +19,26 @@
 <title>po/en_GB.po · mainline · GNOME / Geary · GitLab</title>
 <meta content="Geary is an email application built around conversations, for the GNOME 3 desktop." name="description">
 <link rel="shortcut icon" type="image/png" href="/uploads/-/system/appearance/favicon/1/GnomeLogoVertical.svg.png" id="favicon" data-original-href="/uploads/-/system/appearance/favicon/1/GnomeLogoVertical.svg.png" />
-<link rel="stylesheet" media="all" href="/assets/application-d56f0577fbbbd6f159e9be00b274270cb25b60a7809871a6a572783b533f5a3c.css" />
+<link rel="stylesheet" media="all" href="/assets/application-def1880ada798c68ee010ba2193f53a2c65a8981871a634ae7e18ccdcd503fa3.css" />
 <link rel="stylesheet" media="print" href="/assets/print-74c3df10dad473d66660c828e3aa54ca3bfeac6d8bb708643331403fe7211e60.css" />
-
 
 
 <link rel="stylesheet" media="all" href="/assets/highlight/themes/white-3144068cf4f603d290f553b653926358ddcd02493b9728f62417682657fc58c0.css" />
 <script>
 //<![CDATA[
-window.gon={};gon.api_version="v4";gon.default_avatar_url="https://gitlab.gnome.org/assets/no_avatar-849f9c04a3a0d0cea2424ae97b27447dc64a7dbfae83c036c45b403392f0e8ba.png";gon.max_file_size=500;gon.asset_host=null;gon.webpack_public_path="/assets/webpack/";gon.relative_url_root="";gon.shortcuts_path="/help/shortcuts";gon.user_color_scheme="white";gon.gitlab_url="https://gitlab.gnome.org";gon.revision="09f8edbc29a";gon.gitlab_logo="/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png";gon.sprite_icons="/assets/icons-351e10820d76c3052c94570c89d3c67936a2915b1cc0b9c99b63885be7ff1961.svg";gon.sprite_file_icons="/assets/file_icons-7262fc6897e02f1ceaf8de43dc33afa5e4f9a2067f4f68ef77dcc87946575e9e.svg";gon.emoji_sprites_css_path="/assets/emoji_sprites-289eccffb1183c188b630297431be837765d9ff4aed6130cf738586fb307c170.css";gon.test_env=false;gon.suggested_label_colors={"#0033CC":"UA blue","#428BCA":"Moderate blue","#44AD8E":"Lime green","#A8D695":"Feijoa","#5CB85C":"Slightly desaturated green","#69D100":"Bright green","#004E00":"Very dark lime green","#34495E":"Very dark desaturated blue","#7F8C8D":"Dark grayish cyan","#A295D6":"Slightly desaturated blue","#5843AD":"Dark moderate blue","#8E44AD":"Dark moderate violet","#FFECDB":"Very pale orange","#AD4363":"Dark moderate pink","#D10069":"Strong pink","#CC0033":"Strong red","#FF0000":"Pure red","#D9534F":"Soft red","#D1D100":"Strong yellow","#F0AD4E":"Soft orange","#AD8D43":"Dark moderate orange"};gon.first_day_of_week=0;gon.ee=false;
+window.gon={};gon.api_version="v4";gon.default_avatar_url="https://gitlab.gnome.org/assets/no_avatar-849f9c04a3a0d0cea2424ae97b27447dc64a7dbfae83c036c45b403392f0e8ba.png";gon.max_file_size=500;gon.asset_host=null;gon.webpack_public_path="/assets/webpack/";gon.relative_url_root="";gon.shortcuts_path="/help/shortcuts";gon.user_color_scheme="white";gon.gitlab_url="https://gitlab.gnome.org";gon.revision="2417d5becc7";gon.gitlab_logo="/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png";gon.sprite_icons="/assets/icons-4009ebf96719f129f954d643e65f87152b5e6c4a4917130c4a696beb54af9949.svg";gon.sprite_file_icons="/assets/file_icons-7262fc6897e02f1ceaf8de43dc33afa5e4f9a2067f4f68ef77dcc87946575e9e.svg";gon.emoji_sprites_css_path="/assets/emoji_sprites-289eccffb1183c188b630297431be837765d9ff4aed6130cf738586fb307c170.css";gon.test_env=false;gon.suggested_label_colors={"#0033CC":"UA blue","#428BCA":"Moderate blue","#44AD8E":"Lime green","#A8D695":"Feijoa","#5CB85C":"Slightly desaturated green","#69D100":"Bright green","#004E00":"Very dark lime green","#34495E":"Very dark desaturated blue","#7F8C8D":"Dark grayish cyan","#A295D6":"Slightly desaturated blue","#5843AD":"Dark moderate blue","#8E44AD":"Dark moderate violet","#FFECDB":"Very pale orange","#AD4363":"Dark moderate pink","#D10069":"Strong pink","#CC0033":"Strong red","#FF0000":"Pure red","#D9534F":"Soft red","#D1D100":"Strong yellow","#F0AD4E":"Soft orange","#AD8D43":"Dark moderate orange"};gon.first_day_of_week=0;gon.ee=false;
 //]]>
 </script>
 
 
-<script src="/assets/webpack/runtime.1d0a57b5.bundle.js" defer="defer"></script>
-<script src="/assets/webpack/main.69074579.chunk.js" defer="defer"></script>
-<script src="/assets/webpack/commons~pages.admin.clusters~pages.admin.clusters.destroy~pages.admin.clusters.edit~pages.admin.clus~0bac9ec4.1ad4f84a.chunk.js" defer="defer"></script>
-<script src="/assets/webpack/commons~pages.groups.milestones.edit~pages.groups.milestones.new~pages.projects.blame.show~pages.pro~bedd5722.6aff089d.chunk.js" defer="defer"></script>
-<script src="/assets/webpack/pages.projects.blob.show.2fad5303.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/runtime.15f5b13a.bundle.js" defer="defer"></script>
+<script src="/assets/webpack/main.f8ac0dda.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/commons~pages.admin.clusters~pages.admin.clusters.destroy~pages.admin.clusters.edit~pages.admin.clus~17e57b7f.1e0b3713.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/commons~pages.groups.milestones.edit~pages.groups.milestones.new~pages.projects.blame.show~pages.pro~d3e579ac.0dc404e7.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/pages.projects.blob.show.d9236e3f.chunk.js" defer="defer"></script>
 
 <meta name="csrf-param" content="authenticity_token" />
-<meta name="csrf-token" content="Tjg11gBLlC8DoMgMpqCa79CS7prv72JQIOVqsJqtOWybScPIa+SuOXlBFomlVYoyjDB9+zTKbhu2wuOnXKpT1g==" />
+<meta name="csrf-token" content="UvUW2mOkmEjQsWgT9N6RztJ2e6Gc8qL8Ck9BPbaA7ju5VQocMPC6LEtPLQvgEM+XlOucgVGY/WrZM4SpGYoTjA==" />
 
 <meta content="origin-when-cross-origin" name="referrer">
 <meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport">
@@ -106,8 +105,8 @@ Loading...
 </ul>
 </div><div class="dropdown-loading"><i aria-hidden="true" data-hidden="true" class="fa fa-spinner fa-spin"></i></div>
 </div>
-<svg class="s16 search-icon"><use xlink:href="/assets/icons-351e10820d76c3052c94570c89d3c67936a2915b1cc0b9c99b63885be7ff1961.svg#search"></use></svg>
-<svg class="s16 clear-icon js-clear-input"><use xlink:href="/assets/icons-351e10820d76c3052c94570c89d3c67936a2915b1cc0b9c99b63885be7ff1961.svg#close"></use></svg>
+<svg class="s16 search-icon"><use xlink:href="/assets/icons-4009ebf96719f129f954d643e65f87152b5e6c4a4917130c4a696beb54af9949.svg#search"></use></svg>
+<svg class="s16 clear-icon js-clear-input"><use xlink:href="/assets/icons-4009ebf96719f129f954d643e65f87152b5e6c4a4917130c4a696beb54af9949.svg#close"></use></svg>
 </div>
 </div>
 </div>
@@ -116,17 +115,16 @@ Loading...
 <input type="hidden" name="search_code" id="search_code" value="true" />
 <input type="hidden" name="repository_ref" id="repository_ref" value="mainline" />
 <input type="hidden" name="nav_source" id="nav_source" value="navbar" />
-
 <div class="search-autocomplete-opts hide" data-autocomplete-path="/search/autocomplete" data-autocomplete-project-id="1894" data-autocomplete-project-ref="mainline"></div>
 </form></div>
 
 </li>
 <li class="nav-item d-inline-block d-sm-none d-md-none">
-<a title="Search" aria-label="Search" data-toggle="tooltip" data-placement="bottom" data-container="body" href="/search?project_id=1894"><svg class="s16"><use xlink:href="/assets/icons-351e10820d76c3052c94570c89d3c67936a2915b1cc0b9c99b63885be7ff1961.svg#search"></use></svg>
+<a title="Search" aria-label="Search" data-toggle="tooltip" data-placement="bottom" data-container="body" href="/search?project_id=1894"><svg class="s16"><use xlink:href="/assets/icons-4009ebf96719f129f954d643e65f87152b5e6c4a4917130c4a696beb54af9949.svg#search"></use></svg>
 </a></li>
 <li class="nav-item header-help dropdown">
-<a class="header-help-dropdown-toggle" data-toggle="dropdown" href="/help"><svg class="s16"><use xlink:href="/assets/icons-351e10820d76c3052c94570c89d3c67936a2915b1cc0b9c99b63885be7ff1961.svg#question"></use></svg>
-<svg class="caret-down"><use xlink:href="/assets/icons-351e10820d76c3052c94570c89d3c67936a2915b1cc0b9c99b63885be7ff1961.svg#angle-down"></use></svg>
+<a class="header-help-dropdown-toggle" data-toggle="dropdown" href="/help"><svg class="s16"><use xlink:href="/assets/icons-4009ebf96719f129f954d643e65f87152b5e6c4a4917130c4a696beb54af9949.svg#question"></use></svg>
+<svg class="caret-down"><use xlink:href="/assets/icons-4009ebf96719f129f954d643e65f87152b5e6c4a4917130c4a696beb54af9949.svg#angle-down"></use></svg>
 </a><div class="dropdown-menu dropdown-menu-right">
 <ul>
 <li>
@@ -158,8 +156,8 @@ Loading...
 </div>
 <button class="navbar-toggler d-block d-sm-none" type="button">
 <span class="sr-only">Toggle navigation</span>
-<svg class="s12 more-icon js-navbar-toggle-right"><use xlink:href="/assets/icons-351e10820d76c3052c94570c89d3c67936a2915b1cc0b9c99b63885be7ff1961.svg#ellipsis_h"></use></svg>
-<svg class="s12 close-icon js-navbar-toggle-left"><use xlink:href="/assets/icons-351e10820d76c3052c94570c89d3c67936a2915b1cc0b9c99b63885be7ff1961.svg#close"></use></svg>
+<svg class="s12 more-icon js-navbar-toggle-right"><use xlink:href="/assets/icons-4009ebf96719f129f954d643e65f87152b5e6c4a4917130c4a696beb54af9949.svg#ellipsis_h"></use></svg>
+<svg class="s12 close-icon js-navbar-toggle-left"><use xlink:href="/assets/icons-4009ebf96719f129f954d643e65f87152b5e6c4a4917130c4a696beb54af9949.svg#close"></use></svg>
 </button>
 </div>
 </div>
@@ -178,7 +176,7 @@ Geary
 </a></div>
 <ul class="sidebar-top-level-items">
 <li class="home"><a class="shortcuts-project rspec-project-link" data-qa-selector="project_link" href="/GNOME/geary"><div class="nav-icon-container">
-<svg><use xlink:href="/assets/icons-351e10820d76c3052c94570c89d3c67936a2915b1cc0b9c99b63885be7ff1961.svg#home"></use></svg>
+<svg><use xlink:href="/assets/icons-4009ebf96719f129f954d643e65f87152b5e6c4a4917130c4a696beb54af9949.svg#home"></use></svg>
 </div>
 <span class="nav-item-name">
 Project
@@ -195,7 +193,7 @@ Project
 </a></li>
 </ul>
 </li><li class="active"><a class="shortcuts-tree qa-project-menu-repo" href="/GNOME/geary/tree/mainline"><div class="nav-icon-container">
-<svg><use xlink:href="/assets/icons-351e10820d76c3052c94570c89d3c67936a2915b1cc0b9c99b63885be7ff1961.svg#doc-text"></use></svg>
+<svg><use xlink:href="/assets/icons-4009ebf96719f129f954d643e65f87152b5e6c4a4917130c4a696beb54af9949.svg#doc-text"></use></svg>
 </div>
 <span class="nav-item-name" id="js-onboarding-repo-link">
 Repository
@@ -216,26 +214,26 @@ Repository
 </a></li>
 </ul>
 </li><li class=""><a class="shortcuts-issues qa-issues-item" href="/GNOME/geary/issues"><div class="nav-icon-container">
-<svg><use xlink:href="/assets/icons-351e10820d76c3052c94570c89d3c67936a2915b1cc0b9c99b63885be7ff1961.svg#issues"></use></svg>
+<svg><use xlink:href="/assets/icons-4009ebf96719f129f954d643e65f87152b5e6c4a4917130c4a696beb54af9949.svg#issues"></use></svg>
 </div>
 <span class="nav-item-name" id="js-onboarding-issues-link">
 Issues
 </span>
 <span class="badge badge-pill count issue_counter">
-148
+151
 </span>
 </a><ul class="sidebar-sub-level-items">
 <li class="fly-out-top-item"><a href="/GNOME/geary/issues"><strong class="fly-out-top-item-name">
 Issues
 </strong>
 <span class="badge badge-pill count issue_counter fly-out-badge">
-148
+151
 </span>
 </a></li><li class="divider fly-out-top-item"></li>
 <li class=""><a title="Issues" href="/GNOME/geary/issues"><span>
 List
 </span>
-</a></li><li class=""><a title="Boards" href="/GNOME/geary/-/boards"><span>
+</a></li><li class=""><a title="Boards" data-qa-selector="issue_boards_link" href="/GNOME/geary/-/boards"><span>
 Boards
 </span>
 </a></li><li class=""><a title="Labels" class="qa-labels-link" href="/GNOME/geary/-/labels"><span>
@@ -247,24 +245,24 @@ Milestones
 </span>
 </a></li></ul>
 </li><li class=""><a class="shortcuts-merge_requests" data-qa-selector="merge_requests_link" href="/GNOME/geary/merge_requests"><div class="nav-icon-container">
-<svg><use xlink:href="/assets/icons-351e10820d76c3052c94570c89d3c67936a2915b1cc0b9c99b63885be7ff1961.svg#git-merge"></use></svg>
+<svg><use xlink:href="/assets/icons-4009ebf96719f129f954d643e65f87152b5e6c4a4917130c4a696beb54af9949.svg#git-merge"></use></svg>
 </div>
 <span class="nav-item-name" id="js-onboarding-mr-link">
 Merge Requests
 </span>
 <span class="badge badge-pill count merge_counter js-merge-counter">
-9
+10
 </span>
 </a><ul class="sidebar-sub-level-items is-fly-out-only">
 <li class="fly-out-top-item"><a href="/GNOME/geary/merge_requests"><strong class="fly-out-top-item-name">
 Merge Requests
 </strong>
 <span class="badge badge-pill count merge_counter js-merge-counter fly-out-badge">
-9
+10
 </span>
 </a></li></ul>
 </li><li class=""><a class="shortcuts-pipelines qa-link-pipelines rspec-link-pipelines" href="/GNOME/geary/pipelines"><div class="nav-icon-container">
-<svg><use xlink:href="/assets/icons-351e10820d76c3052c94570c89d3c67936a2915b1cc0b9c99b63885be7ff1961.svg#rocket"></use></svg>
+<svg><use xlink:href="/assets/icons-4009ebf96719f129f954d643e65f87152b5e6c4a4917130c4a696beb54af9949.svg#rocket"></use></svg>
 </div>
 <span class="nav-item-name" id="js-onboarding-pipelines-link">
 CI / CD
@@ -289,7 +287,7 @@ Charts
 </a></li></ul>
 </li>
 <li class=""><a href="/GNOME/geary/container_registry"><div class="nav-icon-container">
-<svg><use xlink:href="/assets/icons-351e10820d76c3052c94570c89d3c67936a2915b1cc0b9c99b63885be7ff1961.svg#package"></use></svg>
+<svg><use xlink:href="/assets/icons-4009ebf96719f129f954d643e65f87152b5e6c4a4917130c4a696beb54af9949.svg#package"></use></svg>
 </div>
 <span class="nav-item-name">
 Packages
@@ -303,7 +301,7 @@ Packages
 </a></li></ul>
 </li>
 <li class=""><a class="shortcuts-snippets" href="/GNOME/geary/snippets"><div class="nav-icon-container">
-<svg><use xlink:href="/assets/icons-351e10820d76c3052c94570c89d3c67936a2915b1cc0b9c99b63885be7ff1961.svg#snippet"></use></svg>
+<svg><use xlink:href="/assets/icons-4009ebf96719f129f954d643e65f87152b5e6c4a4917130c4a696beb54af9949.svg#snippet"></use></svg>
 </div>
 <span class="nav-item-name">
 Snippets
@@ -314,7 +312,7 @@ Snippets
 </strong>
 </a></li></ul>
 </li><li class=""><a title="Members" class="shortcuts-tree" href="/GNOME/geary/-/settings/members"><div class="nav-icon-container">
-<svg><use xlink:href="/assets/icons-351e10820d76c3052c94570c89d3c67936a2915b1cc0b9c99b63885be7ff1961.svg#users"></use></svg>
+<svg><use xlink:href="/assets/icons-4009ebf96719f129f954d643e65f87152b5e6c4a4917130c4a696beb54af9949.svg#users"></use></svg>
 </div>
 <span class="nav-item-name">
 Members
@@ -325,11 +323,11 @@ Members
 </strong>
 </a></li></ul>
 </li><a class="toggle-sidebar-button js-toggle-sidebar qa-toggle-sidebar rspec-toggle-sidebar" role="button" title="Toggle sidebar" type="button">
-<svg class="icon-angle-double-left"><use xlink:href="/assets/icons-351e10820d76c3052c94570c89d3c67936a2915b1cc0b9c99b63885be7ff1961.svg#angle-double-left"></use></svg>
-<svg class="icon-angle-double-right"><use xlink:href="/assets/icons-351e10820d76c3052c94570c89d3c67936a2915b1cc0b9c99b63885be7ff1961.svg#angle-double-right"></use></svg>
+<svg class="icon-angle-double-left"><use xlink:href="/assets/icons-4009ebf96719f129f954d643e65f87152b5e6c4a4917130c4a696beb54af9949.svg#angle-double-left"></use></svg>
+<svg class="icon-angle-double-right"><use xlink:href="/assets/icons-4009ebf96719f129f954d643e65f87152b5e6c4a4917130c4a696beb54af9949.svg#angle-double-right"></use></svg>
 <span class="collapse-text">Collapse sidebar</span>
 </a>
-<button name="button" type="button" class="close-nav-button"><svg class="s16"><use xlink:href="/assets/icons-351e10820d76c3052c94570c89d3c67936a2915b1cc0b9c99b63885be7ff1961.svg#close"></use></svg>
+<button name="button" type="button" class="close-nav-button"><svg class="s16"><use xlink:href="/assets/icons-4009ebf96719f129f954d643e65f87152b5e6c4a4917130c4a696beb54af9949.svg#close"></use></svg>
 <span class="collapse-text">Close sidebar</span>
 </button>
 <li class="hidden">
@@ -375,7 +373,7 @@ Activity
 <i aria-hidden="true" data-hidden="true" class="fa fa-bars"></i>
 </button><div class="breadcrumbs-links js-title-container">
 <ul class="list-unstyled breadcrumbs-list js-breadcrumbs-list">
-<li><a class="group-path breadcrumb-item-text js-breadcrumb-item-text " href="/GNOME"><img class="avatar-tile lazy" width="15" height="15" data-src="/uploads/-/system/group/avatar/8/gnomelogo.png" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />GNOME</a><svg class="s8 breadcrumbs-list-angle"><use xlink:href="/assets/icons-351e10820d76c3052c94570c89d3c67936a2915b1cc0b9c99b63885be7ff1961.svg#angle-right"></use></svg></li> <li><a href="/GNOME/geary"><img alt="Geary" class="avatar-tile lazy" width="15" height="15" data-src="/uploads/-/system/project/avatar/1894/geary-3-32-256-logo.png" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><span class="breadcrumb-item-text js-breadcrumb-item-text">Geary</span></a><svg class="s8 breadcrumbs-list-angle"><use xlink:href="/assets/icons-351e10820d76c3052c94570c89d3c67936a2915b1cc0b9c99b63885be7ff1961.svg#angle-right"></use></svg></li>
+<li><a class="group-path breadcrumb-item-text js-breadcrumb-item-text " href="/GNOME"><img class="avatar-tile lazy" width="15" height="15" data-src="/uploads/-/system/group/avatar/8/gnomelogo.png" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />GNOME</a><svg class="s8 breadcrumbs-list-angle"><use xlink:href="/assets/icons-4009ebf96719f129f954d643e65f87152b5e6c4a4917130c4a696beb54af9949.svg#angle-right"></use></svg></li> <li><a href="/GNOME/geary"><img alt="Geary" class="avatar-tile lazy" width="15" height="15" data-src="/uploads/-/system/project/avatar/1894/geary-3-32-256-logo.png" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><span class="breadcrumb-item-text js-breadcrumb-item-text">Geary</span></a><svg class="s8 breadcrumbs-list-angle"><use xlink:href="/assets/icons-4009ebf96719f129f954d643e65f87152b5e6c4a4917130c4a696beb54af9949.svg#angle-right"></use></svg></li>
 
 <li>
 <h2 class="breadcrumbs-sub-title"><a href="/GNOME/geary/blob/mainline/po/en_GB.po">Repository</a></h2>
@@ -386,15 +384,14 @@ Activity
 </div>
 </nav>
 
-<div class="flash-container flash-container-page">
-</div>
-
 <div class="d-flex"></div>
 </div>
-<div class=" ">
+<div class="container-fluid container-limited ">
 <div class="content" id="content-body">
+<div class="flash-container flash-container-page sticky">
+</div>
+
 <div class="js-signature-container" data-signatures-path="/GNOME/geary/commits/36f0b9ae05028405b042cfb892718ccdacdb4161/signatures"></div>
-<div class="container-fluid container-limited">
 
 <div class="tree-holder" id="tree-holder">
 <div class="nav-block">
@@ -431,7 +428,7 @@ Activity
 <a class="btn shortcuts-find-file" rel="nofollow" href="/GNOME/geary/find_file/mainline"><i aria-hidden="true" data-hidden="true" class="fa fa-search"></i>
 <span>Find file</span>
 </a>
-<div class="btn-group" role="group"><a class="btn js-blob-blame-link" href="/GNOME/geary/blame/mainline/po/en_GB.po">Blame</a><a class="btn" href="/GNOME/geary/commits/mainline/po/en_GB.po">History</a><a class="btn js-data-file-blob-permalink-url" href="/GNOME/geary/blob/14eb1a53da0132c94fce71b253db53710e4d2e6f/po/en_GB.po">Permalink</a></div>
+<div class="btn-group" role="group"><a class="btn js-blob-blame-link" href="/GNOME/geary/blame/mainline/po/en_GB.po">Blame</a><a class="btn" href="/GNOME/geary/commits/mainline/po/en_GB.po">History</a><a class="btn js-data-file-blob-permalink-url" href="/GNOME/geary/blob/30939534e503d89c0d4c907b5d67b19b65c79879/po/en_GB.po">Permalink</a></div>
 </div>
 </div>
 
@@ -456,13 +453,13 @@ Activity
 </div>
 <div class="commit-actions flex-row">
 
-<a class="ci-status-link ci-status-icon-success d-inline-flex " title="Commit: passed" data-toggle="tooltip" data-placement="left" data-container="body" href="/GNOME/geary/commit/36f0b9ae05028405b042cfb892718ccdacdb4161/pipelines?ref=mainline"><svg class="s24"><use xlink:href="/assets/icons-351e10820d76c3052c94570c89d3c67936a2915b1cc0b9c99b63885be7ff1961.svg#status_success"></use></svg></a>
+<a class="ci-status-link ci-status-icon-success d-inline-flex " title="Pipeline: passed" data-toggle="tooltip" data-placement="left" data-container="body" href="/GNOME/geary/commit/36f0b9ae05028405b042cfb892718ccdacdb4161/pipelines?ref=mainline"><svg class="s24"><use xlink:href="/assets/icons-4009ebf96719f129f954d643e65f87152b5e6c4a4917130c4a696beb54af9949.svg#status_success"></use></svg></a>
 <div class="js-commit-pipeline-status" data-endpoint="/GNOME/geary/commit/36f0b9ae05028405b042cfb892718ccdacdb4161/pipelines?ref=mainline"></div>
 <div class="commit-sha-group d-none d-sm-flex">
 <div class="label label-monospace monospace">
 36f0b9ae
 </div>
-<button class="btn btn btn-default" data-toggle="tooltip" data-placement="bottom" data-container="body" data-title="Copy commit SHA to clipboard" data-class="btn btn-default" data-clipboard-text="36f0b9ae05028405b042cfb892718ccdacdb4161" type="button" title="Copy commit SHA to clipboard" aria-label="Copy commit SHA to clipboard"><svg><use xlink:href="/assets/icons-351e10820d76c3052c94570c89d3c67936a2915b1cc0b9c99b63885be7ff1961.svg#duplicate"></use></svg></button>
+<button class="btn btn btn-default" data-toggle="tooltip" data-placement="bottom" data-container="body" data-title="Copy commit SHA to clipboard" data-class="btn btn-default" data-clipboard-text="36f0b9ae05028405b042cfb892718ccdacdb4161" type="button" title="Copy commit SHA to clipboard" aria-label="Copy commit SHA to clipboard"><svg><use xlink:href="/assets/icons-4009ebf96719f129f954d643e65f87152b5e6c4a4917130c4a696beb54af9949.svg#duplicate"></use></svg></button>
 
 </div>
 </div>
@@ -482,7 +479,7 @@ Activity
 <strong class="file-title-name qa-file-title-name">
 en_GB.po
 </strong>
-<button class="btn btn-clipboard btn-transparent" data-toggle="tooltip" data-placement="bottom" data-container="body" data-class="btn-clipboard btn-transparent" data-title="Copy file path to clipboard" data-clipboard-text="{&quot;text&quot;:&quot;po/en_GB.po&quot;,&quot;gfm&quot;:&quot;`po/en_GB.po`&quot;}" type="button" title="Copy file path to clipboard" aria-label="Copy file path to clipboard"><svg><use xlink:href="/assets/icons-351e10820d76c3052c94570c89d3c67936a2915b1cc0b9c99b63885be7ff1961.svg#duplicate"></use></svg></button>
+<button class="btn btn-clipboard btn-transparent" data-toggle="tooltip" data-placement="bottom" data-container="body" data-class="btn-clipboard btn-transparent" data-title="Copy file path to clipboard" data-clipboard-text="{&quot;text&quot;:&quot;po/en_GB.po&quot;,&quot;gfm&quot;:&quot;`po/en_GB.po`&quot;}" type="button" title="Copy file path to clipboard" aria-label="Copy file path to clipboard"><svg><use xlink:href="/assets/icons-4009ebf96719f129f954d643e65f87152b5e6c4a4917130c4a696beb54af9949.svg#duplicate"></use></svg></button>
 <small class="mr-1">
 118 KB
 </small>
@@ -490,7 +487,7 @@ en_GB.po
 
 <div class="file-actions">
 
-<div class="btn-group" role="group"><button class="btn btn btn-sm js-copy-blob-source-btn" data-toggle="tooltip" data-placement="bottom" data-container="body" data-class="btn btn-sm js-copy-blob-source-btn" data-title="Copy source to clipboard" data-clipboard-target=".blob-content[data-blob-id=&#39;76e1cffc82ee989d9ca85bf8352a45f02a442dc3&#39;]" type="button" title="Copy source to clipboard" aria-label="Copy source to clipboard"><svg><use xlink:href="/assets/icons-351e10820d76c3052c94570c89d3c67936a2915b1cc0b9c99b63885be7ff1961.svg#duplicate"></use></svg></button><a class="btn btn-sm has-tooltip" target="_blank" rel="noopener noreferrer" title="Open raw" data-container="body" href="/GNOME/geary/raw/mainline/po/en_GB.po"><i aria-hidden="true" data-hidden="true" class="fa fa-file-code-o"></i></a><a download="po/en_GB.po" class="btn btn-sm has-tooltip" target="_blank" rel="noopener noreferrer" title="Download" data-container="body" href="/GNOME/geary/raw/mainline/po/en_GB.po?inline=false"><svg><use xlink:href="/assets/icons-351e10820d76c3052c94570c89d3c67936a2915b1cc0b9c99b63885be7ff1961.svg#download"></use></svg></a></div>
+<div class="btn-group" role="group"><button class="btn btn btn-sm js-copy-blob-source-btn" data-toggle="tooltip" data-placement="bottom" data-container="body" data-class="btn btn-sm js-copy-blob-source-btn" data-title="Copy source to clipboard" data-clipboard-target=".blob-content[data-blob-id=&#39;76e1cffc82ee989d9ca85bf8352a45f02a442dc3&#39;]" type="button" title="Copy source to clipboard" aria-label="Copy source to clipboard"><svg><use xlink:href="/assets/icons-4009ebf96719f129f954d643e65f87152b5e6c4a4917130c4a696beb54af9949.svg#duplicate"></use></svg></button><a class="btn btn-sm has-tooltip" target="_blank" rel="noopener noreferrer" title="Open raw" data-container="body" href="/GNOME/geary/raw/mainline/po/en_GB.po"><i aria-hidden="true" data-hidden="true" class="fa fa-file-code-o"></i></a><a download="po/en_GB.po" class="btn btn-sm has-tooltip" target="_blank" rel="noopener noreferrer" title="Download" data-container="body" href="/GNOME/geary/raw/mainline/po/en_GB.po?inline=false"><svg><use xlink:href="/assets/icons-4009ebf96719f129f954d643e65f87152b5e6c4a4917130c4a696beb54af9949.svg#download"></use></svg></a></div>
 <div class="btn-group" role="group"><a class="btn js-edit-blob  btn-sm" href="/GNOME/geary/edit/mainline/po/en_GB.po">Edit</a><a class="btn btn-default btn-sm" href="/-/ide/project/GNOME/geary/edit/mainline/-/po/en_GB.po">Web IDE</a></div>
 </div>
 </div>
@@ -518,7 +515,7 @@ en_GB.po
 </button>
 </div>
 <div class="modal-body">
-<form class="js-quick-submit js-upload-blob-form" data-method="put" action="/GNOME/geary/update/mainline/po/en_GB.po" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="cOWaHTbbEPbL9CHhMMsqngnEpr0aNCbi3fyc/xTnf0ullGwDXXQq4LEV/2QzPjpDVWY13MERKqlL2xXo0uAV8Q==" /><div class="dropzone">
+<form class="js-quick-submit js-upload-blob-form" data-method="put" action="/GNOME/geary/update/mainline/po/en_GB.po" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="NsBptwTFf/DmXfqV3fNuOmRW+HEoroBgetGTgC0cnp3dYHVxV5FdlH2jv43JPTBjIssfUeXE3/aprVYUghZjKg==" /><div class="dropzone">
 <div class="dropzone-previews blob-upload-dropzone-previews">
 <p class="dz-message light">
 Attach a file by drag &amp; drop or <a class="markdown-selector" href="#">click to upload</a>
@@ -528,11 +525,11 @@ Attach a file by drag &amp; drop or <a class="markdown-selector" href="#">click 
 <br>
 <div class="dropzone-alerts alert alert-danger data" style="display:none"></div>
 <div class="form-group row commit_message-group">
-<label class="col-form-label col-sm-2" for="commit_message-b28399312b3416d7d5f31474eed2e2d4">Commit message
+<label class="col-form-label col-sm-2" for="commit_message-7336ce8493ec26dca06e349ff4b25c07">Commit message
 </label><div class="col-sm-10">
 <div class="commit-message-container">
 <div class="max-width-marker"></div>
-<textarea name="commit_message" id="commit_message-b28399312b3416d7d5f31474eed2e2d4" class="form-control js-commit-message" placeholder="Replace en_GB.po" required="required" rows="3">
+<textarea name="commit_message" id="commit_message-7336ce8493ec26dca06e349ff4b25c07" class="form-control js-commit-message" placeholder="Replace en_GB.po" required="required" rows="3">
 Replace en_GB.po</textarea>
 </div>
 </div>
@@ -556,7 +553,6 @@ A new branch will be created in your fork and a new merge request will be starte
 </div>
 </div>
 
-</div>
 </div>
 
 </div>
