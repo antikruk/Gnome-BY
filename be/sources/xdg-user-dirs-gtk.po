@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: gnome-by\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/xdg-user-dirs-gtk/issues\n"
 "POT-Creation-Date: 2018-06-10 18:55+0000\n"
-"PO-Revision-Date: 2019-10-14 11:09\n"
+"PO-Revision-Date: 2019-10-14 13:19\n"
 "Last-Translator: Zmicer Turok (zmicer)\n"
 "Language-Team: Belarusian\n"
 "Language: be\n"
@@ -20,45 +20,45 @@ msgstr ""
 
 #: ../update.c:186
 msgid "Update standard folders to current language?"
-msgstr ""
+msgstr "Перакласці назвы стандартных каталогаў на бягучую мову інтэрфейсу?"
 
 #: ../update.c:188
 msgid "You have logged in in a new language. You can automatically update the names of some standard folders in your home folder to match this language. The update would change the following folders:"
-msgstr ""
+msgstr "Вы ўвайшлі ў сеанс з новай мовай інтэрфейсу. Вы можаце аўтаматычна перакласці назвы некаторых стандартных каталогаў у хатнім каталозе на гэтую мову.Абнаўленне назваў закране наступныя каталогі:"
 
 #: ../update.c:191
 msgid "_Keep Old Names"
-msgstr ""
+msgstr "_Пакінуць старыя назвы"
 
 #: ../update.c:192
 msgid "_Update Names"
-msgstr ""
+msgstr "_Абнавіць назвы"
 
 #: ../update.c:218
 msgid "Current folder name"
-msgstr ""
+msgstr "Бягучая назва каталога"
 
 #: ../update.c:223
 msgid "New folder name"
-msgstr ""
+msgstr "Новая назва каталога"
 
 #: ../update.c:233
 msgid "Note that existing content will not be moved."
-msgstr ""
+msgstr "Існае змесціва каталогаў не перамесціцца."
 
 #: ../update.c:240
 msgid "_Don't ask me this again"
-msgstr ""
+msgstr "_Больш не пытацца пра гэта"
 
 #: ../update.c:257
 msgid "There was an error updating the folders"
-msgstr ""
+msgstr "Пры абнаўленні назваў каталогаў адбылася памылка"
 
 #: ../user-dirs-update-gtk.desktop.in.h:1
 msgid "User folders update"
-msgstr ""
+msgstr "Абнаўленне назваў карыстальніцкіх каталогаў"
 
 #: ../user-dirs-update-gtk.desktop.in.h:2
 msgid "Update common folders names to match current locale"
-msgstr ""
+msgstr "Абнаўленне назваў стандартных каталогаў у адпаведнасці з бягучай лакаллю"
 

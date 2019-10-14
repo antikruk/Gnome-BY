@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: gnome-by\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gparted/issues\n"
 "POT-Creation-Date: 2016-05-20 16:05+0000\n"
-"PO-Revision-Date: 2019-10-14 11:10\n"
+"PO-Revision-Date: 2019-10-14 12:18\n"
 "Last-Translator: Zmicer Turok (zmicer)\n"
 "Language-Team: Belarusian\n"
 "Language: be_BY\n"
@@ -23,198 +23,198 @@ msgstr ""
 
 #: ../gparted.appdata.xml.in.h:1
 msgid "GParted is a free partition editor for graphically managing your disk partitions."
-msgstr ""
+msgstr "GParted — свабодны графічны рэдактар для кіравання раздзеламі дыска."
 
 #: ../gparted.appdata.xml.in.h:2
 msgid "With GParted you can resize, copy, label, and move partitions without data loss. These actions enable you to grow or shrink your C: drive, create space for new operating systems, or attempt data rescue from lost partitions."
-msgstr ""
+msgstr "Пры дапамозе GParted можна змяняць памер, капіяваць, адмячаць і перамяшчаць раздзелы без страты даных. Гэта дапамагае паменшыць альбо павялічыць раздзел \"C:\", вызваліць прастору для новых аперацыйных сістэм. Таксама GParted дазваляе аднавіць даныя са страчаных раздзелаў."
 
 #: ../gparted.appdata.xml.in.h:3
 msgid "GParted works with many file systems including: btrfs, ext2, ext3, ext4, fat16, fat32, hfs, hfs+, linux-swap, lvm2 pv, nilfs2, ntfs, reiserfs, reiser4, ufs, and xfs."
-msgstr ""
+msgstr "GParted працуе з разнастайнымі файлавымі сістэмамі, ўключаючы: btrfs, ext2, ext3, ext4, fat16, fat32, hfs, hfs+, linux-swap, lvm2 pv, nilfs2, ntfs, reiserfs, reiser4, ufs, and xfs."
 
 #. ==== GUI =========================
 #: ../gparted.desktop.in.in.h:1 ../src/Dialog_Progress.cc:371
 #: ../src/Win_GParted.cc:79 ../src/Win_GParted.cc:1423
 #: ../src/Win_GParted.cc:1618
 msgid "GParted"
-msgstr ""
+msgstr "GParted"
 
 #: ../gparted.desktop.in.in.h:2
 msgid "Partition Editor"
-msgstr ""
+msgstr "Рэдактар раздзелаў"
 
 #: ../gparted.desktop.in.in.h:3
 msgid "GParted Partition Editor"
-msgstr ""
+msgstr "Рэдактар раздзелаў GParted"
 
 #: ../gparted.desktop.in.in.h:4
 msgid "Create, reorganize, and delete partitions"
-msgstr ""
+msgstr "Стварыць, пераразмеркаваць альбо выдаліць раздзелы"
 
 #: ../gparted.desktop.in.in.h:5
 msgid "Partition;"
-msgstr ""
+msgstr "Раздзел;"
 
 #: ../include/Utils.h:55
 msgid "(New UUID - will be randomly generated)"
-msgstr ""
+msgstr "(Новы UUID — генеруецца выпадкова)"
 
 #: ../include/Utils.h:56
 msgid "(Half new UUID - will be randomly generated)"
-msgstr ""
+msgstr "(Палова новага UUID - генеруецца выпадкова)"
 
 #. TO TRANSLATORS: looks like  1.00 MiB of 16.00 MiB copied
 #. TO TRANSLATORS: looks like   1.00 MiB of 16.00 MiB copied
 #: ../src/Copy_Blocks.cc:71 ../src/Copy_Blocks.cc:181 ../src/ProgressBar.cc:106
 msgid "%1 of %2 copied"
-msgstr ""
+msgstr "%1 з %2 скапіявана"
 
 #. TO TRANSLATORS: looks like  copy 16.00 MiB using a block size of 1.00 MiB
 #: ../src/Copy_Blocks.cc:156
 msgid "copy %1 using a block size of %2"
-msgstr ""
+msgstr "скапіяваць %1, выкарыстоўваючы памер блока %2"
 
 #: ../src/Copy_Blocks.cc:221
 msgid "Operation Canceled"
-msgstr ""
+msgstr "Аперацыя скасаваная"
 
 #: ../src/Copy_Blocks.cc:233
 msgid "Error while writing block at sector %1"
-msgstr ""
+msgstr "Падчас запісу блока ў сектар %1 адбылася памылка"
 
 #: ../src/Copy_Blocks.cc:238
 msgid "Error while reading block at sector %1"
-msgstr ""
+msgstr "Падчас чытання блока з сектара %1 адбылася памылка"
 
 #: ../src/Dialog_Base_Partition.cc:56
 msgid "Free space preceding (MiB):"
-msgstr ""
+msgstr "Вольнае месца да (МіБ):"
 
 #. add spinbutton_size
 #: ../src/Dialog_Base_Partition.cc:65
 msgid "New size (MiB):"
-msgstr ""
+msgstr "Новы памер (МіБ):"
 
 #. add spinbutton_after
 #: ../src/Dialog_Base_Partition.cc:72
 msgid "Free space following (MiB):"
-msgstr ""
+msgstr "Вольнае месца пасля (МіБ):"
 
 #. add alignment
 #. TO TRANSLATORS: used as label for a list of choices.   Align to: <optionmenu with choices>
 #: ../src/Dialog_Base_Partition.cc:99
 msgid "Align to:"
-msgstr ""
+msgstr "Выраўнаваць па:"
 
 #. fill partition alignment menu
 #. TO TRANSLATORS: Menu option for drop down menu "Align to:"
 #: ../src/Dialog_Base_Partition.cc:104
 msgid "Cylinder"
-msgstr ""
+msgstr "Цыліндр"
 
 #. TO TRANSLATORS: Menu option for label "Align to:"
 #: ../src/Dialog_Base_Partition.cc:106
 msgid "MiB"
-msgstr ""
+msgstr "МіБ"
 
 #. TO TRANSLATORS: Menu option for drop down menu "Align to:"
 #: ../src/Dialog_Base_Partition.cc:108
 msgid "None"
-msgstr ""
+msgstr "Нічога"
 
 #: ../src/Dialog_Base_Partition.cc:254
 msgid "Resize"
-msgstr ""
+msgstr "Змяніць памер"
 
 #: ../src/Dialog_Base_Partition.cc:254 ../src/Win_GParted.cc:254
 msgid "Resize/Move"
-msgstr ""
+msgstr "Змяніць памер/Перамясціць"
 
 #: ../src/Dialog_Base_Partition.cc:272
 msgid "Minimum size: %1 MiB"
-msgstr ""
+msgstr "Мінімальны памер: %1 МіБ"
 
 #: ../src/Dialog_Base_Partition.cc:273
 msgid "Maximum size: %1 MiB"
-msgstr ""
+msgstr "Максімальны памер: %1 МіБ"
 
 #. TO TRANSLATORS: dialogtitle, looks like Create partition table on /dev/hda
 #: ../src/Dialog_Disklabel.cc:30
 msgid "Create partition table on %1"
-msgstr ""
+msgstr "Стварыць табліцу раздзелаў на %1"
 
 #. TO TRANSLATORS: looks like WARNING:  This will ERASE ALL DATA on the ENTIRE DISK /dev/hda
 #: ../src/Dialog_Disklabel.cc:54
 msgid "WARNING:  This will ERASE ALL DATA on the ENTIRE DISK %1"
-msgstr ""
+msgstr "УВАГА: дзеянне ВЫДАЛІЦЬ УСЕ ДАНЫЯ на ЎСІМ ДЫСКУ %1"
 
 #: ../src/Dialog_Disklabel.cc:60
 msgid "Select new partition table type:"
-msgstr ""
+msgstr "Абраць новы тып табліцы раздзелаў:"
 
 #. TO TRANSLATORS: dialog title, looks like   Set file system label on /dev/hda3
 #: ../src/Dialog_FileSystem_Label.cc:30
 msgid "Set file system label on %1"
-msgstr ""
+msgstr "Адмеціць файлавую сістэму на %1"
 
 #. Label
 #: ../src/Dialog_FileSystem_Label.cc:41 ../src/Dialog_Partition_Info.cc:276
 #: ../src/Dialog_Partition_New.cc:154
 msgid "Label:"
-msgstr ""
+msgstr "Адмеціна:"
 
 #: ../src/Dialog_Partition_Copy.cc:45
 msgid "Paste %1"
-msgstr ""
+msgstr "Уставіць %1"
 
 #. Minimum 370 to avoid scrolling on Fedora 20
 #. TO TRANSLATORS: dialogtitle, looks like Information about /dev/hda3
 #: ../src/Dialog_Partition_Info.cc:51
 msgid "Information about %1"
-msgstr ""
+msgstr "Інфармацыя аб %1"
 
 #: ../src/Dialog_Partition_Info.cc:87
 msgid "Warning:"
-msgstr ""
+msgstr "Увага:"
 
 #. FILE SYSTEM DETAIL SECTION
 #. file system headline
 #: ../src/Dialog_Partition_Info.cc:251 ../src/DialogFeatures.cc:44
 #: ../src/TreeView_Detail.cc:39
 msgid "File System"
-msgstr ""
+msgstr "Файлавая сістэма"
 
 #. Left field & value pair area
 #. file system
 #. file systems to choose from
 #: ../src/Dialog_Partition_Info.cc:262 ../src/Dialog_Partition_New.cc:143
 msgid "File system:"
-msgstr ""
+msgstr "Файлавая сістэма:"
 
 #. LUKS uuid
 #: ../src/Dialog_Partition_Info.cc:291 ../src/Dialog_Partition_Info.cc:562
 msgid "UUID:"
-msgstr ""
+msgstr "UUID:"
 
 #. TO TRANSLATORS:   Open
 #. * means that the LUKS encryption is open and the encrypted data within is accessible.
 #.
 #: ../src/Dialog_Partition_Info.cc:306
 msgid "Open"
-msgstr ""
+msgstr "Адкрыць"
 
 #. TO TRANSLATORS:   Closed
 #. * means that the LUKS encryption is closed and the encrypted data within is not accessible.
 #.
 #: ../src/Dialog_Partition_Info.cc:310
 msgid "Closed"
-msgstr ""
+msgstr "Закрыта"
 
 #. LUKS status
 #: ../src/Dialog_Partition_Info.cc:317 ../src/Dialog_Partition_Info.cc:568
 msgid "Status:"
-msgstr ""
+msgstr "Стан:"
 
 #. TO TRANSLATORS:   Not accessible (Encrypted)
 #. * means that the data in encrypted and hasn't been made
@@ -222,7 +222,7 @@ msgstr ""
 #.
 #: ../src/Dialog_Partition_Info.cc:327
 msgid "Not accessible (Encrypted)"
-msgstr ""
+msgstr "Недаступна (зашыфравана)"
 
 #. TO TRANSLATORS:  Busy (At least one logical partition is mounted)
 #. * means that this extended partition contains at least one logical
@@ -230,7 +230,7 @@ msgstr ""
 #.
 #: ../src/Dialog_Partition_Info.cc:337
 msgid "Busy (At least one logical partition is mounted)"
-msgstr ""
+msgstr "Заняты (па меншай меры адзін лагічны раздзел прымантаваны)"
 
 #. TO TRANSLATORS:  Active
 #. * means that this linux swap, linux software raid partition, or
@@ -238,12 +238,12 @@ msgstr ""
 #.
 #: ../src/Dialog_Partition_Info.cc:347
 msgid "Active"
-msgstr ""
+msgstr "Уключана"
 
 #. TO TRANSLATORS: looks like   Mounted on /mnt/mymountpoint
 #: ../src/Dialog_Partition_Info.cc:361
 msgid "Mounted on %1"
-msgstr ""
+msgstr "Прымантаваны на %1"
 
 #. TO TRANSLATORS:  Not busy (There are no mounted logical partitions)
 #. * means that this extended partition contains no mounted or otherwise
@@ -251,7 +251,7 @@ msgstr ""
 #.
 #: ../src/Dialog_Partition_Info.cc:371
 msgid "Not busy (There are no mounted logical partitions)"
-msgstr ""
+msgstr "Незаняты (няма прымантаваных лагічных раздзелаў)"
 
 #. TO TRANSLATORS:  Not active
 #. *  means that this linux swap or linux software raid partition
@@ -263,7 +263,7 @@ msgstr ""
 #.
 #: ../src/Dialog_Partition_Info.cc:380 ../src/Dialog_Partition_Info.cc:409
 msgid "Not active"
-msgstr ""
+msgstr "Неактыўны"
 
 #. TO TRANSLATORS:  Not active (Not a member of any volume group)
 #. * means that the partition is not yet a member of an LVM volume
@@ -272,7 +272,7 @@ msgstr ""
 #.
 #: ../src/Dialog_Partition_Info.cc:395
 msgid "Not active (Not a member of any volume group)"
-msgstr ""
+msgstr "Неактыўны (не ўваходзіць у групу тамоў)"
 
 #. TO TRANSLATORS:  Not active and exported
 #. * means that the partition is a member of an LVM volume group but
@@ -282,60 +282,60 @@ msgstr ""
 #.
 #: ../src/Dialog_Partition_Info.cc:403
 msgid "Not active and exported"
-msgstr ""
+msgstr "Неактыўны і экспартаваны"
 
 #. TO TRANSLATORS:  Not mounted
 #. * means that this partition is not mounted.
 #.
 #: ../src/Dialog_Partition_Info.cc:416
 msgid "Not mounted"
-msgstr ""
+msgstr "Не прымантавана"
 
 #. Volume Group
 #. Single copy of each string for translation purposes
 #: ../src/Dialog_Partition_Info.cc:426 ../src/Win_GParted.cc:2947
 msgid "Volume Group:"
-msgstr ""
+msgstr "Група тамоў:"
 
 #. Members
 #: ../src/Dialog_Partition_Info.cc:437 ../src/Win_GParted.cc:2948
 msgid "Members:"
-msgstr ""
+msgstr "Удзельнікі:"
 
 #. Logical Volumes
 #: ../src/Dialog_Partition_Info.cc:461
 msgid "Logical Volumes:"
-msgstr ""
+msgstr "Лагічныя тамы:"
 
 #. Used
 #: ../src/Dialog_Partition_Info.cc:477
 msgid "Used:"
-msgstr ""
+msgstr "Выкарыстоўваецца:"
 
 #. unused
 #: ../src/Dialog_Partition_Info.cc:491
 msgid "Unused:"
-msgstr ""
+msgstr "Не выкарыстоўваецца:"
 
 #: ../src/Dialog_Partition_Info.cc:508
 msgid "Unallocated:"
-msgstr ""
+msgstr "Неразмеркавана:"
 
 #. size
 #: ../src/Dialog_Partition_Info.cc:524 ../src/Win_GParted.cc:494
 msgid "Size:"
-msgstr ""
+msgstr "Памер:"
 
 #. ENCRYPTION DETAIL SECTION
 #. encryption headline
 #: ../src/Dialog_Partition_Info.cc:544
 msgid "Encryption"
-msgstr ""
+msgstr "Шыфраванне"
 
 #. Encryption
 #: ../src/Dialog_Partition_Info.cc:548
 msgid "Encryption:"
-msgstr ""
+msgstr "Шыфраванне:"
 
 #. LUKS path
 #. Left field & value pair area
@@ -343,186 +343,186 @@ msgstr ""
 #: ../src/Dialog_Partition_Info.cc:554 ../src/Dialog_Partition_Info.cc:594
 #: ../src/Win_GParted.cc:502
 msgid "Path:"
-msgstr ""
+msgstr "Шлях:"
 
 #. PARTITION DETAIL SECTION
 #. partition headline
 #. append columns
 #: ../src/Dialog_Partition_Info.cc:583 ../src/TreeView_Detail.cc:37
 msgid "Partition"
-msgstr ""
+msgstr "Раздзел"
 
 #. name
 #: ../src/Dialog_Partition_Info.cc:606 ../src/Dialog_Partition_Name.cc:41
 msgid "Name:"
-msgstr ""
+msgstr "Назва:"
 
 #. flags
 #: ../src/Dialog_Partition_Info.cc:616
 msgid "Flags:"
-msgstr ""
+msgstr "Сцягі:"
 
 #. Right field & value pair area
 #. first sector
 #: ../src/Dialog_Partition_Info.cc:628
 msgid "First sector:"
-msgstr ""
+msgstr "Першы сектар:"
 
 #. last sector
 #: ../src/Dialog_Partition_Info.cc:638
 msgid "Last sector:"
-msgstr ""
+msgstr "Апошні сектар:"
 
 #. total sectors
 #: ../src/Dialog_Partition_Info.cc:648 ../src/Win_GParted.cc:552
 msgid "Total sectors:"
-msgstr ""
+msgstr "Сектараў агулам:"
 
 #. TO TRANSLATORS: dialog title, looks like   Set partition name on /dev/hda3
 #: ../src/Dialog_Partition_Name.cc:30
 msgid "Set partition name on %1"
-msgstr ""
+msgstr "Даць назву раздзела на %1"
 
 #. TO TRANSLATORS: dialogtitle
 #: ../src/Dialog_Partition_New.cc:32
 msgid "Create new Partition"
-msgstr ""
+msgstr "Стварыць новы раздзел"
 
 #. TO TRANSLATORS: used as label for a list of choices.   Create as: <optionmenu with choices>
 #: ../src/Dialog_Partition_New.cc:93
 msgid "Create as:"
-msgstr ""
+msgstr "Стварыць як:"
 
 #. fill partitiontype menu
 #: ../src/Dialog_Partition_New.cc:98 ../src/OperationCreate.cc:58
 msgid "Primary Partition"
-msgstr ""
+msgstr "Асноўны раздзел"
 
 #: ../src/Dialog_Partition_New.cc:99 ../src/OperationCreate.cc:61
 #: ../src/OperationDelete.cc:110
 msgid "Logical Partition"
-msgstr ""
+msgstr "Лагічны раздзел"
 
 #: ../src/Dialog_Partition_New.cc:100 ../src/OperationCreate.cc:64
 msgid "Extended Partition"
-msgstr ""
+msgstr "Пашыраны раздзел"
 
 #. Partition name
 #: ../src/Dialog_Partition_New.cc:133
 msgid "Partition name:"
-msgstr ""
+msgstr "Назва раздзела:"
 
 #: ../src/Dialog_Partition_New.cc:234
 msgid "New Partition #%1"
-msgstr ""
+msgstr "Новы раздзел #%1"
 
 #: ../src/Dialog_Partition_Resize_Move.cc:94
 msgid "Resize/Move %1"
-msgstr ""
+msgstr "Змена памеру/Перамяшчэнне %1"
 
 #: ../src/Dialog_Partition_Resize_Move.cc:99
 msgid "Resize %1"
-msgstr ""
+msgstr "Змена памеру %1"
 
 #: ../src/Dialog_Progress.cc:33
 msgid "Applying pending operations"
-msgstr ""
+msgstr "Выкананне запланаваных аперацый"
 
 #: ../src/Dialog_Progress.cc:48
 msgid "Depending on the number and type of operations this might take a long time."
-msgstr ""
+msgstr "У залежнасці ад тыпаў аперацый і іх колькасці на гэта можа спатрэбіцца шмат часу."
 
 #: ../src/Dialog_Progress.cc:61
 msgid "Completed Operations:"
-msgstr ""
+msgstr "Завершаныя аперацыі:"
 
 #: ../src/Dialog_Progress.cc:102
 msgid "Details"
-msgstr ""
+msgstr "Падрабязнасці"
 
 #: ../src/Dialog_Progress.cc:215
 msgid "%1 of %2 operations completed"
-msgstr ""
+msgstr "Выканана %1 з %2 аперацый"
 
 #. add save button
 #: ../src/Dialog_Progress.cc:233
 msgid "_Save Details"
-msgstr ""
+msgstr "_Захаваць падрабязнасці"
 
 #: ../src/Dialog_Progress.cc:245
 msgid "Operation cancelled"
-msgstr ""
+msgstr "Аперацыя скасаваная"
 
 #: ../src/Dialog_Progress.cc:259
 msgid "All operations successfully completed"
-msgstr ""
+msgstr "Усе аперацыі паспяхова завершаныя"
 
 #: ../src/Dialog_Progress.cc:263
 msgid "%1 warning"
 msgid_plural "%1 warnings"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
+msgstr[0] "%1 папярэджанне"
+msgstr[1] "%1 папярэджанні"
+msgstr[2] "%1 папярэджанняў"
+msgstr[3] "%1 папярэджанняў"
 
 #: ../src/Dialog_Progress.cc:276
 msgid "An error occurred while applying the operations"
-msgstr ""
+msgstr "Падчас выканання аперацый адбылася памылка"
 
 #: ../src/Dialog_Progress.cc:281
 msgid "See the details for more information."
-msgstr ""
+msgstr "Каб атрымаць больш дакладную інфармацыю адкрыйце падрабязнасці."
 
 #: ../src/Dialog_Progress.cc:283
 msgid "IMPORTANT"
-msgstr ""
+msgstr "ВАЖНА"
 
 #: ../src/Dialog_Progress.cc:284
 msgid "If you want support, you need to provide the saved details!"
-msgstr ""
+msgstr "Для таго, каб атрымаць дапамогу, неабходна падаць захаваныя падрабязнасці!"
 
 #. TO TRANSLATORS: looks like   See http://gparted.org/save-details.htm for more information.
 #: ../src/Dialog_Progress.cc:287
 msgid "See %1 for more information."
-msgstr ""
+msgstr "Каб даведацца больш, глядзіце %1."
 
 #. TO TRANSLATORS: looks like  Force Cancel (5)
 #. *  where the number represents a count down in seconds until the button is enabled
 #: ../src/Dialog_Progress.cc:306 ../src/Dialog_Progress.cc:337
 msgid "Force Cancel (%1)"
-msgstr ""
+msgstr "Скасаваць прымусова (%1)"
 
 #: ../src/Dialog_Progress.cc:308 ../src/Dialog_Progress.cc:341
 msgid "Force Cancel"
-msgstr ""
+msgstr "Скасаваць прымусова"
 
 #: ../src/Dialog_Progress.cc:319
 msgid "Are you sure you want to cancel the current operation?"
-msgstr ""
+msgstr "Сапраўды хочаце скасаваць бягучую аперацыю?"
 
 #: ../src/Dialog_Progress.cc:325
 msgid "Canceling an operation might cause SEVERE file system damage."
-msgstr ""
+msgstr "Скасаванне аперацыі можа пашкодзіць файлавую сістэму."
 
 #: ../src/Dialog_Progress.cc:327
 msgid "Continue Operation"
-msgstr ""
+msgstr "Працягнуць аперацыю"
 
 #: ../src/Dialog_Progress.cc:328
 msgid "Cancel Operation"
-msgstr ""
+msgstr "Скасаваць аперацыю"
 
 #: ../src/Dialog_Progress.cc:349
 msgid "Save Details"
-msgstr ""
+msgstr "Захаваць падрабязнасці"
 
 #: ../src/Dialog_Progress.cc:368
 msgid "GParted Details"
-msgstr ""
+msgstr "Падрабязнасці GParted"
 
 #: ../src/Dialog_Progress.cc:379
 msgid "Libparted"
-msgstr ""
+msgstr "Libparted"
 
 #. TO TRANSLATORS:  EXECUTING
 #. * means that the status for this operation is
@@ -530,7 +530,7 @@ msgstr ""
 #.
 #: ../src/Dialog_Progress.cc:422
 msgid "EXECUTING"
-msgstr ""
+msgstr "ЗАПУСК"
 
 #. TO" TRANSLATORS:  SUCCESS
 #. * means that the status for this operation is
@@ -538,7 +538,7 @@ msgstr ""
 #.
 #: ../src/Dialog_Progress.cc:430
 msgid "SUCCESS"
-msgstr ""
+msgstr "ПАСПЯХОВА"
 
 #. TO TRANSLATORS:  ERROR
 #. * means that the status for this operation is
@@ -546,7 +546,7 @@ msgstr ""
 #.
 #: ../src/Dialog_Progress.cc:438
 msgid "ERROR"
-msgstr ""
+msgstr "ПАМЫЛКА"
 
 #. TO TRANSLATORS:  INFO
 #. * means that the status for this operation is
@@ -555,7 +555,7 @@ msgstr ""
 #.
 #: ../src/Dialog_Progress.cc:447
 msgid "INFO"
-msgstr ""
+msgstr "ІНФАРМАЦЫЯ"
 
 #. TO TRANSLATORS:  N/A
 #. * means that the status for this operation is
@@ -564,55 +564,55 @@ msgstr ""
 #.
 #: ../src/Dialog_Progress.cc:456
 msgid "N/A"
-msgstr ""
+msgstr "Нічога"
 
 #: ../src/DialogFeatures.cc:28
 msgid "File System Support"
-msgstr ""
+msgstr "Падтрымка файлавых сістэм"
 
 #: ../src/DialogFeatures.cc:45
 msgid "Create"
-msgstr ""
+msgstr "Стварыць"
 
 #: ../src/DialogFeatures.cc:46
 msgid "Grow"
-msgstr ""
+msgstr "Павялічыць"
 
 #: ../src/DialogFeatures.cc:50
 msgid "Shrink"
-msgstr ""
+msgstr "Паменшыць"
 
 #: ../src/DialogFeatures.cc:54
 msgid "Move"
-msgstr ""
+msgstr "Перамясціць"
 
 #: ../src/DialogFeatures.cc:55
 msgid "Copy"
-msgstr ""
+msgstr "Капіяваць"
 
 #: ../src/DialogFeatures.cc:56
 msgid "Check"
-msgstr ""
+msgstr "Праверыць"
 
 #: ../src/DialogFeatures.cc:57 ../src/TreeView_Detail.cc:41
 msgid "Label"
-msgstr ""
+msgstr "Адмеціна"
 
 #: ../src/DialogFeatures.cc:58
 msgid "UUID"
-msgstr ""
+msgstr "UUID"
 
 #: ../src/DialogFeatures.cc:59
 msgid "Required Software"
-msgstr ""
+msgstr "Патрэбна праграмнае забеспячэнне"
 
 #: ../src/DialogFeatures.cc:77
 msgid "This chart shows the actions supported on file systems."
-msgstr ""
+msgstr "Дыяграма адлюстроўвае дзеянні, якія падтрымліваюцца файлавымі сістэмамі."
 
 #: ../src/DialogFeatures.cc:79
 msgid "Not all actions are available on all file systems, in part due to the nature of file systems and limitations in the required software."
-msgstr ""
+msgstr "Не ўсе дзеянні падтрымліваюцца файлавымі сістэмамі, часткова гэта вызначаецца сутнасцю файлавых сістэм і абмежаваннямі праграмнага забеспячэння."
 
 #. TO TRANSLATORS:  Available offline and online
 #. * means that this action is valid for this file system when
@@ -620,7 +620,7 @@ msgstr ""
 #.
 #: ../src/DialogFeatures.cc:96
 msgid "Available offline and online"
-msgstr ""
+msgstr "Даступна адмантаваным і прымантаваным"
 
 #. TO TRANSLATORS:  Available offline only
 #. * means that this action is valid for this file system only
@@ -628,178 +628,178 @@ msgstr ""
 #.
 #: ../src/DialogFeatures.cc:109
 msgid "Available offline only"
-msgstr ""
+msgstr "Даступна толькі адмантаваным"
 
 #. TO TRANSLATORS:  Not Available
 #. * means that this action is not valid for this file system.
 #.
 #: ../src/DialogFeatures.cc:121
 msgid "Not Available"
-msgstr ""
+msgstr "Недаступна"
 
 #: ../src/DialogFeatures.cc:126
 msgid "Legend"
-msgstr ""
+msgstr "Легенда"
 
 #. TO TRANSLATORS: This is a button that will search for the software tools installed and then refresh the screen with the file system actions supported.
 #: ../src/DialogFeatures.cc:134
 msgid "Rescan For Supported Actions"
-msgstr ""
+msgstr "Перасканаваць падтрымліваемыя дзеянні"
 
 #: ../src/DialogManageFlags.cc:32 ../src/DialogManageFlags.cc:37
 msgid "Manage flags on %1"
-msgstr ""
+msgstr "Кіраванне сцягамі на %1"
 
 #: ../src/Dialog_Rescue_Data.cc:36
 msgid "Search disk for file systems"
-msgstr ""
+msgstr "Пошук файлавых сістэм на дыску"
 
 #. TO TRANSLATORS: looks like    File systems found on /dev/sdb
 #: ../src/Dialog_Rescue_Data.cc:53
 msgid "File systems found on %1"
-msgstr ""
+msgstr "Файлавыя сістэмы, знойдзеныя на %1"
 
 #: ../src/Dialog_Rescue_Data.cc:58
 msgid "Data found"
-msgstr ""
+msgstr "Знойдзены даныя"
 
 #: ../src/Dialog_Rescue_Data.cc:62
 msgid "Data found with inconsistencies"
-msgstr ""
+msgstr "Знойдзеныя даныя няўзгодненыя"
 
 #: ../src/Dialog_Rescue_Data.cc:64
 msgid "WARNING!: The file systems marked with (!) are inconsistent."
-msgstr ""
+msgstr "УВАГА!: няўзгодненыя файлавыя сістэмы пазначаюцца (!)."
 
 #: ../src/Dialog_Rescue_Data.cc:66
 msgid "You might encounter errors trying to view these file systems."
-msgstr ""
+msgstr "Падчас агляду файлавых сістэм могуць узнікаць памылкі."
 
 #: ../src/Dialog_Rescue_Data.cc:82
 msgid "The 'View' buttons create read-only views of each file system."
-msgstr ""
+msgstr "Кнопкі \"Агляд\" ствараюць агляд кожнай файлавай сістэмы, даступнай толькі для чытання."
 
 #: ../src/Dialog_Rescue_Data.cc:84
 msgid "All mounted views will be unmounted when you close this dialog."
-msgstr ""
+msgstr "Усе прымантаваныя агляды адмантуюцца падчас закрыцця гэтага акна."
 
 #: ../src/Dialog_Rescue_Data.cc:107
 msgid "File systems"
-msgstr ""
+msgstr "Файлавыя сістэмы"
 
 #. TO TRANSLATORS: looks like    1: ntfs (10240 MiB)
 #: ../src/Dialog_Rescue_Data.cc:129
 msgid "#%1: %2 (%3 MiB)"
-msgstr ""
+msgstr "#%1: %2 (%3 МіБ)"
 
 #: ../src/Dialog_Rescue_Data.cc:137
 msgid "View"
-msgstr ""
+msgstr "Агляд"
 
 #: ../src/Dialog_Rescue_Data.cc:167
 msgid "An error occurred while creating a temporary directory for use as a mount point."
-msgstr ""
+msgstr "Падчас стварэння часовага каталога для пункта мантавання адбылася памылка."
 
 #: ../src/Dialog_Rescue_Data.cc:169
 msgid "Error"
-msgstr ""
+msgstr "Памылка"
 
 #: ../src/Dialog_Rescue_Data.cc:175
 msgid "Failed creating temporary directory"
-msgstr ""
+msgstr "Падчас стварэння каталога адбылася памылка"
 
 #: ../src/Dialog_Rescue_Data.cc:192
 msgid "An error occurred while creating the read-only view."
-msgstr ""
+msgstr "Падчас стварэння даступнага толькі для чытання агляду адбылася памылка."
 
 #: ../src/Dialog_Rescue_Data.cc:194
 msgid "Either the file system can not be mounted (like swap), or there are inconsistencies or errors in the file system."
-msgstr ""
+msgstr "Файлавую сістэму немагчыма прымантаваць (магчыма, гэта swap), альбо ў ёй ёсць памылкі."
 
 #: ../src/Dialog_Rescue_Data.cc:198
 msgid "Failed creating read-only view"
-msgstr ""
+msgstr "Падчас стварэння даступнага толькі для чытання агляду адбылася памылка"
 
 #: ../src/Dialog_Rescue_Data.cc:228
 msgid "Error:"
-msgstr ""
+msgstr "Памылка:"
 
 #. TO TRANSLATORS: looks like
 #. * The file system is mounted on:
 #. * /tmp/gparted-roview-Nlhb3R.
 #: ../src/Dialog_Rescue_Data.cc:236
 msgid "The file system is mounted on:"
-msgstr ""
+msgstr "Пункт мантавання файлавай сістэмы:"
 
 #: ../src/Dialog_Rescue_Data.cc:241
 msgid "Unable to open the default file manager"
-msgstr ""
+msgstr "Не атрымалася адкрыць прадвызначанага кіраўніка файлаў"
 
 #: ../src/Dialog_Rescue_Data.cc:260
 msgid "Warning: The detected file system area overlaps with at least one existing partition"
-msgstr ""
+msgstr "Увага: выяўленая вобласць файлавай сістэмы перакрываецца, па меншай меры, адным раздзелам"
 
 #: ../src/Dialog_Rescue_Data.cc:262
 msgid "It is recommended that you do not use any overlapping file systems to avoid disturbing existing data."
-msgstr ""
+msgstr "Для прадухілення страты даных рэкамендуецца пазбягаць перакрыцця файлавых сістэм."
 
 #: ../src/Dialog_Rescue_Data.cc:264
 msgid "Do you want to try to deactivate the following mount points?"
-msgstr ""
+msgstr "Паспрабаваць выключыць наступныя пункты мантавання?"
 
 #. TO TRANSLATORS: looks like  create missing /dev/mapper entries
 #: ../src/DMRaid.cc:327
 msgid "create missing %1 entries"
-msgstr ""
+msgstr "стварыць адсутныя элементы %1"
 
 #. TO TRANSLATORS: looks like  delete affected /dev/mapper entries
 #: ../src/DMRaid.cc:426
 msgid "delete affected %1 entries"
-msgstr ""
+msgstr "выдаліць закранутыя элементы %1"
 
 #. TO TRANSLATORS: looks like  delete /dev/mapper entry
 #: ../src/DMRaid.cc:449
 msgid "delete %1 entry"
-msgstr ""
+msgstr "выдаліць элемент %1"
 
 #. TO TRANSLATORS: looks like  update /dev/mapper entry
 #: ../src/DMRaid.cc:499
 msgid "update %1 entry"
-msgstr ""
+msgstr "абнавіць элемент %1"
 
 #. TO TRANSLATORS: these labels will be used in the partition menu
 #: ../src/FileSystem.cc:43
 msgid "_Mount"
-msgstr ""
+msgstr "_Прымантаваць"
 
 #: ../src/FileSystem.cc:44
 msgid "_Unmount"
-msgstr ""
+msgstr "_Адмантаваць"
 
 #. TO TRANSLATORS: looks like   Created directory /tmp/gparted-CEzvSp
 #: ../src/FileSystem.cc:234
 msgid "Created directory %1"
-msgstr ""
+msgstr "Каталог %1 створаны"
 
 #. TO TRANSLATORS: looks like   Removed directory /tmp/gparted-CEzvSp
 #: ../src/FileSystem.cc:261
 msgid "Removed directory %1"
-msgstr ""
+msgstr "Каталог %1 выдалены"
 
 #. TO TRANSLATORS: looks like Scanning /dev/sda
 #: ../src/GParted_Core.cc:195 ../src/GParted_Core.cc:204
 msgid "Scanning %1"
-msgstr ""
+msgstr "Сканаванне %1"
 
 #. TO TRANSLATORS: looks like   Confirming /dev/sda
 #: ../src/GParted_Core.cc:223 ../src/GParted_Core.cc:248
 msgid "Confirming %1"
-msgstr ""
+msgstr "Пацвярджэнне %1"
 
 #. TO TRANSLATORS: looks like Searching /dev/sda partitions
 #: ../src/GParted_Core.cc:272
 msgid "Searching %1 partitions"
-msgstr ""
+msgstr "Пошук раздзелаў на %1"
 
 #. TO TRANSLATORS:  unrecognized
 #. * means that the partition table for this
@@ -807,69 +807,69 @@ msgstr ""
 #.
 #: ../src/GParted_Core.cc:373
 msgid "unrecognized"
-msgstr ""
+msgstr "нераспазнана"
 
 #. TO TRANSLATORS:  looks like   A partition cannot have a length of -1 sectors
 #: ../src/GParted_Core.cc:691
 msgid "A partition cannot have a length of %1 sectors"
-msgstr ""
+msgstr "Раздзел не можа быць даўжынёй %1 сектар"
 
 #. TO TRANSLATORS: looks like   A partition with used sectors (2048) greater than its length (1536) is not valid
 #: ../src/GParted_Core.cc:705
 msgid "A partition with used sectors (%1) greater than its length (%2) is not valid"
-msgstr ""
+msgstr "Раздзел з колькасцю сектараў (%1) большай за яго памер (%2) з’яўляецца хібным"
 
 #: ../src/GParted_Core.cc:831
 msgid "libparted messages"
-msgstr ""
+msgstr "паведамленні libparted"
 
 #. no file system found....
 #: ../src/GParted_Core.cc:1708
 msgid "Unable to detect file system! Possible reasons are:"
-msgstr ""
+msgstr "Немагчыма выявіць файлавую сістэму! Магчымыя прычыны:"
 
 #: ../src/GParted_Core.cc:1710
 msgid "The file system is damaged"
-msgstr ""
+msgstr "Файлавая сістэма пашкоджаная"
 
 #: ../src/GParted_Core.cc:1712
 msgid "The file system is unknown to GParted"
-msgstr ""
+msgstr "GParted не ведае такой файлавай сістэмы"
 
 #: ../src/GParted_Core.cc:1714
 msgid "There is no file system available (unformatted)"
-msgstr ""
+msgstr "Файлавая сістэма адсутнічае (раздзел не фарматаваны)"
 
 #. TO TRANSLATORS: looks like  The device entry /dev/sda5 is missing
 #: ../src/GParted_Core.cc:1717
 msgid "The device entry %1 is missing"
-msgstr ""
+msgstr "Запіс прылады %1 адсутнічае"
 
 #: ../src/GParted_Core.cc:1876
 msgid "Unable to find mount point"
-msgstr ""
+msgstr "Немагчыма знайсці пункт мантавання"
 
 #: ../src/GParted_Core.cc:1996
 msgid "Unable to read the contents of this file system!"
-msgstr ""
+msgstr "Немагчыма прачытаць змесціва гэтай файлавай сістэмы!"
 
 #: ../src/GParted_Core.cc:1998
 msgid "Because of this some operations may be unavailable."
-msgstr ""
+msgstr "З гэтай прычыны пэўныя аперацыі могуць быць недаступнымі."
 
 #: ../src/GParted_Core.cc:2002
 msgid "The cause might be a missing software package."
-msgstr ""
+msgstr "Магчыма, ў вас адсутнічае патрэбнае праграмнае забеспячэнне."
 
 #. TO TRANSLATORS: looks like   The following list of software packages is required for NTFS file system support:  ntfsprogs.
 #: ../src/GParted_Core.cc:2005
 msgid "The following list of software packages is required for %1 file system support:  %2."
-msgstr ""
+msgstr "Для падтрымкі файлавай сістэмы %1 патрабуецца наступнае праграмнае забеспячэнне: %2."
 
 #. TO TRANSLATORS: looks like   1.28GiB of unallocated space within the partition.
 #: ../src/GParted_Core.cc:2015
 msgid "%1 of unallocated space within the partition."
-msgstr ""
+msgstr "%1 неразмеркаванай прасторы ў раздзеле."
 
 #. TO TRANSLATORS: To grow the file system to fill the partition, select the partition and choose the menu item:
 #. * means that the user can perform a check of the partition which will
@@ -877,15 +877,15 @@ msgstr ""
 #.
 #: ../src/GParted_Core.cc:2025
 msgid "To grow the file system to fill the partition, select the partition and choose the menu item:"
-msgstr ""
+msgstr "Каб павялічыць памер файлавай сістэмы, запоўніўшы ўвесь раздзел, абярыце раздзел і пункт меню:"
 
 #: ../src/GParted_Core.cc:2027
 msgid "Partition --> Check."
-msgstr ""
+msgstr "Раздзел --> Праверыць."
 
 #: ../src/GParted_Core.cc:2134
 msgid "create empty partition"
-msgstr ""
+msgstr "стварыць пусты раздзел"
 
 #. TO TRANSLATORS: looks like   path: /dev/sda1 (partition)
 #. * This is showing the name and the fact
@@ -899,61 +899,61 @@ msgstr ""
 #.
 #: ../src/GParted_Core.cc:2208 ../src/GParted_Core.cc:3523
 msgid "path: %1 (%2)"
-msgstr ""
+msgstr "шлях: %1 (%2)"
 
 #: ../src/GParted_Core.cc:2209 ../src/GParted_Core.cc:3526
 msgid "partition"
-msgstr ""
+msgstr "раздзел"
 
 #: ../src/GParted_Core.cc:2210 ../src/GParted_Core.cc:3527
 msgid "start: %1"
-msgstr ""
+msgstr "пачатак: %1"
 
 #: ../src/GParted_Core.cc:2211 ../src/GParted_Core.cc:3528
 msgid "end: %1"
-msgstr ""
+msgstr "канец: %1"
 
 #: ../src/GParted_Core.cc:2212 ../src/GParted_Core.cc:3529
 msgid "size: %1 (%2)"
-msgstr ""
+msgstr "памер: %1 (%2)"
 
 #: ../src/GParted_Core.cc:2244 ../src/linux_swap.cc:173
 msgid "create new %1 file system"
-msgstr ""
+msgstr "стварыць новую файлавую сістэму %1"
 
 #: ../src/GParted_Core.cc:2286
 msgid "delete partition"
-msgstr ""
+msgstr "выдаліць раздзел"
 
 #: ../src/GParted_Core.cc:2341
 msgid "delete %1 file system"
-msgstr ""
+msgstr "выдаліць файлавую сістэму %1"
 
 #. TO TRANSLATORS: looks like   Clear file system Label on /dev/hda3
 #: ../src/GParted_Core.cc:2358 ../src/OperationLabelFileSystem.cc:55
 msgid "Clear file system label on %1"
-msgstr ""
+msgstr "Прыбраць адмеціну файлавай сістэмы на %1"
 
 #: ../src/GParted_Core.cc:2361
 msgid "Set file system label to \"%1\" on %2"
-msgstr ""
+msgstr "Адмеціць файлавую сістэму \"%1\" на %2"
 
 #. TO TRANSLATORS: looks like   Clear partition name on /dev/hda3
 #: ../src/GParted_Core.cc:2390 ../src/OperationNamePartition.cc:55
 msgid "Clear partition name on %1"
-msgstr ""
+msgstr "Ачысціць назву раздзела на %1"
 
 #: ../src/GParted_Core.cc:2393
 msgid "Set partition name to \"%1\" on %2"
-msgstr ""
+msgstr "Даць назву раздзела \"%1\" на %2"
 
 #: ../src/GParted_Core.cc:2418
 msgid "Set half of the UUID on %1 to a new, random value"
-msgstr ""
+msgstr "Прызначыць для %1 палову UUID з выпадковым значэннем"
 
 #: ../src/GParted_Core.cc:2423
 msgid "Set UUID on %1 to a new, random value"
-msgstr ""
+msgstr "Прызначыць %1 новае выпадковае значэнне UUID"
 
 #. TO TRANSLATORS:  moving requires old and new length to be the same
 #. * means that the length in bytes of the old partition and new partition
@@ -962,470 +962,470 @@ msgstr ""
 #.
 #: ../src/GParted_Core.cc:2511
 msgid "moving requires old and new length to be the same"
-msgstr ""
+msgstr "пры перамяшчэнні новы і стары памеры мусяць быць аднолькавымі"
 
 #: ../src/GParted_Core.cc:2541
 msgid "rollback last change to the partition table"
-msgstr ""
+msgstr "адрабленне апошняй змены табліцы раздзелаў"
 
 #: ../src/GParted_Core.cc:2590
 msgid "move file system to the left"
-msgstr ""
+msgstr "перамясціць файлавую сістэму ўлева"
 
 #: ../src/GParted_Core.cc:2592
 msgid "move file system to the right"
-msgstr ""
+msgstr "перамясціць файлавую сістэму ўправа"
 
 #: ../src/GParted_Core.cc:2595
 msgid "move file system"
-msgstr ""
+msgstr "перамясціць файлавую сістэму"
 
 #: ../src/GParted_Core.cc:2597
 msgid "new and old file system have the same position.  Hence skipping this operation"
-msgstr ""
+msgstr "у новай і старой файлавых сістэм аднолькавая пазіцыя, таму аперацыя мінаецца"
 
 #: ../src/GParted_Core.cc:2660
 msgid "using libparted"
-msgstr ""
+msgstr "выкарыстанне libparted"
 
 #: ../src/GParted_Core.cc:2723
 msgid "resizing requires old and new start to be the same"
-msgstr ""
+msgstr "пры змене памеру новы і стары пачаткі мусяць быць аднолькавымі"
 
 #: ../src/GParted_Core.cc:2793
 msgid "resize/move partition"
-msgstr ""
+msgstr "змяніць памер/перамясціць раздзел"
 
 #: ../src/GParted_Core.cc:2796
 msgid "move partition to the right"
-msgstr ""
+msgstr "перамясціць раздзел управа"
 
 #: ../src/GParted_Core.cc:2799
 msgid "move partition to the left"
-msgstr ""
+msgstr "перамясціць раздзел улева"
 
 #: ../src/GParted_Core.cc:2802
 msgid "grow partition from %1 to %2"
-msgstr ""
+msgstr "павялічыць раздзел з %1 да %2"
 
 #: ../src/GParted_Core.cc:2805
 msgid "shrink partition from %1 to %2"
-msgstr ""
+msgstr "паменшыць раздзел з %1 да %2"
 
 #: ../src/GParted_Core.cc:2808
 msgid "move partition to the right and grow it from %1 to %2"
-msgstr ""
+msgstr "перамясціць раздзел управа і павялічыць памер з %1 да %2"
 
 #: ../src/GParted_Core.cc:2811
 msgid "move partition to the right and shrink it from %1 to %2"
-msgstr ""
+msgstr "перамясціць раздзел управа і паменшыць памер з %1 да %2"
 
 #: ../src/GParted_Core.cc:2814
 msgid "move partition to the left and grow it from %1 to %2"
-msgstr ""
+msgstr "перамясціць раздзел улева і павялічыць памер з %1 да %2"
 
 #: ../src/GParted_Core.cc:2817
 msgid "move partition to the left and shrink it from %1 to %2"
-msgstr ""
+msgstr "перамясціць раздзел улева і паменшыць памер з %1 да %2"
 
 #: ../src/GParted_Core.cc:2832
 msgid "new and old partition have the same size and position.  Hence skipping this operation"
-msgstr ""
+msgstr "у новага і старога раздзела аднолькавыя памер і пазіцыя, таму аперацыя мінаецца"
 
 #: ../src/GParted_Core.cc:2842
 msgid "old start: %1"
-msgstr ""
+msgstr "стары пачатак: %1"
 
 #: ../src/GParted_Core.cc:2843
 msgid "old end: %1"
-msgstr ""
+msgstr "стары канец: %1"
 
 #: ../src/GParted_Core.cc:2844
 msgid "old size: %1 (%2)"
-msgstr ""
+msgstr "стары памер: %1 (%2)"
 
 #: ../src/GParted_Core.cc:2909 ../src/GParted_Core.cc:3613
 msgid "new start: %1"
-msgstr ""
+msgstr "новы пачатак: %1"
 
 #: ../src/GParted_Core.cc:2910 ../src/GParted_Core.cc:3614
 msgid "new end: %1"
-msgstr ""
+msgstr "новы канец: %1"
 
 #: ../src/GParted_Core.cc:2911 ../src/GParted_Core.cc:3615
 msgid "new size: %1 (%2)"
-msgstr ""
+msgstr "новы памер: %1 (%2)"
 
 #: ../src/GParted_Core.cc:2938 ../src/GParted_Core.cc:3561
 msgid "requested start: %1"
-msgstr ""
+msgstr "запытваецца пачатак: %1"
 
 #: ../src/GParted_Core.cc:2939 ../src/GParted_Core.cc:3562
 msgid "requested end: %1"
-msgstr ""
+msgstr "запытваецца канец: %1"
 
 #: ../src/GParted_Core.cc:2940 ../src/GParted_Core.cc:3563
 msgid "requested size: %1 (%2)"
-msgstr ""
+msgstr "запытваецца памер: %1 (%2)"
 
 #: ../src/GParted_Core.cc:2965
 msgid "shrink file system"
-msgstr ""
+msgstr "паменшыць памер файлавай сістэмы"
 
 #: ../src/GParted_Core.cc:2969
 msgid "grow file system"
-msgstr ""
+msgstr "павялічыць памер файлавай сістэмы"
 
 #: ../src/GParted_Core.cc:2972
 msgid "resize file system"
-msgstr ""
+msgstr "змяніць памер файлавай сістэмы"
 
 #: ../src/GParted_Core.cc:2975
 msgid "new and old file system have the same size.  Hence skipping this operation"
-msgstr ""
+msgstr "у новай і старой файлавых сістэм аднолькавы памер, таму аперацыя мінаецца"
 
 #: ../src/GParted_Core.cc:3016
 msgid "grow file system to fill the partition"
-msgstr ""
+msgstr "павялічыць памер файлавай сістэмы запоўніўшы ўвесь раздзел"
 
 #: ../src/GParted_Core.cc:3021
 msgid "growing is not available for this file system"
-msgstr ""
+msgstr "павелічэнне памеру гэтай файлавай сістэмы не падтрымліваецца"
 
 #: ../src/GParted_Core.cc:3030
 msgid "growing the file system is currently disallowed"
-msgstr ""
+msgstr "на дадзены момант немагчыма павялічыць памер файлавай сістэмы"
 
 #: ../src/GParted_Core.cc:3056
 msgid "the destination is smaller than the source partition"
-msgstr ""
+msgstr "раздзел прызначэння меншы за зыходны раздзел"
 
 #: ../src/GParted_Core.cc:3079
 msgid "copy file system of %1 to %2"
-msgstr ""
+msgstr "скапіяваць файлавую сістэму з %1 у %2"
 
 #: ../src/GParted_Core.cc:3175
 msgid "using internal algorithm"
-msgstr ""
+msgstr "выкарыстанне ўнутранага алгарытму"
 
 #. TO TRANSLATORS: looks like  copy 1.00 MiB
 #: ../src/GParted_Core.cc:3178
 msgid "copy %1"
-msgstr ""
+msgstr "скапіявана %1"
 
 #: ../src/GParted_Core.cc:3181
 msgid "finding optimal block size"
-msgstr ""
+msgstr "пошук аптымальнага памеру блока"
 
 #: ../src/GParted_Core.cc:3223
 msgid "%1 seconds"
-msgstr ""
+msgstr "%1 секунд"
 
 #. TO TRANSLATORS: looks like  optimal block size is 1.00 MiB
 #: ../src/GParted_Core.cc:3241
 msgid "optimal block size is %1"
-msgstr ""
+msgstr "аптымальны памер блока — %1"
 
 #. TO TRANSLATORS: looks like  1.00 MiB (1048576 B) copied
 #: ../src/GParted_Core.cc:3259
 msgid "%1 (%2 B) copied"
-msgstr ""
+msgstr "%1 (%2 Б) скапіявана"
 
 #: ../src/GParted_Core.cc:3297
 msgid "roll back last transaction"
-msgstr ""
+msgstr "адрабіць апошнюю транзакцыю"
 
 #. TO TRANSLATORS: looks like   check file system on /dev/sda5 for errors and (if possible) fix them
 #: ../src/GParted_Core.cc:3317
 msgid "check file system on %1 for errors and (if possible) fix them"
-msgstr ""
+msgstr "праверыць файлавую сістэму %1 і, па магчымасці, выправіць памылкі"
 
 #: ../src/GParted_Core.cc:3326
 msgid "checking is not available for this file system"
-msgstr ""
+msgstr "праверка недаступная для гэтай файлавай сістэмы"
 
 #: ../src/GParted_Core.cc:3355
 msgid "set partition type on %1"
-msgstr ""
+msgstr "прызначыць тып раздзела на %1"
 
 #. TO TRANSLATORS: looks like   new partition type: ext4
 #: ../src/GParted_Core.cc:3398
 msgid "new partition type: %1"
-msgstr ""
+msgstr "новы тып раздзела: %1"
 
 #. TO TRANSLATORS: looks like   new partition flag: lvm
 #: ../src/GParted_Core.cc:3413
 msgid "new partition flag: %1"
-msgstr ""
+msgstr "новы сцяг раздзела: %1"
 
 #: ../src/GParted_Core.cc:3441
 msgid "calibrate %1"
-msgstr ""
+msgstr "калібраванне %1"
 
 #: ../src/GParted_Core.cc:3525
 msgid "device"
-msgstr ""
+msgstr "прылада"
 
 #: ../src/GParted_Core.cc:3557
 msgid "calculate new size and position of %1"
-msgstr ""
+msgstr "вылічыць новы памер і пазіцыю %1"
 
 #: ../src/GParted_Core.cc:3673
 msgid "clear old file system signatures in %1"
-msgstr ""
+msgstr "выдаліць сігнатуры старой файлавай сістэмы ў %1"
 
 #: ../src/GParted_Core.cc:3879
 msgid "flush operating system cache of %1"
-msgstr ""
+msgstr "ачысціць сістэмны кэш аперацый %1"
 
 #. TO TRANSLATORS: update boot sector of ntfs file system on /dev/sdd1
 #: ../src/GParted_Core.cc:3911
 msgid "update boot sector of %1 file system on %2"
-msgstr ""
+msgstr "абнаўленне загрузачнага сектара файлавай сістэмы %1 на %2"
 
 #. TO TRANSLATORS: looks like Error trying to write to boot sector in /dev/sdd1
 #: ../src/GParted_Core.cc:3947
 msgid "Error trying to write to boot sector in %1"
-msgstr ""
+msgstr "Падчас спробы запісаць блок у загрузачны сектар %1 адбылася памылка"
 
 #. TO TRANSLATORS: looks like Error trying to seek to position 0x1C in /dev/sdd1
 #: ../src/GParted_Core.cc:3953
 msgid "Error trying to seek to position 0x1c in %1"
-msgstr ""
+msgstr "Падчас спробы перайсці на пазіцыю 0x1c на %1 адбылася памылка"
 
 #. TO TRANSLATORS: looks like Error trying to open /dev/sdd1
 #: ../src/GParted_Core.cc:3960
 msgid "Error trying to open %1"
-msgstr ""
+msgstr "Падчас адкрыцця %1 адбылася памылка"
 
 #. TO TRANSLATORS: looks like Failed to set the number of hidden sectors to 05ab4f00 in the ntfs boot record.
 #: ../src/GParted_Core.cc:3970
 msgid "Failed to set the number of hidden sectors to %1 in the NTFS boot record."
-msgstr ""
+msgstr "Не атрымалася прызначыць колькасць схаваных сектараў %1 у загрузачным запісу NTFS."
 
 #: ../src/GParted_Core.cc:3972
 msgid "You might try the following command to correct the problem:"
-msgstr ""
+msgstr "Каб выправіць гэта паспрабуйце запусціць наступны загад:"
 
 #. TO TRANSLATORS: looks like   Ignoring device /dev/sde with logical sector size of 2048 bytes.
 #: ../src/GParted_Core.cc:4033
 msgid "Ignoring device %1 with logical sector size of %2 bytes."
-msgstr ""
+msgstr "Ігнараванне прылады %1 з лагічным памерам сектара %2 байтаў."
 
 #: ../src/GParted_Core.cc:4036
 msgid "GParted requires libparted version 2.2 or higher to support devices with sector sizes larger than 512 bytes."
-msgstr ""
+msgstr "GParted для падтрымкі прылад з памерам сектара больш за 512 байтаў патрабуецца libparted версіі 2.2 або вышэй."
 
 #: ../src/GParted_Core.cc:4200
 msgid "Libparted Information"
-msgstr ""
+msgstr "Інфармацыя libparted"
 
 #: ../src/GParted_Core.cc:4204
 msgid "Libparted Warning"
-msgstr ""
+msgstr "Папярэджанне libparted"
 
 #: ../src/GParted_Core.cc:4208
 msgid "Libparted Error"
-msgstr ""
+msgstr "Памылка libparted"
 
 #: ../src/GParted_Core.cc:4211
 msgid "Libparted Fatal"
-msgstr ""
+msgstr "Крытычная памылка Libparted"
 
 #: ../src/GParted_Core.cc:4214
 msgid "Libparted Bug"
-msgstr ""
+msgstr "Хіба Libparted"
 
 #: ../src/GParted_Core.cc:4217
 msgid "Libparted Unsupported Feature"
-msgstr ""
+msgstr "Непадтрымліваемая libparted функцыя"
 
 #: ../src/GParted_Core.cc:4220
 msgid "Libparted unknown exception"
-msgstr ""
+msgstr "Невядомае libparted выключэнне"
 
 #: ../src/GParted_Core.cc:4224
 msgid "Fix"
-msgstr ""
+msgstr "Выправіць"
 
 #: ../src/GParted_Core.cc:4226
 msgid "Yes"
-msgstr ""
+msgstr "Так"
 
 #: ../src/GParted_Core.cc:4228
 msgid "Ok"
-msgstr ""
+msgstr "Добра"
 
 #: ../src/GParted_Core.cc:4230
 msgid "Retry"
-msgstr ""
+msgstr "Паўтарыць"
 
 #: ../src/GParted_Core.cc:4232
 msgid "No"
-msgstr ""
+msgstr "Не"
 
 #: ../src/GParted_Core.cc:4234
 msgid "Cancel"
-msgstr ""
+msgstr "Скасаваць"
 
 #: ../src/GParted_Core.cc:4236
 msgid "Ignore"
-msgstr ""
+msgstr "Не зважаць"
 
 #: ../src/HBoxOperations.cc:44 ../src/Win_GParted.cc:172
 msgid "_Undo Last Operation"
-msgstr ""
+msgstr "_Адрабіць апошнюю аперацыю"
 
 #: ../src/HBoxOperations.cc:49 ../src/Win_GParted.cc:178
 msgid "_Clear All Operations"
-msgstr ""
+msgstr "_Ачысціць спіс аперацый"
 
 #: ../src/HBoxOperations.cc:54 ../src/Win_GParted.cc:183
 msgid "_Apply All Operations"
-msgstr ""
+msgstr "_Выканаць усе аперацыі"
 
 #: ../src/LVM2_PV_Info.cc:192
 msgid "One or more Physical Volumes belonging to the Volume Group is missing."
-msgstr ""
+msgstr "У групе тамоў адсутнічаюць адзін альбо некалькі фізічных тамоў."
 
 #: ../src/LVM2_PV_Info.cc:320
 msgid "An error occurred reading LVM2 configuration!"
-msgstr ""
+msgstr "Падчас чытання канфігурацыі LVM2 адбылася памылка!"
 
 #: ../src/LVM2_PV_Info.cc:322
 msgid "Some or all of the details might be missing or incorrect."
-msgstr ""
+msgstr "Пэўных альбо ўсіх даных можа не быць альбо яны могуць быць хібнымі."
 
 #: ../src/LVM2_PV_Info.cc:324
 msgid "You should NOT modify any LVM2 PV partitions."
-msgstr ""
+msgstr "Вы не павінны змяняць раздзелы LVM2."
 
 #. TO TRANSLATORS: looks like   Set half the UUID to a new random value on ntfs file system on /dev/sda1
 #: ../src/OperationChangeUUID.cc:56
 msgid "Set half the UUID to a new random value on %1 file system on %2"
-msgstr ""
+msgstr "Прызначыць для %1 (файлавая сістэма %2) палову UUID з выпадковым значэннем"
 
 #. TO TRANSLATORS: looks like   Set a new random UUID on ext4 file system on /dev/sda1
 #: ../src/OperationChangeUUID.cc:63
 msgid "Set a new random UUID on %1 file system on %2"
-msgstr ""
+msgstr "Прызначыць новае выпадковае значэнне UUID для файлавай сістэмы %1 на %2"
 
 #. TO TRANSLATORS: looks like  Copy /dev/hda4 to /dev/hdd (start at 250 MiB)
 #: ../src/OperationCopy.cc:83
 msgid "Copy %1 to %2 (start at %3)"
-msgstr ""
+msgstr "Капіяваць %1 на %2 (пачынаючы з %3)"
 
 #. TO TRANSLATORS: looks like  Copy /dev/hda4 to /dev/hdd1
 #: ../src/OperationCopy.cc:92
 msgid "Copy %1 to %2"
-msgstr ""
+msgstr "Капіяваць %1 на %2"
 
 #. Bug: Not initialised by constructor or reset later
 #. TO TRANSLATORS: looks like  Check and repair file system (ext3) on /dev/hda4
 #: ../src/OperationCheck.cc:63
 msgid "Check and repair file system (%1) on %2"
-msgstr ""
+msgstr "Праверыць і аднавіць файлавую сістэму (%1) на %2"
 
 #. TO TRANSLATORS: looks like   Create Logical Partition #1 (ntfs, 345 MiB) on /dev/hda
 #: ../src/OperationCreate.cc:71
 msgid "Create %1 #%2 (%3, %4) on %5"
-msgstr ""
+msgstr "Стварыць %1 #%2 (%3, %4) на %5"
 
 #. TO TRANSLATORS: looks like   Delete /dev/hda2 (ntfs, 345 MiB) from /dev/hda
 #: ../src/OperationDelete.cc:115
 msgid "Delete %1 (%2, %3) from %4"
-msgstr ""
+msgstr "Выдаліць %1 (%2, %3) з %4"
 
 #. Bug: Not initialised by constructor or reset later
 #. Bug: Not initialised by constructor or reset later
 #. TO TRANSLATORS: looks like  Format /dev/hda4 as linux-swap
 #: ../src/OperationFormat.cc:75
 msgid "Format %1 as %2"
-msgstr ""
+msgstr "Фарматаваць %1 як %2"
 
 #. TO TRANSLATORS: looks like   Set file system label "My Label" on /dev/hda3
 #: ../src/OperationLabelFileSystem.cc:61
 msgid "Set file system label \"%1\" on %2"
-msgstr ""
+msgstr "Адмеціць файлавую сістэму \"%1\" на %2"
 
 #. TO TRANSLATORS: looks like   Set partition name "My Name" on /dev/hda3
 #: ../src/OperationNamePartition.cc:61
 msgid "Set partition name \"%1\" on %2"
-msgstr ""
+msgstr "Даць назву раздзела \"%1\" на %2"
 
 #: ../src/OperationResizeMove.cc:104
 msgid "resize/move %1"
-msgstr ""
+msgstr "змяніць памер/перамясціць %1"
 
 #: ../src/OperationResizeMove.cc:106
 msgid "new and old partition have the same size and position.  Hence continuing anyway"
-msgstr ""
+msgstr "у новага і старога раздзелаў аднолькавыя памер і пазіцыя; працягнуць усё роўна"
 
 #: ../src/OperationResizeMove.cc:110
 msgid "Move %1 to the right"
-msgstr ""
+msgstr "Перамясціць %1 управа"
 
 #: ../src/OperationResizeMove.cc:113
 msgid "Move %1 to the left"
-msgstr ""
+msgstr "Перамясціць %1 улева"
 
 #: ../src/OperationResizeMove.cc:116
 msgid "Grow %1 from %2 to %3"
-msgstr ""
+msgstr "Паменшыць памер %1 з %2 да %3"
 
 #: ../src/OperationResizeMove.cc:119
 msgid "Shrink %1 from %2 to %3"
-msgstr ""
+msgstr "Паменшыць памер %1 з %2 да %3"
 
 #: ../src/OperationResizeMove.cc:122
 msgid "Move %1 to the right and grow it from %2 to %3"
-msgstr ""
+msgstr "Перамясціць %1 управа і павялічыць памер з %2 да %3"
 
 #: ../src/OperationResizeMove.cc:125
 msgid "Move %1 to the right and shrink it from %2 to %3"
-msgstr ""
+msgstr "Перамясціць %1 управа і паменшыць памер з %2 да %3"
 
 #: ../src/OperationResizeMove.cc:128
 msgid "Move %1 to the left and grow it from %2 to %3"
-msgstr ""
+msgstr "Перамясціць %1 улева і павялічыць памер з %2 да %3"
 
 #: ../src/OperationResizeMove.cc:131
 msgid "Move %1 to the left and shrink it from %2 to %3"
-msgstr ""
+msgstr "Перамясціць %1 улева і паменшыць памер з %2 да %3"
 
 #. TO TRANSLATORS: looks like   1.00 MiB of 16.00 MiB copied (00:01:59 remaining)
 #: ../src/ProgressBar.cc:98
 msgid "%1 of %2 copied (%3 remaining)"
-msgstr ""
+msgstr "%1 з %2 скапіявана (%3 засталося)"
 
 #: ../src/TreeView_Detail.cc:38
 msgid "Name"
-msgstr ""
+msgstr "Назва"
 
 #: ../src/TreeView_Detail.cc:40
 msgid "Mount Point"
-msgstr ""
+msgstr "Пункт мантавання"
 
 #: ../src/TreeView_Detail.cc:42
 msgid "Size"
-msgstr ""
+msgstr "Памер"
 
 #: ../src/TreeView_Detail.cc:43
 msgid "Used"
-msgstr ""
+msgstr "Выкарыстоўваецца"
 
 #: ../src/TreeView_Detail.cc:44
 msgid "Unused"
-msgstr ""
+msgstr "Не выкарыстоўваецца"
 
 #: ../src/TreeView_Detail.cc:45
 msgid "Flags"
-msgstr ""
+msgstr "Сцягі"
 
 #. TO TRANSLATORS: means that this is an encrypted file system
 #: ../src/TreeView_Detail.cc:197 ../src/TreeView_Detail.cc:207
 msgid "Encrypted"
-msgstr ""
+msgstr "Зашыфравана"
 
 #. TO TRANSLATORS:  unallocated
 #. * means that this space on the disk device does
@@ -1434,7 +1434,7 @@ msgstr ""
 #.
 #: ../src/Utils.cc:251
 msgid "unallocated"
-msgstr ""
+msgstr "неразмеркавана"
 
 #. TO TRANSLATORS:  unknown
 #. * means that this space within this partition does
@@ -1443,7 +1443,7 @@ msgstr ""
 #.
 #: ../src/Utils.cc:258
 msgid "unknown"
-msgstr ""
+msgstr "невядома"
 
 #. TO TRANSLATORS:  unformatted
 #. * means that the space within this partition will not
@@ -1451,7 +1451,7 @@ msgstr ""
 #.
 #: ../src/Utils.cc:264
 msgid "unformatted"
-msgstr ""
+msgstr "нефарматавана"
 
 #. TO TRANSLATORS:  cleared
 #. * means that all file system signatures in the partition
@@ -1459,650 +1459,650 @@ msgstr ""
 #.
 #: ../src/Utils.cc:270
 msgid "cleared"
-msgstr ""
+msgstr "ачышчана"
 
 #: ../src/Utils.cc:290
 msgid "used"
-msgstr ""
+msgstr "выкарыстоўваецца"
 
 #: ../src/Utils.cc:291
 msgid "unused"
-msgstr ""
+msgstr "не выкарыстоўваецца"
 
 #: ../src/Utils.cc:422
 msgid "%1 B"
-msgstr ""
+msgstr "%1 Б"
 
 #: ../src/Utils.cc:427
 msgid "%1 KiB"
-msgstr ""
+msgstr "%1 КіБ"
 
 #: ../src/Utils.cc:432
 msgid "%1 MiB"
-msgstr ""
+msgstr "%1 МіБ"
 
 #: ../src/Utils.cc:437
 msgid "%1 GiB"
-msgstr ""
+msgstr "%1 ГіБ"
 
 #: ../src/Utils.cc:442
 msgid "%1 TiB"
-msgstr ""
+msgstr "%1 ТіБ"
 
 #: ../src/Win_GParted.cc:156
 msgid "_Refresh Devices"
-msgstr ""
+msgstr "_Абнавіць спіс прылад"
 
 #: ../src/Win_GParted.cc:162
 msgid "_Devices"
-msgstr ""
+msgstr "_Прылады"
 
 #: ../src/Win_GParted.cc:167
 msgid "_GParted"
-msgstr ""
+msgstr "_GParted"
 
 #: ../src/Win_GParted.cc:187
 msgid "_Edit"
-msgstr ""
+msgstr "_Рэдагаванне"
 
 #: ../src/Win_GParted.cc:192
 msgid "Device _Information"
-msgstr ""
+msgstr "_Інфармацыя аб прыладзе"
 
 #: ../src/Win_GParted.cc:194
 msgid "Pending _Operations"
-msgstr ""
+msgstr "С_піс запланаваных аперацый"
 
 #: ../src/Win_GParted.cc:195
 msgid "_View"
-msgstr ""
+msgstr "_Выгляд"
 
 #: ../src/Win_GParted.cc:199
 msgid "_File System Support"
-msgstr ""
+msgstr "_Падтрымка файлавых сістэм"
 
 #: ../src/Win_GParted.cc:203
 msgid "_Create Partition Table"
-msgstr ""
+msgstr "_Стварыць табліцу раздзелаў"
 
 #: ../src/Win_GParted.cc:206
 msgid "_Attempt Data Rescue"
-msgstr ""
+msgstr "_Паспрабаваць аднавіць даныя"
 
 #: ../src/Win_GParted.cc:209
 msgid "_Device"
-msgstr ""
+msgstr "_Прылада"
 
 #: ../src/Win_GParted.cc:213
 msgid "_Partition"
-msgstr ""
+msgstr "_Раздзел"
 
 #: ../src/Win_GParted.cc:218
 msgid "_Contents"
-msgstr ""
+msgstr "_Змест"
 
 #: ../src/Win_GParted.cc:226
 msgid "_Help"
-msgstr ""
+msgstr "_Даведка"
 
 #. TO TRANSLATORS: "New" is a tool bar item for partition actions.
 #: ../src/Win_GParted.cc:238
 msgid "New"
-msgstr ""
+msgstr "Новы"
 
 #: ../src/Win_GParted.cc:243
 msgid "Create a new partition in the selected unallocated space"
-msgstr ""
+msgstr "Стварыць новы раздзел у абранай неразмеркаванай прасторы"
 
 #: ../src/Win_GParted.cc:248
 msgid "Delete the selected partition"
-msgstr ""
+msgstr "Выдаліць абраны раздзел"
 
 #: ../src/Win_GParted.cc:270
 msgid "Resize/Move the selected partition"
-msgstr ""
+msgstr "Змяніць памер/Перамясціць абраны раздзел"
 
 #: ../src/Win_GParted.cc:279
 msgid "Copy the selected partition to the clipboard"
-msgstr ""
+msgstr "Скапіяваць абраны раздзел у буфер абмену"
 
 #: ../src/Win_GParted.cc:284
 msgid "Paste the partition from the clipboard"
-msgstr ""
+msgstr "Уставіць раздзел з буфера абмену"
 
 #: ../src/Win_GParted.cc:296
 msgid "Undo Last Operation"
-msgstr ""
+msgstr "Скасаваць апошнюю аперацыю"
 
 #: ../src/Win_GParted.cc:304
 msgid "Apply All Operations"
-msgstr ""
+msgstr "Выканаць усе аперацыі"
 
 #. TO TRANSLATORS: "_New" is a sub menu item for the partition menu.
 #: ../src/Win_GParted.cc:328
 msgid "_New"
-msgstr ""
+msgstr "_Новы"
 
 #: ../src/Win_GParted.cc:345
 msgid "_Resize/Move"
-msgstr ""
+msgstr "_Змяніць памер/Перамясціць"
 
 #: ../src/Win_GParted.cc:369
 msgid "_Format to"
-msgstr ""
+msgstr "_Фарматаваць у"
 
 #: ../src/Win_GParted.cc:385
 msgid "_Mount on"
-msgstr ""
+msgstr "_Прымантаваць"
 
 #: ../src/Win_GParted.cc:392
 msgid "_Name Partition"
-msgstr ""
+msgstr "_Даць раздзела назву"
 
 #: ../src/Win_GParted.cc:397
 msgid "M_anage Flags"
-msgstr ""
+msgstr "_Кіраванне сцягамі"
 
 #: ../src/Win_GParted.cc:402
 msgid "C_heck"
-msgstr ""
+msgstr "П_раверыць"
 
 #: ../src/Win_GParted.cc:407
 msgid "_Label File System"
-msgstr ""
+msgstr "_Адмеціць файлавую сістэму"
 
 #: ../src/Win_GParted.cc:412
 msgid "New UU_ID"
-msgstr ""
+msgstr "Новы _UUID"
 
 #: ../src/Win_GParted.cc:472
 msgid "Device Information"
-msgstr ""
+msgstr "Інфармацыя аб прыладзе"
 
 #. model
 #: ../src/Win_GParted.cc:480
 msgid "Model:"
-msgstr ""
+msgstr "Мадэль:"
 
 #. Serial number
 #: ../src/Win_GParted.cc:488
 msgid "Serial:"
-msgstr ""
+msgstr "Серыйны нумар:"
 
 #. disktype
 #: ../src/Win_GParted.cc:520
 msgid "Partition table:"
-msgstr ""
+msgstr "Табліца раздзелаў:"
 
 #. heads
 #: ../src/Win_GParted.cc:528
 msgid "Heads:"
-msgstr ""
+msgstr "Загаловак:"
 
 #. sectors/track
 #: ../src/Win_GParted.cc:536
 msgid "Sectors/track:"
-msgstr ""
+msgstr "Сектараў/дарожка:"
 
 #. cylinders
 #: ../src/Win_GParted.cc:544
 msgid "Cylinders:"
-msgstr ""
+msgstr "Цыліндраў:"
 
 #. sector size
 #: ../src/Win_GParted.cc:560
 msgid "Sector size:"
-msgstr ""
+msgstr "Памер сектара:"
 
 #: ../src/Win_GParted.cc:736
 msgid "Could not add this operation to the list"
-msgstr ""
+msgstr "Не атрымалася дадаць аперацыю ў спіс"
 
 #: ../src/Win_GParted.cc:917
 msgid "%1 operation pending"
 msgid_plural "%1 operations pending"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
+msgstr[0] "%1 запланаваная аперацыя"
+msgstr[1] "%1 запланаваных аперацый"
+msgstr[2] "%1 запланаваных аперацый"
+msgstr[3] "%1 запланаваных аперацый"
 
 #: ../src/Win_GParted.cc:1036
 msgid "Quit GParted?"
-msgstr ""
+msgstr "Выйсці з GParted?"
 
 #: ../src/Win_GParted.cc:1042
 msgid "%1 operation is currently pending."
 msgid_plural "%1 operations are currently pending."
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
+msgstr[0] "Засталася %1 запланаваная аперацыя."
+msgstr[1] "Засталося %1 запланаваныя аперацыі."
+msgstr[2] "Засталося %1 запланаваных аперацый."
+msgstr[3] "Засталося %1 запланаваных аперацый."
 
 #: ../src/Win_GParted.cc:1362
 msgid "%1 - GParted"
-msgstr ""
+msgstr "%1 — GParted"
 
 #: ../src/Win_GParted.cc:1399
 msgid "Scanning all devices..."
-msgstr ""
+msgstr "Сканаванне ўсіх прылад…"
 
 #: ../src/Win_GParted.cc:1446
 msgid "No devices detected"
-msgstr ""
+msgstr "Прылад не выяўлена"
 
 #. TO TRANSLATORS: looks like   No partition table found on device /dev/sda
 #: ../src/Win_GParted.cc:1531
 msgid "No partition table found on device %1"
-msgstr ""
+msgstr "На %1 не знойдзена табліцы раздзелаў"
 
 #: ../src/Win_GParted.cc:1536
 msgid "A partition table is required before partitions can be added."
-msgstr ""
+msgstr "Перад даданнем раздзела неабходна стварыць табліцу раздзелаў."
 
 #: ../src/Win_GParted.cc:1538
 msgid "To create a new partition table choose the menu item:"
-msgstr ""
+msgstr "Каб стварыць новую табліцу раздзелаў абярыце:"
 
 #. TO TRANSLATORS: this message represents the menu item Create Partition Table under the Device menu.
 #: ../src/Win_GParted.cc:1541
 msgid "Device --> Create Partition Table."
-msgstr ""
+msgstr "Прылада --> Стварыць табліцу раздзелаў."
 
 #: ../src/Win_GParted.cc:1577
 msgid "Unable to open GParted Manual help file"
-msgstr ""
+msgstr "Не атрымалася адкрыць дапаможнік па GParted"
 
 #: ../src/Win_GParted.cc:1596
 msgid "Documentation is not available"
-msgstr ""
+msgstr "Дакументацыя недаступная"
 
 #: ../src/Win_GParted.cc:1601
 msgid "This build of gparted is configured without documentation."
-msgstr ""
+msgstr "У гэтай зборцы gparted адсутнічае дакументацыя."
 
 #: ../src/Win_GParted.cc:1603
 msgid "Documentation is available at the project web site."
-msgstr ""
+msgstr "З дакументацыяй можна азнаёміцца на сеціўнай пляцоўцы праекта."
 
 #: ../src/Win_GParted.cc:1621
 msgid "GNOME Partition Editor"
-msgstr ""
+msgstr "Рэдактар раздзелаў GNOME"
 
 #. TO TRANSLATORS: your name(s) here please, if there are more translators put newlines (\n) between the names.
 #. It's a good idea to provide the url of your translation team as well. Thanks!
 #: ../src/Win_GParted.cc:1655
 msgid "translator-credits"
-msgstr ""
+msgstr "Zmicer Turok<zmicerturok@gmail.com>"
 
 #: ../src/Win_GParted.cc:1702
 msgid "It is not possible to create more than %1 primary partition"
 msgid_plural "It is not possible to create more than %1 primary partitions"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
+msgstr[0] "Немагчыма стварыць больш %1 асноўнага раздзела"
+msgstr[1] "Немагчыма стварыць больш %1 асноўных раздзелаў"
+msgstr[2] "Немагчыма стварыць больш %1 асноўных раздзелаў"
+msgstr[3] "Немагчыма стварыць больш %1 асноўных раздзелаў"
 
 #: ../src/Win_GParted.cc:1714
 msgid "If you want more partitions you should first create an extended partition. Such a partition can contain other partitions. Because an extended partition is also a primary partition it might be necessary to remove a primary partition first."
-msgstr ""
+msgstr "Калі вам патрэбна больш раздзелаў, то спачатку стварыце пашыраны раздзел. У такім раздзеле могуць змяшчацца іншыя раздзелы. Гэты раздзел з’яўляецца асноўным раздзелам, таму спачатку можа спатрэбіцца выдаліць асноўны раздзел."
 
 #: ../src/Win_GParted.cc:1783
 msgid "Moving a partition might cause your operating system to fail to boot"
-msgstr ""
+msgstr "Калі вы перамесціце раздзел, то аперацыйная сістэма не зможа загрузіцца"
 
 #. TO TRANSLATORS: looks like   You queued an operation to move the start sector of partition /dev/sda3.
 #: ../src/Win_GParted.cc:1790
 msgid "You have queued an operation to move the start sector of partition %1."
-msgstr ""
+msgstr "Чакаецца аперацыя па перамяшчэнню пачатковага сектара раздзела %1."
 
 #: ../src/Win_GParted.cc:1792
 msgid "  Failure to boot is most likely to occur if you move the GNU/Linux partition containing /boot, or if you move the Windows system partition C:."
-msgstr ""
+msgstr "  Калі вы перамесціце раздзел GNU/Linux з \"/boot\" альбо сістэмны раздзел Windows \"C:\", то, хутчэй за ўсё, не зможаце загрузіцца."
 
 #: ../src/Win_GParted.cc:1794
 msgid "You can learn how to repair the boot configuration in the GParted FAQ."
-msgstr ""
+msgstr "Інфармацыю па аднаўленню загрузачных налад можна знайсці ў FAQ па GParted."
 
 #: ../src/Win_GParted.cc:1798
 msgid "Moving a partition might take a very long time to apply."
-msgstr ""
+msgstr "На перамяшчэнне раздзела можа спатрэбіцца шмат часу."
 
 #: ../src/Win_GParted.cc:1865
 msgid "Copy of %1"
-msgstr ""
+msgstr "Скапіяваць %1"
 
 #: ../src/Win_GParted.cc:1927
 msgid "You have pasted into an existing partition"
-msgstr ""
+msgstr "Вы ўставілі ў бягучы раздзел"
 
 #: ../src/Win_GParted.cc:1935
 msgid "The data in %1 will be lost if you apply this operation."
-msgstr ""
+msgstr "Калі выканаць гэтую аперацыю, то даныя на %1 страцяцца."
 
 #: ../src/Win_GParted.cc:2016
 msgid "Unable to delete %1!"
-msgstr ""
+msgstr "Немагчыма выдаліць %1!"
 
 #: ../src/Win_GParted.cc:2023
 msgid "Please unmount any logical partitions having a number higher than %1"
-msgstr ""
+msgstr "Адмантуйце ўсе лагічныя раздзелы з нумарамі большымі за %1"
 
 #: ../src/Win_GParted.cc:2034
 msgid "Are you sure you want to delete %1?"
-msgstr ""
+msgstr "Сапраўды выдаліць %1?"
 
 #: ../src/Win_GParted.cc:2041
 msgid "After deletion this partition is no longer available for copying."
-msgstr ""
+msgstr "Пасля выдалення гэты раздзел больш не будзе даступны для капіявання."
 
 #. TO TRANSLATORS: dialogtitle, looks like   Delete /dev/hda2 (ntfs, 2345 MiB)
 #: ../src/Win_GParted.cc:2044
 msgid "Delete %1 (%2, %3)"
-msgstr ""
+msgstr "Выдаліць %1 (%2, %3)"
 
 #. TO TRANSLATORS: looks like
 #. * Cannot format this file system to fat16.
 #.
 #: ../src/Win_GParted.cc:2136
 msgid "Cannot format this file system to %1"
-msgstr ""
+msgstr "Не атрымалася адфарматаваць гэтую файлавую сістэму ў %1"
 
 #. TO TRANSLATORS: looks like
 #. * A fat16 file system requires a partition of at least 16.00 MiB.
 #.
 #: ../src/Win_GParted.cc:2148
 msgid "A %1 file system requires a partition of at least %2."
-msgstr ""
+msgstr "Файлавай сістэме %1 патрабуецца раздзел большы за %2."
 
 #. TO TRANSLATORS: looks like
 #. * A partition with a hfs file system has a maximum size of 2.00 GiB.
 #.
 #: ../src/Win_GParted.cc:2156
 msgid "A partition with a %1 file system has a maximum size of %2."
-msgstr ""
+msgstr "У раздзела з файлавай сістэмай %1 максімальны памер %2."
 
 #: ../src/Win_GParted.cc:2233
 msgid "The partition could not be unmounted from the following mount points:"
-msgstr ""
+msgstr "Раздзел немагчыма адмантаваць ад наступных пунктаў мантавання:"
 
 #: ../src/Win_GParted.cc:2235
 msgid "Most likely other partitions are also mounted on these mount points. You are advised to unmount them manually."
-msgstr ""
+msgstr "Хутчэй за ўсё, ў гэты пункт мантавання прымантаваныя іншыя раздзелы. Рэкамендуецца адмантаваць іх уласнаручна."
 
 #: ../src/Win_GParted.cc:2263 ../src/Win_GParted.cc:2387
 msgid "%1 operation is currently pending for partition %2"
 msgid_plural "%1 operations are currently pending for partition %2"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
+msgstr[0] "Засталася %1 запланаваная аперацыя з раздзелам %2"
+msgstr[1] "Засталіся %1 запланаваныя аперацыі з раздзелам %2"
+msgstr[2] "Засталося %1 запланаваных аперацый з раздзелам %2"
+msgstr[3] "Засталося %1 запланаваных аперацый з раздзелам %2"
 
 #: ../src/Win_GParted.cc:2279
 msgid "The swapon action cannot be performed if an operation is pending for the partition."
-msgstr ""
+msgstr "Дзеянне \"Уключыць swap\" немагчыма выканаць, пакуль для раздзела ёсць запланаваная аперацыя."
 
 #: ../src/Win_GParted.cc:2281
 msgid "Use the Edit menu to undo, clear, or apply operations before using swapon with this partition."
-msgstr ""
+msgstr "Выкарыстайце меню \"Рэдагаванне\", каб выканаць аперацыі \"адрабіць\", \"ачысціць\", \"ужыць\" перад тым, як выканаць \"Уключыць swap\" з гэтым раздзелам."
 
 #: ../src/Win_GParted.cc:2285
 msgid "The activate Volume Group action cannot be performed if an operation is pending for the partition."
-msgstr ""
+msgstr "Дзеянне \"Уключыць групу тамоў\" немагчыма выканаць, пакуль для раздзела ёсць запланаваная аперацыя."
 
 #: ../src/Win_GParted.cc:2287
 msgid "Use the Edit menu to undo, clear, or apply operations before using activate Volume Group with this partition."
-msgstr ""
+msgstr "Выкарыстайце меню \"Рэдагаванне\", каб выканаць аперацыі \"адрабіць\", \"ачысціць\", \"ужыць\" перад тым, як выканаць \"Уключыць групу тамоў\" з гэтым раздзелам."
 
 #: ../src/Win_GParted.cc:2298
 msgid "Deactivating swap on %1"
-msgstr ""
+msgstr "Выключэнне swap на %1"
 
 #: ../src/Win_GParted.cc:2298
 msgid "Activating swap on %1"
-msgstr ""
+msgstr "Уключэнне swap на %1"
 
 #: ../src/Win_GParted.cc:2310
 msgid "Could not deactivate swap"
-msgstr ""
+msgstr "Не атрымалася выключыць swap"
 
 #: ../src/Win_GParted.cc:2310
 msgid "Could not activate swap"
-msgstr ""
+msgstr "Не атрымалася ўключыць swap"
 
 #: ../src/Win_GParted.cc:2325
 msgid "Deactivating Volume Group %1"
-msgstr ""
+msgstr "Выключэнне групы тамоў %1"
 
 #: ../src/Win_GParted.cc:2326
 msgid "Activating Volume Group %1"
-msgstr ""
+msgstr "Уключэнне групы тамоў %1"
 
 #: ../src/Win_GParted.cc:2341
 msgid "Could not deactivate Volume Group"
-msgstr ""
+msgstr "Не атрымалася выключыць групу тамоў"
 
 #: ../src/Win_GParted.cc:2342
 msgid "Could not activate Volume Group"
-msgstr ""
+msgstr "Не атрымалася ўключыць групу тамоў"
 
 #: ../src/Win_GParted.cc:2355
 msgid "Unmounting %1"
-msgstr ""
+msgstr "Адмантоўванне %1"
 
 #: ../src/Win_GParted.cc:2361
 msgid "Could not unmount %1"
-msgstr ""
+msgstr "Не атрымалася адмантаваць %1"
 
 #: ../src/Win_GParted.cc:2401
 msgid "The mount action cannot be performed if an operation is pending for the partition."
-msgstr ""
+msgstr "Дзеянне \"Прымантаваць\" немагчыма выканаць, пакуль для раздзела ёсць запланаваная аперацыя."
 
 #: ../src/Win_GParted.cc:2403
 msgid "Use the Edit menu to undo, clear, or apply operations before using mount with this partition."
-msgstr ""
+msgstr "Выкарыстайце меню \"Рэдагаванне\", каб выканаць аперацыі \"адрабіць\", \"ачысціць\", \"ужыць\" перад тым, як выканаць \"Прымантаваць\" з гэтым раздзелам."
 
 #: ../src/Win_GParted.cc:2415
 msgid "mounting %1 on %2"
-msgstr ""
+msgstr "мантаванне %1 на %2"
 
 #: ../src/Win_GParted.cc:2443
 msgid "Could not mount %1 on %2"
-msgstr ""
+msgstr "Не атрымалася прымантаваць %1 на %2"
 
 #. TO TRANSLATORS: Singular case looks like  1 partition is currently active on device /dev/sda
 #: ../src/Win_GParted.cc:2469
 msgid "%1 partition is currently active on device %2"
 msgid_plural "%1 partitions are currently active on device %2"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
+msgstr[0] "На дадзены момант %1 раздзел актыўны на прыладзе %2"
+msgstr[1] "На дадзены момант %1 раздзелы актыўныя на прыладзе %2"
+msgstr[2] "На дадзены момант %1 раздзелаў актыўна на прыладзе %2"
+msgstr[3] "На дадзены момант %1 раздзелаў актыўна на прыладзе %2"
 
 #: ../src/Win_GParted.cc:2484
 msgid "A new partition table cannot be created when there are active partitions."
-msgstr ""
+msgstr "Немагчыма стварыць новую табліцу раздзелаў калі ёсць актыўныя раздзелы."
 
 #: ../src/Win_GParted.cc:2486
 msgid "Active partitions are those that are in use, such as a mounted file system, or enabled swap space."
-msgstr ""
+msgstr "Актыўнымі з’яўляюцца раздзелы, якія выкарыстоўваюцца на дадзены момант, напрыклад, прымантаваныя файлавыя сістэмы альбо swap."
 
 #: ../src/Win_GParted.cc:2488
 msgid "Use Partition menu options, such as unmount or swapoff, to deactivate all partitions on this device before creating a new partition table."
-msgstr ""
+msgstr "Выкарыстайце пункты меню \"Раздзел\", напрыклад, \"Адмантаваць\" альбо \"Выключыць swap\", каб выключыць усе раздзелы на дыску перад стварэннем новай табліцы раздзелаў."
 
 #: ../src/Win_GParted.cc:2500
 msgid "%1 operation is currently pending"
 msgid_plural "%1 operations are currently pending"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
+msgstr[0] "Засталася %1 запланаваная аперацыя"
+msgstr[1] "Засталіся %1 запланаваныя аперацыі"
+msgstr[2] "Засталося %1 запланаваных аперацый"
+msgstr[3] "Засталося %1 запланаваных аперацый"
 
 #: ../src/Win_GParted.cc:2513
 msgid "A new partition table cannot be created when there are pending operations."
-msgstr ""
+msgstr "Немагчыма стварыць новую табліцу раздзелаў калі ёсць запланаваная аперацыя."
 
 #: ../src/Win_GParted.cc:2515
 msgid "Use the Edit menu to either clear or apply all operations before creating a new partition table."
-msgstr ""
+msgstr "Выкарыстайце пункт меню \"Рэдагаванне\", каб скасаваць альбо выканаць усе аперацыі перад стварэннем новай табліцы раздзелаў."
 
 #: ../src/Win_GParted.cc:2530
 msgid "Error while creating partition table"
-msgstr ""
+msgstr "Падчас стварэння табліцы раздзелаў адбылася памылка"
 
 #: ../src/Win_GParted.cc:2550
 msgid "Command gpart was not found"
-msgstr ""
+msgstr "Загад gpart не знойдзены"
 
 #: ../src/Win_GParted.cc:2551
 msgid "This feature uses gpart. Please install gpart and try again."
-msgstr ""
+msgstr "Гэтая функцыя выкарыстоўвае gpart. Усталюйце gpart і паўтарыце спробу."
 
 #. Dialog information
 #: ../src/Win_GParted.cc:2559
 msgid "A full disk scan is needed to find file systems."
-msgstr ""
+msgstr "Для пошуку файлавых сістэм неабходна правесці поўнае сканаванне дыска."
 
 #: ../src/Win_GParted.cc:2561
 msgid "The scan might take a very long time."
-msgstr ""
+msgstr "Сканаванне можа выконвацца доўга."
 
 #: ../src/Win_GParted.cc:2563
 msgid "After the scan you can mount any discovered file systems and copy the data to other media."
-msgstr ""
+msgstr "Пасля сканавання можна прымантаваць знойдзеныя файлавыя сістэмы і скапіяваць даныя на носьбіт."
 
 #: ../src/Win_GParted.cc:2565
 msgid "Do you want to continue?"
-msgstr ""
+msgstr "Працягнуць?"
 
 #. TO TRANSLATORS: looks like	Search for file systems on /deb/sdb
 #: ../src/Win_GParted.cc:2569
 msgid "Search for file systems on %1"
-msgstr ""
+msgstr "Шукаць файлавыя сістэмы на %2"
 
 #. TO TRANSLATORS: looks like	Searching for file systems on /deb/sdb
 #: ../src/Win_GParted.cc:2580
 msgid "Searching for file systems on %1"
-msgstr ""
+msgstr "Пошук файлавых сістэм на %1"
 
 #. TO TRANSLATORS: looks like	No file systems found on /deb/sdb
 #: ../src/Win_GParted.cc:2596
 msgid "No file systems found on %1"
-msgstr ""
+msgstr "На %1 файлавых сістэм не знойдзена"
 
 #: ../src/Win_GParted.cc:2597
 msgid "The disk scan by gpart did not find any recognizable file systems on this disk."
-msgstr ""
+msgstr "Падчас сканавання дыскаў пры дапамозе gpart на гэтым дыску не выяўлена файлавых сістэм."
 
 #: ../src/Win_GParted.cc:2861
 msgid "Are you sure you want to apply the pending operations?"
-msgstr ""
+msgstr "Сапраўды выканаць запланаваныя аперацыі?"
 
 #: ../src/Win_GParted.cc:2867
 msgid "Editing partitions has the potential to cause LOSS of DATA."
-msgstr ""
+msgstr "Рэдагаванне раздзела можа прывесці да страты даных."
 
 #: ../src/Win_GParted.cc:2869
 msgid "You are advised to backup your data before proceeding."
-msgstr ""
+msgstr "Перад тым як працягнуць рэкамендуецца стварыць рэзервовую копію даных."
 
 #: ../src/Win_GParted.cc:2871
 msgid "Apply operations to device"
-msgstr ""
+msgstr "Выканаць аперацыі з прыладай"
 
 #: ../src/Win_GParted.cc:2916
 msgid "You are deleting non-empty LVM2 Physical Volume %1"
-msgstr ""
+msgstr "Вы выдаляеце не пусты фізічны том LVM2 %1"
 
 #: ../src/Win_GParted.cc:2920
 msgid "You are formatting over non-empty LVM2 Physical Volume %1"
-msgstr ""
+msgstr "Вы фарматуеце не пусты фізічны том LVM2 %1"
 
 #: ../src/Win_GParted.cc:2924
 msgid "You are pasting over non-empty LVM2 Physical Volume %1"
-msgstr ""
+msgstr "Вы ўстаўляеце не пусты фізічны том LVM2 %1"
 
 #: ../src/Win_GParted.cc:2933
 msgid "Deleting or overwriting the Physical Volume is irrecoverable and will destroy or damage the  Volume Group."
-msgstr ""
+msgstr "Выдаленне альбо перазапісванне фізічнага тома немагчыма скасаваць, гэта можа знішчыць альбо пашкодзіць групу тамоў."
 
 #: ../src/Win_GParted.cc:2936
 msgid "To avoid destroying or damaging the Volume Group, you are advised to cancel and use external LVM commands to free the Physical Volume before attempting this operation."
-msgstr ""
+msgstr "Каб пазбегнуць знішчэння альбо пашкоджання групы тамоў, рэкамендуецца скасаваць гэтае дзеянне і выкарыстаць вонкавыя загады LVM, каб вызваліць фізічны том перад аперацыяй."
 
 #: ../src/Win_GParted.cc:2939
 msgid "Do you want to continue to forcibly delete the Physical Volume?"
-msgstr ""
+msgstr "Працягнуць прымусовае выдаленне фізічнага тома?"
 
 #: ../src/btrfs.cc:311
 msgid "Failed to find devid for path %1"
-msgstr ""
+msgstr "Не атрымалася знайсці devid для шляху %1"
 
 #: ../src/fat16.cc:33 ../src/ntfs.cc:30
 msgid "Changing the UUID might invalidate the Windows Product Activation (WPA) key"
-msgstr ""
+msgstr "Змена UUID можа пашкодзіць актывацыйны ключ Windows (WPA)"
 
 #: ../src/fat16.cc:35 ../src/ntfs.cc:32
 msgid "On FAT and NTFS file systems, the Volume Serial Number is used as the UUID. Changing the Volume Serial Number on the Windows system partition, normally C:, might invalidate the WPA key. An invalid WPA key will prevent login until you reactivate Windows."
-msgstr ""
+msgstr "У файлавых сістэмах FAT і NTFS у якасці UUID выкарыстоўваецца серыйны нумар тома. Калі змяніць гэты нумар у раздзелах Windows (звычайна C:), то актывацыйны ключ Windows можа пашкодзіцца. У гэтым выпадку вы не зможаце ўвайсці ў сістэму пакуль зноў не актывуеце яго."
 
 #: ../src/fat16.cc:41 ../src/ntfs.cc:42
 msgid "Changing the UUID on external storage media and non-system partitions is usually safe, but guarantees cannot be given."
-msgstr ""
+msgstr "Змена UUID вонкавых носьбітаў і несістэмных раздзелаў не з’яўляецца бяспечнай."
 
 #. TO TRANSLATORS: these labels will be used in the partition menu
 #: ../src/linux_swap.cc:30
 msgid "_Swapon"
-msgstr ""
+msgstr "_Уключыць swap"
 
 #: ../src/linux_swap.cc:31
 msgid "_Swapoff"
-msgstr ""
+msgstr "_Выключыць swap"
 
 #. TO TRANSLATORS: looks like   Partition move action skipped because linux-swap file system does not contain data
 #: ../src/linux_swap.cc:195
 msgid "Partition move action skipped because %1 file system does not contain data"
-msgstr ""
+msgstr "Раздзел не перамешчаны, бо ў файлавай сістэме %1 няма даных"
 
 #. TO TRANSLATORS: looks like   Partition copy action skipped because linux-swap file system does not contain data
 #: ../src/linux_swap.cc:214
 msgid "Partition copy action skipped because %1 file system does not contain data"
-msgstr ""
+msgstr "Раздзел не скапіяваны, бо ў файлавай сістэме %1 няма даных"
 
 #. TO TRANSLATORS: these labels will be used in the partition menu
 #: ../src/lvm2_pv.cc:28
 msgid "Ac_tivate"
-msgstr ""
+msgstr "_Уключыць"
 
 #: ../src/lvm2_pv.cc:29
 msgid "Deac_tivate"
-msgstr ""
+msgstr "В_ыключыць"
 
 #: ../src/lvm2_pv.cc:32
 msgid "The LVM2 Physical Volume can not currently be resized because it is a member of an exported Volume Group."
-msgstr ""
+msgstr "На дадзены момант нельга змяніць памер фізічнага тома LVM2, бо том уваходзіць у экспартуемую групу тамоў."
 
 #: ../src/main.cc:42
 msgid "Root privileges are required for running GParted"
-msgstr ""
+msgstr "Для запуску GParted патрабуюцца правы суперкарыстальніка"
 
 #: ../src/main.cc:47
 msgid "Since GParted is a powerful tool capable of destroying partition tables and vast amounts of data, only root may run it."
-msgstr ""
+msgstr "GParted з’яўляецца магутнай прыладай, якая можа знішчыць табліцы раздзелаў і даныя, таму толькі суперкарыстальнік (root) можа запусціць яе."
 
 #: ../src/ntfs.cc:38
 msgid "In an attempt to avoid invalidating the WPA key, on NTFS file systems only half of the UUID is set to a new random value."
-msgstr ""
+msgstr "Каб пазбегнуць анулявання ключа WPA, на файлавых сістэмах NTFS толькі палова UUID атрымае выпадковае значэнне."
 
 #. simulation..
 #: ../src/ntfs.cc:227
 msgid "run simulation"
-msgstr ""
+msgstr "запусціць сімуляцыю"
 
 #. real resize
 #: ../src/ntfs.cc:235
 msgid "real resize"
-msgstr ""
+msgstr "рэальная змена памеру"
 
 #~ msgid "Default is to create an MS-DOS partition table."
 #~ msgstr "Default is to create an MS-DOS partition table."

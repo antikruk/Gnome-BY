@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: gnome-by\n"
 "Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=yelp-xsl&keywords=I18N+L10N&component=General\n"
 "POT-Creation-Date: 2012-12-05 19:00+0000\n"
-"PO-Revision-Date: 2019-10-14 11:09\n"
+"PO-Revision-Date: 2019-10-14 13:19\n"
 "Last-Translator: Zmicer Turok (zmicer)\n"
 "Language-Team: Belarusian\n"
 "Language: be_BY\n"
@@ -32,7 +32,7 @@ msgstr ""
 #.
 #: yelp-xsl.xml.in:34
 msgid "default:LTR"
-msgstr ""
+msgstr "default:LTR"
 
 #. (itstool) path: msg/msgstr
 #. This is used a simple list item seperator in places where simple
@@ -45,7 +45,7 @@ msgstr ""
 #: yelp-xsl.xml.in:47
 #, no-wrap
 msgid ", "
-msgstr ""
+msgstr ", "
 
 #. (itstool) path: msg/msgstr
 #. This is used as the final separator in an inline list of three or
@@ -58,7 +58,7 @@ msgstr ""
 #: yelp-xsl.xml.in:60
 #, no-wrap
 msgid ", and "
-msgstr ""
+msgstr " і "
 
 #. (itstool) path: msg/msgstr
 #. This is used as a list item seperator for inline lists of exactly two
@@ -69,7 +69,7 @@ msgstr ""
 #: yelp-xsl.xml.in:71
 #, no-wrap
 msgid " and "
-msgstr ""
+msgstr " і "
 
 #. (itstool) path: msg/msgstr
 #. http://www.docbook.org/tdg/en/html/qandaentry.html
@@ -82,7 +82,7 @@ msgstr ""
 #.
 #: yelp-xsl.xml.in:86
 msgid "Q:"
-msgstr ""
+msgstr "П:"
 
 #. (itstool) path: msg/msgstr
 #. http://www.docbook.org/tdg/en/html/qandaentry.html
@@ -95,7 +95,7 @@ msgstr ""
 #.
 #: yelp-xsl.xml.in:99
 msgid "A:"
-msgstr ""
+msgstr "А:"
 
 #. (itstool) path: msg/msgstr
 #. Title of the footer containing copyrights, credits, license information,
@@ -103,25 +103,25 @@ msgstr ""
 #.
 #: yelp-xsl.xml.in:109
 msgid "About"
-msgstr ""
+msgstr "Інфармацыя"
 
 #. (itstool) path: msg/msgstr
 #. Accessible title for an advanced note.
 #: yelp-xsl.xml.in:114
 msgid "Advanced"
-msgstr ""
+msgstr "Дадаткова"
 
 #. (itstool) path: msg/msgstr
 #. Default title for a bibliography.
 #: yelp-xsl.xml.in:119
 msgid "Bibliography"
-msgstr ""
+msgstr "Бібліяграфія"
 
 #. (itstool) path: msg/msgstr
 #. Accessible title for a note about a software bug.
 #: yelp-xsl.xml.in:124
 msgid "Bug"
-msgstr ""
+msgstr "Хіба"
 
 #. (itstool) path: msg/msgstr
 #. Revision status of a document or page. Content has been written and
@@ -129,31 +129,31 @@ msgstr ""
 #.
 #: yelp-xsl.xml.in:132
 msgid "Candidate"
-msgstr ""
+msgstr "Кандыдат"
 
 #. (itstool) path: msg/msgstr
 #. Accessible title for an close button.
 #: yelp-xsl.xml.in:137
 msgid "Close"
-msgstr ""
+msgstr "Закрыць"
 
 #. (itstool) path: msg/msgstr
 #. Default title for a colophon section.
 #: yelp-xsl.xml.in:142
 msgid "Colophon"
-msgstr ""
+msgstr "Пасляслоўе"
 
 #. (itstool) path: msg/msgstr
 #. Title for license information when it's a CC license.
 #: yelp-xsl.xml.in:147
 msgid "Creative Commons"
-msgstr ""
+msgstr "Creative Commons"
 
 #. (itstool) path: msg/msgstr
 #. Default title for a dedication section.
 #: yelp-xsl.xml.in:152
 msgid "Dedication"
-msgstr ""
+msgstr "Прысвячэнне"
 
 #. (itstool) path: msg/msgstr
 #. Revision status of a document or page. Most content has been
@@ -161,13 +161,13 @@ msgstr ""
 #.
 #: yelp-xsl.xml.in:160
 msgid "Draft"
-msgstr ""
+msgstr "Чарнавік"
 
 #. (itstool) path: msg/msgstr
 #. Title for a list of editors.
 #: yelp-xsl.xml.in:165
 msgid "Edited By"
-msgstr ""
+msgstr "Рэдагаванне"
 
 #. (itstool) path: msg/msgstr
 #. Revision status of a document or page. A senior member of the
@@ -175,19 +175,19 @@ msgstr ""
 #.
 #: yelp-xsl.xml.in:173
 msgid "Final"
-msgstr ""
+msgstr "Канчатковы"
 
 #. (itstool) path: msg/msgstr
 #. Default title for a glossary.
 #: yelp-xsl.xml.in:178
 msgid "Glossary"
-msgstr ""
+msgstr "Гласарый"
 
 #. (itstool) path: msg/msgstr
 #. Accessible title for an important note.
 #: yelp-xsl.xml.in:183
 msgid "Important"
-msgstr ""
+msgstr "Важна"
 
 #. (itstool) path: msg/msgstr
 #. Revision status of a document or page. Work has begun, but
@@ -195,50 +195,50 @@ msgstr ""
 #.
 #: yelp-xsl.xml.in:191
 msgid "Incomplete"
-msgstr ""
+msgstr "Не скончана"
 
 #. (itstool) path: msg/msgstr
 #. Default title for an index of terms in a book.
 #: yelp-xsl.xml.in:196
 msgid "Index"
-msgstr ""
+msgstr "Індэкс"
 
 #. (itstool) path: msg/msgstr
 #. Default title for a DocBook legal notice.
 #: yelp-xsl.xml.in:201
 msgid "Legal"
-msgstr ""
+msgstr "Прававыя ўмовы"
 
 #. (itstool) path: msg/msgstr
 #. Generic title for license information when it's not a known license.
 #.
 #: yelp-xsl.xml.in:208
 msgid "License"
-msgstr ""
+msgstr "Ліцэнзія"
 
 #. (itstool) path: msg/msgstr
 #. Title for a list of maintainers.
 #: yelp-xsl.xml.in:213
 msgid "Maintained By"
-msgstr ""
+msgstr "Суправаджальнікі"
 
 #. (itstool) path: msg/msgstr
 #. Automatic heading above a list of guide links.
 #: yelp-xsl.xml.in:218
 msgid "More Information"
-msgstr ""
+msgstr "Больш інфармацыі"
 
 #. (itstool) path: msg/msgstr
 #. Link text for a link to the next page in a series.
 #: yelp-xsl.xml.in:223
 msgid "Next"
-msgstr ""
+msgstr "Наперад"
 
 #. (itstool) path: msg/msgstr
 #. Accessible title for a note.
 #: yelp-xsl.xml.in:228
 msgid "Note"
-msgstr ""
+msgstr "Нататка"
 
 #. (itstool) path: msg/msgstr
 #. Title for a list contributors other than authors, editors, translators,
@@ -246,7 +246,7 @@ msgstr ""
 #.
 #: yelp-xsl.xml.in:236
 msgid "Other Credits"
-msgstr ""
+msgstr "Іншыя"
 
 #. (itstool) path: msg/msgstr
 #. Revision status of a document or page. Content was once current,
@@ -254,31 +254,31 @@ msgstr ""
 #.
 #: yelp-xsl.xml.in:244
 msgid "Outdated"
-msgstr ""
+msgstr "Састарэла"
 
 #. (itstool) path: msg/msgstr
 #. Tooltip on play/pause buttons for audio and video objects.
 #: yelp-xsl.xml.in:249
 msgid "Pause"
-msgstr ""
+msgstr "Паўза"
 
 #. (itstool) path: msg/msgstr
 #. Tooltip on play/pause buttons for audio and video objects.
 #: yelp-xsl.xml.in:254
 msgid "Play"
-msgstr ""
+msgstr "Прайграць"
 
 #. (itstool) path: msg/msgstr
 #. Link text for a link to the previous page in a series.
 #: yelp-xsl.xml.in:259
 msgid "Previous"
-msgstr ""
+msgstr "Назад"
 
 #. (itstool) path: msg/msgstr
 #. Title for a list of publishers.
 #: yelp-xsl.xml.in:264
 msgid "Published By"
-msgstr ""
+msgstr "Публікацыя"
 
 #. (itstool) path: msg/msgstr
 #. Revision status of a document or page. Content has been written
@@ -286,13 +286,13 @@ msgstr ""
 #.
 #: yelp-xsl.xml.in:272
 msgid "Ready for review"
-msgstr ""
+msgstr "Гатова да праверкі"
 
 #. (itstool) path: msg/msgstr
 #. Automatic heading above a list of see-also links.
 #: yelp-xsl.xml.in:277
 msgid "See Also"
-msgstr ""
+msgstr "Таксама глядзіце"
 
 #. (itstool) path: msg/msgstr
 #. Figures can automatically scale images down to fit the page width.
@@ -301,20 +301,20 @@ msgstr ""
 #.
 #: yelp-xsl.xml.in:286
 msgid "Scale images down"
-msgstr ""
+msgstr "Паменшыць выявы"
 
 #. (itstool) path: msg/msgstr
 #. Accessible title for a sidebar note.
 #: yelp-xsl.xml.in:291
 msgid "Sidebar"
-msgstr ""
+msgstr "Бакавая панэль"
 
 #. (itstool) path: msg/msgstr
 #. Revision status of a document or page. No content has been written yet.
 #.
 #: yelp-xsl.xml.in:298
 msgid "Stub"
-msgstr ""
+msgstr "Шаблон"
 
 #. (itstool) path: msg/msgstr
 #. Default title for a refsynopsisdiv element. This is the common section
@@ -322,19 +322,19 @@ msgstr ""
 #.
 #: yelp-xsl.xml.in:306
 msgid "Synopsis"
-msgstr ""
+msgstr "Анатацыя"
 
 #. (itstool) path: msg/msgstr
 #. Accessible title for a tip.
 #: yelp-xsl.xml.in:311
 msgid "Tip"
-msgstr ""
+msgstr "Падказка"
 
 #. (itstool) path: msg/msgstr
 #. Title for a list of translators.
 #: yelp-xsl.xml.in:316
 msgid "Translated By"
-msgstr ""
+msgstr "Пераклад"
 
 #. (itstool) path: msg/msgstr
 #. Figures can automatically scale images down to fit the page width.
@@ -342,19 +342,19 @@ msgstr ""
 #.
 #: yelp-xsl.xml.in:324
 msgid "View images at normal size"
-msgstr ""
+msgstr "Прагляд выяў у звычайным памеры"
 
 #. (itstool) path: msg/msgstr
 #. Accessible title for a warning.
 #: yelp-xsl.xml.in:329
 msgid "Warning"
-msgstr ""
+msgstr "Папярэджанне"
 
 #. (itstool) path: msg/msgstr
 #. Title for a list of authors.
 #: yelp-xsl.xml.in:334
 msgid "Written By"
-msgstr ""
+msgstr "Аўтарства"
 
 #. (itstool) path: msg/msgstr
 #. ID: biblioentry.tooltip
@@ -368,7 +368,7 @@ msgstr ""
 #.
 #: yelp-xsl.xml.in:350
 msgid "View the bibliography entry <biblioentry.label/>."
-msgstr ""
+msgstr "Бібліяграфічны запіс <biblioentry.label/>."
 
 #. (itstool) path: msg/msgstr
 #. ID: biblioentry.label
@@ -391,7 +391,7 @@ msgstr ""
 #.
 #: yelp-xsl.xml.in:373
 msgid "[<biblioentry.label/>]"
-msgstr ""
+msgstr "[<biblioentry.label/>]"
 
 #. (itstool) path: msg/msgstr
 #. ID: citation.label
@@ -408,7 +408,7 @@ msgstr ""
 #.
 #: yelp-xsl.xml.in:390
 msgid "[<citation.label/>]"
-msgstr ""
+msgstr "[<citation.label/>]"
 
 #. (itstool) path: msg/msgstr
 #. ID: comment.name-date
@@ -437,7 +437,7 @@ msgstr ""
 #.
 #: yelp-xsl.xml.in:419
 msgid "from <comment.name/> on <comment.date/>"
-msgstr ""
+msgstr "ад <comment.name/>, <comment.date/>"
 
 #. (itstool) path: msg/msgstr
 #. ID: comment.name
@@ -465,7 +465,7 @@ msgstr ""
 #.
 #: yelp-xsl.xml.in:447
 msgid "from <comment.name/>"
-msgstr ""
+msgstr "ад <comment.name/>"
 
 #. (itstool) path: msg/msgstr
 #. ID: copyright.format
@@ -478,7 +478,7 @@ msgstr ""
 #.
 #: yelp-xsl.xml.in:460
 msgid "© <copyright.years/> <copyright.name/>"
-msgstr ""
+msgstr "© <copyright.years/> <copyright.name/>"
 
 #. (itstool) path: msg/msgstr
 #. ID: email.tooltip
@@ -490,7 +490,7 @@ msgstr ""
 #.
 #: yelp-xsl.xml.in:472
 msgid "Send email to ‘<string/>’."
-msgstr ""
+msgstr "Адправіць электронны ліст для \"<string/>\"."
 
 #. (itstool) path: msg/msgstr
 #. ID: glossentry.tooltip
@@ -502,7 +502,7 @@ msgstr ""
 #.
 #: yelp-xsl.xml.in:484
 msgid "Read the definition for ‘<glossterm/>’."
-msgstr ""
+msgstr "Вызначэнне для \"<glossterm/>\"."
 
 #. (itstool) path: msg/msgstr
 #. ID: glosssee.format
@@ -523,7 +523,7 @@ msgstr ""
 #.
 #: yelp-xsl.xml.in:505
 msgid "See <glosssee/>."
-msgstr ""
+msgstr "Глядзіце <glosssee/>."
 
 #. (itstool) path: msg/msgstr
 #. ID: glossseealso.format
@@ -545,7 +545,7 @@ msgstr ""
 #.
 #: yelp-xsl.xml.in:527
 msgid "See also <glosssee/>."
-msgstr ""
+msgstr "Таксама глядзіце <glosssee/>."
 
 #. (itstool) path: msg/msgstr
 #. ID: quote.format
@@ -557,7 +557,7 @@ msgstr ""
 #.
 #: yelp-xsl.xml.in:539
 msgid "“<node/>”"
-msgstr ""
+msgstr "\"<node/>\""
 
 #. (itstool) path: msg/msgstr
 #. ID: quote.format
@@ -569,7 +569,7 @@ msgstr ""
 #.
 #: yelp-xsl.xml.in:551
 msgid "‘<node/>’"
-msgstr ""
+msgstr "\"<node/>\""
 
 #. (itstool) path: msg/msgstr
 #. ID: seeie.format
@@ -584,7 +584,7 @@ msgstr ""
 #.
 #: yelp-xsl.xml.in:566
 msgid "See <seeie/>."
-msgstr ""
+msgstr "Глядзіце <seeie/>."
 
 #. (itstool) path: msg/msgstr
 #. ID: seealsoie.format
@@ -599,7 +599,7 @@ msgstr ""
 #.
 #: yelp-xsl.xml.in:581
 msgid "See also <seeie/>."
-msgstr ""
+msgstr "Таксама глядзіце <seeie/>."
 
 #~ msgid "yelp-quote-201C.png"
 #~ msgstr "yelp-quote-201C.png"

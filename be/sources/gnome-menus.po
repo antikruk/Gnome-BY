@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: gnome-by\n"
 "Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-menus&keywords=I18N+L10N&component=general\n"
 "POT-Creation-Date: 2016-08-22 18:41+0000\n"
-"PO-Revision-Date: 2019-10-14 11:08\n"
+"PO-Revision-Date: 2019-10-14 12:18\n"
 "Last-Translator: Zmicer Turok (zmicer)\n"
 "Language-Team: Belarusian\n"
 "Language: be_BY\n"
@@ -25,111 +25,111 @@ msgstr ""
 
 #: ../desktop-directories/AudioVideo.directory.in.h:1
 msgid "Sound & Video"
-msgstr ""
+msgstr "Аўдыё і відэа"
 
 #: ../desktop-directories/AudioVideo.directory.in.h:2
 msgid "Multimedia menu"
-msgstr ""
+msgstr "Медыя"
 
 #: ../desktop-directories/Development.directory.in.h:1
 msgid "Programming"
-msgstr ""
+msgstr "Праграмаванне"
 
 #: ../desktop-directories/Development.directory.in.h:2
 msgid "Tools for software development"
-msgstr ""
+msgstr "Інструменты для распрацоўкі праграм"
 
 #: ../desktop-directories/Education.directory.in.h:1
 msgid "Education"
-msgstr ""
+msgstr "Адукацыя"
 
 #: ../desktop-directories/Game.directory.in.h:1
 msgid "Games"
-msgstr ""
+msgstr "Гульні"
 
 #: ../desktop-directories/Game.directory.in.h:2
 msgid "Games and amusements"
-msgstr ""
+msgstr "Гульні і забавы"
 
 #: ../desktop-directories/Graphics.directory.in.h:1
 msgid "Graphics"
-msgstr ""
+msgstr "Графіка"
 
 #: ../desktop-directories/Graphics.directory.in.h:2
 msgid "Graphics applications"
-msgstr ""
+msgstr "Графічныя праграмы"
 
 #: ../desktop-directories/Network.directory.in.h:1
 msgid "Internet"
-msgstr ""
+msgstr "Інтэрнэт"
 
 #: ../desktop-directories/Network.directory.in.h:2
 msgid "Programs for Internet access such as web and email"
-msgstr ""
+msgstr "Праграмы для інтэрнэту (браўзеры, паштовыя кліенты і г. д.)"
 
 #: ../desktop-directories/Office.directory.in.h:1
 msgid "Office"
-msgstr ""
+msgstr "Офіс"
 
 #: ../desktop-directories/Office.directory.in.h:2
 msgid "Office Applications"
-msgstr ""
+msgstr "Офісныя праграмы"
 
 #: ../desktop-directories/System-Tools.directory.in.h:1
 msgid "System Tools"
-msgstr ""
+msgstr "Сістэмныя інструменты"
 
 #: ../desktop-directories/System-Tools.directory.in.h:2
 msgid "System configuration and monitoring"
-msgstr ""
+msgstr "Наладка і назіранне за сістэмай"
 
 #: ../desktop-directories/Utility-Accessibility.directory.in.h:1
 msgid "Universal Access"
-msgstr ""
+msgstr "Адмысловыя магчымасці"
 
 #: ../desktop-directories/Utility-Accessibility.directory.in.h:2
 msgid "Universal Access Settings"
-msgstr ""
+msgstr "Налады адмысловых магчымасцяў"
 
 #: ../desktop-directories/Utility.directory.in.h:1
 msgid "Accessories"
-msgstr ""
+msgstr "Інструменты"
 
 #: ../desktop-directories/Utility.directory.in.h:2
 msgid "Desktop accessories"
-msgstr ""
+msgstr "Інструменты працоўнага стала"
 
 #: ../desktop-directories/X-GNOME-Menu-Applications.directory.in.h:1
 msgid "Applications"
-msgstr ""
+msgstr "Праграмы"
 
 #: ../desktop-directories/X-GNOME-Other.directory.in.h:1
 msgid "Other"
-msgstr ""
+msgstr "Іншыя"
 
 #: ../desktop-directories/X-GNOME-Other.directory.in.h:2
 msgid "Applications that did not fit in other categories"
-msgstr ""
+msgstr "Праграмы, што не ўвайшлі ў іншыя катэгорыі"
 
 #: ../desktop-directories/X-GNOME-Sundry.directory.in.h:1
 msgid "Sundry"
-msgstr ""
+msgstr "Рознае"
 
 #: ../desktop-directories/X-GNOME-Utilities.directory.in.h:1
 msgid "Utilities"
-msgstr ""
+msgstr "Утыліты"
 
 #: ../desktop-directories/X-GNOME-Utilities.directory.in.h:2
 msgid "Small but useful GNOME tools"
-msgstr ""
+msgstr "Карысныя інструменты GNOME"
 
 #: ../desktop-directories/X-GNOME-WebApplications.directory.in.h:1
 msgid "Web Applications"
-msgstr ""
+msgstr "Сеціўныя праграмы"
 
 #: ../desktop-directories/X-GNOME-WebApplications.directory.in.h:2
 msgid "Applications and sites saved from Web"
-msgstr ""
+msgstr "Праграмы і сайты, захаваныя з сеціва"
 
 #~ msgid "Hardware"
 #~ msgstr "Hardware"
