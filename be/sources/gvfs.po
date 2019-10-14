@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: gnome-by\n"
 "Report-Msgid-Bugs-To: https://bugzilla.gnome.org/enter_bug.cgi?product=gvfs&keywords=I18N+L10N&component=general\n"
 "POT-Creation-Date: 2017-11-28 15:58+0000\n"
-"PO-Revision-Date: 2019-10-14 13:19\n"
+"PO-Revision-Date: 2019-10-14 13:54\n"
 "Last-Translator: Zmicer Turok (zmicer)\n"
 "Language-Team: Belarusian\n"
 "Language: be_BY\n"
@@ -1422,11 +1422,11 @@ msgstr "памылка libmtp: %s"
 
 #: daemon/gvfsbackendmtp.c:843
 msgid "Unexpected host URI format."
-msgstr ""
+msgstr "Нечаканы фармат URI хоста."
 
 #: daemon/gvfsbackendmtp.c:853
 msgid "Malformed host URI."
-msgstr ""
+msgstr "Хібны URI хоста."
 
 #: daemon/gvfsbackendmtp.c:866
 #| msgid "Couldn't find matching udev device."
@@ -1453,7 +1453,7 @@ msgstr "Агульная памылка libmtp"
 #, c-format
 #| msgid "Unable to open MTP device '%s'"
 msgid "Unable to open MTP device “%s”"
-msgstr ""
+msgstr "Не атрымалася адкрыць прыладу MTP \"%s\""
 
 #: daemon/gvfsbackendmtp.c:1101
 msgid "Device not found"
@@ -1676,7 +1676,7 @@ msgstr "Падчас стварэння рэзервовай копіі файл
 
 #: daemon/gvfsbackendsftp.c:3653 daemon/gvfsbackendsftp.c:3829
 msgid "backups not supported yet"
-msgstr ""
+msgstr "стварэнне рэзервовых копій не падтрымліваецца"
 
 #: daemon/gvfsbackendsftp.c:5242
 msgid "Value out of range, sftp only supports 32bit timestamps"
@@ -2020,11 +2020,11 @@ msgstr "Дэман метаданых GVFS"
 
 #: monitor/gdu/gdu-volume-monitor-daemon.c:40
 msgid "GVfs GDU Volume Monitor"
-msgstr ""
+msgstr "Назіральнік за дыскавымі тамамі GVfs GDU"
 
 #: monitor/gdu/ggdudrive.c:168
 msgid "Floppy Drive"
-msgstr ""
+msgstr "Дыскавод Floppy"
 
 #: monitor/gdu/ggdudrive.c:258 monitor/udisks2/gvfsudisks2drive.c:290
 #, c-format
