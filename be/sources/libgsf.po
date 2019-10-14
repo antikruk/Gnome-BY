@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: gnome-by\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-12 14:17+0100\n"
-"PO-Revision-Date: 2019-10-14 12:59\n"
+"PO-Revision-Date: 2019-10-14 14:31\n"
 "Last-Translator: Zmicer Turok (zmicer)\n"
 "Language-Team: Belarusian\n"
 "Language: be_BY\n"
@@ -151,12 +151,12 @@ msgstr "Архіў інтэрпрэтуецца"
 #: ../gsf/gsf-infile-zip.c:330
 #, c-format
 msgid "No Zip trailer"
-msgstr ""
+msgstr "Адсутнічае канчатак Zip"
 
 #: ../gsf/gsf-infile-zip.c:337
 #, c-format
 msgid "Error reading Zip signature"
-msgstr ""
+msgstr "Падчас чытання подпісу zip адбылася памылка"
 
 #: ../gsf/gsf-infile-zip.c:358
 #, c-format
@@ -544,7 +544,7 @@ msgstr "Падзяляльнік палёў"
 
 #: ../gsf/gsf-output-csv.c:397
 msgid "end-on-line"
-msgstr ""
+msgstr "канец радка"
 
 #: ../gsf/gsf-output-csv.c:398
 msgid "The end-of-line marker"
