@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: gnome-by\n"
 "Report-Msgid-Bugs-To: https://bugzilla.gnome.org/enter_bug.cgi?product=gnome-online-accounts&keywords=I18N+L10N&component=general\n"
 "POT-Creation-Date: 2017-12-05 18:19+0000\n"
-"PO-Revision-Date: 2019-10-14 12:39\n"
+"PO-Revision-Date: 2019-10-14 13:00\n"
 "Last-Translator: Zmicer Turok (zmicer)\n"
 "Language-Team: Belarusian\n"
 "Language: be_BY\n"
@@ -609,46 +609,46 @@ msgstr "Невядомы механізм аўтэнтыфікацыі"
 
 #: src/goabackend/goatelepathyprovider.c:172
 msgid "Telepathy chat account not found"
-msgstr ""
+msgstr "Акаўнт гутаркі Telepathy не знойдзены"
 
 #: src/goabackend/goatelepathyprovider.c:434
 #, c-format
 msgid "Failed to create a user interface for %s"
-msgstr ""
+msgstr "Не атрымалася стварыць інтэрфейс карыстальніка для %s"
 
 #: src/goabackend/goatelepathyprovider.c:540
 msgid "Connection Settings"
-msgstr ""
+msgstr "Налады злучэння"
 
 #: src/goabackend/goatelepathyprovider.c:646
 msgid "Personal Details"
-msgstr ""
+msgstr "Асабістыя звесткі"
 
 #: src/goabackend/goatelepathyprovider.c:652
 msgid "_OK"
-msgstr ""
+msgstr "_Добра"
 
 #: src/goabackend/goatelepathyprovider.c:898
 msgid "Cannot save the connection parameters"
-msgstr ""
+msgstr "Не атрымалася захаваць параметры злучэння"
 
 #: src/goabackend/goatelepathyprovider.c:911
 msgid "Cannot save your personal information on the server"
-msgstr ""
+msgstr "Не атрымалася захаваць вашую асабістую інфармацыю на серверы"
 
 #. Connection Settings button
 #: src/goabackend/goatelepathyprovider.c:956
 msgid "_Connection Settings"
-msgstr ""
+msgstr "_Налады злучэння"
 
 #. Edit Personal Information button
 #: src/goabackend/goatelepathyprovider.c:960
 msgid "_Personal Details"
-msgstr ""
+msgstr "_Асабістыя звесткі"
 
 #: src/goabackend/goatodoistprovider.c:58
 msgid "Todoist"
-msgstr ""
+msgstr "Todoist"
 
 #: src/goabackend/goautils.c:96
 msgid "Error logging into the account"
