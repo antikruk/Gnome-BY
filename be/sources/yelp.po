@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: gnome-by\n"
 "Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=yelp&keywords=I18N+L10N&component=General\n"
 "POT-Creation-Date: 2016-08-19 16:59+0000\n"
-"PO-Revision-Date: 2019-10-14 11:09\n"
+"PO-Revision-Date: 2019-10-14 13:19\n"
 "Last-Translator: Zmicer Turok (zmicer)\n"
 "Language-Team: Belarusian\n"
 "Language: be_BY\n"
@@ -33,56 +33,56 @@ msgstr ""
 #.
 #: yelp.xml.in:36
 msgid "Install <string/>"
-msgstr ""
+msgstr "Усталяваць <string/>"
 
 #: ../libyelp/yelp-bz2-decompressor.c:143
 #: ../libyelp/yelp-lzma-decompressor.c:152
 msgid "Invalid compressed data"
-msgstr ""
+msgstr "Хібныя сціснутыя даныя"
 
 #: ../libyelp/yelp-bz2-decompressor.c:149
 #: ../libyelp/yelp-lzma-decompressor.c:158
 msgid "Not enough memory"
-msgstr ""
+msgstr "Не стае памяці"
 
 #: ../libyelp/yelp-docbook-document.c:282 ../libyelp/yelp-info-document.c:218
 #: ../libyelp/yelp-mallard-document.c:298
 #: ../libyelp/yelp-mallard-document.c:452 ../libyelp/yelp-man-document.c:252
 #, c-format
 msgid "The page ‘%s’ was not found in the document ‘%s’."
-msgstr ""
+msgstr "Старонка \"%s\" не знойдзеная ў дакуменце \"%s\"."
 
 #: ../libyelp/yelp-docbook-document.c:320 ../libyelp/yelp-info-document.c:355
 #: ../libyelp/yelp-man-document.c:390
 #, c-format
 msgid "The file does not exist."
-msgstr ""
+msgstr "Файл не існуе."
 
 #: ../libyelp/yelp-docbook-document.c:330 ../libyelp/yelp-info-document.c:365
 #: ../libyelp/yelp-man-document.c:400
 #, c-format
 msgid "The file ‘%s’ does not exist."
-msgstr ""
+msgstr "Файл \"%s\" не існуе."
 
 #: ../libyelp/yelp-docbook-document.c:345
 #, c-format
 msgid "The file ‘%s’ could not be parsed because it is not a well-formed XML document."
-msgstr ""
+msgstr "Не атрымалася разабраць файл \"%s\", бо ён не з’яўляецца прыдатным дакументам XML."
 
 #: ../libyelp/yelp-docbook-document.c:358
 #, c-format
 msgid "The file ‘%s’ could not be parsed because one or more of its included files is not a well-formed XML document."
-msgstr ""
+msgstr "Не атрымалася разабраць файл \"%s\", бо ён змяшчае ў сябе некарэктны дакумент XML."
 
 #: ../libyelp/yelp-docbook-document.c:788
 msgid "Unknown"
-msgstr ""
+msgstr "Невядома"
 
 #: ../libyelp/yelp-docbook-document.c:850 ../libyelp/yelp-info-document.c:298
 #: ../libyelp/yelp-man-document.c:332
 #, c-format
 msgid "The requested page was not found in the document ‘%s’."
-msgstr ""
+msgstr "Патрэбнай старонкі не знойдзена ў дакуменце \"%s\"."
 
 #: ../libyelp/yelp-document.c:278
 msgid "Indexed"
@@ -94,7 +94,7 @@ msgstr ""
 
 #: ../libyelp/yelp-document.c:287
 msgid "Document URI"
-msgstr ""
+msgstr "URI дакумента"
 
 #: ../libyelp/yelp-document.c:288
 msgid "The URI which identifies the document"
@@ -103,35 +103,35 @@ msgstr ""
 #: ../libyelp/yelp-document.c:1024
 #, c-format
 msgid "Search results for “%s”"
-msgstr ""
+msgstr "Вынікі пошуку \"%s\""
 
 #: ../libyelp/yelp-document.c:1036
 #, c-format
 msgid "No matching help pages found in “%s”."
-msgstr ""
+msgstr "Адпаведных старонак даведак не знойдзена ў \"%s\"."
 
 #: ../libyelp/yelp-document.c:1042
 msgid "No matching help pages found."
-msgstr ""
+msgstr "Адпаведных старонак даведкі не знойдзена."
 
 #: ../libyelp/yelp-error.c:35
 #, c-format
 msgid "An unknown error occurred."
-msgstr ""
+msgstr "Узнікла невядомая памылка."
 
 #: ../libyelp/yelp-help-list.c:545 ../libyelp/yelp-help-list.c:554
 msgid "All Help Documents"
-msgstr ""
+msgstr "Усе дакументы даведкі"
 
 #: ../libyelp/yelp-info-document.c:380
 #, c-format
 msgid "The file ‘%s’ could not be parsed because it is not a well-formed info page."
-msgstr ""
+msgstr "Не атрымалася разабраць файл \"%s\", бо ён не з’яўляецца карэктнай старонкай info."
 
 #: ../libyelp/yelp-mallard-document.c:340
 #, c-format
 msgid "The directory ‘%s’ does not exist."
-msgstr ""
+msgstr "Каталог \"%s\" не існуе."
 
 #: ../libyelp/yelp-search-entry.c:172
 msgid "View"
@@ -143,7 +143,7 @@ msgstr ""
 
 #: ../libyelp/yelp-search-entry.c:188 ../src/yelp-window.c:417
 msgid "Bookmarks"
-msgstr ""
+msgstr "Закладкі"
 
 #: ../libyelp/yelp-search-entry.c:189
 msgid "A YelpBookmarks implementation instance"
@@ -152,7 +152,7 @@ msgstr ""
 #: ../libyelp/yelp-search-entry.c:433
 #, c-format
 msgid "Search for “%s”"
-msgstr ""
+msgstr "Шукаць \"%s\""
 
 #: ../libyelp/yelp-settings.c:148
 msgid "GtkSettings"
@@ -213,43 +213,43 @@ msgstr ""
 #: ../libyelp/yelp-transform.c:369 ../libyelp/yelp-transform.c:384
 #, c-format
 msgid "The XSLT stylesheet ‘%s’ is either missing or not valid."
-msgstr ""
+msgstr "Аркуш стыляў XSLT \"%s\" адсутнічае або хібны."
 
 #: ../libyelp/yelp-transform.c:518
 msgid "No href attribute found on yelp:document\n"
-msgstr ""
+msgstr "Атрыбут href не знойдзены ў yelp:document\n"
 
 #: ../libyelp/yelp-transform.c:533
 msgid "Out of memory"
-msgstr ""
+msgstr "Памяць вычарпаная"
 
 #: ../libyelp/yelp-view.c:253
 msgid "C_opy Code Block"
-msgstr ""
+msgstr "С_капіяваць урывак коду"
 
 #: ../libyelp/yelp-view.c:258
 msgid "_Copy Link Location"
-msgstr ""
+msgstr "С_капіяваць адрас спасылкі"
 
 #: ../libyelp/yelp-view.c:263
 msgid "_Open Link"
-msgstr ""
+msgstr "_Адкрыць спасылку"
 
 #: ../libyelp/yelp-view.c:268
 msgid "Open Link in New _Window"
-msgstr ""
+msgstr "Адкрыць спасылку ў _новым акне"
 
 #: ../libyelp/yelp-view.c:278
 msgid "_Install Packages"
-msgstr ""
+msgstr "_Усталяваць пакункі"
 
 #: ../libyelp/yelp-view.c:283
 msgid "Save Code _Block As…"
-msgstr ""
+msgstr "За_хаваць урывак коду як..."
 
 #: ../libyelp/yelp-view.c:298
 msgid "_Copy Text"
-msgstr ""
+msgstr "С_капіяваць тэкст"
 
 #: ../libyelp/yelp-view.c:525
 msgid "Yelp URI"
@@ -310,106 +310,106 @@ msgstr ""
 #: ../libyelp/yelp-view.c:826 ../libyelp/yelp-view.c:2198
 #, c-format
 msgid "The URI ‘%s’ does not point to a valid page."
-msgstr ""
+msgstr "URI \"%s\" не вядзе на прыдатную старонку."
 
 #: ../libyelp/yelp-view.c:832 ../libyelp/yelp-view.c:2204
 #, c-format
 msgid "The URI does not point to a valid page."
-msgstr ""
+msgstr "URI не вядзе на прыдатную старонку."
 
 #: ../libyelp/yelp-view.c:837 ../libyelp/yelp-view.c:2210
 #, c-format
 msgid "The URI ‘%s’ could not be parsed."
-msgstr ""
+msgstr "Не атрымалася разабраць URI \"%s\"."
 
 #: ../libyelp/yelp-view.c:842
 #, c-format
 msgid "Unknown Error."
-msgstr ""
+msgstr "Невядомая памылка."
 
 #: ../libyelp/yelp-view.c:996
 msgid "You do not have PackageKit. Package install links require PackageKit."
-msgstr ""
+msgstr "У вас няма PackageKit. Спасылкі на ўсталёўку пакункаў патрабуюць PackageKit."
 
 #: ../libyelp/yelp-view.c:1243
 msgid "Save Image"
-msgstr ""
+msgstr "Захаваць выяву"
 
 #: ../libyelp/yelp-view.c:1342
 msgid "Save Code"
-msgstr ""
+msgstr "Захаваць код"
 
 #: ../libyelp/yelp-view.c:1438
 #, c-format
 msgid "Send email to %s"
-msgstr ""
+msgstr "Адправіць электронны ліст %s"
 
 #: ../libyelp/yelp-view.c:1542
 msgid "_Save Image As…"
-msgstr ""
+msgstr "_Захаваць выяву як..."
 
 #: ../libyelp/yelp-view.c:1543
 msgid "_Save Video As…"
-msgstr ""
+msgstr "_Захаваць відэа як..."
 
 #: ../libyelp/yelp-view.c:1551
 msgid "S_end Image To…"
-msgstr ""
+msgstr "_Адправіць выяву..."
 
 #: ../libyelp/yelp-view.c:1552
 msgid "S_end Video To…"
-msgstr ""
+msgstr "_Адправіць відэа..."
 
 #: ../libyelp/yelp-view.c:1894
 #, c-format
 msgid "Could not load a document for ‘%s’"
-msgstr ""
+msgstr "Не атрымалася загрузіць дакумент для \"%s\""
 
 #: ../libyelp/yelp-view.c:1900
 #, c-format
 msgid "Could not load a document"
-msgstr ""
+msgstr "Не атрымалася загрузіць дакумент"
 
 #: ../libyelp/yelp-view.c:1984
 msgid "Document Not Found"
-msgstr ""
+msgstr "Дакумент не знойдзены"
 
 #: ../libyelp/yelp-view.c:1986
 msgid "Page Not Found"
-msgstr ""
+msgstr "Старонка не знойдзеная"
 
 #: ../libyelp/yelp-view.c:1989
 msgid "Cannot Read"
-msgstr ""
+msgstr "Не атрымалася прачытаць"
 
 #: ../libyelp/yelp-view.c:1995
 msgid "Unknown Error"
-msgstr ""
+msgstr "Невядомая памылка"
 
 #: ../libyelp/yelp-view.c:2015
 msgid "Search for packages containing this document."
-msgstr ""
+msgstr "Пошук пакункаў, якія змяшчаюць гэты дакумент."
 
 #: ../src/yelp-application.c:59
 msgid "Turn on editor mode"
-msgstr ""
+msgstr "Уключыць рэжым рэдактара"
 
 #: ../src/yelp-application.c:271 ../src/yelp-window.c:1180
 #: ../src/yelp-window.c:1188 ../yelp.desktop.in.in.h:1
 msgid "Help"
-msgstr ""
+msgstr "Дапамога"
 
 #: ../src/yelp-application.c:321
 msgid "New Window"
-msgstr ""
+msgstr "Новае акно"
 
 #: ../src/yelp-application.c:325
 msgid "Larger Text"
-msgstr ""
+msgstr "Павялічыць тэкст"
 
 #: ../src/yelp-application.c:326
 msgid "Smaller Text"
-msgstr ""
+msgstr "Паменшыць тэкст"
 
 #: ../src/yelp-window.c:211
 msgid "Application"
@@ -421,59 +421,59 @@ msgstr ""
 
 #: ../src/yelp-window.c:343
 msgid "Back"
-msgstr ""
+msgstr "Назад"
 
 #: ../src/yelp-window.c:350
 msgid "Forward"
-msgstr ""
+msgstr "Наперад"
 
 #: ../src/yelp-window.c:361
 msgid "Menu"
-msgstr ""
+msgstr "Меню"
 
 #: ../src/yelp-window.c:366
 msgid "Find…"
-msgstr ""
+msgstr "Шукаць..."
 
 #: ../src/yelp-window.c:367
 msgid "Print…"
-msgstr ""
+msgstr "Друкаваць..."
 
 #: ../src/yelp-window.c:372
 msgid "Previous Page"
-msgstr ""
+msgstr "Да папярэдняй старонкі"
 
 #: ../src/yelp-window.c:373
 msgid "Next Page"
-msgstr ""
+msgstr "Да наступнай старонкі"
 
 #: ../src/yelp-window.c:378
 msgid "All Help"
-msgstr ""
+msgstr "Усе дакументы"
 
 #: ../src/yelp-window.c:400
 msgid "Search (Ctrl+S)"
-msgstr ""
+msgstr "Пошук (Ctrl+S)"
 
 #: ../src/yelp-window.c:434
 msgid "No bookmarks"
-msgstr ""
+msgstr "Няма закладак"
 
 #: ../src/yelp-window.c:442
 msgid "Add Bookmark"
-msgstr ""
+msgstr "Дадаць закладку"
 
 #: ../src/yelp-window.c:448
 msgid "Remove Bookmark"
-msgstr ""
+msgstr "Выдаліць закладку"
 
 #: ../yelp.desktop.in.in.h:2
 msgid "Get help with GNOME"
-msgstr ""
+msgstr "Даведка GNOME"
 
 #: ../yelp.desktop.in.in.h:3
 msgid "documentation;information;manual;help;"
-msgstr ""
+msgstr "дакументацыя;інфармацыя;звесткі;падручнік;дапаможнік;даведка;"
 
 #~ msgid "Enable Search"
 #~ msgstr "Enable Search"
