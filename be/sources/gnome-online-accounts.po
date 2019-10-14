@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: gnome-by\n"
 "Report-Msgid-Bugs-To: https://bugzilla.gnome.org/enter_bug.cgi?product=gnome-online-accounts&keywords=I18N+L10N&component=general\n"
 "POT-Creation-Date: 2017-12-05 18:19+0000\n"
-"PO-Revision-Date: 2019-10-14 12:18\n"
+"PO-Revision-Date: 2019-10-14 12:39\n"
 "Last-Translator: Zmicer Turok (zmicer)\n"
 "Language-Team: Belarusian\n"
 "Language: be_BY\n"
@@ -516,7 +516,7 @@ msgstr "Nextcloud"
 #: src/goabackend/goaowncloudprovider.c:739
 #: src/goabackend/goaowncloudprovider.c:930
 msgid "Error connecting to ownCloud server"
-msgstr ""
+msgstr "Падчас злучэння з серверам ownCloud адбылася памылка"
 
 #: src/goabackend/goapocketprovider.c:74
 msgid "Pocket"
