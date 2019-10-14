@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: gnome-by\n"
 "Report-Msgid-Bugs-To: https://bugzilla.gnome.org/enter_bug.cgi?product=gvfs&keywords=I18N+L10N&component=general\n"
 "POT-Creation-Date: 2017-11-28 15:58+0000\n"
-"PO-Revision-Date: 2019-10-14 14:20\n"
+"PO-Revision-Date: 2019-10-14 14:30\n"
 "Last-Translator: Zmicer Turok (zmicer)\n"
 "Language-Team: Belarusian\n"
 "Language: be_BY\n"
@@ -2055,14 +2055,14 @@ msgstr "Адна альбо некалькі праграм не дазваля�
 #. Translators: can't get block device with unencrypted data to unmount
 #: monitor/gdu/ggdumount.c:986
 msgid "Cannot get LUKS cleartext slave"
-msgstr ""
+msgstr "Немагчыма атрымаць прыладу LUKS cleartext"
 
 #. Translators: can't get block device with unencrypted data from path
 #: monitor/gdu/ggdumount.c:1009
 #, c-format
 #| msgid "Cannot get LUKS cleartext slave from path `%s'"
 msgid "Cannot get LUKS cleartext slave from path “%s”"
-msgstr ""
+msgstr "Немагчыма атрымаць прыладу LUKS cleartext па шляху \"%s\""
 
 #: monitor/gdu/ggduvolume.c:337
 msgid "Floppy Disk"
