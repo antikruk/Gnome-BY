@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: gnome-by\n"
 "Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=yelp&keywords=I18N+L10N&component=General\n"
 "POT-Creation-Date: 2016-08-19 16:59+0000\n"
-"PO-Revision-Date: 2019-10-15 04:55\n"
+"PO-Revision-Date: 2019-10-15 05:16\n"
 "Last-Translator: Zmicer Turok (zmicer)\n"
 "Language-Team: Belarusian\n"
 "Language: be_BY\n"
@@ -257,39 +257,39 @@ msgstr "URI Yelp"
 
 #: ../libyelp/yelp-view.c:526
 msgid "A YelpUri with the current location"
-msgstr ""
+msgstr "YelpUri з бягучым адрасам"
 
 #: ../libyelp/yelp-view.c:534
 msgid "Loading State"
-msgstr ""
+msgstr "Стан загрузкі"
 
 #: ../libyelp/yelp-view.c:535
 msgid "The loading state of the view"
-msgstr ""
+msgstr "Стан загрузкі для старонкі, што будзе праглядацца"
 
 #: ../libyelp/yelp-view.c:544
 msgid "Page ID"
-msgstr ""
+msgstr "Ідэнтыфікатар старонкі"
 
 #: ../libyelp/yelp-view.c:545
 msgid "The ID of the root page of the page being viewed"
-msgstr ""
+msgstr "Ідэнтыфікатар каранёвай старонкі для старонкі, што праглядаецца"
 
 #: ../libyelp/yelp-view.c:553
 msgid "Root Title"
-msgstr ""
+msgstr "Загаловак каранёвай старонкі"
 
 #: ../libyelp/yelp-view.c:554
 msgid "The title of the root page of the page being viewed"
-msgstr ""
+msgstr "Загаловак каранёвай старонкі для старонкі, што праглядаецца"
 
 #: ../libyelp/yelp-view.c:562
 msgid "Page Title"
-msgstr ""
+msgstr "Загаловак старонкі"
 
 #: ../libyelp/yelp-view.c:563
 msgid "The title of the page being viewed"
-msgstr ""
+msgstr "Загаловак старонкі, што праглядаецца"
 
 #: ../libyelp/yelp-view.c:571
 msgid "Page Description"
@@ -297,7 +297,7 @@ msgstr "Апісанне старонкі"
 
 #: ../libyelp/yelp-view.c:572
 msgid "The description of the page being viewed"
-msgstr ""
+msgstr "Апісанне старонкі, што праглядаецца"
 
 #: ../libyelp/yelp-view.c:580
 msgid "Page Icon"
@@ -305,7 +305,7 @@ msgstr "Значок старонкі"
 
 #: ../libyelp/yelp-view.c:581
 msgid "The icon of the page being viewed"
-msgstr ""
+msgstr "Значок старонкі, што праглядаецца"
 
 #: ../libyelp/yelp-view.c:826 ../libyelp/yelp-view.c:2198
 #, c-format
