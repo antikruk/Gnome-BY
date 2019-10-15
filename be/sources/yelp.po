@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: gnome-by\n"
 "Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=yelp&keywords=I18N+L10N&component=General\n"
 "POT-Creation-Date: 2016-08-19 16:59+0000\n"
-"PO-Revision-Date: 2019-10-15 04:45\n"
+"PO-Revision-Date: 2019-10-15 04:55\n"
 "Last-Translator: Zmicer Turok (zmicer)\n"
 "Language-Team: Belarusian\n"
 "Language: be_BY\n"
@@ -208,7 +208,7 @@ msgstr "Табліца стыляў XSLT"
 
 #: ../libyelp/yelp-transform.c:165
 msgid "The location of the XSLT stylesheet"
-msgstr "Размяшчэнне табліцы стыляў XSLT"
+msgstr "Адрас табліцы стыляў XSLT"
 
 #: ../libyelp/yelp-transform.c:369 ../libyelp/yelp-transform.c:384
 #, c-format
