@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: gnome-by\n"
 "Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=yelp&keywords=I18N+L10N&component=General\n"
 "POT-Creation-Date: 2016-08-19 16:59+0000\n"
-"PO-Revision-Date: 2019-10-15 04:36\n"
+"PO-Revision-Date: 2019-10-15 04:45\n"
 "Last-Translator: Zmicer Turok (zmicer)\n"
 "Language-Team: Belarusian\n"
 "Language: be_BY\n"
@@ -139,7 +139,7 @@ msgstr "Прагляд"
 
 #: ../libyelp/yelp-search-entry.c:173
 msgid "A YelpView instance to control"
-msgstr ""
+msgstr "Асобнік YelpView для кіравання"
 
 #: ../libyelp/yelp-search-entry.c:188 ../src/yelp-window.c:417
 msgid "Bookmarks"
@@ -147,7 +147,7 @@ msgstr "Закладкі"
 
 #: ../libyelp/yelp-search-entry.c:189
 msgid "A YelpBookmarks implementation instance"
-msgstr ""
+msgstr "Асобнік рэалізацыі YelpBookmarks"
 
 #: ../libyelp/yelp-search-entry.c:433
 #, c-format
@@ -160,7 +160,7 @@ msgstr "GtkSettings"
 
 #: ../libyelp/yelp-settings.c:149
 msgid "A GtkSettings object to get settings from"
-msgstr ""
+msgstr "Аб’ект GtkSettings для атрымання налад з"
 
 #: ../libyelp/yelp-settings.c:157
 msgid "GtkIconTheme"
@@ -168,23 +168,23 @@ msgstr "GtkIconTheme"
 
 #: ../libyelp/yelp-settings.c:158
 msgid "A GtkIconTheme object to get icons from"
-msgstr ""
+msgstr "Аб’ект GtkIconTheme для атрымання значкоў з"
 
 #: ../libyelp/yelp-settings.c:166
 msgid "Font Adjustment"
-msgstr ""
+msgstr "Падладка шрыфту"
 
 #: ../libyelp/yelp-settings.c:167
 msgid "A size adjustment to add to font sizes"
-msgstr ""
+msgstr "Падладка памеру шрыфту для дадання ў памеры шрыфтоў"
 
 #: ../libyelp/yelp-settings.c:175
 msgid "Show Text Cursor"
-msgstr ""
+msgstr "Паказваць тэкставы курсор"
 
 #: ../libyelp/yelp-settings.c:176
 msgid "Show the text cursor or caret for accessible navigation"
-msgstr ""
+msgstr "Паказваць тэкставы курсор, каб спрасціць навігацыю"
 
 #: ../libyelp/yelp-settings.c:184
 msgid "Editor Mode"
@@ -204,11 +204,11 @@ msgstr "Назва файла базы даных SQLite"
 
 #: ../libyelp/yelp-transform.c:164
 msgid "XSLT Stylesheet"
-msgstr ""
+msgstr "Табліца стыляў XSLT"
 
 #: ../libyelp/yelp-transform.c:165
 msgid "The location of the XSLT stylesheet"
-msgstr ""
+msgstr "Размяшчэнне табліцы стыляў XSLT"
 
 #: ../libyelp/yelp-transform.c:369 ../libyelp/yelp-transform.c:384
 #, c-format
