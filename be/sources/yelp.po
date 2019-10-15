@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: gnome-by\n"
 "Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=yelp&keywords=I18N+L10N&component=General\n"
 "POT-Creation-Date: 2016-08-19 16:59+0000\n"
-"PO-Revision-Date: 2019-10-14 13:26\n"
+"PO-Revision-Date: 2019-10-15 05:16\n"
 "Last-Translator: Zmicer Turok (zmicer)\n"
 "Language-Team: Belarusian\n"
 "Language: be_BY\n"
@@ -86,11 +86,11 @@ msgstr "Патрэбнай старонкі не знойдзена ў даку�
 
 #: ../libyelp/yelp-document.c:278
 msgid "Indexed"
-msgstr ""
+msgstr "Індэксавана"
 
 #: ../libyelp/yelp-document.c:279
 msgid "Whether the document content has been indexed"
-msgstr ""
+msgstr "Ці будзе змесціва дакумента індэксавацца"
 
 #: ../libyelp/yelp-document.c:287
 msgid "Document URI"
@@ -98,7 +98,7 @@ msgstr "URI дакумента"
 
 #: ../libyelp/yelp-document.c:288
 msgid "The URI which identifies the document"
-msgstr ""
+msgstr "URI, які ідэнтыфікуе дакумент"
 
 #: ../libyelp/yelp-document.c:1024
 #, c-format
@@ -139,7 +139,7 @@ msgstr "Прагляд"
 
 #: ../libyelp/yelp-search-entry.c:173
 msgid "A YelpView instance to control"
-msgstr ""
+msgstr "Асобнік YelpView для кіравання"
 
 #: ../libyelp/yelp-search-entry.c:188 ../src/yelp-window.c:417
 msgid "Bookmarks"
@@ -147,7 +147,7 @@ msgstr "Закладкі"
 
 #: ../libyelp/yelp-search-entry.c:189
 msgid "A YelpBookmarks implementation instance"
-msgstr ""
+msgstr "Асобнік рэалізацыі YelpBookmarks"
 
 #: ../libyelp/yelp-search-entry.c:433
 #, c-format
@@ -156,59 +156,59 @@ msgstr "Шукаць \"%s\""
 
 #: ../libyelp/yelp-settings.c:148
 msgid "GtkSettings"
-msgstr ""
+msgstr "GtkSettings"
 
 #: ../libyelp/yelp-settings.c:149
 msgid "A GtkSettings object to get settings from"
-msgstr ""
+msgstr "Аб’ект GtkSettings для атрымання налад з"
 
 #: ../libyelp/yelp-settings.c:157
 msgid "GtkIconTheme"
-msgstr ""
+msgstr "GtkIconTheme"
 
 #: ../libyelp/yelp-settings.c:158
 msgid "A GtkIconTheme object to get icons from"
-msgstr ""
+msgstr "Аб’ект GtkIconTheme для атрымання значкоў з"
 
 #: ../libyelp/yelp-settings.c:166
 msgid "Font Adjustment"
-msgstr ""
+msgstr "Падладка шрыфту"
 
 #: ../libyelp/yelp-settings.c:167
 msgid "A size adjustment to add to font sizes"
-msgstr ""
+msgstr "Падладка памеру шрыфту для дадання ў памеры шрыфтоў"
 
 #: ../libyelp/yelp-settings.c:175
 msgid "Show Text Cursor"
-msgstr ""
+msgstr "Паказваць тэкставы курсор"
 
 #: ../libyelp/yelp-settings.c:176
 msgid "Show the text cursor or caret for accessible navigation"
-msgstr ""
+msgstr "Паказваць тэкставы курсор, каб спрасціць навігацыю"
 
 #: ../libyelp/yelp-settings.c:184
 msgid "Editor Mode"
-msgstr ""
+msgstr "Рэжым рэдактара"
 
 #: ../libyelp/yelp-settings.c:185
 msgid "Enable features useful to editors"
-msgstr ""
+msgstr "Уключыць функцыі, якія будуць карыснымі для рэдактараў"
 
 #: ../libyelp/yelp-sqlite-storage.c:145
 msgid "Database filename"
-msgstr ""
+msgstr "Назва файла базы даных"
 
 #: ../libyelp/yelp-sqlite-storage.c:146
 msgid "The filename of the sqlite database"
-msgstr ""
+msgstr "Назва файла базы даных SQLite"
 
 #: ../libyelp/yelp-transform.c:164
 msgid "XSLT Stylesheet"
-msgstr ""
+msgstr "Табліца стыляў XSLT"
 
 #: ../libyelp/yelp-transform.c:165
 msgid "The location of the XSLT stylesheet"
-msgstr ""
+msgstr "Адрас табліцы стыляў XSLT"
 
 #: ../libyelp/yelp-transform.c:369 ../libyelp/yelp-transform.c:384
 #, c-format
@@ -253,51 +253,51 @@ msgstr "С_капіяваць тэкст"
 
 #: ../libyelp/yelp-view.c:525
 msgid "Yelp URI"
-msgstr ""
+msgstr "URI Yelp"
 
 #: ../libyelp/yelp-view.c:526
 msgid "A YelpUri with the current location"
-msgstr ""
+msgstr "YelpUri з бягучым адрасам"
 
 #: ../libyelp/yelp-view.c:534
 msgid "Loading State"
-msgstr ""
+msgstr "Стан загрузкі"
 
 #: ../libyelp/yelp-view.c:535
 msgid "The loading state of the view"
-msgstr ""
+msgstr "Стан загрузкі для старонкі, што будзе праглядацца"
 
 #: ../libyelp/yelp-view.c:544
 msgid "Page ID"
-msgstr ""
+msgstr "Ідэнтыфікатар старонкі"
 
 #: ../libyelp/yelp-view.c:545
 msgid "The ID of the root page of the page being viewed"
-msgstr ""
+msgstr "Ідэнтыфікатар каранёвай старонкі для старонкі, што праглядаецца"
 
 #: ../libyelp/yelp-view.c:553
 msgid "Root Title"
-msgstr ""
+msgstr "Загаловак каранёвай старонкі"
 
 #: ../libyelp/yelp-view.c:554
 msgid "The title of the root page of the page being viewed"
-msgstr ""
+msgstr "Загаловак каранёвай старонкі для старонкі, што праглядаецца"
 
 #: ../libyelp/yelp-view.c:562
 msgid "Page Title"
-msgstr ""
+msgstr "Загаловак старонкі"
 
 #: ../libyelp/yelp-view.c:563
 msgid "The title of the page being viewed"
-msgstr ""
+msgstr "Загаловак старонкі, што праглядаецца"
 
 #: ../libyelp/yelp-view.c:571
 msgid "Page Description"
-msgstr ""
+msgstr "Апісанне старонкі"
 
 #: ../libyelp/yelp-view.c:572
 msgid "The description of the page being viewed"
-msgstr ""
+msgstr "Апісанне старонкі, што праглядаецца"
 
 #: ../libyelp/yelp-view.c:580
 msgid "Page Icon"
@@ -305,7 +305,7 @@ msgstr "Значок старонкі"
 
 #: ../libyelp/yelp-view.c:581
 msgid "The icon of the page being viewed"
-msgstr ""
+msgstr "Значок старонкі, што праглядаецца"
 
 #: ../libyelp/yelp-view.c:826 ../libyelp/yelp-view.c:2198
 #, c-format
@@ -413,11 +413,11 @@ msgstr "Паменшыць тэкст"
 
 #: ../src/yelp-window.c:211
 msgid "Application"
-msgstr ""
+msgstr "Праграма"
 
 #: ../src/yelp-window.c:212
 msgid "A YelpApplication instance that controls this window"
-msgstr ""
+msgstr "Асобнік YelpApplication, што кіруе гэтым акном"
 
 #: ../src/yelp-window.c:343
 msgid "Back"
