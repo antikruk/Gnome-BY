@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: gnome-by\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/glib/issues\n"
 "POT-Creation-Date: 2019-08-25 09:08+0000\n"
-"PO-Revision-Date: 2019-10-14 12:18\n"
+"PO-Revision-Date: 2019-10-17 06:43\n"
 "Last-Translator: Zmicer Turok (zmicer)\n"
 "Language-Team: Belarusian\n"
 "Language: be_BY\n"
@@ -96,7 +96,7 @@ msgstr ""
 
 #: gio/gapplication-tool.c:65 gio/gapplication-tool.c:71
 msgid "APPID"
-msgstr ""
+msgstr "APPID"
 
 #: gio/gapplication-tool.c:70 gio/gapplication-tool.c:133 gio/gdbus-tool.c:102
 #: gio/gio-tool.c:224
@@ -123,7 +123,7 @@ msgstr ""
 
 #: gio/gapplication-tool.c:73
 msgid "ACTION"
-msgstr ""
+msgstr "ДЗЕЯННЕ"
 
 #: gio/gapplication-tool.c:73
 msgid "The action name to invoke"
@@ -144,7 +144,7 @@ msgstr "Невядомы загад %s\n\n"
 
 #: gio/gapplication-tool.c:101
 msgid "Usage:\n"
-msgstr ""
+msgstr "Выкарыстанне: \n"
 
 #: gio/gapplication-tool.c:114 gio/gresource-tool.c:556
 #: gio/gsettings-tool.c:694
@@ -1659,7 +1659,7 @@ msgstr ""
 
 #: gio/gio-tool-info.c:151
 msgid "size: "
-msgstr ""
+msgstr "памер: "
 
 #: gio/gio-tool-info.c:156
 msgid "hidden\n"
@@ -1824,7 +1824,7 @@ msgstr ""
 
 #: gio/gio-tool-mount.c:64 gio/gio-tool-mount.c:67
 msgid "DEVICE"
-msgstr ""
+msgstr "ПРЫЛАДА"
 
 #: gio/gio-tool-mount.c:65
 msgid "Unmount"
@@ -1832,7 +1832,7 @@ msgstr ""
 
 #: gio/gio-tool-mount.c:66
 msgid "Eject"
-msgstr ""
+msgstr "Выняць"
 
 #: gio/gio-tool-mount.c:67
 msgid "Stop drive with device file"
@@ -1844,7 +1844,7 @@ msgstr ""
 
 #: gio/gio-tool-mount.c:68
 msgid "SCHEME"
-msgstr ""
+msgstr "СХЕМА"
 
 #: gio/gio-tool-mount.c:69
 msgid "Ignore outstanding file operations when unmounting or ejecting"
@@ -1857,7 +1857,7 @@ msgstr ""
 #. Translator: List here is a verb as in 'List all mounts'
 #: gio/gio-tool-mount.c:72
 msgid "List"
-msgstr ""
+msgstr "Спіс"
 
 #: gio/gio-tool-mount.c:73
 msgid "Monitor events"
@@ -1873,7 +1873,7 @@ msgstr ""
 
 #: gio/gio-tool-mount.c:75
 msgid "PIM"
-msgstr ""
+msgstr "PIM"
 
 #: gio/gio-tool-mount.c:76
 msgid "Mount a TCRYPT hidden volume"
@@ -1938,7 +1938,7 @@ msgstr ""
 
 #: gio/gio-tool-rename.c:45
 msgid "NAME"
-msgstr ""
+msgstr "НАЗВА"
 
 #: gio/gio-tool-rename.c:50
 msgid "Rename a file."
@@ -1985,7 +1985,7 @@ msgstr ""
 
 #: gio/gio-tool-save.c:57
 msgid "ETAG"
-msgstr ""
+msgstr "ETAG"
 
 #: gio/gio-tool-save.c:113
 msgid "Error reading from standard input"
@@ -2010,7 +2010,7 @@ msgstr ""
 
 #: gio/gio-tool-set.c:33
 msgid "TYPE"
-msgstr ""
+msgstr "ТЫП"
 
 #: gio/gio-tool-set.c:89
 msgid "ATTRIBUTE"
@@ -2018,7 +2018,7 @@ msgstr ""
 
 #: gio/gio-tool-set.c:89
 msgid "VALUE"
-msgstr ""
+msgstr "ЗНАЧЭННЕ"
 
 #: gio/gio-tool-set.c:93
 msgid "Set a file attribute of LOCATION."
@@ -5498,10 +5498,10 @@ msgstr[3] "%u байтаў"
 #, c-format
 msgid "%u bit"
 msgid_plural "%u bits"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
+msgstr[0] "%u біт"
+msgstr[1] "%u біты"
+msgstr[2] "%u бітаў"
+msgstr[3] "%u бітаў"
 
 #. Translators: the %s in "%s bytes" will always be replaced by a number.
 #: glib/gutils.c:2505
