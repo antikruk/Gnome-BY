@@ -1,10 +1,10 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: gnome-by\n"
+"Project-Id-Version: 98e6872775a91bf27122ff608b6db605\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/libgweather/issues\n"
 "POT-Creation-Date: 2017-12-15 23:34+0000\n"
-"PO-Revision-Date: 2019-10-14 13:18\n"
-"Last-Translator: Zmicer Turok (zmicer)\n"
+"PO-Revision-Date: 2019-10-18 09:19\n"
+"Last-Translator: Zmicer Turok\n"
 "Language-Team: Belarusian\n"
 "Language: be_BY\n"
 "MIME-Version: 1.0\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || n%10>=5 && n%10<=9 || n%100>=11 && n%100<=14 ? 2 : 3);\n"
 "X-Generator: crowdin.com\n"
-"X-Crowdin-Project: gnome-by\n"
+"X-Crowdin-Project: 98e6872775a91bf27122ff608b6db605\n"
 "X-Crowdin-Language: be\n"
 "X-Crowdin-File: /master/sources/libgweather-3.0/en_GB.po\n"
 
@@ -923,7 +923,7 @@ msgstr "Невядома"
 #.
 #: libgweather/gweather-weather.c:833
 msgid "default:mm"
-msgstr "default:mm"
+msgstr ""
 
 #. TRANSLATOR: This is the temperature in degrees Fahrenheit (U+2109 DEGREE FAHRENHEIT)
 #. * with a non-break space (U+00A0) between the digits and the degrees sign
@@ -931,14 +931,14 @@ msgstr "default:mm"
 #, c-format
 #| msgid "%.1f ℉"
 msgid "%.1f ℉"
-msgstr "%.1f ℉"
+msgstr ""
 
 #. TRANSLATOR: This is the temperature in degrees Fahrenheit (U+2109 DEGREE FAHRENHEIT)i
 #. * with a non-break space (U+00A0) between the digits and the degrees sign
 #: libgweather/gweather-weather.c:890
 #, c-format
 msgid "%d ℉"
-msgstr "%d ℉"
+msgstr ""
 
 #. TRANSLATOR: This is the temperature in degrees Celsius (U+2103 DEGREE CELSIUS)
 #. * with a non-break space (U+00A0) between the digits and the degrees sign
@@ -946,14 +946,14 @@ msgstr "%d ℉"
 #, c-format
 #| msgid "%.1f ℃"
 msgid "%.1f ℃"
-msgstr "%.1f ℃"
+msgstr ""
 
 #. TRANSLATOR: This is the temperature in degrees Celsius (U+2103 DEGREE CELSIUS)
 #. * with a non-break space (U+00A0) between the digits and the degrees sign
 #: libgweather/gweather-weather.c:901
 #, c-format
 msgid "%d ℃"
-msgstr "%d ℃"
+msgstr ""
 
 #. TRANSLATOR: This is the temperature in kelvin (U+212A KELVIN SIGN)
 #. * with a non-break space (U+00A0) between the digits and the degrees sign
@@ -968,7 +968,7 @@ msgstr "%. 1f K"
 #: libgweather/gweather-weather.c:912
 #, c-format
 msgid "%d K"
-msgstr "%d K"
+msgstr ""
 
 #: libgweather/gweather-weather.c:935 libgweather/gweather-weather.c:951
 #: libgweather/gweather-weather.c:967 libgweather/gweather-weather.c:1029
@@ -990,7 +990,7 @@ msgstr "Невядома"
 #: libgweather/gweather-weather.c:1012
 #, c-format
 msgid "%.f%%"
-msgstr "%.f%%"
+msgstr ""
 
 #. TRANSLATOR: This is the wind speed in knots
 #: libgweather/gweather-weather.c:1058
@@ -1037,7 +1037,7 @@ msgstr "Зацiшша"
 #: libgweather/gweather-weather.c:1103
 #, c-format
 msgid "%s / %s"
-msgstr "%s / %s"
+msgstr ""
 
 #: libgweather/gweather-weather.c:1139
 msgctxt "pressure"
@@ -1106,7 +1106,7 @@ msgstr "%.0f м"
 
 #: libgweather/gweather-weather.c:1238 libgweather/gweather-weather.c:1263
 msgid "%H∶%M"
-msgstr "%H∶%M"
+msgstr ""
 
 #: libgweather/gweather-weather.c:1357
 msgid "Retrieval failed"
