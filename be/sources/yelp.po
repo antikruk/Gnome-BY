@@ -5,11 +5,11 @@
 # Bruce Cowan <bruce@bcowan.me.uk>, 2011, 2012.
 msgid ""
 msgstr ""
-"Project-Id-Version: gnome-by\n"
+"Project-Id-Version: 98e6872775a91bf27122ff608b6db605\n"
 "Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=yelp&keywords=I18N+L10N&component=General\n"
 "POT-Creation-Date: 2016-08-19 16:59+0000\n"
-"PO-Revision-Date: 2019-10-15 05:16\n"
-"Last-Translator: Zmicer Turok (zmicer)\n"
+"PO-Revision-Date: 2019-10-18 09:20\n"
+"Last-Translator: Zmicer Turok\n"
 "Language-Team: Belarusian\n"
 "Language: be_BY\n"
 "MIME-Version: 1.0\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || n%10>=5 && n%10<=9 || n%100>=11 && n%100<=14 ? 2 : 3);\n"
 "X-Generator: crowdin.com\n"
-"X-Crowdin-Project: gnome-by\n"
+"X-Crowdin-Project: 98e6872775a91bf27122ff608b6db605\n"
 "X-Crowdin-Language: be\n"
 "X-Crowdin-File: /master/sources/yelp/en_GB.po\n"
 
@@ -156,7 +156,7 @@ msgstr "Шукаць \"%s\""
 
 #: ../libyelp/yelp-settings.c:148
 msgid "GtkSettings"
-msgstr "GtkSettings"
+msgstr ""
 
 #: ../libyelp/yelp-settings.c:149
 msgid "A GtkSettings object to get settings from"
@@ -164,7 +164,7 @@ msgstr "Аб’ект GtkSettings для атрымання налад з"
 
 #: ../libyelp/yelp-settings.c:157
 msgid "GtkIconTheme"
-msgstr "GtkIconTheme"
+msgstr ""
 
 #: ../libyelp/yelp-settings.c:158
 msgid "A GtkIconTheme object to get icons from"
