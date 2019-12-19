@@ -6,11 +6,11 @@
 # Philip Withnall <philip@tecnocode.co.uk>, 2010.
 msgid ""
 msgstr ""
-"Project-Id-Version: gnome-by\n"
+"Project-Id-Version: 98e6872775a91bf27122ff608b6db605\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-07 23:08+0000\n"
-"PO-Revision-Date: 2019-10-14 12:39\n"
-"Last-Translator: Zmicer Turok (zmicer)\n"
+"PO-Revision-Date: 2019-10-18 09:22\n"
+"Last-Translator: Zmicer Turok\n"
 "Language-Team: Belarusian\n"
 "Language: be_BY\n"
 "MIME-Version: 1.0\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || n%10>=5 && n%10<=9 || n%100>=11 && n%100<=14 ? 2 : 3);\n"
 "X-Generator: crowdin.com\n"
-"X-Crowdin-Project: gnome-by\n"
+"X-Crowdin-Project: 98e6872775a91bf27122ff608b6db605\n"
 "X-Crowdin-Language: be\n"
 "X-Crowdin-File: /master/sources/gtk20-properties/en_GB.po\n"
 
@@ -225,7 +225,7 @@ msgstr "Убудаваны значок, які адлюстроўваецца �
 
 #: ../gtk/gtkaction.c:302 ../gtk/gtkstatusicon.c:253
 msgid "GIcon"
-msgstr "GIcon"
+msgstr ""
 
 #: ../gtk/gtkaction.c:303 ../gtk/gtkcellrendererpixbuf.c:206
 #: ../gtk/gtkimage.c:341 ../gtk/gtkstatusicon.c:254
@@ -2685,7 +2685,7 @@ msgstr "Назва абранага шрыфту"
 
 #: ../gtk/gtkfontbutton.c:160
 msgid "Sans 12"
-msgstr "Sans 12"
+msgstr ""
 
 #: ../gtk/gtkfontbutton.c:175
 msgid "Use font in label"
@@ -2938,7 +2938,7 @@ msgstr "Непразрыстасць дыялогу вылучэння"
 
 #: ../gtk/gtkimage.c:224 ../gtk/gtkstatusicon.c:213
 msgid "Pixbuf"
-msgstr "Pixbuf"
+msgstr ""
 
 #: ../gtk/gtkimage.c:225 ../gtk/gtkstatusicon.c:214
 msgid "A GdkPixbuf to display"
@@ -3203,7 +3203,7 @@ msgstr "Вышыня макета"
 
 #: ../gtk/gtklinkbutton.c:145
 msgid "URI"
-msgstr "URI"
+msgstr ""
 
 #: ../gtk/gtklinkbutton.c:146
 msgid "The URI bound to this button"
@@ -4246,7 +4246,7 @@ msgstr "Пажаданае месца пераносу радка, калі ін
 
 #: ../gtk/gtkprogressbar.c:214
 msgid "XSpacing"
-msgstr "XSpacing"
+msgstr ""
 
 #: ../gtk/gtkprogressbar.c:215
 msgid "Extra spacing applied to the width of a progress bar."
@@ -4254,7 +4254,7 @@ msgstr "Дадатковая прастора да шырыні індыката
 
 #: ../gtk/gtkprogressbar.c:220
 msgid "YSpacing"
-msgstr "YSpacing"
+msgstr ""
 
 #: ../gtk/gtkprogressbar.c:221
 msgid "Extra spacing applied to the height of a progress bar."
@@ -4908,7 +4908,7 @@ msgstr "Які ўзровень хінтынгу ўжываць; няма (hintn
 
 #: ../gtk/gtksettings.c:419
 msgid "Xft RGBA"
-msgstr "Xft RGBA"
+msgstr ""
 
 #: ../gtk/gtksettings.c:420
 msgid "Type of subpixel antialiasing; none, rgb, bgr, vrgb, vbgr"
@@ -4916,7 +4916,7 @@ msgstr "Тып субпіксельнага згладжвання; няма, rg
 
 #: ../gtk/gtksettings.c:429
 msgid "Xft DPI"
-msgstr "Xft DPI"
+msgstr ""
 
 #: ../gtk/gtksettings.c:430
 msgid "Resolution for Xft, in 1024 * dots/inch. -1 to use default value"

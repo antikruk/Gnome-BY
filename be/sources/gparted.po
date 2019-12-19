@@ -5,11 +5,11 @@
 # Bruce Cowan <bruce@bcowan.me.uk>, 2009, 2010, 2011.
 msgid ""
 msgstr ""
-"Project-Id-Version: gnome-by\n"
+"Project-Id-Version: 98e6872775a91bf27122ff608b6db605\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gparted/issues\n"
 "POT-Creation-Date: 2016-05-20 16:05+0000\n"
-"PO-Revision-Date: 2019-10-14 12:18\n"
-"Last-Translator: Zmicer Turok (zmicer)\n"
+"PO-Revision-Date: 2019-10-18 09:22\n"
+"Last-Translator: Zmicer Turok\n"
 "Language-Team: Belarusian\n"
 "Language: be_BY\n"
 "MIME-Version: 1.0\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || n%10>=5 && n%10<=9 || n%100>=11 && n%100<=14 ? 2 : 3);\n"
 "X-Generator: crowdin.com\n"
-"X-Crowdin-Project: gnome-by\n"
+"X-Crowdin-Project: 98e6872775a91bf27122ff608b6db605\n"
 "X-Crowdin-Language: be\n"
 "X-Crowdin-File: /master/sources/gparted/en_GB.po\n"
 
@@ -38,7 +38,7 @@ msgstr "GParted працуе з разнастайнымі файлавымі с
 #: ../src/Win_GParted.cc:79 ../src/Win_GParted.cc:1423
 #: ../src/Win_GParted.cc:1618
 msgid "GParted"
-msgstr "GParted"
+msgstr ""
 
 #: ../gparted.desktop.in.in.h:2
 msgid "Partition Editor"
@@ -195,7 +195,7 @@ msgstr "Файлавая сістэма:"
 #. LUKS uuid
 #: ../src/Dialog_Partition_Info.cc:291 ../src/Dialog_Partition_Info.cc:562
 msgid "UUID:"
-msgstr "UUID:"
+msgstr ""
 
 #. TO TRANSLATORS:   Open
 #. * means that the LUKS encryption is open and the encrypted data within is accessible.
@@ -522,7 +522,7 @@ msgstr "Падрабязнасці GParted"
 
 #: ../src/Dialog_Progress.cc:379
 msgid "Libparted"
-msgstr "Libparted"
+msgstr ""
 
 #. TO TRANSLATORS:  EXECUTING
 #. * means that the status for this operation is
@@ -600,7 +600,7 @@ msgstr "Адмеціна"
 
 #: ../src/DialogFeatures.cc:58
 msgid "UUID"
-msgstr "UUID"
+msgstr ""
 
 #: ../src/DialogFeatures.cc:59
 msgid "Required Software"
@@ -1499,7 +1499,7 @@ msgstr "_Прылады"
 
 #: ../src/Win_GParted.cc:167
 msgid "_GParted"
-msgstr "_GParted"
+msgstr ""
 
 #: ../src/Win_GParted.cc:187
 msgid "_Edit"

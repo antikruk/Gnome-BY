@@ -7,11 +7,11 @@
 # Chris Leonard <cjlhomeaddress@gmail.com>, 2012.
 msgid ""
 msgstr ""
-"Project-Id-Version: gnome-by\n"
+"Project-Id-Version: 98e6872775a91bf27122ff608b6db605\n"
 "Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=yelp-xsl&keywords=I18N+L10N&component=General\n"
 "POT-Creation-Date: 2012-12-05 19:00+0000\n"
-"PO-Revision-Date: 2019-10-14 13:19\n"
-"Last-Translator: Zmicer Turok (zmicer)\n"
+"PO-Revision-Date: 2019-10-18 09:20\n"
+"Last-Translator: Zmicer Turok\n"
 "Language-Team: Belarusian\n"
 "Language: be_BY\n"
 "MIME-Version: 1.0\n"
@@ -20,7 +20,7 @@ msgstr ""
 "Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || n%10>=5 && n%10<=9 || n%100>=11 && n%100<=14 ? 2 : 3);\n"
 "X-Generator: crowdin.com\n"
 "X-Project-Style: gnome\n"
-"X-Crowdin-Project: gnome-by\n"
+"X-Crowdin-Project: 98e6872775a91bf27122ff608b6db605\n"
 "X-Crowdin-Language: be\n"
 "X-Crowdin-File: /master/sources/yelp-xsl/en_GB.po\n"
 
@@ -32,7 +32,7 @@ msgstr ""
 #.
 #: yelp-xsl.xml.in:34
 msgid "default:LTR"
-msgstr "default:LTR"
+msgstr "прадвызначана:LTR"
 
 #. (itstool) path: msg/msgstr
 #. This is used a simple list item seperator in places where simple
@@ -45,7 +45,7 @@ msgstr "default:LTR"
 #: yelp-xsl.xml.in:47
 #, no-wrap
 msgid ", "
-msgstr ", "
+msgstr ""
 
 #. (itstool) path: msg/msgstr
 #. This is used as the final separator in an inline list of three or
@@ -147,7 +147,7 @@ msgstr "Пасляслоўе"
 #. Title for license information when it's a CC license.
 #: yelp-xsl.xml.in:147
 msgid "Creative Commons"
-msgstr "Creative Commons"
+msgstr ""
 
 #. (itstool) path: msg/msgstr
 #. Default title for a dedication section.
@@ -391,7 +391,7 @@ msgstr "Бібліяграфічны запіс <biblioentry.label/>."
 #.
 #: yelp-xsl.xml.in:373
 msgid "[<biblioentry.label/>]"
-msgstr "[<biblioentry.label/>]"
+msgstr ""
 
 #. (itstool) path: msg/msgstr
 #. ID: citation.label
@@ -408,7 +408,7 @@ msgstr "[<biblioentry.label/>]"
 #.
 #: yelp-xsl.xml.in:390
 msgid "[<citation.label/>]"
-msgstr "[<citation.label/>]"
+msgstr ""
 
 #. (itstool) path: msg/msgstr
 #. ID: comment.name-date
@@ -478,7 +478,7 @@ msgstr "ад <comment.name/>"
 #.
 #: yelp-xsl.xml.in:460
 msgid "© <copyright.years/> <copyright.name/>"
-msgstr "© <copyright.years/> <copyright.name/>"
+msgstr ""
 
 #. (itstool) path: msg/msgstr
 #. ID: email.tooltip
