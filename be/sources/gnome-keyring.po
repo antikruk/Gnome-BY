@@ -6,11 +6,11 @@
 # Bruce Cowan <bruce@bcowan.me.uk>, 2010, 2011, 2012.
 msgid ""
 msgstr ""
-"Project-Id-Version: gnome-by\n"
+"Project-Id-Version: 98e6872775a91bf27122ff608b6db605\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-keyring/issues\n"
 "POT-Creation-Date: 2018-06-10 16:56+0000\n"
-"PO-Revision-Date: 2019-10-14 12:18\n"
-"Last-Translator: Zmicer Turok (zmicer)\n"
+"PO-Revision-Date: 2019-10-18 09:22\n"
+"Last-Translator: Zmicer Turok\n"
 "Language-Team: Belarusian\n"
 "Language: be_BY\n"
 "MIME-Version: 1.0\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || n%10>=5 && n%10<=9 || n%100>=11 && n%100<=14 ? 2 : 3);\n"
 "X-Generator: crowdin.com\n"
 "X-Project-Style: gnome\n"
-"X-Crowdin-Project: gnome-by\n"
+"X-Crowdin-Project: 98e6872775a91bf27122ff608b6db605\n"
 "X-Crowdin-Language: be\n"
 "X-Crowdin-File: /master/sources/gnome-keyring/en_GB.po\n"
 
@@ -316,7 +316,7 @@ msgstr "Псеўданім"
 
 #: egg/egg-oid.c:97
 msgid "RSA"
-msgstr "RSA"
+msgstr ""
 
 #: egg/egg-oid.c:98
 msgid "MD2 with RSA"
@@ -332,7 +332,7 @@ msgstr "SHA1 з RSA"
 
 #: egg/egg-oid.c:102
 msgid "DSA"
-msgstr "DSA"
+msgstr ""
 
 #: egg/egg-oid.c:103
 msgid "SHA1 with DSA"

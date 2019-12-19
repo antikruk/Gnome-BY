@@ -1,19 +1,19 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: gnome-by\n"
+"Project-Id-Version: 98e6872775a91bf27122ff608b6db605\n"
 "Report-Msgid-Bugs-To: https://bugzilla.gnome.org/enter_bug.cgi?product=gvfs&keywords=I18N+L10N&component=general\n"
 "POT-Creation-Date: 2017-11-28 15:58+0000\n"
-"PO-Revision-Date: 2019-10-14 14:30\n"
-"Last-Translator: Zmicer Turok (zmicer)\n"
+"PO-Revision-Date: 2019-12-17 15:00\n"
+"Last-Translator: Bruce Cowan <bruce@bcowan.eu>\n"
 "Language-Team: Belarusian\n"
 "Language: be_BY\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || n%10>=5 && n%10<=9 || n%100>=11 && n%100<=14 ? 2 : 3);\n"
-"X-Generator: crowdin.com\n"
+"X-Generator: Poedit 2.0.6\n"
 "X-Project-Style: gnome\n"
-"X-Crowdin-Project: gnome-by\n"
+"X-Crowdin-Project: 98e6872775a91bf27122ff608b6db605\n"
 "X-Crowdin-Language: be\n"
 "X-Crowdin-File: /master/sources/gvfs/en_GB.po\n"
 
@@ -662,7 +662,7 @@ msgstr "Дакументы на мабільнай прыладзе Apple"
 #: daemon/gvfsbackendafc.c:567
 #, c-format
 msgid "%s (jailbreak)"
-msgstr "%s (jailbreak)"
+msgstr ""
 
 #. translators:
 #. * This is "Documents on foo" where foo is the device name, eg.:
@@ -764,7 +764,7 @@ msgstr "%s на %s"
 #: daemon/gvfsbackendafpbrowse.c:455
 #, c-format
 msgid "%s"
-msgstr "%s"
+msgstr ""
 
 #: daemon/gvfsbackendafpbrowse.c:488 daemon/gvfsbackendafp.c:2139
 #: daemon/gvfsbackendarchive.c:627 daemon/gvfsbackendftp.c:706
@@ -1162,7 +1162,7 @@ msgstr "Не атрымалася прасачыць за файлам альб�
 #. TODO: Names, etc
 #: daemon/gvfsbackenddnssd.c:794
 msgid "Dns-SD"
-msgstr "Dns-SD"
+msgstr ""
 
 #: daemon/gvfsbackenddnssd.c:795 daemon/gvfsbackendnetwork.c:784
 #: daemon/gvfsbackendnetwork.c:932 daemon/gvfsbackendnetwork.c:933
@@ -1948,7 +1948,7 @@ msgstr "Галоўны дэман GVFS"
 #: daemon/main.c:188 metadata/meta-daemon.c:401
 #, c-format
 msgid "%s: %s"
-msgstr "%s: %s"
+msgstr ""
 
 #: daemon/main.c:190 metadata/meta-daemon.c:403
 #, c-format
@@ -2243,7 +2243,7 @@ msgstr "Увядзіце парольную фразу, каб разблака�
 #: monitor/udisks2/gvfsudisks2volume.c:1595
 #, c-format
 msgid "%s (%s)"
-msgstr "%s (%s)"
+msgstr ""
 
 #: monitor/udisks2/udisks2volumemonitordaemon.c:40
 msgid "GVfs UDisks2 Volume Monitor"

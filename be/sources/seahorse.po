@@ -1,10 +1,10 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: gnome-by\n"
+"Project-Id-Version: 98e6872775a91bf27122ff608b6db605\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/seahorse/issues\n"
 "POT-Creation-Date: 2019-06-15 10:35+0000\n"
-"PO-Revision-Date: 2019-10-14 13:19\n"
-"Last-Translator: Zmicer Turok (zmicer)\n"
+"PO-Revision-Date: 2019-10-18 09:20\n"
+"Last-Translator: Zmicer Turok\n"
 "Language-Team: Belarusian\n"
 "Language: be_BY\n"
 "MIME-Version: 1.0\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || n%10>=5 && n%10<=9 || n%100>=11 && n%100<=14 ? 2 : 3);\n"
 "X-Generator: crowdin.com\n"
 "X-Project-Style: gnome\n"
-"X-Crowdin-Project: gnome-by\n"
+"X-Crowdin-Project: 98e6872775a91bf27122ff608b6db605\n"
 "X-Crowdin-Language: be\n"
 "X-Crowdin-File: /master/sources/seahorse/en_GB.po\n"
 
@@ -105,7 +105,7 @@ msgstr "Для дапамогі звярніцеся да свайго сіст�
 
 #: common/prefs.vala:236
 msgid "URL"
-msgstr "URL"
+msgstr ""
 
 #: common/seahorse-add-keyserver.ui:12
 msgid "initial temporary item"
@@ -126,7 +126,7 @@ msgstr "Назва хоста ці адрас сервера."
 
 #: common/seahorse-add-keyserver.ui:93
 msgid ":"
-msgstr ":"
+msgstr ""
 
 #: common/seahorse-add-keyserver.ui:105
 msgid "The port to access the server on."
@@ -310,7 +310,7 @@ msgstr "Вышыня акна (ў пікселах)."
 
 #: data/org.gnome.seahorse.Application.appdata.xml.in:6
 msgid "Seahorse"
-msgstr "Seahorse"
+msgstr ""
 
 #: data/org.gnome.seahorse.Application.appdata.xml.in:7
 #: data/org.gnome.seahorse.Application.desktop.in.in:4
@@ -841,36 +841,36 @@ msgstr "24hr: yes"
 #: libegg/egg-datetime.c:796 libegg/egg-datetime.c:1259
 #: libegg/egg-datetime.c:1263
 msgid "AM"
-msgstr "AM"
+msgstr "да поўдня"
 
 #: libegg/egg-datetime.c:798 libegg/egg-datetime.c:1260
 #: libegg/egg-datetime.c:1267
 msgid "PM"
-msgstr "PM"
+msgstr "пасля поўдня"
 
 #. Translators: This is hh:mm:ss AM/PM.
 #: libegg/egg-datetime.c:806
 #, c-format
 msgid "%02d:%02d:%02d %s"
-msgstr "%02d:%02d:%02d %s"
+msgstr ""
 
 #. Translators: This is hh:mm AM/PM.
 #: libegg/egg-datetime.c:809
 #, c-format
 msgid "%02d:%02d %s"
-msgstr "%02d:%02d %s"
+msgstr ""
 
 #. Translators: This is hh:mm:ss.
 #: libegg/egg-datetime.c:813
 #, c-format
 msgid "%02d:%02d:%02d"
-msgstr "%02d:%02d:%02d"
+msgstr ""
 
 #. Translators: This is hh:mm.
 #: libegg/egg-datetime.c:816
 #, c-format
 msgid "%02d:%02d"
-msgstr "%02d:%02d"
+msgstr ""
 
 #. TODO: should handle other display modes as well...
 #. Translators: This is YYYY-MM-DD
@@ -883,7 +883,7 @@ msgstr "%3$02d-%2$02d-%1$04d"
 #: libegg/egg-datetime.c:1240
 #, c-format
 msgid "%u:%u:%u"
-msgstr "%u:%u:%u"
+msgstr ""
 
 #: libseahorse/seahorse-widget.c:461
 #, c-format
@@ -1041,11 +1041,11 @@ msgstr "Ключы PGP"
 #: pgp/seahorse-gpgme-generate.c:76 pkcs11/pkcs11-generate.vala:60
 #: ssh/seahorse-ssh-generate.ui:141
 msgid "RSA"
-msgstr "RSA"
+msgstr ""
 
 #: pgp/seahorse-gpgme-generate.c:77
 msgid "DSA ElGamal"
-msgstr "DSA ElGamal"
+msgstr ""
 
 #: pgp/seahorse-gpgme-generate.c:129
 msgid "Couldn’t generate PGP key"
@@ -1293,7 +1293,7 @@ msgstr "Невядома"
 
 #: pgp/seahorse-gpgme-subkey.c:91
 msgid "ElGamal"
-msgstr "ElGamal"
+msgstr ""
 
 #: pgp/seahorse-hkp-source.c:533
 #, c-format
@@ -1580,7 +1580,7 @@ msgstr "Ніколі"
 
 #: pgp/seahorse-pgp-key-properties.c:1214
 msgid "ID"
-msgstr "ID"
+msgstr "Ідэнтыфікатар"
 
 #: pgp/seahorse-pgp-key-properties.c:1220
 msgid "Usage"
@@ -2495,15 +2495,15 @@ msgstr "Тып _шыфравання:"
 
 #: ssh/seahorse-ssh-generate.ui:142
 msgid "DSA"
-msgstr "DSA"
+msgstr ""
 
 #: ssh/seahorse-ssh-generate.ui:143
 msgid "ECDSA"
-msgstr "ECDSA"
+msgstr ""
 
 #: ssh/seahorse-ssh-generate.ui:144
 msgid "ED25519"
-msgstr "ED25519"
+msgstr ""
 
 #: ssh/seahorse-ssh-generate.ui:186
 msgid "If there is a computer you want to use this key with, you can set up that computer to recognize your new key."
@@ -2582,12 +2582,12 @@ msgstr "Ключы OpenSSH"
 #: ssh/source.vala:47
 #, c-format
 msgid "OpenSSH: %s"
-msgstr "OpenSSH: %s"
+msgstr ""
 
 #: ssh/source.vala:51
 #, c-format
 msgid "openssh://%s"
-msgstr "openssh://%s"
+msgstr ""
 
 #: ssh/source.vala:245
 msgid "No private key file is available for this key."
