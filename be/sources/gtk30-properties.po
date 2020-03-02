@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: 98e6872775a91bf27122ff608b6db605\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-09-09 20:44+0000\n"
-"PO-Revision-Date: 2019-12-17 15:00\n"
+"PO-Revision-Date: 2020-03-02 14:01\n"
 "Last-Translator: Bruce Cowan <bruce@bcowan.me.uk>\n"
 "Language-Team: Belarusian\n"
 "Language: be_BY\n"
@@ -265,7 +265,7 @@ msgstr "Убудаваны значок, які адлюстроўваецца �
 
 #: gtk/deprecated/gtkaction.c:342 gtk/deprecated/gtkstatusicon.c:272
 msgid "GIcon"
-msgstr ""
+msgstr "GIcon"
 
 #: gtk/deprecated/gtkaction.c:343 gtk/deprecated/gtkstatusicon.c:273
 #: gtk/gtkcellrendererpixbuf.c:266 gtk/gtkimage.c:359
@@ -746,7 +746,7 @@ msgstr "Ці будуць элементы паказвацца разам з н
 
 #: gtk/deprecated/gtkstatusicon.c:227 gtk/gtkimage.c:255
 msgid "Pixbuf"
-msgstr ""
+msgstr "Pixbuf"
 
 #: gtk/deprecated/gtkstatusicon.c:228 gtk/gtkimage.c:256
 msgid "A GdkPixbuf to display"
@@ -1317,7 +1317,7 @@ msgstr "Тып змесціва, што выкарыстоўваецца з аб
 
 #: gtk/gtkappchooserdialog.c:673
 msgid "GFile"
-msgstr ""
+msgstr "GFile"
 
 #: gtk/gtkappchooserdialog.c:674
 msgid "The GFile used by the app chooser dialog"
@@ -4430,7 +4430,7 @@ msgstr "Мінімальная шырыня блокаў, што запаўня�
 
 #: gtk/gtklinkbutton.c:168
 msgid "URI"
-msgstr ""
+msgstr "URI"
 
 #: gtk/gtklinkbutton.c:169
 msgid "The URI bound to this button"
@@ -4655,7 +4655,7 @@ msgstr "Размяшчэнне падказак у выпадках, калі м
 
 #: gtk/gtkmenu.c:806
 msgid "Rect anchor dx"
-msgstr ""
+msgstr "Rect anchor dx"
 
 #: gtk/gtkmenu.c:807
 msgid "Rect anchor horizontal offset"
@@ -4663,7 +4663,7 @@ msgstr "Гарызантальны зрух Rect anchor"
 
 #: gtk/gtkmenu.c:833
 msgid "Rect anchor dy"
-msgstr ""
+msgstr "Rect anchor dy"
 
 #: gtk/gtkmenu.c:834
 msgid "Rect anchor vertical offset"
@@ -6459,7 +6459,7 @@ msgstr "Які ўзровень хінтынгу ўжываць; няма (hintn
 
 #: gtk/gtksettings.c:606
 msgid "Xft RGBA"
-msgstr ""
+msgstr "Xft RGBA"
 
 #: gtk/gtksettings.c:607
 msgid "Type of subpixel antialiasing; none, rgb, bgr, vrgb, vbgr"
@@ -6467,7 +6467,7 @@ msgstr "Тып субпіксельнага згладжвання; няма, rg
 
 #: gtk/gtksettings.c:616
 msgid "Xft DPI"
-msgstr ""
+msgstr "Xft DPI"
 
 #: gtk/gtksettings.c:617
 msgid "Resolution for Xft, in 1024 * dots/inch. -1 to use default value"
@@ -7212,7 +7212,7 @@ msgstr "Звязаны GdkScreen"
 
 #: gtk/gtkstylecontext.c:235
 msgid "FrameClock"
-msgstr ""
+msgstr "FrameClock"
 
 #: gtk/gtkstylecontext.c:236
 msgid "The associated GdkFrameClock"
@@ -8948,7 +8948,7 @@ msgstr "Ці разгорнута акно"
 
 #: gtk/gtkwindow.c:1107
 msgid "GtkApplication"
-msgstr ""
+msgstr "GtkApplication"
 
 #: gtk/gtkwindow.c:1108
 msgid "The GtkApplication for the window"
