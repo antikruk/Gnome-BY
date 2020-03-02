@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: 98e6872775a91bf27122ff608b6db605\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gtksourceview/issues\n"
 "POT-Creation-Date: 2019-08-04 12:56+0000\n"
-"PO-Revision-Date: 2019-12-20 14:00\n"
+"PO-Revision-Date: 2020-03-02 14:01\n"
 "Last-Translator: Zander Brown <zbrown@gnome.org>\n"
 "Language-Team: Belarusian\n"
 "Language: be_BY\n"
@@ -202,7 +202,7 @@ msgstr "Загаловак C++"
 #. (itstool) path: dosbatch.lang/language@_name
 #: dosbatch.lang:23
 msgid "DOS Batch"
-msgstr ""
+msgstr "DOS Batch"
 
 #. (itstool) path: dtl.lang/language@_name
 #: dtl.lang:25
@@ -240,7 +240,7 @@ msgstr "Мова шэйдараў OpenGL"
 #. (itstool) path: llvm.lang/language@_name
 #: llvm.lang:22
 msgid "LLVM IR"
-msgstr ""
+msgstr "LLVM IR"
 
 #. (itstool) path: po.lang/language@_name
 #: po.lang:23
@@ -271,7 +271,7 @@ msgstr "Класічная схема колераў"
 #. (itstool) path: cobalt.xml/style-scheme@_name
 #: cobalt.xml:25
 msgid "Cobalt"
-msgstr ""
+msgstr "Cobalt"
 
 #. (itstool) path: style-scheme/_description
 #: cobalt.xml:27
@@ -286,7 +286,7 @@ msgstr "Схема колераў тэкставага рэдактара Kate"
 #. (itstool) path: oblivion.xml/style-scheme@_name
 #: oblivion.xml:24
 msgid "Oblivion"
-msgstr ""
+msgstr "Oblivion"
 
 #. (itstool) path: style-scheme/_description
 #: oblivion.xml:27
@@ -316,7 +316,7 @@ msgstr "Схема колераў на аснове светлай палітр�
 #. (itstool) path: tango.xml/style-scheme@_name
 #: tango.xml:23
 msgid "Tango"
-msgstr ""
+msgstr "Tango"
 
 #. (itstool) path: style-scheme/_description
 #: tango.xml:25
@@ -568,7 +568,7 @@ msgstr "Невядома"
 #.
 #: gtksourceview/gtksourceencoding.c:644
 msgid "['UTF-8', 'CURRENT', 'ISO-8859-15', 'UTF-16']"
-msgstr ""
+msgstr "['UTF-8', 'CURRENT', 'ISO-8859-15', 'UTF-16']"
 
 #: gtksourceview/gtksourcefileloader.c:522
 msgid "There was a character encoding conversion error and it was needed to use a fallback character."
