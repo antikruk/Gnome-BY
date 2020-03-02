@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: 98e6872775a91bf27122ff608b6db605\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/network-manager-applet/\n"
 "POT-Creation-Date: 2019-11-04 13:44+0100\n"
-"PO-Revision-Date: 2019-12-20 14:00\n"
+"PO-Revision-Date: 2020-03-02 14:01\n"
 "Last-Translator: Bruce Cowan <bruce@bcowan.me.uk>\n"
 "Language-Team: Belarusian\n"
 "Language: be_BY\n"
@@ -31,7 +31,7 @@ msgstr "Кіраванне сеткавымі злучэннямі"
 
 #: nm-applet.desktop.in:5
 msgid "nm-device-wireless"
-msgstr ""
+msgstr "nm-device-wireless"
 
 #: nm-connection-editor.desktop.in:3
 msgid "Advanced Network Configuration"
@@ -43,7 +43,7 @@ msgstr "Налады сеткавага злучэння"
 
 #: nm-connection-editor.desktop.in:5
 msgid "preferences-system-network"
-msgstr ""
+msgstr "preferences-system-network"
 
 #: org.gnome.nm-applet.gschema.xml.in:6
 msgid "Disable connected notifications"
@@ -115,7 +115,7 @@ msgstr "Вызначце \"true\",  каб выключыць папярэджа
 
 #: nm-connection-editor.appdata.xml.in:7
 msgid "NetworkManager"
-msgstr ""
+msgstr "NetworkManager"
 
 #: nm-connection-editor.appdata.xml.in:8
 msgid "NetworkManager connection editor"
@@ -196,7 +196,7 @@ msgstr "_Назва сеткі"
 
 #: src/ap-menu-item.c:70
 msgid "ad-hoc"
-msgstr ""
+msgstr "ad-hoc"
 
 #: src/ap-menu-item.c:75
 msgid "secure."
@@ -691,7 +691,7 @@ msgstr "Не атрымалася адлюстраваць інфармацыю 
 #: src/applet-dialogs.c:60 src/connection-editor/page-wifi-security.c:369
 #: src/wireless-security/wireless-security.c:435
 msgid "LEAP"
-msgstr ""
+msgstr "LEAP"
 
 #: src/applet-dialogs.c:62
 msgid "Dynamic WEP"
@@ -699,7 +699,7 @@ msgstr "Дынамічны WEP"
 
 #: src/applet-dialogs.c:64 src/applet-dialogs.c:226 src/applet-dialogs.c:228
 msgid "WPA/WPA2"
-msgstr ""
+msgstr "WPA/WPA2"
 
 #. Create the expander
 #: src/applet-dialogs.c:163
@@ -708,11 +708,11 @@ msgstr "Яшчэ адрасы"
 
 #: src/applet-dialogs.c:224
 msgid "WEP"
-msgstr ""
+msgstr "WEP"
 
 #: src/applet-dialogs.c:230
 msgid "WPA3"
-msgstr ""
+msgstr "WPA3"
 
 #: src/applet-dialogs.c:234 src/applet-dialogs.c:243
 #: src/connection-editor/page-wifi-security.c:320
@@ -769,22 +769,22 @@ msgstr "Трэці DNS"
 #: src/applet-dialogs.c:507
 #, c-format
 msgid "Ethernet (%s)"
-msgstr ""
+msgstr "Ethernet (%s)"
 
 #: src/applet-dialogs.c:510
 #, c-format
 msgid "802.11 Wi-Fi (%s)"
-msgstr ""
+msgstr "802.11 Wi-Fi (%s)"
 
 #: src/applet-dialogs.c:517
 #, c-format
 msgid "GSM (%s)"
-msgstr ""
+msgstr "GSM (%s)"
 
 #: src/applet-dialogs.c:519
 #, c-format
 msgid "CDMA (%s)"
-msgstr ""
+msgstr "CDMA (%s)"
 
 #. --- General ---
 #: src/applet-dialogs.c:527 src/applet-dialogs.c:862
@@ -819,7 +819,7 @@ msgstr "Бяспека"
 #: src/applet-dialogs.c:629 src/applet-dialogs.c:892
 #: src/connection-editor/ce-page-team.ui:493
 msgid "IPv4"
-msgstr ""
+msgstr "IPv4"
 
 #: src/applet-dialogs.c:648 src/applet-dialogs.c:697
 msgid "Default Route"
@@ -828,7 +828,7 @@ msgstr "Прадвызначаны маршрут"
 #: src/applet-dialogs.c:676 src/applet-dialogs.c:919
 #: src/connection-editor/ce-page-team.ui:497
 msgid "IPv6"
-msgstr ""
+msgstr "IPv6"
 
 #: src/applet-dialogs.c:718 src/connection-editor/ce-page-wifi.ui:52
 msgid "Hotspot"
@@ -1042,7 +1042,7 @@ msgstr "_Прылада"
 #: src/connection-editor/ce-page-bond.ui:24
 #: src/connection-editor/ce-page-team.ui:434
 msgid "Round-robin"
-msgstr ""
+msgstr "Round-robin"
 
 #: src/connection-editor/ce-page-bond.ui:27
 #: src/connection-editor/ce-page-team.ui:438
@@ -1051,7 +1051,7 @@ msgstr "Актыўнае стварэнне рэзервовай копіі"
 
 #: src/connection-editor/ce-page-bond.ui:30
 msgid "XOR"
-msgstr ""
+msgstr "XOR"
 
 #: src/connection-editor/ce-page-bond.ui:33
 #: src/connection-editor/ce-page-team.ui:430
@@ -1060,7 +1060,7 @@ msgstr "Трансляцыя"
 
 #: src/connection-editor/ce-page-bond.ui:36
 msgid "802.3ad"
-msgstr ""
+msgstr "802.3ad"
 
 #: src/connection-editor/ce-page-bond.ui:39
 msgid "Adaptive transmit load balancing"
@@ -1076,7 +1076,7 @@ msgstr "MII (рэкамендавана)"
 
 #: src/connection-editor/ce-page-bond.ui:56
 msgid "ARP"
-msgstr ""
+msgstr "ARP"
 
 #: src/connection-editor/ce-page-bond.ui:91
 msgid "Bonded _connections"
@@ -1145,7 +1145,7 @@ msgstr "Назва інтэрфейсу першаснай прылады. Ка�
 #: src/connection-editor/ce-page-vlan.ui:87
 #: src/connection-editor/ce-page-wifi.ui:111
 msgid "_MTU"
-msgstr ""
+msgstr "_MTU"
 
 #: src/connection-editor/ce-page-bond.ui:540
 #: src/connection-editor/ce-page-ethernet.ui:223
@@ -1332,15 +1332,15 @@ msgstr "_Выкарыстоўваць Data Center Bridging (DCB) для гэта
 
 #: src/connection-editor/ce-page-dcb.ui:49
 msgid "FCoE"
-msgstr ""
+msgstr "FCoE"
 
 #: src/connection-editor/ce-page-dcb.ui:62
 msgid "iSCSI"
-msgstr ""
+msgstr "iSCSI"
 
 #: src/connection-editor/ce-page-dcb.ui:75
 msgid "FIP"
-msgstr ""
+msgstr "FIP"
 
 #: src/connection-editor/ce-page-dcb.ui:88
 msgid "Flow Control"
@@ -1384,7 +1384,7 @@ msgstr "Структура"
 #: src/connection-editor/ce-page-dcb.ui:488
 #: src/connection-editor/ce-page-dcb.ui:539
 msgid "VN2VN"
-msgstr ""
+msgstr "VN2VN"
 
 #: src/connection-editor/ce-page-dcb.ui:546
 #: src/connection-editor/ce-page-dcb.ui:996
@@ -1402,7 +1402,7 @@ msgstr "Уключыць альбо выключыць прыярытэт пры
 #: src/connection-editor/ce-page-dcb.ui:2154
 #: src/connection-editor/ce-page-dcb.ui:2486
 msgid "0"
-msgstr ""
+msgstr "0"
 
 #: src/connection-editor/ce-page-dcb.ui:694
 #: src/connection-editor/ce-page-dcb.ui:1135
@@ -1411,7 +1411,7 @@ msgstr ""
 #: src/connection-editor/ce-page-dcb.ui:2194
 #: src/connection-editor/ce-page-dcb.ui:2536
 msgid "1"
-msgstr ""
+msgstr "1"
 
 #: src/connection-editor/ce-page-dcb.ui:735
 #: src/connection-editor/ce-page-dcb.ui:1184
@@ -1420,7 +1420,7 @@ msgstr ""
 #: src/connection-editor/ce-page-dcb.ui:2234
 #: src/connection-editor/ce-page-dcb.ui:2586
 msgid "2"
-msgstr ""
+msgstr "2"
 
 #: src/connection-editor/ce-page-dcb.ui:776
 #: src/connection-editor/ce-page-dcb.ui:1233
@@ -1429,7 +1429,7 @@ msgstr ""
 #: src/connection-editor/ce-page-dcb.ui:2274
 #: src/connection-editor/ce-page-dcb.ui:2636
 msgid "3"
-msgstr ""
+msgstr "3"
 
 #: src/connection-editor/ce-page-dcb.ui:817
 #: src/connection-editor/ce-page-dcb.ui:1282
@@ -1438,7 +1438,7 @@ msgstr ""
 #: src/connection-editor/ce-page-dcb.ui:2314
 #: src/connection-editor/ce-page-dcb.ui:2686
 msgid "4"
-msgstr ""
+msgstr "4"
 
 #: src/connection-editor/ce-page-dcb.ui:858
 #: src/connection-editor/ce-page-dcb.ui:1331
@@ -1447,7 +1447,7 @@ msgstr ""
 #: src/connection-editor/ce-page-dcb.ui:2354
 #: src/connection-editor/ce-page-dcb.ui:2736
 msgid "5"
-msgstr ""
+msgstr "5"
 
 #: src/connection-editor/ce-page-dcb.ui:899
 #: src/connection-editor/ce-page-dcb.ui:1380
@@ -1456,7 +1456,7 @@ msgstr ""
 #: src/connection-editor/ce-page-dcb.ui:2394
 #: src/connection-editor/ce-page-dcb.ui:2786
 msgid "6"
-msgstr ""
+msgstr "6"
 
 #: src/connection-editor/ce-page-dcb.ui:940
 #: src/connection-editor/ce-page-dcb.ui:1429
@@ -1465,7 +1465,7 @@ msgstr ""
 #: src/connection-editor/ce-page-dcb.ui:2434
 #: src/connection-editor/ce-page-dcb.ui:2836
 msgid "7"
-msgstr ""
+msgstr "7"
 
 #: src/connection-editor/ce-page-dcb.ui:1069
 msgid "Traffic Class"
@@ -1590,15 +1590,15 @@ msgstr "Вітая пара (TP)"
 
 #: src/connection-editor/ce-page-ethernet.ui:23
 msgid "Attachment Unit Interface (AUI)"
-msgstr ""
+msgstr "Attachment Unit Interface (AUI)"
 
 #: src/connection-editor/ce-page-ethernet.ui:26
 msgid "BNC"
-msgstr ""
+msgstr "BNC"
 
 #: src/connection-editor/ce-page-ethernet.ui:29
 msgid "Media Independent Interface (MII)"
-msgstr ""
+msgstr "Media Independent Interface (MII)"
 
 #: src/connection-editor/ce-page-ethernet.ui:40
 msgid "10 Mb/s"
@@ -1659,27 +1659,27 @@ msgstr "_Ігнараваць"
 
 #: src/connection-editor/ce-page-ethernet.ui:290
 msgid "_Phy"
-msgstr ""
+msgstr "_Phy"
 
 #: src/connection-editor/ce-page-ethernet.ui:305
 msgid "_Unicast"
-msgstr ""
+msgstr "_Unicast"
 
 #: src/connection-editor/ce-page-ethernet.ui:320
 msgid "Mul_ticast"
-msgstr ""
+msgstr "Mul_ticast"
 
 #: src/connection-editor/ce-page-ethernet.ui:335
 msgid "_Broadcast"
-msgstr ""
+msgstr "_Broadcast"
 
 #: src/connection-editor/ce-page-ethernet.ui:350
 msgid "_Arp"
-msgstr ""
+msgstr "_Arp"
 
 #: src/connection-editor/ce-page-ethernet.ui:365
 msgid "Ma_gic"
-msgstr ""
+msgstr "Ma_gic"
 
 #: src/connection-editor/ce-page-ethernet.ui:388
 msgid "_Wake on LAN password"
@@ -1785,39 +1785,39 @@ msgstr "_Транспартны рэжым"
 
 #: src/connection-editor/ce-page-ip-tunnel.ui:17
 msgid "IPIP"
-msgstr ""
+msgstr "IPIP"
 
 #: src/connection-editor/ce-page-ip-tunnel.ui:20
 msgid "GRE"
-msgstr ""
+msgstr "GRE"
 
 #: src/connection-editor/ce-page-ip-tunnel.ui:23
 msgid "SIT"
-msgstr ""
+msgstr "SIT"
 
 #: src/connection-editor/ce-page-ip-tunnel.ui:26
 msgid "ISATAP"
-msgstr ""
+msgstr "ISATAP"
 
 #: src/connection-editor/ce-page-ip-tunnel.ui:29
 msgid "VTI"
-msgstr ""
+msgstr "VTI"
 
 #: src/connection-editor/ce-page-ip-tunnel.ui:32
 msgid "IP6IP6"
-msgstr ""
+msgstr "IP6IP6"
 
 #: src/connection-editor/ce-page-ip-tunnel.ui:35
 msgid "IPIP6"
-msgstr ""
+msgstr "IPIP6"
 
 #: src/connection-editor/ce-page-ip-tunnel.ui:38
 msgid "IP6GRE"
-msgstr ""
+msgstr "IP6GRE"
 
 #: src/connection-editor/ce-page-ip-tunnel.ui:41
 msgid "VTI6"
-msgstr ""
+msgstr "VTI6"
 
 #: src/connection-editor/ce-page-ip-tunnel.ui:61
 msgid "Device name"
@@ -1849,7 +1849,7 @@ msgstr "Ключ вываду"
 
 #: src/connection-editor/ce-page-ip-tunnel.ui:245
 msgid "MTU"
-msgstr ""
+msgstr "MTU"
 
 #: src/connection-editor/ce-page-ip4.ui:15
 #: src/connection-editor/ce-page-ip6.ui:15
@@ -1930,7 +1930,7 @@ msgstr "Уключана (перавага аддаецца часовым ад�
 
 #: src/connection-editor/ce-page-ip6.ui:52
 msgid "EUI64"
-msgstr ""
+msgstr "EUI64"
 
 #: src/connection-editor/ce-page-ip6.ui:55
 msgid "Stable privacy"
@@ -1958,12 +1958,12 @@ msgstr "Пры злучэнні з IPv4-сеткай дазволіць злуч
 
 #: src/connection-editor/ce-page-macsec.ui:12
 msgid "PSK"
-msgstr ""
+msgstr "PSK"
 
 #: src/connection-editor/ce-page-macsec.ui:15
 #: src/connection-editor/page-ppp.c:115
 msgid "EAP"
-msgstr ""
+msgstr "EAP"
 
 #: src/connection-editor/ce-page-macsec.ui:35
 msgid "Check"
@@ -1983,7 +1983,7 @@ msgstr "Назва прылады MACsec."
 
 #: src/connection-editor/ce-page-macsec.ui:85
 msgid "_Parent device"
-msgstr ""
+msgstr "_Бацькоўская прылада"
 
 #: src/connection-editor/ce-page-macsec.ui:98
 msgid "The parent interface name or parent connection UUID from which this MACSEC interface should be created."
@@ -2007,7 +2007,7 @@ msgstr "Вызначае як атрымаць CAK (ключ асацыяцыі 
 
 #: src/connection-editor/ce-page-macsec.ui:168
 msgid "C_AK"
-msgstr ""
+msgstr "C_AK"
 
 #: src/connection-editor/ce-page-macsec.ui:181
 msgid "The pre-shared Connectivity Association Key"
@@ -2015,7 +2015,7 @@ msgstr "Ключ асацыяцыі папярэдняй сумеснай сув
 
 #: src/connection-editor/ce-page-macsec.ui:193
 msgid "C_KN"
-msgstr ""
+msgstr "C_KN"
 
 #: src/connection-editor/ce-page-macsec.ui:206
 msgid " The pre-shared Connectivity-association Key Name"
@@ -2027,7 +2027,7 @@ msgstr "Параметры"
 
 #: src/connection-editor/ce-page-macsec.ui:234
 msgid "_Validation"
-msgstr ""
+msgstr "_Праверка"
 
 #: src/connection-editor/ce-page-macsec.ui:247
 msgid "Specifies the validation mode for incoming frames"
@@ -2035,7 +2035,7 @@ msgstr "Вызначае рэжым праверкі для ўваходнай �
 
 #: src/connection-editor/ce-page-macsec.ui:266
 msgid "_SCI port"
-msgstr ""
+msgstr "_SCI port"
 
 #: src/connection-editor/ce-page-macsec.ui:279
 msgid "The port component of the SCI (Secure Channel Identifier)"
@@ -2043,7 +2043,7 @@ msgstr "Кампанент порта SCI (Secure Channel Identifier)"
 
 #: src/connection-editor/ce-page-macsec.ui:291
 msgid "_Encrypt"
-msgstr ""
+msgstr "_Шыфраванне"
 
 #: src/connection-editor/ce-page-macsec.ui:296
 msgid "Whether the transmitted traffic must be encrypted"
@@ -2076,7 +2076,7 @@ msgstr "Змяніць…"
 
 #: src/connection-editor/ce-page-mobile.ui:242
 msgid "P_IN"
-msgstr ""
+msgstr "P_IN"
 
 #: src/connection-editor/ce-page-mobile.ui:266
 msgid "Allow _roaming if home network is not available"
@@ -2149,7 +2149,7 @@ msgstr "Выкарыстоўвайце гэтую канфігурацыю то�
 
 #: src/connection-editor/ce-page-proxy.ui:52
 msgid "PAC URL"
-msgstr ""
+msgstr "PAC URL"
 
 #: src/connection-editor/ce-page-proxy.ui:64
 msgid "PAC script"
@@ -2184,12 +2184,12 @@ msgstr "Стан порта Ethernet"
 #: src/connection-editor/ce-page-team-port.ui:116
 #: src/connection-editor/ce-page-team.ui:89
 msgid "ARP (IPv4)"
-msgstr ""
+msgstr "ARP (IPv4)"
 
 #: src/connection-editor/ce-page-team-port.ui:120
 #: src/connection-editor/ce-page-team.ui:93
 msgid "NDP (IPv6)"
-msgstr ""
+msgstr "NDP (IPv6)"
 
 #: src/connection-editor/ce-page-team-port.ui:151
 #: src/connection-editor/ce-page-team.ui:527
@@ -2436,23 +2436,23 @@ msgstr "Балансаванне загрузкі"
 
 #: src/connection-editor/ce-page-team.ui:446
 msgid "LACP"
-msgstr ""
+msgstr "LACP"
 
 #: src/connection-editor/ce-page-team.ui:485
 #: src/connection-editor/connection-helpers.c:91
 #: src/connection-editor/page-ethernet.c:334
 msgid "Ethernet"
-msgstr ""
+msgstr "Ethernet"
 
 #: src/connection-editor/ce-page-team.ui:489
 #: src/connection-editor/connection-helpers.c:106
 #: src/connection-editor/page-vlan.c:575
 msgid "VLAN"
-msgstr ""
+msgstr "VLAN"
 
 #: src/connection-editor/ce-page-team.ui:501
 msgid "IP"
-msgstr ""
+msgstr "IP"
 
 #: src/connection-editor/ce-page-team.ui:505
 msgid "Any L3 protocol"
@@ -2460,15 +2460,15 @@ msgstr "Любы пратакол L3"
 
 #: src/connection-editor/ce-page-team.ui:509
 msgid "TCP"
-msgstr ""
+msgstr "TCP"
 
 #: src/connection-editor/ce-page-team.ui:513
 msgid "UDP"
-msgstr ""
+msgstr "UDP"
 
 #: src/connection-editor/ce-page-team.ui:517
 msgid "SCTP"
-msgstr ""
+msgstr "SCTP"
 
 #: src/connection-editor/ce-page-team.ui:521
 msgid "Any L4 protocol"
@@ -2608,7 +2608,7 @@ msgstr "_Перапарадкаваць загалоўкі"
 
 #: src/connection-editor/ce-page-vlan.ui:228
 msgid "_GVRP"
-msgstr ""
+msgstr "_GVRP"
 
 #: src/connection-editor/ce-page-vlan.ui:243
 msgid "_Loose binding"
@@ -2616,7 +2616,7 @@ msgstr "_Новае звязванне"
 
 #: src/connection-editor/ce-page-vlan.ui:258
 msgid "M_VRP"
-msgstr ""
+msgstr "M_VRP"
 
 #. In context, this means "concatenate the device name and the VLAN ID number together"
 #: src/connection-editor/ce-page-vlan.ui:285
@@ -2646,7 +2646,7 @@ msgstr "Кліент"
 
 #: src/connection-editor/ce-page-wifi.ui:55
 msgid "Ad-hoc"
-msgstr ""
+msgstr "Ad-hoc"
 
 #: src/connection-editor/ce-page-wifi.ui:203
 msgid "mW"
@@ -2666,7 +2666,7 @@ msgstr "_Чашчыня"
 
 #: src/connection-editor/ce-page-wifi.ui:311
 msgid "_BSSID"
-msgstr ""
+msgstr "_BSSID"
 
 #: src/connection-editor/ce-page-wifi.ui:336
 msgid "C_hannel"
@@ -2678,7 +2678,7 @@ msgstr "_Паласа"
 
 #: src/connection-editor/ce-page-wifi.ui:414
 msgid "SS_ID"
-msgstr ""
+msgstr "SS_ID"
 
 #: src/connection-editor/ce-polkit.c:49
 #: src/connection-editor/ce-polkit-button.c:60
@@ -2691,43 +2691,43 @@ msgstr "Дазволеныя метады аўтэнтыфікацыі"
 
 #: src/connection-editor/ce-ppp-auth-methods.ui:97
 msgid "_EAP"
-msgstr ""
+msgstr "_EAP"
 
 #: src/connection-editor/ce-ppp-auth-methods.ui:101
 msgid "Extensible Authentication Protocol"
-msgstr ""
+msgstr "Extensible Authentication Protocol"
 
 #: src/connection-editor/ce-ppp-auth-methods.ui:113
 msgid "_PAP"
-msgstr ""
+msgstr "_PAP"
 
 #: src/connection-editor/ce-ppp-auth-methods.ui:117
 msgid "Password Authentication Protocol"
-msgstr ""
+msgstr "Password Authentication Protocol"
 
 #: src/connection-editor/ce-ppp-auth-methods.ui:129
 msgid "C_HAP"
-msgstr ""
+msgstr "C_HAP"
 
 #: src/connection-editor/ce-ppp-auth-methods.ui:133
 msgid "Challenge Handshake Authentication Protocol"
-msgstr ""
+msgstr "Challenge Handshake Authentication Protocol"
 
 #: src/connection-editor/ce-ppp-auth-methods.ui:145
 msgid "_MSCHAP"
-msgstr ""
+msgstr "_MSCHAP"
 
 #: src/connection-editor/ce-ppp-auth-methods.ui:149
 msgid "Microsoft Challenge Handshake Authentication Protocol"
-msgstr ""
+msgstr "Microsoft Challenge Handshake Authentication Protocol"
 
 #: src/connection-editor/ce-ppp-auth-methods.ui:161
 msgid "MSCHAP v_2"
-msgstr ""
+msgstr "MSCHAP v_2"
 
 #: src/connection-editor/ce-ppp-auth-methods.ui:165
 msgid "Microsoft Challenge Handshake Authentication Protocol version 2"
-msgstr ""
+msgstr "Microsoft Challenge Handshake Authentication Protocol version 2"
 
 #: src/connection-editor/ce-ppp-auth-methods.ui:179
 msgid "In most cases, the provider’s PPP servers will support all authentication methods. If connections fail, try disabling support for some methods."
@@ -2736,27 +2736,27 @@ msgstr "Звычайна PPP-серверы правайдараў падтры�
 #: src/connection-editor/connection-helpers.c:92
 #: src/connection-editor/page-wifi.c:423
 msgid "Wi-Fi"
-msgstr ""
+msgstr "Wi-Fi"
 
 #: src/connection-editor/connection-helpers.c:100
 #: src/connection-editor/page-bluetooth.c:106
 msgid "Bluetooth"
-msgstr ""
+msgstr "Bluetooth"
 
 #: src/connection-editor/connection-helpers.c:101
 #: src/connection-editor/page-dsl.c:203
 msgid "DSL/PPPoE"
-msgstr ""
+msgstr "DSL/PPPoE"
 
 #: src/connection-editor/connection-helpers.c:102
 #: src/connection-editor/page-infiniband.c:131
 msgid "InfiniBand"
-msgstr ""
+msgstr "InfiniBand"
 
 #: src/connection-editor/connection-helpers.c:103
 #: src/connection-editor/page-bond.c:429
 msgid "Bond"
-msgstr ""
+msgstr "Bond"
 
 #: src/connection-editor/connection-helpers.c:104
 #: src/connection-editor/page-team.c:1014
@@ -2776,13 +2776,13 @@ msgstr "Тунэль IP"
 #: src/connection-editor/connection-helpers.c:108
 #: src/connection-editor/page-macsec.c:173
 msgid "MACsec"
-msgstr ""
+msgstr "MACsec"
 
 #: src/connection-editor/connection-helpers.c:110
 #: src/connection-editor/connection-helpers.c:372
 #: src/connection-editor/page-vpn.c:86
 msgid "VPN"
-msgstr ""
+msgstr "VPN"
 
 #: src/connection-editor/connection-helpers.c:190
 msgid "No VPN service type."
@@ -3444,34 +3444,34 @@ msgstr "Мой аператар выкарыстоўвае CDMA-т_эхнало�
 #: src/connection-editor/page-mobile.c:572 src/mb-menu-item.c:36
 #: src/mobile-helpers.c:268
 msgid "CDMA"
-msgstr ""
+msgstr "CDMA"
 
 #: src/connection-editor/page-mobile.c:575 src/mb-menu-item.c:40
 #: src/mobile-helpers.c:266
 msgid "GSM"
-msgstr ""
+msgstr "GSM"
 
 #: src/connection-editor/page-ppp.c:116
 #: src/wireless-security/eap-method-ttls.c:274
 msgid "PAP"
-msgstr ""
+msgstr "PAP"
 
 #: src/connection-editor/page-ppp.c:117
 #: src/wireless-security/eap-method-ttls.c:340
 msgid "CHAP"
-msgstr ""
+msgstr "CHAP"
 
 #: src/connection-editor/page-ppp.c:118
 #: src/wireless-security/eap-method-fast.c:271
 #: src/wireless-security/eap-method-peap.c:286
 #: src/wireless-security/eap-method-ttls.c:306
 msgid "MSCHAPv2"
-msgstr ""
+msgstr "MSCHAPv2"
 
 #: src/connection-editor/page-ppp.c:119
 #: src/wireless-security/eap-method-ttls.c:290
 msgid "MSCHAP"
-msgstr ""
+msgstr "MSCHAP"
 
 #. Translators: "none" refers to authentication methods
 #: src/connection-editor/page-ppp.c:122
@@ -3596,7 +3596,7 @@ msgstr "Не атрымалася загрузіць інтэрфейс кары
 
 #: src/connection-editor/page-wifi.c:547
 msgid "bssid"
-msgstr ""
+msgstr "bssid"
 
 #: src/connection-editor/page-wifi.c:553
 msgid "Wi-Fi device"
@@ -3621,15 +3621,15 @@ msgstr "Дынамічны WEP (802.1X)"
 
 #: src/connection-editor/page-wifi-security.c:395
 msgid "WPA & WPA2 Personal"
-msgstr ""
+msgstr "WPA & WPA2 Personal"
 
 #: src/connection-editor/page-wifi-security.c:408
 msgid "WPA & WPA2 Enterprise"
-msgstr ""
+msgstr "WPA & WPA2 Enterprise"
 
 #: src/connection-editor/page-wifi-security.c:421
 msgid "WPA3 Personal"
-msgstr ""
+msgstr "WPA3 Personal"
 
 #: src/connection-editor/page-wifi-security.c:464
 msgid "Could not load Wi-Fi security user interface; missing Wi-Fi setting."
@@ -3708,39 +3708,39 @@ msgstr "Яна не прызначаная для запуску з загадн
 
 #: src/mb-menu-item.c:38
 msgid "EVDO"
-msgstr ""
+msgstr "EVDO"
 
 #: src/mb-menu-item.c:42
 msgid "GPRS"
-msgstr ""
+msgstr "GPRS"
 
 #: src/mb-menu-item.c:44
 msgid "EDGE"
-msgstr ""
+msgstr "EDGE"
 
 #: src/mb-menu-item.c:46
 msgid "UMTS"
-msgstr ""
+msgstr "UMTS"
 
 #: src/mb-menu-item.c:48
 msgid "HSDPA"
-msgstr ""
+msgstr "HSDPA"
 
 #: src/mb-menu-item.c:50
 msgid "HSUPA"
-msgstr ""
+msgstr "HSUPA"
 
 #: src/mb-menu-item.c:52
 msgid "HSPA"
-msgstr ""
+msgstr "HSPA"
 
 #: src/mb-menu-item.c:54
 msgid "HSPA+"
-msgstr ""
+msgstr "HSPA+"
 
 #: src/mb-menu-item.c:56
 msgid "LTE"
-msgstr ""
+msgstr "LTE"
 
 #: src/mb-menu-item.c:103
 msgid "not enabled"
@@ -3840,7 +3840,7 @@ msgstr "файл EAP-FAST PAC адсутнічае"
 #: src/wireless-security/eap-method-peap.c:318
 #: src/wireless-security/eap-method-ttls.c:372
 msgid "GTC"
-msgstr ""
+msgstr "GTC"
 
 #: src/wireless-security/eap-method-fast.c:394
 msgid "Choose a PAC file"
@@ -3898,7 +3898,7 @@ msgstr "пароль EAP-LEAP адсутнічае"
 #: src/wireless-security/eap-method-ttls.c:356
 #: src/wireless-security/wireless-security.c:411
 msgid "MD5"
-msgstr ""
+msgstr "MD5"
 
 #: src/wireless-security/eap-method-peap.ui:26
 msgid "Version 0"
@@ -3984,15 +3984,15 @@ msgstr "Невядомая памылка праверкі бяспекі 802.1x
 
 #: src/wireless-security/wireless-security.c:423
 msgid "TLS"
-msgstr ""
+msgstr "TLS"
 
 #: src/wireless-security/wireless-security.c:447
 msgid "PWD"
-msgstr ""
+msgstr "PWD"
 
 #: src/wireless-security/wireless-security.c:458
 msgid "FAST"
-msgstr ""
+msgstr "FAST"
 
 #: src/wireless-security/wireless-security.c:469
 msgid "Tunneled TLS"
@@ -4022,7 +4022,7 @@ msgstr "leap-пароль адсутнічае"
 
 #: src/wireless-security/ws-sae.c:56
 msgid "missing password"
-msgstr ""
+msgstr "missing password"
 
 #: src/wireless-security/ws-sae.ui:48 src/wireless-security/ws-wpa-psk.ui:48
 msgid "_Type"
