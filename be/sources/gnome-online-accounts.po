@@ -8,15 +8,15 @@ msgstr ""
 "Project-Id-Version: 98e6872775a91bf27122ff608b6db605\n"
 "Report-Msgid-Bugs-To: https://bugzilla.gnome.org/enter_bug.cgi?product=gnome-online-accounts&keywords=I18N+L10N&component=general\n"
 "POT-Creation-Date: 2017-12-05 18:19+0000\n"
-"PO-Revision-Date: 2019-10-18 09:22\n"
-"Last-Translator: Zmicer Turok\n"
+"PO-Revision-Date: 2020-03-02 14:01\n"
+"Last-Translator: Bruce Cowan <bruce@bcowan.eu>\n"
 "Language-Team: Belarusian\n"
 "Language: be_BY\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || n%10>=5 && n%10<=9 || n%100>=11 && n%100<=14 ? 2 : 3);\n"
-"X-Generator: crowdin.com\n"
+"X-Generator: Poedit 2.0.6\n"
 "X-Project-Style: gnome\n"
 "X-Crowdin-Project: 98e6872775a91bf27122ff608b6db605\n"
 "X-Crowdin-Language: be\n"
@@ -66,7 +66,7 @@ msgstr "Не атрымалася знайсці ASUrl і OABUrl у аўтама
 
 #: src/goabackend/goaexchangeprovider.c:51
 msgid "Microsoft Exchange"
-msgstr ""
+msgstr "Microsoft Exchange"
 
 #. Translators: the first %s is the username
 #. * (eg., debarshi.ray@gmail.com or rishi), and the
@@ -197,7 +197,7 @@ msgstr "Падчас злучэння з серверам Microsoft Exchange а�
 
 #: src/goabackend/goafacebookprovider.c:56
 msgid "Facebook"
-msgstr ""
+msgstr "Facebook"
 
 #: src/goabackend/goafacebookprovider.c:183
 #: src/goabackend/goaflickrprovider.c:155
@@ -250,7 +250,7 @@ msgstr "Не атрымалася разабраць адказ"
 
 #: src/goabackend/goaflickrprovider.c:56
 msgid "Flickr"
-msgstr ""
+msgstr "Flickr"
 
 #: src/goabackend/goaflickrprovider.c:271
 msgid "Your system time is invalid. Check your date and time settings."
@@ -258,11 +258,11 @@ msgstr "Сістэмны час наладжаны няправільна. Пр�
 
 #: src/goabackend/goafoursquareprovider.c:57
 msgid "Foursquare"
-msgstr ""
+msgstr "Foursquare"
 
 #: src/goabackend/goagoogleprovider.c:56
 msgid "Google"
-msgstr ""
+msgstr "Google"
 
 #. TODO: more specific
 #: src/goabackend/goaimapauthlogin.c:89 src/goabackend/goasmtpauth.c:155
@@ -365,12 +365,12 @@ msgstr "Назва"
 #: src/goabackend/goaimapsmtpprovider.c:1498
 #: src/goabackend/goaimapsmtpprovider.c:1502
 msgid "IMAP"
-msgstr ""
+msgstr "IMAP"
 
 #: src/goabackend/goaimapsmtpprovider.c:1513
 #: src/goabackend/goaimapsmtpprovider.c:1517
 msgid "SMTP"
-msgstr ""
+msgstr "SMTP"
 
 #: src/goabackend/goakerberosprovider.c:100
 msgid "Enterprise Login (Kerberos)"
@@ -423,7 +423,7 @@ msgstr "Служба ідэнтыфікацыі вярнула хібны клю
 
 #: src/goabackend/goalastfmprovider.c:65
 msgid "Last.fm"
-msgstr ""
+msgstr "Last.fm"
 
 #: src/goabackend/goalastfmprovider.c:700
 #: src/goabackend/goalastfmprovider.c:850
@@ -511,7 +511,7 @@ msgstr "Уліковыя даныя не змяшчаюць access_token ці ac
 
 #: src/goabackend/goaowncloudprovider.c:68
 msgid "Nextcloud"
-msgstr ""
+msgstr "Nextcloud"
 
 #: src/goabackend/goaowncloudprovider.c:739
 #: src/goabackend/goaowncloudprovider.c:930
@@ -520,7 +520,7 @@ msgstr "Падчас злучэння з серверам ownCloud адбыла�
 
 #: src/goabackend/goapocketprovider.c:74
 msgid "Pocket"
-msgstr ""
+msgstr "Pocket"
 
 #. TODO: more specific
 #: src/goabackend/goapocketprovider.c:249
@@ -577,7 +577,7 @@ msgstr "_Мапы"
 
 #: src/goabackend/goaprovider.c:174
 msgid "T_o Do"
-msgstr ""
+msgstr "_Задачы"
 
 #. Translators: This is a label for a series of
 #. * options switches. For example: “Use for Mail”.
@@ -648,7 +648,7 @@ msgstr "_Асабістыя звесткі"
 
 #: src/goabackend/goatodoistprovider.c:58
 msgid "Todoist"
-msgstr ""
+msgstr "Спіс задач"
 
 #: src/goabackend/goautils.c:96
 msgid "Error logging into the account"
@@ -773,7 +773,7 @@ msgstr "Загрузка \"%s\"..."
 #: src/goabackend/goawindowsliveprovider.c:56
 #| msgid "Microsoft Account"
 msgid "Microsoft"
-msgstr ""
+msgstr "Microsoft"
 
 #: src/goaidentity/goaidentityservice.c:568
 msgid "Initial secret key is invalid"
