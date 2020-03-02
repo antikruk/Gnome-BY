@@ -3,15 +3,15 @@ msgstr ""
 "Project-Id-Version: 98e6872775a91bf27122ff608b6db605\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/seahorse/issues\n"
 "POT-Creation-Date: 2019-06-15 10:35+0000\n"
-"PO-Revision-Date: 2019-10-18 09:20\n"
-"Last-Translator: Zmicer Turok\n"
+"PO-Revision-Date: 2020-03-02 14:01\n"
+"Last-Translator: Zander Brown <zbrown@gnome.org>\n"
 "Language-Team: Belarusian\n"
 "Language: be_BY\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || n%10>=5 && n%10<=9 || n%100>=11 && n%100<=14 ? 2 : 3);\n"
-"X-Generator: crowdin.com\n"
+"X-Generator: Gtranslator 3.32.1\n"
 "X-Project-Style: gnome\n"
 "X-Crowdin-Project: 98e6872775a91bf27122ff608b6db605\n"
 "X-Crowdin-Language: be\n"
@@ -105,7 +105,7 @@ msgstr "Для дапамогі звярніцеся да свайго сіст�
 
 #: common/prefs.vala:236
 msgid "URL"
-msgstr ""
+msgstr "URL"
 
 #: common/seahorse-add-keyserver.ui:12
 msgid "initial temporary item"
@@ -126,7 +126,7 @@ msgstr "Назва хоста ці адрас сервера."
 
 #: common/seahorse-add-keyserver.ui:93
 msgid ":"
-msgstr ""
+msgstr ":"
 
 #: common/seahorse-add-keyserver.ui:105
 msgid "The port to access the server on."
@@ -310,7 +310,7 @@ msgstr "Вышыня акна (ў пікселах)."
 
 #: data/org.gnome.seahorse.Application.appdata.xml.in:6
 msgid "Seahorse"
-msgstr ""
+msgstr "Seahorse"
 
 #: data/org.gnome.seahorse.Application.appdata.xml.in:7
 #: data/org.gnome.seahorse.Application.desktop.in.in:4
@@ -852,25 +852,25 @@ msgstr "пасля поўдня"
 #: libegg/egg-datetime.c:806
 #, c-format
 msgid "%02d:%02d:%02d %s"
-msgstr ""
+msgstr "%02d:%02d:%02d %s"
 
 #. Translators: This is hh:mm AM/PM.
 #: libegg/egg-datetime.c:809
 #, c-format
 msgid "%02d:%02d %s"
-msgstr ""
+msgstr "%02d:%02d %s"
 
 #. Translators: This is hh:mm:ss.
 #: libegg/egg-datetime.c:813
 #, c-format
 msgid "%02d:%02d:%02d"
-msgstr ""
+msgstr "%02d:%02d:%02d"
 
 #. Translators: This is hh:mm.
 #: libegg/egg-datetime.c:816
 #, c-format
 msgid "%02d:%02d"
-msgstr ""
+msgstr "%02d:%02d"
 
 #. TODO: should handle other display modes as well...
 #. Translators: This is YYYY-MM-DD
@@ -883,7 +883,7 @@ msgstr "%3$02d-%2$02d-%1$04d"
 #: libegg/egg-datetime.c:1240
 #, c-format
 msgid "%u:%u:%u"
-msgstr ""
+msgstr "%u:%u:%u"
 
 #: libseahorse/seahorse-widget.c:461
 #, c-format
@@ -1041,11 +1041,11 @@ msgstr "Ключы PGP"
 #: pgp/seahorse-gpgme-generate.c:76 pkcs11/pkcs11-generate.vala:60
 #: ssh/seahorse-ssh-generate.ui:141
 msgid "RSA"
-msgstr ""
+msgstr "RSA"
 
 #: pgp/seahorse-gpgme-generate.c:77
 msgid "DSA ElGamal"
-msgstr ""
+msgstr "DSA ElGamal"
 
 #: pgp/seahorse-gpgme-generate.c:129
 msgid "Couldn’t generate PGP key"
@@ -1293,7 +1293,7 @@ msgstr "Невядома"
 
 #: pgp/seahorse-gpgme-subkey.c:91
 msgid "ElGamal"
-msgstr ""
+msgstr "ElGamal"
 
 #: pgp/seahorse-hkp-source.c:533
 #, c-format
@@ -2495,15 +2495,15 @@ msgstr "Тып _шыфравання:"
 
 #: ssh/seahorse-ssh-generate.ui:142
 msgid "DSA"
-msgstr ""
+msgstr "DSA"
 
 #: ssh/seahorse-ssh-generate.ui:143
 msgid "ECDSA"
-msgstr ""
+msgstr "ECDSA"
 
 #: ssh/seahorse-ssh-generate.ui:144
 msgid "ED25519"
-msgstr ""
+msgstr "ED25519"
 
 #: ssh/seahorse-ssh-generate.ui:186
 msgid "If there is a computer you want to use this key with, you can set up that computer to recognize your new key."
@@ -2582,12 +2582,12 @@ msgstr "Ключы OpenSSH"
 #: ssh/source.vala:47
 #, c-format
 msgid "OpenSSH: %s"
-msgstr ""
+msgstr "OpenSSH: %s"
 
 #: ssh/source.vala:51
 #, c-format
 msgid "openssh://%s"
-msgstr ""
+msgstr "openssh://%s"
 
 #: ssh/source.vala:245
 msgid "No private key file is available for this key."
