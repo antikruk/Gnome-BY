@@ -1,21 +1,22 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 98e6872775a91bf27122ff608b6db605\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2007-05-15 22:52+0100\n"
-"PO-Revision-Date: 2019-12-18 15:00\n"
-"Last-Translator: David Lodge <dave@cirt.net>\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/libgtop/issues\n"
+"POT-Creation-Date: 2018-01-25 10:19+0000\n"
+"PO-Revision-Date: 2020-04-28 19:52\n"
+"Last-Translator: Zander Brown <zbrown@gnome.org>\n"
 "Language-Team: Belarusian\n"
 "Language: be_BY\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || n%10>=5 && n%10<=9 || n%100>=11 && n%100<=14 ? 2 : 3);\n"
+"X-Generator: Gtranslator 3.32.1\n"
 "X-Crowdin-Project: 98e6872775a91bf27122ff608b6db605\n"
 "X-Crowdin-Language: be\n"
 "X-Crowdin-File: /master/sources/libgtop/en_GB.po\n"
 
-#: ../lib/read.c:51
+#: lib/read.c:49
 #, c-format
 msgid "read %d byte"
 msgid_plural "read %d bytes"
@@ -24,11 +25,11 @@ msgstr[1] "прачытана %d байты"
 msgstr[2] "прачытана %d байтаў"
 msgstr[3] "прачытана %d байтаў"
 
-#: ../lib/read_data.c:51
+#: lib/read_data.c:49
 msgid "read data size"
 msgstr "прачытаны памер даных"
 
-#: ../lib/read_data.c:70
+#: lib/read_data.c:66
 #, c-format
 msgid "read %lu byte of data"
 msgid_plural "read %lu bytes of data"
@@ -37,7 +38,7 @@ msgstr[1] "прачытана %lu байты даных"
 msgstr[2] "прачытана %lu байтаў даных"
 msgstr[3] "прачытана %lu байтаў даных"
 
-#: ../lib/write.c:51
+#: lib/write.c:49
 #, c-format
 msgid "wrote %d byte"
 msgid_plural "wrote %d bytes"
@@ -46,188 +47,163 @@ msgstr[1] "запісана %d байты"
 msgstr[2] "запісана %d байтаў"
 msgstr[3] "запісана %d байтаў"
 
-#: ../src/daemon/gnuserv.c:458
+#: src/daemon/gnuserv.c:456
 msgid "Enable debugging"
 msgstr "Уключыць адладачны код"
 
-#: ../src/daemon/gnuserv.c:460
+#: src/daemon/gnuserv.c:458
 msgid "Enable verbose output"
 msgstr "Уключыць падрабязны вывад"
 
-#: ../src/daemon/gnuserv.c:462
-msgid "Don't fork into background"
-msgstr "Не адгаліноўваць фонавы працэс"
+#: src/daemon/gnuserv.c:460
+#| msgid "Don't fork into background"
+msgid "Don’t fork into background"
+msgstr ""
 
-#: ../src/daemon/gnuserv.c:464
+#: src/daemon/gnuserv.c:462
 msgid "Invoked from inetd"
 msgstr "Запушчана пры дапамозе inetd"
 
-#: ../src/daemon/gnuserv.c:498
+#: src/daemon/gnuserv.c:498
 #, c-format
-msgid "Run '%s --help' to see a full list of available command line options.\n"
-msgstr "Запусціце \"%s --help\", каб праглядзець поўны спіс даступных параметраў загаднага радка.\n"
+#| msgid ""
+#| "Run '%s --help' to see a full list of available command line options.\n"
+msgid "Run “%s --help” to see a full list of available command line options.\n"
+msgstr ""
 
-#: ../sysdeps/osf1/siglist.c:27
-#: ../sysdeps/sun4/siglist.c:27
+#: sysdeps/osf1/siglist.c:27 sysdeps/sun4/siglist.c:27
 msgid "Hangup"
 msgstr "Абрыў сувязі"
 
-#: ../sysdeps/osf1/siglist.c:28
-#: ../sysdeps/sun4/siglist.c:28
+#: sysdeps/osf1/siglist.c:28 sysdeps/sun4/siglist.c:28
 msgid "Interrupt"
 msgstr "Перарыванне"
 
-#: ../sysdeps/osf1/siglist.c:29
-#: ../sysdeps/sun4/siglist.c:29
+#: sysdeps/osf1/siglist.c:29 sysdeps/sun4/siglist.c:29
 msgid "Quit"
 msgstr "Выхад"
 
-#: ../sysdeps/osf1/siglist.c:30
-#: ../sysdeps/sun4/siglist.c:30
+#: sysdeps/osf1/siglist.c:30 sysdeps/sun4/siglist.c:30
 msgid "Illegal instruction"
 msgstr "Забароненая інструкцыя"
 
-#: ../sysdeps/osf1/siglist.c:31
-#: ../sysdeps/sun4/siglist.c:31
+#: sysdeps/osf1/siglist.c:31 sysdeps/sun4/siglist.c:31
 msgid "Trace trap"
 msgstr "Захоп трасавання"
 
-#: ../sysdeps/osf1/siglist.c:32
-#: ../sysdeps/sun4/siglist.c:32
+#: sysdeps/osf1/siglist.c:32 sysdeps/sun4/siglist.c:32
 msgid "Abort"
 msgstr "Скасаванне"
 
-#: ../sysdeps/osf1/siglist.c:33
-#: ../sysdeps/sun4/siglist.c:33
+#: sysdeps/osf1/siglist.c:33 sysdeps/sun4/siglist.c:33
 msgid "EMT error"
 msgstr "Памылка EMТ"
 
-#: ../sysdeps/osf1/siglist.c:34
-#: ../sysdeps/sun4/siglist.c:34
+#: sysdeps/osf1/siglist.c:34 sysdeps/sun4/siglist.c:34
 msgid "Floating-point exception"
 msgstr "Выключэнне плаваючага"
 
-#: ../sysdeps/osf1/siglist.c:35
-#: ../sysdeps/sun4/siglist.c:35
+#: sysdeps/osf1/siglist.c:35 sysdeps/sun4/siglist.c:35
 msgid "Kill"
 msgstr "Знішчэнне"
 
-#: ../sysdeps/osf1/siglist.c:36
-#: ../sysdeps/sun4/siglist.c:36
+#: sysdeps/osf1/siglist.c:36 sysdeps/sun4/siglist.c:36
 msgid "Bus error"
 msgstr "Памылка шыны"
 
-#: ../sysdeps/osf1/siglist.c:37
-#: ../sysdeps/sun4/siglist.c:37
+#: sysdeps/osf1/siglist.c:37 sysdeps/sun4/siglist.c:37
 msgid "Segmentation violation"
 msgstr "Парушэнне сегментацыі"
 
-#: ../sysdeps/osf1/siglist.c:38
-#: ../sysdeps/sun4/siglist.c:38
+#: sysdeps/osf1/siglist.c:38 sysdeps/sun4/siglist.c:38
 msgid "Bad argument to system call"
 msgstr "Хібны аргумент сістэмнага выкліку"
 
-#: ../sysdeps/osf1/siglist.c:39
-#: ../sysdeps/sun4/siglist.c:39
+#: sysdeps/osf1/siglist.c:39 sysdeps/sun4/siglist.c:39
 msgid "Broken pipe"
 msgstr "Зламаны канал"
 
-#: ../sysdeps/osf1/siglist.c:40
-#: ../sysdeps/sun4/siglist.c:40
+#: sysdeps/osf1/siglist.c:40 sysdeps/sun4/siglist.c:40
 msgid "Alarm clock"
 msgstr "Таймер"
 
-#: ../sysdeps/osf1/siglist.c:41
-#: ../sysdeps/sun4/siglist.c:41
+#: sysdeps/osf1/siglist.c:41 sysdeps/sun4/siglist.c:41
 msgid "Termination"
 msgstr "Знішчэнне"
 
-#: ../sysdeps/osf1/siglist.c:42
-#: ../sysdeps/sun4/siglist.c:42
+#: sysdeps/osf1/siglist.c:42 sysdeps/sun4/siglist.c:42
 msgid "Urgent condition on socket"
 msgstr "Тэрміновыя даныя на сокеце"
 
-#: ../sysdeps/osf1/siglist.c:43
-#: ../sysdeps/sun4/siglist.c:43
+#: sysdeps/osf1/siglist.c:43 sysdeps/sun4/siglist.c:43
 msgid "Stop"
 msgstr "Прыпыненне"
 
-#: ../sysdeps/osf1/siglist.c:44
-#: ../sysdeps/sun4/siglist.c:44
+#: sysdeps/osf1/siglist.c:44 sysdeps/sun4/siglist.c:44
 msgid "Keyboard stop"
 msgstr "Прыпыненне клавіятуры"
 
-#: ../sysdeps/osf1/siglist.c:45
-#: ../sysdeps/sun4/siglist.c:45
+#: sysdeps/osf1/siglist.c:45 sysdeps/sun4/siglist.c:45
 msgid "Continue"
 msgstr "Працяг"
 
-#: ../sysdeps/osf1/siglist.c:46
-#: ../sysdeps/sun4/siglist.c:46
+#: sysdeps/osf1/siglist.c:46 sysdeps/sun4/siglist.c:46
 msgid "Child status has changed"
 msgstr "Змена статусу нашчадка"
 
-#: ../sysdeps/osf1/siglist.c:47
-#: ../sysdeps/sun4/siglist.c:47
+#: sysdeps/osf1/siglist.c:47 sysdeps/sun4/siglist.c:47
 msgid "Background read from tty"
 msgstr "Фонавае чытанне з tty"
 
-#: ../sysdeps/osf1/siglist.c:48
-#: ../sysdeps/sun4/siglist.c:48
+#: sysdeps/osf1/siglist.c:48 sysdeps/sun4/siglist.c:48
 msgid "Background write to tty"
 msgstr "Фонавы запіс у tty"
 
-#: ../sysdeps/osf1/siglist.c:49
-#: ../sysdeps/sun4/siglist.c:49
+#: sysdeps/osf1/siglist.c:49 sysdeps/sun4/siglist.c:49
 msgid "I/O now possible"
 msgstr "Магчымасць уводу/вываду"
 
-#: ../sysdeps/osf1/siglist.c:50
-#: ../sysdeps/sun4/siglist.c:50
+#: sysdeps/osf1/siglist.c:50 sysdeps/sun4/siglist.c:50
 msgid "CPU limit exceeded"
 msgstr "Перасягнуты ліміт працэсара"
 
-#: ../sysdeps/osf1/siglist.c:51
-#: ../sysdeps/sun4/siglist.c:51
+#: sysdeps/osf1/siglist.c:51 sysdeps/sun4/siglist.c:51
 msgid "File size limit exceeded"
 msgstr "Перасягнуты ліміт памеру файла"
 
-#: ../sysdeps/osf1/siglist.c:52
-#: ../sysdeps/sun4/siglist.c:52
+#: sysdeps/osf1/siglist.c:52 sysdeps/sun4/siglist.c:52
 msgid "Virtual alarm clock"
 msgstr "Віртуальны таймер"
 
-#: ../sysdeps/osf1/siglist.c:53
-#: ../sysdeps/sun4/siglist.c:53
+#: sysdeps/osf1/siglist.c:53 sysdeps/sun4/siglist.c:53
 msgid "Profiling alarm clock"
 msgstr "Таймер прафілявання"
 
-#: ../sysdeps/osf1/siglist.c:54
-#: ../sysdeps/sun4/siglist.c:54
+#: sysdeps/osf1/siglist.c:54 sysdeps/sun4/siglist.c:54
 msgid "Window size change"
 msgstr "Змена памераў акна"
 
-#: ../sysdeps/osf1/siglist.c:55
-#: ../sysdeps/sun4/siglist.c:55
+#: sysdeps/osf1/siglist.c:55 sysdeps/sun4/siglist.c:55
 msgid "Information request"
 msgstr "Запыт інфармацыі"
 
-#: ../sysdeps/osf1/siglist.c:56
-#: ../sysdeps/sun4/siglist.c:56
+#: sysdeps/osf1/siglist.c:56 sysdeps/sun4/siglist.c:56
 msgid "User defined signal 1"
 msgstr "Сігнал карыстальніка 1"
 
-#: ../sysdeps/osf1/siglist.c:57
-#: ../sysdeps/sun4/siglist.c:57
+#: sysdeps/osf1/siglist.c:57 sysdeps/sun4/siglist.c:57
 msgid "User defined signal 2"
 msgstr "Сігнал карыстальніка 2"
 
 #~ msgid "DEBUG"
 #~ msgstr "DEBUG"
+
 #~ msgid "VERBOSE"
 #~ msgstr "VERBOSE"
+
 #~ msgid "NO-DAEMON"
 #~ msgstr "NO-DAEMON"
+
 #~ msgid "INETD"
 #~ msgstr "INETD"
 
