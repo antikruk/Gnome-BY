@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: 98e6872775a91bf27122ff608b6db605\n"
 "Report-Msgid-Bugs-To: https://bugzilla.gnome.org/enter_bug.cgi?product=folks&keywords=I18N+L10N&component=general\n"
 "POT-Creation-Date: 2017-09-27 12:13+0000\n"
-"PO-Revision-Date: 2020-04-28 19:52\n"
+"PO-Revision-Date: 2020-06-03 11:51\n"
 "Last-Translator: Bruce Cowan <bruce@bcowan.eu>\n"
 "Language-Team: Belarusian\n"
 "Language: be_BY\n"
@@ -571,7 +571,7 @@ msgstr "Немагчыма звязаць кантакты без асноўна
 #: folks/individual-aggregator.vala:2140 folks/individual-aggregator.vala:2471
 #, c-format
 msgid "Persona store ‘%s:%s’ is configured as primary, but could not be found or failed to load."
-msgstr "Сховішча \"%s:%s\" з'яўляецца асноўным, але яго не атрымаламя адшукаць альбо загрузіць."
+msgstr "Сховішча \"%s:%s\" з'яўляецца асноўным, але яго не атрымалася адшукаць альбо загрузіць."
 
 #: folks/individual-aggregator.vala:2141 folks/individual-aggregator.vala:2472
 #, c-format
