@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: 98e6872775a91bf27122ff608b6db605\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/glib-networking/issues\n"
 "POT-Creation-Date: 2019-07-04 09:53+0000\n"
-"PO-Revision-Date: 2020-04-28 19:52\n"
+"PO-Revision-Date: 2020-06-04 11:51\n"
 "Last-Translator: Zander Brown <zbrown@gnome.org>\n"
 "Language-Team: Belarusian\n"
 "Language: be_BY\n"
@@ -122,7 +122,7 @@ msgstr "Злучэнне TLS нечакана закрылася"
 #: tls/gnutls/gtlsconnection-gnutls.c:411
 #: tls/openssl/gtlsconnection-openssl.c:164
 msgid "TLS connection peer did not send a certificate"
-msgstr "Пір, з якім наладжваецца  злучэнне TLS, не адправіў сертыфікат"
+msgstr "Пір, з якім наладжваецца злучэнне TLS, не адправіў сертыфікат"
 
 #: tls/gnutls/gtlsconnection-gnutls.c:427
 #, c-format
