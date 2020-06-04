@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: 98e6872775a91bf27122ff608b6db605\n"
 "Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=yelp-xsl&keywords=I18N+L10N&component=General\n"
 "POT-Creation-Date: 2012-12-05 19:00+0000\n"
-"PO-Revision-Date: 2020-03-02 14:01\n"
+"PO-Revision-Date: 2020-06-04 11:51\n"
 "Last-Translator: Chris Leonard <cjlhomeaddress@gmail.com>\n"
 "Language-Team: Belarusian\n"
 "Language: be_BY\n"
@@ -58,7 +58,7 @@ msgstr ", "
 #: yelp-xsl.xml.in:60
 #, no-wrap
 msgid ", and "
-msgstr " і "
+msgstr "і "
 
 #. (itstool) path: msg/msgstr
 #. This is used as a list item seperator for inline lists of exactly two
