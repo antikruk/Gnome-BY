@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: 98e6872775a91bf27122ff608b6db605\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/network-manager-applet/\n"
 "POT-Creation-Date: 2020-03-06 23:05+0100\n"
-"PO-Revision-Date: 2020-10-01 08:06\n"
+"PO-Revision-Date: 2020-12-21 10:56\n"
 "Last-Translator: Bruce Cowan <bruce@bcowan.me.uk>\n"
 "Language-Team: Belarusian\n"
 "Language: be_BY\n"
@@ -70,7 +70,7 @@ msgstr "preferences-system-network"
 #: shared/nm-utils/nm-shared-utils.c:793
 #, c-format
 msgid "object class '%s' has no property named '%s'"
-msgstr "класс аб’екта \"%s\" не мае ўласцівасці з назвай \"%s\""
+msgstr "клас аб’екта \"%s\" не мае ўласцівасці з назвай \"%s\""
 
 #: shared/nm-utils/nm-shared-utils.c:800
 #, c-format
@@ -210,7 +210,7 @@ msgstr "Для злучэння з сеткай мабільнай сувязі 
 
 #: src/applet-device-bt.c:111 src/applet.c:2535 src/mobile-helpers.c:593
 msgid "Requesting a network address for “%s”…"
-msgstr "Запыт сеткавага адрасу для \"%s\"…"
+msgstr "Запыт сеткавага адраса для \"%s\"…"
 
 #: src/applet-device-bt.c:115 src/mobile-helpers.c:612
 msgid "Mobile broadband connection “%s” active"
@@ -261,7 +261,7 @@ msgstr "Для сеткавага злучэння Ethernet \"%s\" патраб�
 
 #: src/applet-device-ethernet.c:156
 msgid "Requesting an ethernet network address for “%s”…"
-msgstr "Запыт сеткавага адрасу для злучэння Ethernet \"%s\"…"
+msgstr "Запыт сеткавага адраса для злучэння Ethernet \"%s\"…"
 
 #: src/applet-device-ethernet.c:160
 msgid "Ethernet network connection “%s” active"
@@ -367,7 +367,7 @@ msgstr "Для сеткавага злучэння Wi-Fi \"%s\" патрабуе
 
 #: src/applet-device-wifi.c:1335
 msgid "Requesting a Wi-Fi network address for “%s”…"
-msgstr "Запыт сеткавага адрасу для сеткі Wi-Fi \"%s\"…"
+msgstr "Запыт сеткавага адраса для сеткі Wi-Fi \"%s\"…"
 
 #: src/applet-device-wifi.c:1346
 msgid "Wi-Fi network connection “%s” active: %s (%d%%)"
@@ -620,7 +620,7 @@ msgstr "Для разблакавання SIM-карткі патрабуецц�
 #. FIXME: some warning about # of times you can enter incorrect PIN
 #: src/applet-dialogs.c:1486
 msgid "The mobile broadband device “%s” requires a SIM PIN code before it can be used."
-msgstr "Для працы прылады мабільнай сувязі  \"%s\" патрабуецца PIN-код ад SIM-карткі."
+msgstr "Для працы прылады мабільнай сувязі \"%s\" патрабуецца PIN-код ад SIM-карткі."
 
 #. Translators: PIN code entry label
 #: src/applet-dialogs.c:1488
@@ -643,7 +643,7 @@ msgstr "Для разблакавання SIM-карткі патрабуецц�
 #. FIXME: some warning about # of times you can enter incorrect PUK
 #: src/applet-dialogs.c:1497
 msgid "The mobile broadband device “%s” requires a SIM PUK code before it can be used."
-msgstr "Для працы прылады мабільнай сувязі  \"%s\" патрабуецца PUK-код ад SIM-карткі."
+msgstr "Для працы прылады мабільнай сувязі \"%s\" патрабуецца PUK-код ад SIM-карткі."
 
 #. Translators: PUK code entry label
 #: src/applet-dialogs.c:1499
@@ -727,7 +727,7 @@ msgstr "\n"
 msgid "\n"
 "The VPN connection “%s” failed because the VPN service did not start in time."
 msgstr "\n"
-"VPN-злучэнне \"%s\" схібіла праз несвоячасовы запуск службы VPN."
+"VPN-злучэнне \"%s\" схібіла праз несвоечасовы запуск службы VPN."
 
 #: src/applet.c:890
 msgid "\n"
@@ -896,7 +896,7 @@ msgstr "Для VPN-злучэння \"%s\" патрабуецца аўтэнты
 
 #: src/applet.c:2617
 msgid "Requesting a VPN address for “%s”…"
-msgstr "Запыт сеткавага адрасу для VPN-злучэння \"%s\"…"
+msgstr "Запыт сеткавага адраса для VPN-злучэння \"%s\"…"
 
 #: src/applet.c:2620
 msgid "VPN connection active"
@@ -1137,7 +1137,7 @@ msgstr "_Уключыць I_GMP snooping"
 
 #: src/connection-editor/ce-page-bridge.ui:332
 msgid "Controls whether IGMP snooping is enabled for this bridge. Note that if snooping was automatically disabled due to hash collisions, the system may refuse to enable the feature until the collisions are resolved."
-msgstr "Кіруе ўключэннем IGMP snooping для гэтага моста. Звярніце ўвагу, што калі snooping аўтаматычна выключаецца праз супярэчанні хэшу, сістэма можа не ўключаць гэтую функцыю, пакуль канфлікты не вырашацца."
+msgstr "Кіруе ўключэннем IGMP snooping для гэтага моста. Звярніце ўвагу, што калі snooping аўтаматычна выключаецца праз супярэчнасці хэшу, сістэма можа не ўключаць гэтую функцыю, пакуль канфлікты не вырашацца."
 
 #: src/connection-editor/ce-page-bridge.ui:344
 msgid "Enable _STP (Spanning Tree Protocol)"
@@ -1145,7 +1145,7 @@ msgstr "_Уключыць STP (Spanning Tree Protocol)"
 
 #: src/connection-editor/ce-page-bridge.ui:348
 msgid "Controls whether Spanning Tree Protocol (STP) is enabled for this bridge"
-msgstr "Кіруе ўключэннем пратаколу Spanning Tree Protocol (STP) для гэтага моста"
+msgstr "Кіруе ўключэннем пратакола Spanning Tree Protocol (STP) для гэтага моста"
 
 #: src/connection-editor/ce-page-bridge.ui:363
 msgid "STP priority for this bridge. Lower values are “better”; the lowest priority bridge will be elected the root bridge."
@@ -1165,7 +1165,7 @@ msgstr "_Час старэння"
 
 #: src/connection-editor/ce-page-bridge.ui:454
 msgid "The Ethernet MAC address aging time, in seconds"
-msgstr "Час старэння MAC-адрасу Ethernet у секундах"
+msgstr "Час старэння MAC-адраса Ethernet у секундах"
 
 #: src/connection-editor/ce-page-bridge.ui:490
 msgid "Group _forward mask"
@@ -1250,7 +1250,7 @@ msgstr "Кіраванне прыярытэтам струменя"
 
 #: src/connection-editor/ce-page-dcb.ui:613
 msgid "Enable or disable priority pause transmission for each User Priority."
-msgstr "Уключыць альбо выключыць прыярытэт прыпынення перадачы для кожнага прыярытэта карыстальніка."
+msgstr "Уключыць альбо выключыць прыярытэт прыпынення перадачы для кожнага прыярытэту карыстальніка."
 
 #: src/connection-editor/ce-page-dcb.ui:653
 #: src/connection-editor/ce-page-dcb.ui:1086
@@ -1326,7 +1326,7 @@ msgstr "7"
 
 #: src/connection-editor/ce-page-dcb.ui:1069
 msgid "Traffic Class"
-msgstr "Клас трафіку"
+msgstr "Клас трафіка"
 
 #: src/connection-editor/ce-page-dcb.ui:1473
 msgid "Strict Bandwidth"
@@ -1362,7 +1362,7 @@ msgstr "Уключэнне альбо выключэнне строгага пр
 
 #: src/connection-editor/ce-page-dcb.ui:2953
 msgid "Enter the traffic class for each user priority."
-msgstr "Увядзіце клас трафіку для кожнага прыярытэту карыстальніка."
+msgstr "Увядзіце клас трафіка для кожнага прыярытэту карыстальніка."
 
 #: src/connection-editor/ce-page-dsl.ui:19
 #: src/connection-editor/ce-page-mobile.ui:62
@@ -1427,7 +1427,7 @@ msgstr "_Пададзены інтэрфейс"
 
 #: src/connection-editor/ce-page-dsl.ui:175
 msgid "If selected, the connection will take exclusive control of the interface and it won’t be possible to activate another connection on it. Note that the option can only be used for Ethernet interfaces. nm-applet is able to activate the connection only if this option is selected."
-msgstr "Калі абрана, злучэнне атрымае выключны кантроль над інтэрфейсам, і на ім будзе немагчыма актываваць іншае злучэнне. Звярніце ўвагу на тое, што гэты параметр можа выкарыстоўвацца толкі для інтэрфейсаў Ethernet. nm-applet можа актываваць злучэнне толькі калі гэты параметр абраны."
+msgstr "Калі абрана, злучэнне атрымае выключны кантроль над інтэрфейсам, і на ім будзе немагчыма актываваць іншае злучэнне. Звярніце ўвагу на тое, што гэты параметр можа выкарыстоўвацца толькі для інтэрфейсаў Ethernet. nm-applet можа актываваць злучэнне толькі калі гэты параметр абраны."
 
 #: src/connection-editor/ce-page-ethernet.ui:17
 #: src/connection-editor/ce-page-ethernet.ui:77
@@ -1552,7 +1552,7 @@ msgstr "Узгадненне _спасылак"
 
 #: src/connection-editor/ce-page-ethernet.ui:428
 msgid "Device link negotiation. If “Manual” is chosen, “Speed” and “Duplex” values will be forced without checking the device compatibility. If unsure, leave here “Ignore” or pick “Automatic”."
-msgstr "Узгадненне спасылак прылады. Калі абрана \"Уласнаручна\", значэнні \"Хуткасць\" і \"Дуплекс\" прымусова выключацца без праверкі сумяшчальнасці прылады. Калі вы не ўпэўненыя, пакінце \"Ігнараваць\" альбо абярыце \"Аўтаматычна."
+msgstr "Узгадненне спасылак прылады. Калі абрана \"Уласнаручна\", значэнні \"Хуткасць\" і \"Дуплекс\" прымусова выключацца без праверкі сумяшчальнасці прылады. Калі вы не ўпэўненыя, пакіньце \"Ігнараваць\" альбо абярыце \"Аўтаматычна."
 
 #: src/connection-editor/ce-page-ethernet.ui:448
 msgid "_Speed"
@@ -1560,7 +1560,7 @@ msgstr "_Хуткасць"
 
 #: src/connection-editor/ce-page-ethernet.ui:462
 msgid "Speed value for static link negotiation, required only when “Ignore” and “Automatic” options are not selected. Before specifying a speed value be sure your device supports it."
-msgstr "Значэнне хуткасці для статычнага ўзгаднення спасылак, што патрабуецца толькі ў тым разе, калі параметры \"Ігнараваць\" і \"Аўтаматычна\" не абраныя.Перш чым вызначаць значэнне хуткасці, пераканайцеся, што вашая прылада яго падтрымлівае."
+msgstr "Значэнне хуткасці для статычнага ўзгаднення спасылак, што патрабуецца толькі ў тым разе, калі параметры \"Ігнараваць\" і \"Аўтаматычна\" не абраныя. Перш чым вызначаць значэнне хуткасці, пераканайцеся, што вашая прылада яго падтрымлівае."
 
 #: src/connection-editor/ce-page-ethernet.ui:482
 msgid "Duple_x"
@@ -1568,7 +1568,7 @@ msgstr "_Дуплекс"
 
 #: src/connection-editor/ce-page-ethernet.ui:496
 msgid "Duplex value for static link negotiation, required only when “Ignore” and “Automatic” options are not selected. Before specifying a duplex mode be sure your device supports it."
-msgstr "Дуплекснае значэнне для статычнага ўзгаднення спасылак, што патрабуецца толькі ў тым разе, калі параметры \"Ігнараваць\" і \"Аўтаматычна\" не абраныя.Перш чым вызначаць дуплексны рэжым, пераканайцеся, што вашая прылада яго падтрымлівае."
+msgstr "Дуплекснае значэнне для статычнага ўзгаднення спасылак, што патрабуецца толькі ў тым разе, калі параметры \"Ігнараваць\" і \"Аўтаматычна\" не абраныя. Перш чым вызначаць дуплексны рэжым, пераканайцеся, што вашая прылада яго падтрымлівае."
 
 #: src/connection-editor/ce-page-general.ui:29
 msgid "Yes"
@@ -1711,7 +1711,7 @@ msgstr "_Метад"
 
 #: src/connection-editor/ce-page-ip4.ui:202
 msgid "The DHCP client identifier allows the network administrator to customize your computer’s configuration. If you wish to use a DHCP client identifier, enter it here."
-msgstr "DHCP-ідэнтыфікатар кліента дазваляе адміністратару сеткі змяняць налады вашага камп'ютара. Калі вы хочаце выкарыстоўвацьтакі ідэнтыфікатар, увядзіце яго тут."
+msgstr "DHCP-ідэнтыфікатар кліента дазваляе адміністратару сеткі змяняць налады вашага камп'ютара. Калі вы хочаце выкарыстоўваць такі ідэнтыфікатар, увядзіце яго тут."
 
 #: src/connection-editor/ce-page-ip4.ui:215
 #: src/connection-editor/ce-page-ip6.ui:233
@@ -1994,7 +1994,7 @@ msgstr "Скрыпт PAC"
 
 #: src/connection-editor/ce-page-proxy.ui:76
 msgid "URL from where the PAC script is to be obtained."
-msgstr "URL, з якога павінен быць атрыманы сцэнарый PAC."
+msgstr "URL, з якога павінен быць атрыманы сцэнар PAC."
 
 #: src/connection-editor/ce-page-proxy.ui:86
 msgid "Import script from a file…"
@@ -2031,7 +2031,7 @@ msgstr "NDP (IPv6)"
 #: src/connection-editor/ce-page-team-port.ui:151
 #: src/connection-editor/ce-page-team.ui:527
 msgid "Team Advanced Options"
-msgstr "Дадатковыя параметры агрэгавання"
+msgstr "Дадатковыя параметры агрэгацыі"
 
 #: src/connection-editor/ce-page-team-port.ui:225
 msgid "_Queue ID"
@@ -2057,7 +2057,7 @@ msgstr "_Прыярытэт порта"
 #: src/connection-editor/ce-page-team-port.ui:284
 #: src/connection-editor/ce-page-team.ui:713
 msgid "Value is positive number in milliseconds. Specifies an interval between bursts of notify-peer packets."
-msgstr "Значэнне з`яўляецца дадатным лікам. Вызначае інтэрвал паміж прарывамі апавяшчальных пакункаў."
+msgstr "Значэнне ёсць дадатным лікам. Вызначае інтэрвал паміж прарывамі апавяшчальных пакункаў."
 
 #: src/connection-editor/ce-page-team-port.ui:286
 msgid "Port priority. The higher number means higher priority."
@@ -2095,7 +2095,7 @@ msgstr "Прыярытэт порта ў адпаведнасці са стан�
 #: src/connection-editor/ce-page-team-port.ui:374
 #: src/connection-editor/ce-page-team.ui:726
 msgid "Value is positive number in milliseconds. Specifies an interval between bursts of multicast group rejoin requests."
-msgstr "Значэнне з`яўляецца дадатным лікам. Вызначае інтэрвал паміж чэргамі запытаў паўторнага ўводу групавой адрасацыі."
+msgstr "Значэнне ёсць дадатным лікам. Вызначае інтэрвал паміж чэргамі запытаў паўторнага ўводу групавой адрасацыі."
 
 #: src/connection-editor/ce-page-team-port.ui:376
 msgid "Port key according to LACP standard. It is only possible to aggregate ports with the same key."
@@ -2199,7 +2199,7 @@ msgstr "Затрымка паміж адпраўленнем спасылкі і
 #: src/connection-editor/ce-page-team-port.ui:697
 #: src/connection-editor/ce-page-team.ui:1424
 msgid "The interval between requests being sent."
-msgstr "Інтэрвал паміж адпраўленнымі запытамі."
+msgstr "Інтэрвал паміж адпраўленымі запытамі."
 
 #: src/connection-editor/ce-page-team-port.ui:710
 #: src/connection-editor/ce-page-team.ui:1437
@@ -2543,7 +2543,7 @@ msgstr "Стабільны"
 
 #: src/connection-editor/ce-page.c:287
 msgid "The MAC address entered here will be used as hardware address for the network device this connection is activated on. This feature is known as MAC cloning or spoofing. Example: 00:11:22:33:44:55"
-msgstr "Уведзены MAC-адрас будзе ўжыты як апаратны адрас сеткавай прылады для гэтага злучэння. Гэтую магчымасць яшчэ называюць кланаваннем альбо падменай MAC-адрасу. Прыклад: 00:11:22:33:44:55"
+msgstr "Уведзены MAC-адрас будзе ўжыты як апаратны адрас сеткавай прылады для гэтага злучэння. Гэтую магчымасць яшчэ называюць кланаваннем альбо падменай MAC-адраса. Прыклад: 00:11:22:33:44:55"
 
 #: src/connection-editor/ce-page.c:327
 msgid "MAC address"
@@ -2596,7 +2596,7 @@ msgstr "хібны %s (%s) "
 
 #: src/connection-editor/ce-page.h:95
 msgid "IP addresses identify your computer on the network. Click the “Add” button to add static IP address to be configured in addition to the automatic ones."
-msgstr "IP-адрасы вызначаюць ваш камп'ютар у сетцы. Пстрыкніце па кнопцы \"Дадаць\", каб дадаць статычны IP-адрас, наладжаны ў дадатак аўтаматычнаму."
+msgstr "IP-адрасы вызначаюць ваш камп'ютар у сетцы. Пстрыкніце па кнопцы \"Дадаць\", каб дадаць статычны IP-адрас, наладжаны ў дадатак да аўтаматычнага."
 
 #: src/connection-editor/ce-page.h:100
 msgid "The IP address identify your computer on the network and determines the address range distributed to other computers. Click the “Add” button to add an IP address. If no address is provided, range will be determined automatically."
@@ -3181,7 +3181,7 @@ msgstr "Прадвызначана"
 
 #: src/connection-editor/page-general.c:42
 msgid "The zone defines the trust level of the connection. Default is not a regular zone, selecting it results in the use of the default zone set in the firewall. Only usable if firewalld is active."
-msgstr "Зона вызначае ўзровень даверу да злучэння. Прадвызначана гэта не звычайная зона.  Гэта азначае, што зона будзе памешчаная ў міжсеткавы экран. Параметр можна выкарыстоўваць толькі калі ўключаны firewalld."
+msgstr "Зона вызначае ўзровень даверу да злучэння. Прадвызначана гэта не звычайная зона. Гэта азначае, што зона будзе памешчаная ў міжсеткавы экран. Параметр можна выкарыстоўваць толькі калі ўключаны firewalld."
 
 #: src/connection-editor/page-general.c:358
 msgid "Could not load General user interface."
@@ -3250,7 +3250,7 @@ msgstr "Д_адатковыя DNS-серверы"
 
 #: src/connection-editor/page-ip4.c:357 src/connection-editor/page-ip6.c:345
 msgid "Additional s_earch domains"
-msgstr "_Дадатковыя домены пошуку"
+msgstr "_Дадатковыя дамены пошуку"
 
 #: src/connection-editor/page-ip4.c:1019
 #, c-format
@@ -3580,7 +3580,7 @@ msgstr "bssid"
 
 #: src/connection-editor/page-wifi.c:553
 msgid "Wi-Fi device"
-msgstr "Прылада  Wi-Fi"
+msgstr "Прылада Wi-Fi"
 
 #: src/connection-editor/page-wifi.c:600
 #, c-format
@@ -3958,7 +3958,7 @@ msgstr "leap-пароль адсутнічае"
 
 #: src/wireless-security/ws-sae.c:56
 msgid "missing password"
-msgstr "missing password"
+msgstr "пароль адсутнічае"
 
 #: src/wireless-security/ws-sae.ui:48 src/wireless-security/ws-wpa-psk.ui:48
 msgid "_Type"
