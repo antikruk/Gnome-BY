@@ -9,19 +9,21 @@ msgstr ""
 "Project-Id-Version: 98e6872775a91bf27122ff608b6db605\n"
 "Report-Msgid-Bugs-To: https://bugzilla.gnome.org/enter_bug.cgi?product=folks&keywords=I18N+L10N&component=general\n"
 "POT-Creation-Date: 2017-09-27 12:13+0000\n"
-"PO-Revision-Date: 2019-10-18 09:21\n"
-"Last-Translator: Zmicer Turok\n"
+"PO-Revision-Date: 2020-10-01 08:07\n"
+"Last-Translator: Bruce Cowan <bruce@bcowan.eu>\n"
 "Language-Team: Belarusian\n"
 "Language: be_BY\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || n%10>=5 && n%10<=9 || n%100>=11 && n%100<=14 ? 2 : 3);\n"
-"X-Generator: crowdin.com\n"
+"X-Generator: Poedit 2.0.6\n"
 "X-Project-Style: gnome\n"
 "X-Crowdin-Project: 98e6872775a91bf27122ff608b6db605\n"
+"X-Crowdin-Project-ID: 2\n"
 "X-Crowdin-Language: be\n"
 "X-Crowdin-File: /master/sources/folks/en_GB.po\n"
+"X-Crowdin-File-ID: 90\n"
 
 #: backends/bluez/bluez-backend.vala:734
 msgid "No BlueZ 5 object manager running, so the BlueZ backend will be inactive. Either your BlueZ installation is too old (only version 5 is supported) or the service can’t be started."
@@ -571,7 +573,7 @@ msgstr "Немагчыма звязаць кантакты без асноўна
 #: folks/individual-aggregator.vala:2140 folks/individual-aggregator.vala:2471
 #, c-format
 msgid "Persona store ‘%s:%s’ is configured as primary, but could not be found or failed to load."
-msgstr "Сховішча \"%s:%s\" з'яўляецца асноўным, але яго не атрымаламя адшукаць альбо загрузіць."
+msgstr "Сховішча \"%s:%s\" з'яўляецца асноўным, але яго не атрымалася адшукаць альбо загрузіць."
 
 #: folks/individual-aggregator.vala:2141 folks/individual-aggregator.vala:2472
 #, c-format

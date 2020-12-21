@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: 98e6872775a91bf27122ff608b6db605\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-12 14:17+0100\n"
-"PO-Revision-Date: 2019-12-18 15:00\n"
+"PO-Revision-Date: 2020-10-01 08:06\n"
 "Last-Translator: Bruce Cowan <bruce@bcowan.me.uk>\n"
 "Language-Team: Belarusian\n"
 "Language: be_BY\n"
@@ -14,8 +14,10 @@ msgstr ""
 "X-Generator: Gtranslator 2.91.6\n"
 "X-Project-Style: gnome\n"
 "X-Crowdin-Project: 98e6872775a91bf27122ff608b6db605\n"
+"X-Crowdin-Project-ID: 2\n"
 "X-Crowdin-Language: be\n"
 "X-Crowdin-File: /master/sources/libgsf/en_GB.po\n"
+"X-Crowdin-File-ID: 134\n"
 
 #: ../gsf/gsf-blob.c:114
 #, c-format
@@ -222,7 +224,7 @@ msgstr "Памер крыніцы ўводу"
 
 #: ../gsf/gsf-input.c:158
 msgid "EOF"
-msgstr ""
+msgstr "EOF"
 
 #: ../gsf/gsf-input.c:159
 msgid "End of file"

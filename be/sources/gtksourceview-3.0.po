@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: 98e6872775a91bf27122ff608b6db605\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gtksourceview/issues\n"
 "POT-Creation-Date: 2019-08-04 12:56+0000\n"
-"PO-Revision-Date: 2019-12-17 15:00\n"
+"PO-Revision-Date: 2020-10-01 08:06\n"
 "Last-Translator: Zander Brown <zbrown@gnome.org>\n"
 "Language-Team: Belarusian\n"
 "Language: be_BY\n"
@@ -13,8 +13,10 @@ msgstr ""
 "Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || n%10>=5 && n%10<=9 || n%100>=11 && n%100<=14 ? 2 : 3);\n"
 "X-Generator: Gtranslator 3.32.1\n"
 "X-Crowdin-Project: 98e6872775a91bf27122ff608b6db605\n"
+"X-Crowdin-Project-ID: 2\n"
 "X-Crowdin-Language: be\n"
 "X-Crowdin-File: /master/sources/gtksourceview-3.0/en_GB.po\n"
+"X-Crowdin-File-ID: 126\n"
 
 #. (itstool) path: abnf.lang/language@_section
 #. (itstool) path: actionscript.lang/language@_section
@@ -202,7 +204,7 @@ msgstr "Загаловак C++"
 #. (itstool) path: dosbatch.lang/language@_name
 #: dosbatch.lang:23
 msgid "DOS Batch"
-msgstr ""
+msgstr "DOS Batch"
 
 #. (itstool) path: dtl.lang/language@_name
 #: dtl.lang:25
@@ -240,7 +242,7 @@ msgstr "Мова шэйдараў OpenGL"
 #. (itstool) path: llvm.lang/language@_name
 #: llvm.lang:22
 msgid "LLVM IR"
-msgstr ""
+msgstr "LLVM IR"
 
 #. (itstool) path: po.lang/language@_name
 #: po.lang:23
@@ -271,7 +273,7 @@ msgstr "Класічная схема колераў"
 #. (itstool) path: cobalt.xml/style-scheme@_name
 #: cobalt.xml:25
 msgid "Cobalt"
-msgstr ""
+msgstr "Cobalt"
 
 #. (itstool) path: style-scheme/_description
 #: cobalt.xml:27
@@ -286,7 +288,7 @@ msgstr "Схема колераў тэкставага рэдактара Kate"
 #. (itstool) path: oblivion.xml/style-scheme@_name
 #: oblivion.xml:24
 msgid "Oblivion"
-msgstr ""
+msgstr "Oblivion"
 
 #. (itstool) path: style-scheme/_description
 #: oblivion.xml:27
@@ -316,7 +318,7 @@ msgstr "Схема колераў на аснове светлай палітр�
 #. (itstool) path: tango.xml/style-scheme@_name
 #: tango.xml:23
 msgid "Tango"
-msgstr ""
+msgstr "Tango"
 
 #. (itstool) path: style-scheme/_description
 #: tango.xml:25
@@ -350,7 +352,7 @@ msgstr "Не атрымалася адкрыць пераўтваральнік 
 
 #: gtksourceview/gtksourcebufferoutputstream.c:995
 msgid "Invalid object, not initialized"
-msgstr "Хібны аб'ект, не ініцыяваны"
+msgstr "Хібны аб'ект, не ініцыялізаваны"
 
 #: gtksourceview/gtksourcebufferoutputstream.c:1187
 #, c-format
@@ -568,7 +570,7 @@ msgstr "Невядома"
 #.
 #: gtksourceview/gtksourceencoding.c:644
 msgid "['UTF-8', 'CURRENT', 'ISO-8859-15', 'UTF-16']"
-msgstr ""
+msgstr "['UTF-8', 'CURRENT', 'ISO-8859-15', 'UTF-16']"
 
 #: gtksourceview/gtksourcefileloader.c:522
 msgid "There was a character encoding conversion error and it was needed to use a fallback character."
