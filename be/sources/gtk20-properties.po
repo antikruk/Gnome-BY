@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: 98e6872775a91bf27122ff608b6db605\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-07 23:08+0000\n"
-"PO-Revision-Date: 2020-10-01 08:07\n"
+"PO-Revision-Date: 2020-12-21 10:57\n"
 "Last-Translator: Bruce Cowan <bruce@bcowan.me.uk>\n"
 "Language-Team: Belarusian\n"
 "Language: be_BY\n"
@@ -6771,7 +6771,7 @@ msgstr "Роля акна"
 
 #: ../gtk/gtkwindow.c:501
 msgid "Unique identifier for the window to be used when restoring a session"
-msgstr "Унікальны ідэнтыфікатар акна, што выкарыстоўваецца пры аднаўленні сеансу"
+msgstr "Унікальны ідэнтыфікатар акна, што выкарыстоўваецца пры аднаўленні сеанса"
 
 #: ../gtk/gtkwindow.c:517
 msgid "Startup ID"

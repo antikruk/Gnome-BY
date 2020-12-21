@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: 98e6872775a91bf27122ff608b6db605\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gsettings-desktop-schemas/issues\n"
 "POT-Creation-Date: 2020-07-21 09:42+0000\n"
-"PO-Revision-Date: 2020-10-01 08:07\n"
+"PO-Revision-Date: 2020-12-21 10:57\n"
 "Last-Translator: Zander Brown <zbrown@gnome.org>\n"
 "Language-Team: Belarusian\n"
 "Language: be_BY\n"
@@ -489,7 +489,7 @@ msgstr ""
 
 #: schemas/org.gnome.desktop.app-folders.gschema.xml.in:26
 msgid "Applications"
-msgstr ""
+msgstr "Праграмы"
 
 #: schemas/org.gnome.desktop.app-folders.gschema.xml.in:27
 msgid "The list of IDs of applications that are explicitly included in this folder."
@@ -701,7 +701,7 @@ msgstr ""
 
 #: schemas/org.gnome.desktop.interface.gschema.xml.in:13
 msgid "Enable Animations"
-msgstr ""
+msgstr "Уключыць анімацыю"
 
 #: schemas/org.gnome.desktop.interface.gschema.xml.in:14
 msgid "Whether animations should be displayed. Note: This is a global key, it changes the behaviour of the window manager, the panel etc."
@@ -725,7 +725,7 @@ msgstr ""
 
 #: schemas/org.gnome.desktop.interface.gschema.xml.in:36
 msgid "Toolbar Style"
-msgstr ""
+msgstr "Стыль панэлі інструментаў"
 
 #: schemas/org.gnome.desktop.interface.gschema.xml.in:37
 msgid "Toolbar Style. Valid values are “both”, “both-horiz”, “icons”, and “text”."
@@ -749,7 +749,7 @@ msgstr ""
 
 #: schemas/org.gnome.desktop.interface.gschema.xml.in:58
 msgid "Toolbar Icon Size"
-msgstr ""
+msgstr "Памер значкоў панэлі інструментаў"
 
 #: schemas/org.gnome.desktop.interface.gschema.xml.in:59
 msgid "Size of icons in toolbars, either “small” or “large”."
@@ -757,31 +757,31 @@ msgstr ""
 
 #: schemas/org.gnome.desktop.interface.gschema.xml.in:65
 msgid "Cursor Blink"
-msgstr ""
+msgstr "Мільгацеючы курсор"
 
 #: schemas/org.gnome.desktop.interface.gschema.xml.in:66
 msgid "Whether the cursor should blink."
-msgstr ""
+msgstr "Ці будзе курсор мільгацець."
 
 #: schemas/org.gnome.desktop.interface.gschema.xml.in:73
 msgid "Cursor Blink Time"
-msgstr ""
+msgstr "Час мільгацення курсора"
 
 #: schemas/org.gnome.desktop.interface.gschema.xml.in:74
 msgid "Length of the cursor blink cycle, in milliseconds."
-msgstr ""
+msgstr "Працягласць цыклу мільгацення курсора ў мілісекундах."
 
 #: schemas/org.gnome.desktop.interface.gschema.xml.in:81
 msgid "Cursor Blink Timeout"
-msgstr ""
+msgstr "Затрымка мільгацення курсора"
 
 #: schemas/org.gnome.desktop.interface.gschema.xml.in:82
 msgid "Time after which the cursor stops blinking, in seconds."
-msgstr ""
+msgstr "Час у секундах, пасля якога курсор больш на мільгаціць."
 
 #: schemas/org.gnome.desktop.interface.gschema.xml.in:88
 msgid "Icon Theme"
-msgstr ""
+msgstr "Тэма значка"
 
 #: schemas/org.gnome.desktop.interface.gschema.xml.in:89
 msgid "Icon theme to use for the panel, nautilus etc."
@@ -1959,7 +1959,7 @@ msgstr ""
 
 #: schemas/org.gnome.desktop.wm.keybindings.gschema.xml.in:164
 msgid "Maximize window"
-msgstr ""
+msgstr "Разгарнуць акно"
 
 #: schemas/org.gnome.desktop.wm.keybindings.gschema.xml.in:168
 msgid "Restore window"

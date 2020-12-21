@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: 98e6872775a91bf27122ff608b6db605\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-disk-utility/issues\n"
 "POT-Creation-Date: 2020-02-16 14:20+0000\n"
-"PO-Revision-Date: 2020-10-01 08:06\n"
+"PO-Revision-Date: 2020-12-21 10:57\n"
 "Last-Translator: Zander Brown <zbrown@gnome.org>\n"
 "Language-Team: Belarusian\n"
 "Language: be_BY\n"
@@ -972,7 +972,7 @@ msgstr "Падчас спробы ўключэння/выключэння SMART 
 #. Translators: This string is used as the column title in the treeview for the Attribute ID (0-255)
 #: src/disks/gduatasmartdialog.c:1530
 msgid "ID"
-msgstr "Ідэнтыфікатар"
+msgstr "ID"
 
 #. Translators: This string is used as the column title in the treeview for the attribute name and description
 #: src/disks/gduatasmartdialog.c:1542
@@ -1175,7 +1175,7 @@ msgstr "Парольныя фразы адрозніваюцца"
 
 #: src/disks/gduchangepassphrasedialog.c:129
 msgid "The passphrase matches the existing passphrase"
-msgstr "Парольная фраза супадае з існуючай"
+msgstr "Парольная фраза супадае з існай"
 
 #: src/disks/gduchangepassphrasedialog.c:189
 msgid "Error updating /etc/crypttab"
@@ -2900,11 +2900,11 @@ msgstr "Параметры шыфравання"
 
 #: src/disks/ui/edit-crypttab-dialog.ui:92 src/disks/ui/edit-fstab-dialog.ui:46
 msgid "Us_er Session Defaults"
-msgstr "Прадвызначаныя параметры сеансу _карыстальніка"
+msgstr "Прадвызначаныя параметры сеанса _карыстальніка"
 
 #: src/disks/ui/edit-crypttab-dialog.ui:112
 msgid "Switch off <i>User Session Defaults</i> to manage encryption options and passphrase for the device. The options correspond to an entry in the <b>/etc/crypttab</b> file"
-msgstr "Выключыце <i>Прадвызначаныя параметры сеансу карыстальніка</i>, каб мець магчымасць кіраваць параметрамі шыфравання і парольнай фразай гэтай прылады. Гэтыя параметры адпавядаюць запісу ў файле <b>/etc/crypttab</b>"
+msgstr "Выключыце <i>Прадвызначаныя параметры сеанса карыстальніка</i>, каб мець магчымасць кіраваць параметрамі шыфравання і парольнай фразай гэтай прылады. Гэтыя параметры адпавядаюць запісу ў файле <b>/etc/crypttab</b>"
 
 #: src/disks/ui/edit-crypttab-dialog.ui:160
 msgid "Opt_ions"
@@ -2994,7 +2994,7 @@ msgstr "Параметры мантавання"
 
 #: src/disks/ui/edit-fstab-dialog.ui:64
 msgid "Switch off <i>User Session Defaults</i> to manage mount point and mount options for the device. The options correspond to an entry in the <b>/etc/fstab</b> file"
-msgstr "Выключыце <i>Прадвызначаныя параметры сеансу карыстальніка</i>, каб мець магчымасць кіраваць пунктам і параметрамі мантавання гэтай прылады. Гэтыя параметры адпавядаюць запісу ў файле <b>/etc/fstab</b> file"
+msgstr "Выключыце <i>Прадвызначаныя параметры сеанса карыстальніка</i>, каб мець магчымасць кіраваць пунктам і параметрамі мантавання гэтай прылады. Гэтыя параметры адпавядаюць запісу ў файле <b>/etc/fstab</b> file"
 
 #: src/disks/ui/edit-fstab-dialog.ui:91
 msgid "I_dentify As"
@@ -3244,7 +3244,7 @@ msgstr "Даведка"
 #| msgid "_Keyboard Shortcuts"
 msgctxt "shortcut window"
 msgid "Keyboard shortcuts"
-msgstr ""
+msgstr "Спалучэнні клавіш"
 
 #: src/disks/ui/shortcuts.ui:45
 msgctxt "shortcut window"
@@ -3404,7 +3404,7 @@ msgstr "Калі прызначана, лічбавае значэнне VeraCry
 #: src/disks/ui/unlock-device-dialog.ui:204
 #| msgid "Keyfiles"
 msgid "_Keyfiles"
-msgstr ""
+msgstr "_Ключавыя файлы"
 
 #: src/disks/ui/unlock-device-dialog.ui:221
 msgid "Select a keyfile to unlock this volume"

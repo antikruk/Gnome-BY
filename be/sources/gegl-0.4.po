@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: 98e6872775a91bf27122ff608b6db605\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gegl/issues\n"
 "POT-Creation-Date: 2019-08-26 20:18+0000\n"
-"PO-Revision-Date: 2020-10-01 08:07\n"
+"PO-Revision-Date: 2020-12-21 10:57\n"
 "Last-Translator: Bruce Cowan <bruce@bcowan.me.uk>\n"
 "Language-Team: Belarusian\n"
 "Language: be_BY\n"
@@ -69,7 +69,7 @@ msgstr ""
 
 #: bin/gegl-options.c:129
 msgid "Print XML"
-msgstr ""
+msgstr "Вывесці XML"
 
 #: bin/gegl-options.c:131
 msgid "Output in a file"
@@ -114,7 +114,7 @@ msgstr ""
 #: operations/common/median-blur.c:34
 #: operations/common-gpl3+/fractal-explorer.c:96
 msgid "None"
-msgstr ""
+msgstr "Няма"
 
 #: gegl/buffer/gegl-buffer-enums.c:33 operations/common/gaussian-blur.c:32
 #: operations/common/gblur-1d.c:33 operations/common/median-blur.c:35
@@ -128,12 +128,12 @@ msgstr ""
 #: gegl/buffer/gegl-buffer-enums.c:35 operations/common/gaussian-blur.c:33
 #: operations/common/gblur-1d.c:34
 msgid "Black"
-msgstr ""
+msgstr "Чорны"
 
 #: gegl/buffer/gegl-buffer-enums.c:36 operations/common/gaussian-blur.c:34
 #: operations/common/gblur-1d.c:35
 msgid "White"
-msgstr ""
+msgstr "Белы"
 
 #: gegl/buffer/gegl-buffer-enums.c:63
 msgid "Read"
@@ -188,7 +188,7 @@ msgstr ""
 
 #: gegl/gegl-enums.c:36 operations/common/waterpixels.c:35
 msgid "Random"
-msgstr ""
+msgstr "Выпадковы"
 
 #: gegl/gegl-enums.c:37
 msgid "Random Covariant"
@@ -216,7 +216,7 @@ msgstr ""
 
 #: gegl/gegl-enums.c:67
 msgid "Manhattan"
-msgstr ""
+msgstr "Манхэтэн"
 
 #: gegl/gegl-enums.c:68
 msgid "Chebyshev"
@@ -225,12 +225,12 @@ msgstr ""
 #: gegl/gegl-enums.c:93 operations/common/edge-sobel.c:27
 #: operations/common/noise-spread.c:29 operations/common/spherize.c:26
 msgid "Horizontal"
-msgstr ""
+msgstr "Гарызантальны"
 
 #: gegl/gegl-enums.c:94 operations/common/edge-sobel.c:29
 #: operations/common/noise-spread.c:35 operations/common/spherize.c:27
 msgid "Vertical"
-msgstr ""
+msgstr "Вертыкальны"
 
 #: gegl/gegl-enums.c:118
 msgid "Float"
@@ -271,7 +271,7 @@ msgstr ""
 
 #: gegl/gegl-enums.c:151
 msgid "Never"
-msgstr ""
+msgstr "Ніколі"
 
 #: gegl/gegl-enums.c:152
 msgid "Always"
@@ -557,7 +557,7 @@ msgstr ""
 #: operations/workshop/boxblur.c:24
 #: operations/workshop/external/spyrograph.c:63
 msgid "Radius"
-msgstr ""
+msgstr "Радыус"
 
 #: operations/common/box-blur.c:26 operations/common/snn-mean.c:27
 #: operations/workshop/boxblur.c:25
@@ -581,7 +581,7 @@ msgstr ""
 #: operations/common/brightness-contrast.c:31 operations/common/high-pass.c:30
 #: operations/common/mantiuk06.c:31
 msgid "Contrast"
-msgstr ""
+msgstr "Кантраснасць"
 
 #: operations/common/brightness-contrast.c:32
 msgid "Magnitude of contrast scaling >1.0 brighten < 1.0 darken"
@@ -694,7 +694,7 @@ msgstr ""
 #: operations/workshop/external/line-profile.c:39
 #: operations/workshop/external/v4l2.c:26
 msgid "Width"
-msgstr ""
+msgstr "Шырыня"
 
 #: operations/common/checkerboard.c:27 operations/common/grid.c:25
 #: operations/common-gpl3+/maze.c:43
@@ -713,7 +713,7 @@ msgstr ""
 #: operations/workshop/external/line-profile.c:41
 #: operations/workshop/external/v4l2.c:28
 msgid "Height"
-msgstr ""
+msgstr "Вышыня"
 
 #: operations/common/checkerboard.c:35 operations/common/grid.c:32
 #: operations/common-gpl3+/maze.c:51
@@ -789,7 +789,7 @@ msgstr ""
 #: operations/common-gpl3+/value-propagate.c:55 operations/external/text.c:37
 #: operations/external/vector-fill.c:26 operations/external/vector-stroke.c:27
 msgid "Color"
-msgstr ""
+msgstr "Колер"
 
 #. TRANSLATORS: the string 'black' should not be translated
 #: operations/common/color.c:26
@@ -811,7 +811,7 @@ msgstr ""
 #: operations/external/lcms-from-profile.c:35
 #: operations/workshop/selective-hue-saturation.c:38
 msgid "Saturation"
-msgstr ""
+msgstr "Насычанасць"
 
 #. FIXME: With a large angle, we lose AreaFilter's flavours
 #: operations/common/color-assimilation-grid.c:35
@@ -821,7 +821,7 @@ msgstr ""
 #: operations/common-gpl3+/motion-blur-circular.c:52
 #: operations/common-gpl3+/ripple.c:45
 msgid "Angle"
-msgstr ""
+msgstr "Вугал"
 
 #: operations/common/color-assimilation-grid.c:40
 msgid "Line thickness"
@@ -906,7 +906,7 @@ msgstr ""
 
 #: operations/common/color-rotate.c:43 operations/common/color-rotate.c:56
 msgid "From"
-msgstr ""
+msgstr "Ад"
 
 #: operations/common/color-rotate.c:44
 msgid "Start angle of the source color range"
@@ -914,7 +914,7 @@ msgstr ""
 
 #: operations/common/color-rotate.c:48 operations/common/color-rotate.c:61
 msgid "To"
-msgstr ""
+msgstr "Каму"
 
 #: operations/common/color-rotate.c:49
 msgid "End angle of the source color range"
@@ -950,7 +950,7 @@ msgstr ""
 #: operations/common/noise-hsv.c:31
 #: operations/workshop/selective-hue-saturation.c:34
 msgid "Hue"
-msgstr ""
+msgstr "Адценне"
 
 #: operations/common/color-rotate.c:80
 msgid "Hue value for above gray settings"
@@ -1183,7 +1183,7 @@ msgstr ""
 #: operations/common/component-extract.c:45 operations/common/fattal02.c:33
 #: operations/common/noise-perlin.c:25 operations/common/noise-rgb.c:52
 msgid "Alpha"
-msgstr ""
+msgstr "Альфа"
 
 #: operations/common/component-extract.c:48
 msgid "Component"
@@ -1392,7 +1392,7 @@ msgstr ""
 
 #: operations/common/copy-buffer.c:25
 msgid "Buffer"
-msgstr ""
+msgstr "Буфер"
 
 #: operations/common/copy-buffer.c:26
 msgid "An already existing GeglBuffer to write incoming buffer data to, or NULL."
@@ -1434,7 +1434,7 @@ msgstr ""
 
 #: operations/common/display.c:142
 msgid "Display"
-msgstr ""
+msgstr "Дысплей"
 
 #: operations/common/display.c:144
 msgid "Display the input buffer in a window."
@@ -1729,7 +1729,7 @@ msgstr ""
 
 #: operations/common/gaussian-blur.c:53 operations/common/gblur-1d.c:55
 msgid "Filter"
-msgstr ""
+msgstr "Фільтр"
 
 #: operations/common/gaussian-blur.c:56 operations/common/gblur-1d.c:58
 msgid "How the gaussian kernel is discretized"
@@ -1770,12 +1770,12 @@ msgstr ""
 #: operations/common/gblur-1d.c:44 operations/common-cxx/warp.cc:38
 #: operations/external/text.c:32
 msgid "Size"
-msgstr ""
+msgstr "Памер"
 
 #: operations/common/gblur-1d.c:50 operations/common/wavelet-blur-1d.c:36
 #: operations/common-gpl3+/deinterlace.c:40 operations/workshop/boxblur-1d.c:33
 msgid "Orientation"
-msgstr ""
+msgstr "Арыентацыя"
 
 #: operations/common/gblur-1d.c:53 operations/common/wavelet-blur-1d.c:39
 #: operations/workshop/boxblur-1d.c:36
@@ -1802,7 +1802,7 @@ msgstr ""
 #: operations/external/webp-save.c:25 operations/workshop/external/gluas.c:37
 #: operations/workshop/rawbayer-load.c:25
 msgid "File"
-msgstr ""
+msgstr "Файл"
 
 #: operations/common/gegl-buffer-load-op.c:25
 msgid "Path of GeglBuffer file to load."
@@ -1983,11 +1983,11 @@ msgstr ""
 #: operations/common-gpl3+/texturize-canvas.c:38
 #: operations/common-gpl3+/wind.c:50
 msgid "Direction"
-msgstr ""
+msgstr "Кірунак"
 
 #: operations/common/image-gradient.c:29 operations/common-gpl3+/wind.c:40
 msgid "Both"
-msgstr ""
+msgstr "Абодва"
 
 #: operations/common/image-gradient.c:32
 msgid "Output mode"
@@ -2060,7 +2060,7 @@ msgstr ""
 
 #: operations/common/layer.c:49
 msgid "Source"
-msgstr ""
+msgstr "Крыніца"
 
 #: operations/common/layer.c:50
 msgid "Source image file path (png, jpg, raw, svg, bmp, tif, ...)"
@@ -2288,7 +2288,7 @@ msgstr ""
 
 #: operations/common/long-shadow.c:44 operations/common-gpl3+/wind.c:45
 msgid "Style"
-msgstr ""
+msgstr "Стыль"
 
 #: operations/common/long-shadow.c:47
 msgid "Shadow style"
@@ -2362,7 +2362,7 @@ msgstr ""
 
 #: operations/common/mantiuk06.c:39 operations/common-gpl3+/noise-solid.c:51
 msgid "Detail"
-msgstr ""
+msgstr "Падрабязней"
 
 #: operations/common/mantiuk06.c:40
 msgid "Level of emphasis on image gradient details"
@@ -2569,7 +2569,7 @@ msgstr ""
 
 #: operations/common/mirrors.c:80
 msgid "Expand"
-msgstr ""
+msgstr "Пашыранасць"
 
 #: operations/common/mirrors.c:84
 msgid "Clip result to input size"
@@ -2593,7 +2593,7 @@ msgstr ""
 
 #: operations/common/mix.c:25
 msgid "Ratio"
-msgstr ""
+msgstr "Суадносіны"
 
 #: operations/common/mix.c:26
 msgid "Mixing ratio, read as amount of aux, 0=input 0.5=half 1.0=aux"
@@ -2811,7 +2811,7 @@ msgstr ""
 #: operations/common-gpl3+/video-degradation.c:53
 #| msgid "Bayer pattern"
 msgid "Pattern"
-msgstr ""
+msgstr "Шаблон"
 
 #: operations/common/newsprint.c:139 operations/common/newsprint.c:148
 msgid "Black period"
@@ -2951,7 +2951,7 @@ msgstr ""
 #: operations/generated/gamma.c:29 operations/generated/multiply.c:29
 #: operations/generated/subtract.c:29
 msgid "Value"
-msgstr ""
+msgstr "Значэнне"
 
 #: operations/common/noise-hsv.c:277
 msgid "Add HSV Noise"
@@ -3003,7 +3003,7 @@ msgstr ""
 #: operations/common/noise-reduction.c:26 operations/common-cxx/warp.cc:35
 #: operations/common-gpl3+/wind.c:64
 msgid "Strength"
-msgstr ""
+msgstr "Надзейнасць"
 
 #: operations/common/noise-reduction.c:27
 msgid "Controls the number of iterations; lower values give less plastic results"
@@ -3180,7 +3180,7 @@ msgstr ""
 #: operations/common-gpl3+/lens-distortion.c:57
 #: operations/common-gpl3+/tile-paper.c:75
 msgid "Background color"
-msgstr ""
+msgstr "Колер фону"
 
 #: operations/common/pixelize.c:77
 msgid "Color used to fill the background"
@@ -3238,7 +3238,7 @@ msgstr ""
 #: operations/common/rectangle.c:89
 #| msgid "Offset angle"
 msgid "Rectangle"
-msgstr ""
+msgstr "Прамавугольнік"
 
 #: operations/common/rectangle.c:94
 msgid "A rectangular source of a fixed size with a solid color"
@@ -3412,7 +3412,7 @@ msgstr ""
 
 #: operations/common/save.c:200
 msgid "Save"
-msgstr ""
+msgstr "Захаваць"
 
 #: operations/common/save.c:203
 #| msgid ""
@@ -3490,7 +3490,7 @@ msgstr ""
 
 #: operations/common/spherize.c:30 operations/common-gpl3+/value-propagate.c:38
 msgid "Mode"
-msgstr ""
+msgstr "Рэжым"
 
 #: operations/common/spherize.c:33 operations/common-gpl3+/displace.c:33
 msgid "Displacement mode"
@@ -3635,7 +3635,7 @@ msgstr ""
 #: operations/common-gpl3+/red-eye-removal.c:31
 #: operations/common-gpl3+/wind.c:60 operations/external/matting-levin.c:33
 msgid "Threshold"
-msgstr ""
+msgstr "Парог"
 
 #: operations/common/threshold.c:28
 msgid "Scalar threshold level (overridden if an auxiliary input buffer is provided.)."
@@ -3722,7 +3722,7 @@ msgstr ""
 
 #: operations/common/vignette.c:46
 msgid "Gamma"
-msgstr ""
+msgstr "Гама"
 
 #: operations/common/vignette.c:47
 msgid "Falloff linearity"
@@ -3854,7 +3854,7 @@ msgstr ""
 #: operations/common-cxx/distance-transform.cc:30
 #: operations/workshop/voronoi-diagram.cc:24
 msgid "Metric"
-msgstr ""
+msgstr "Метрыка"
 
 #: operations/common-cxx/distance-transform.cc:32
 #: operations/workshop/voronoi-diagram.cc:27
@@ -3932,7 +3932,7 @@ msgstr ""
 
 #: operations/common-cxx/warp.cc:44
 msgid "Spacing"
-msgstr ""
+msgstr "Прамежак"
 
 #: operations/common-cxx/warp.cc:47
 msgid "Stroke"
@@ -4107,7 +4107,7 @@ msgstr ""
 
 #: operations/common-gpl3+/bump-map.c:38 operations/common-gpl3+/spiral.c:30
 msgid "Type"
-msgstr ""
+msgstr "Тып"
 
 #: operations/common-gpl3+/bump-map.c:40
 msgid "Type of map"
@@ -4658,7 +4658,7 @@ msgstr ""
 
 #: operations/common-gpl3+/edge.c:37
 msgid "Algorithm"
-msgstr ""
+msgstr "Алгарытм"
 
 #: operations/common-gpl3+/edge.c:40
 msgid "Edge detection algorithm"
@@ -5045,7 +5045,7 @@ msgstr ""
 #: operations/common-gpl3+/lens-flare.c:28
 #| msgid "X1 value, position"
 msgid "X position"
-msgstr ""
+msgstr "Пазіцыя па X"
 
 #: operations/common-gpl3+/lens-flare.c:29
 msgid "X coordinates of the flare center"
@@ -5053,7 +5053,7 @@ msgstr ""
 
 #: operations/common-gpl3+/lens-flare.c:34
 msgid "Y position"
-msgstr ""
+msgstr "Пазіцыя па Y"
 
 #: operations/common-gpl3+/lens-flare.c:35
 msgid "Y coordinates of the flare center"
@@ -5644,7 +5644,7 @@ msgstr ""
 
 #: operations/common-gpl3+/shift.c:26 operations/common-gpl3+/shift.c:144
 msgid "Shift"
-msgstr ""
+msgstr "Shift"
 
 #: operations/common-gpl3+/shift.c:27
 msgid "Maximum amount to shift"
@@ -5890,7 +5890,7 @@ msgstr ""
 
 #: operations/common-gpl3+/tile-paper.c:29
 msgid "Image"
-msgstr ""
+msgstr "Выява"
 
 #: operations/common-gpl3+/tile-paper.c:34
 msgid "Background"
@@ -5898,7 +5898,7 @@ msgstr ""
 
 #: operations/common-gpl3+/tile-paper.c:35
 msgid "Ignore"
-msgstr ""
+msgstr "Не зважаць"
 
 #: operations/common-gpl3+/tile-paper.c:36
 msgid "Force"
@@ -6204,11 +6204,11 @@ msgstr ""
 
 #: operations/common-gpl3+/wind.c:33
 msgid "Left"
-msgstr ""
+msgstr "Улева"
 
 #: operations/common-gpl3+/wind.c:34
 msgid "Right"
-msgstr ""
+msgstr "Управа"
 
 #: operations/common-gpl3+/wind.c:35
 msgid "Top"
@@ -6279,7 +6279,7 @@ msgstr ""
 
 #: operations/core/cast-format.c:27 operations/core/convert-format.c:27
 msgid "Output format"
-msgstr ""
+msgstr "Выходны фармат"
 
 #: operations/core/cast-format.c:110
 msgid "Cast Format"
@@ -6291,7 +6291,7 @@ msgstr ""
 
 #: operations/core/cast-space.c:25 operations/core/convert-space.c:25
 msgid "Name"
-msgstr ""
+msgstr "Назва"
 
 #: operations/core/cast-space.c:26 operations/core/convert-space.c:26
 msgid "One of: sRGB, Adobish, Rec2020, ProPhoto, Apple, ACEScg, ACES2065-1"
@@ -6309,7 +6309,7 @@ msgstr ""
 #: operations/external/pdf-load.c:24 operations/external/v4l.c:26
 #: operations/workshop/external/v4l2.c:24
 msgid "Path"
-msgstr ""
+msgstr "Шлях"
 
 #: operations/core/cast-space.c:30 operations/core/convert-space.c:30
 msgid "File system path to ICC matrix profile to load"
@@ -6445,7 +6445,7 @@ msgstr ""
 
 #: operations/external/ff-load.c:52 operations/external/ff-save.c:32
 msgid "audio"
-msgstr ""
+msgstr "аўдыё"
 
 #: operations/external/ff-load.c:806
 msgid "FFmpeg Frame Loader"
@@ -6605,7 +6605,7 @@ msgstr ""
 
 #: operations/external/gif-load.c:36
 msgid "frame"
-msgstr ""
+msgstr "рамка"
 
 #: operations/external/gif-load.c:37
 msgid "frame number to decode"
@@ -6860,7 +6860,7 @@ msgstr ""
 
 #: operations/external/npd.c:23
 msgid "Model"
-msgstr ""
+msgstr "Мадэль"
 
 #: operations/external/npd.c:24
 msgid "Model - basic element we operate on"
@@ -7018,7 +7018,7 @@ msgstr ""
 
 #: operations/external/pdf-load.c:30
 msgid "Page"
-msgstr ""
+msgstr "Старонка"
 
 #: operations/external/pdf-load.c:31
 msgid "Page to render"
@@ -7026,7 +7026,7 @@ msgstr ""
 
 #: operations/external/pdf-load.c:34
 msgid "Pages"
-msgstr ""
+msgstr "Старонкі"
 
 #: operations/external/pdf-load.c:35
 msgid "Total pages, provided as a visual read-only property"
@@ -7042,7 +7042,7 @@ msgstr ""
 
 #: operations/external/pdf-load.c:43
 msgid "Password"
-msgstr ""
+msgstr "Пароль"
 
 #: operations/external/pdf-load.c:44
 msgid "Password to use for decryption of PDF, or blank for none"
@@ -7090,7 +7090,7 @@ msgstr ""
 
 #: operations/external/png-save.c:28
 msgid "Compression"
-msgstr ""
+msgstr "Сцісканне"
 
 #: operations/external/png-save.c:29
 msgid "PNG compression level from 1 to 9"
@@ -7254,7 +7254,7 @@ msgstr ""
 
 #: operations/external/text.c:25
 msgid "Text"
-msgstr ""
+msgstr "Тэкст"
 
 #: operations/external/text.c:26
 msgid "String to display (utf8)"
@@ -7262,7 +7262,7 @@ msgstr ""
 
 #: operations/external/text.c:29
 msgid "Font family"
-msgstr ""
+msgstr "Сямейства шрыфтоў"
 
 #: operations/external/text.c:30
 msgid "Font family (utf8)"
@@ -7279,7 +7279,7 @@ msgstr ""
 
 #: operations/external/text.c:41
 msgid "Wrap width"
-msgstr ""
+msgstr "Шырыня пераносу"
 
 #: operations/external/text.c:42
 msgid "Sets the width in pixels at which long lines will wrap. Use -1 for no wrapping."
@@ -7299,7 +7299,7 @@ msgstr ""
 
 #: operations/external/text.c:53
 msgid "Justification"
-msgstr ""
+msgstr "Выраўноўванне"
 
 #: operations/external/text.c:55
 msgid "Alignment for multi-line text (0=Left, 1=Center, 2=Right)"
@@ -7839,7 +7839,7 @@ msgstr ""
 
 #: operations/workshop/connected-components.c:25
 msgid "Separator"
-msgstr ""
+msgstr "Падзяляльнік"
 
 #: operations/workshop/connected-components.c:26
 msgid "Component separator color"
@@ -7909,7 +7909,7 @@ msgstr ""
 
 #: operations/workshop/external/gluas.c:29
 msgid "Script"
-msgstr ""
+msgstr "Скрыпт"
 
 #: operations/workshop/external/gluas.c:30
 msgid "The lua script containing the implementation of this operation."
@@ -8142,7 +8142,7 @@ msgstr ""
 #: operations/workshop/external/spyrograph.c:34
 #| msgid "Wave type"
 msgid "Curve type"
-msgstr ""
+msgstr "Тып крывой"
 
 #: operations/workshop/external/spyrograph.c:36
 msgid "Fixed Gear Teeth"
@@ -8354,7 +8354,7 @@ msgstr ""
 
 #: operations/workshop/voronoi-diagram.cc:29
 msgid "Mask"
-msgstr ""
+msgstr "Маска"
 
 #: operations/workshop/voronoi-diagram.cc:30
 msgid "Unseeded region color"

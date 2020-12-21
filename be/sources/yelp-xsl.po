@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: 98e6872775a91bf27122ff608b6db605\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/yelp-xsl/issues\n"
 "POT-Creation-Date: 2019-05-23 16:51+0000\n"
-"PO-Revision-Date: 2020-10-01 08:06\n"
+"PO-Revision-Date: 2020-12-21 10:56\n"
 "Last-Translator: Zander Brown <zbrown@gnome.org>\n"
 "Language-Team: Belarusian\n"
 "Language: be_BY\n"
@@ -27,7 +27,7 @@ msgstr ""
 #.
 #: yelp-xsl.xml.in:34
 msgid "default:LTR"
-msgstr "прадвызначана:LTR"
+msgstr "default:LTR"
 
 #. (itstool) path: msg/msgstr
 #. This is used a simple list item seperator in places where simple

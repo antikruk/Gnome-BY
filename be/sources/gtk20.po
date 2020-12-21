@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: 98e6872775a91bf27122ff608b6db605\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-07 23:06+0000\n"
-"PO-Revision-Date: 2020-10-01 08:07\n"
+"PO-Revision-Date: 2020-12-21 10:57\n"
 "Last-Translator: Bruce Cowan <bruce@bcowan.me.uk>\n"
 "Language-Team: Belarusian\n"
 "Language: be_BY\n"
@@ -1499,7 +1499,7 @@ msgstr "Адразу за_быцца на пароль"
 
 #: ../gtk/gtkmountoperation.c:642
 msgid "Remember password until you _logout"
-msgstr "Помніць пароль да _выхаду з сеансу"
+msgstr "Помніць пароль да _выхаду з сеанса"
 
 #: ../gtk/gtkmountoperation.c:652
 msgid "Remember _forever"

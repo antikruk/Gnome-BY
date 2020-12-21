@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: 98e6872775a91bf27122ff608b6db605\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/seahorse/issues\n"
 "POT-Creation-Date: 2020-07-13 16:23+0000\n"
-"PO-Revision-Date: 2020-10-01 08:06\n"
+"PO-Revision-Date: 2020-12-21 10:56\n"
 "Last-Translator: Bruce Cowan <bruce@bcowan.me.uk>\n"
 "Language-Team: Belarusian\n"
 "Language: be_BY\n"
@@ -902,12 +902,12 @@ msgstr "24hr: yes"
 #: libegg/egg-datetime.c:796 libegg/egg-datetime.c:1264
 #: libegg/egg-datetime.c:1268
 msgid "AM"
-msgstr "да поўдня"
+msgstr "AM"
 
 #: libegg/egg-datetime.c:798 libegg/egg-datetime.c:1265
 #: libegg/egg-datetime.c:1272
 msgid "PM"
-msgstr "пасля поўдня"
+msgstr "PM"
 
 #. Translators: This is hh:mm:ss AM/PM.
 #: libegg/egg-datetime.c:806
@@ -1707,7 +1707,7 @@ msgstr "Ніколі"
 
 #: pgp/seahorse-pgp-key-properties.c:1278
 msgid "ID"
-msgstr "Ідэнтыфікатар"
+msgstr "ID"
 
 #: pgp/seahorse-pgp-key-properties.c:1284
 msgid "Usage"

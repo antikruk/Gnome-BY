@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: 98e6872775a91bf27122ff608b6db605\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-09-17 18:50+0000\n"
-"PO-Revision-Date: 2020-10-01 08:06\n"
+"PO-Revision-Date: 2020-12-21 10:56\n"
 "Last-Translator: Bruce Cowan <bruce@bcowan.me.uk>\n"
 "Language-Team: Belarusian\n"
 "Language: be_BY\n"
@@ -21,7 +21,7 @@ msgstr ""
 #: gdk/broadway/gdkbroadway-server.c:133
 #, c-format
 msgid "Broadway display type not supported: %s"
-msgstr "Тып дысплея broadway не падтрымліваецца:  %s"
+msgstr "Тып дысплея broadway не падтрымліваецца: %s"
 
 #: gdk/gdkclipboard.c:239
 msgid "This clipboard cannot store data."
@@ -48,7 +48,7 @@ msgstr "Не атрымалася падаць змесціва як %s"
 
 #: gdk/gdkdrop.c:118
 msgid "Drag’n’drop from other applications is not supported."
-msgstr ""
+msgstr "Перацягванне з іншых праграм не падтрымліваецца."
 
 #: gdk/gdkdrop.c:151
 msgid "No compatible formats to transfer contents."
@@ -376,7 +376,7 @@ msgstr "Пошук"
 #: gdk/keyname-table.h:6903
 msgctxt "keyboard label"
 msgid "Tools"
-msgstr "Прылады"
+msgstr "Інструменты"
 
 #: gdk/keyname-table.h:6904
 msgctxt "keyboard label"
@@ -453,11 +453,11 @@ msgstr "Сумяшчальнага фармату перадачы не зной
 #: gdk/macos/gdkmacosclipboard.c:289
 #, c-format
 msgid "Failed to decode contents with mime-type of '%s'"
-msgstr ""
+msgstr "Не атрымалася дэкадаваць змесціва з тыпам mime \"%s\""
 
 #: gdk/macos/gdkmacosglcontext.c:105
 msgid "Unable to create a GL pixel format"
-msgstr ""
+msgstr "Не атрымалася стварыць фармат пікселяў GL"
 
 #: gdk/macos/gdkmacosglcontext.c:116 gdk/wayland/gdkglcontext-wayland.c:151
 #: gdk/win32/gdkglcontext-win32.c:947 gdk/win32/gdkglcontext-win32.c:988
@@ -615,7 +615,7 @@ msgstr "Не хапіла месца ў буферы (памер буферу ф
 
 #: gdk/win32/gdkhdataoutputstream-win32.c:204
 msgid "Can’t transmute a single handle"
-msgstr ""
+msgstr "Не атрымалася пераўтварыць асобны пераключальнік"
 
 #: gdk/win32/gdkhdataoutputstream-win32.c:216
 #, c-format
@@ -633,12 +633,12 @@ msgstr "Хіба GlobalAlloc(): "
 #: gdk/x11/gdkapplaunchcontext-x11.c:290
 #, c-format
 msgid "Starting “%s”"
-msgstr ""
+msgstr "Запуск \"%s\""
 
 #: gdk/x11/gdkapplaunchcontext-x11.c:303
 #, c-format
 msgid "Opening “%s”"
-msgstr ""
+msgstr "Адкрыццё \"%s\""
 
 #: gdk/x11/gdkapplaunchcontext-x11.c:308
 #, c-format
@@ -692,17 +692,17 @@ msgstr "Непадтрымліваемае кадаванне \"%s\""
 #: gtk/css/gtkcssdataurl.c:70
 #, c-format
 msgid "Not a data: URL"
-msgstr ""
+msgstr "Не даныя: URL"
 
 #: gtk/css/gtkcssdataurl.c:83
 #, c-format
 msgid "Malformed data: URL"
-msgstr ""
+msgstr "Пашкоджаныя даныя: URL"
 
 #: gtk/css/gtkcssdataurl.c:141
 #, c-format
 msgid "Could not unescape string"
-msgstr ""
+msgstr "Не атрымалася прыбраць радок"
 
 #: gtk/gtkaboutdialog.c:123 gtk/ui/gtkaboutdialog.ui:159
 msgid "License"
@@ -770,11 +770,11 @@ msgstr "Ліцэнзія BSD 3-Clause"
 
 #: gtk/gtkaboutdialog.c:139
 msgid "Apache License, Version 2.0"
-msgstr ""
+msgstr "Ліцэнзія Apache, версія 2.0"
 
 #: gtk/gtkaboutdialog.c:140
 msgid "Mozilla Public License 2.0"
-msgstr ""
+msgstr "Публічная ліцэнзія Mozilla версіі 2.0"
 
 #: gtk/gtkaboutdialog.c:732
 msgid "C_redits"
@@ -897,7 +897,7 @@ msgstr "Meta"
 #: gtk/gtkaccelgroup.c:939
 msgctxt "keyboard label"
 msgid "KP"
-msgstr ""
+msgstr "Лічбавая клавіятура"
 
 #: gtk/gtkaccelgroup.c:946
 msgctxt "keyboard label"
@@ -971,7 +971,7 @@ msgstr "Іншыя праграмы"
 #.
 #: gtk/gtkapplication-dbus.c:696
 msgid "Reason not specified"
-msgstr ""
+msgstr "Прычына не вызначаная"
 
 #: gtk/gtkbookmarksmanager.c:51
 #, c-format
@@ -1234,7 +1234,7 @@ msgstr "Назвы файлаў не могуць заканчвацца пра�
 
 #: gtk/gtkfilechoosererrorstack.c:105
 msgid "Folder names starting with a “.” are hidden"
-msgstr "Каталогі, назвы якіх пачынаюцца з \".\", з’яўляюцца схаванымі"
+msgstr "Каталогі, назвы якіх пачынаюцца з \".\", ёсць схаванымі"
 
 #: gtk/gtkfilechoosererrorstack.c:109
 msgid "File names starting with a “.” are hidden"
@@ -1274,7 +1274,7 @@ msgstr "За_хаваць"
 
 #: gtk/gtkfilechoosernativequartz.c:337 gtk/ui/gtkfilechooserwidget.ui:345
 msgid "Select which types of files are shown"
-msgstr "Абярыце, файлы якога тыпу паказваць"
+msgstr "Абярыце файлы якога тыпу паказваць"
 
 #. Translators: the first string is a path and the second string
 #. * is a hostname. Nautilus and the panel contain the same string
@@ -1316,7 +1316,7 @@ msgstr "Можна абраць толькі каталогі"
 
 #: gtk/gtkfilechooserwidget.c:764
 msgid "The item that you selected is not a folder try using a different item."
-msgstr "Элемент, што вы абралі, не з’яўляецца каталогам. Паспрабуйце іншы элемент."
+msgstr "Элемент, што вы абралі, не ёсць каталогам. Паспрабуйце іншы элемент."
 
 #: gtk/gtkfilechooserwidget.c:772
 msgid "Invalid file name"
@@ -1392,7 +1392,7 @@ msgstr "Паказваць _слупок памераў"
 
 #: gtk/gtkfilechooserwidget.c:1850
 msgid "Show T_ype Column"
-msgstr ""
+msgstr "Паказваць слупок _тыпу"
 
 #: gtk/gtkfilechooserwidget.c:1854
 msgid "Show _Time"
@@ -1400,7 +1400,7 @@ msgstr "Паказваць _час"
 
 #: gtk/gtkfilechooserwidget.c:1858
 msgid "Sort _Folders Before Files"
-msgstr ""
+msgstr "Размяшчаць _каталогі перад файламі"
 
 #. this is the header for the location column in the print dialog
 #: gtk/gtkfilechooserwidget.c:2256 gtk/inspector/css-node-tree.ui:135
@@ -1463,11 +1463,11 @@ msgstr "%-e %b %Y"
 
 #: gtk/gtkfilechooserwidget.c:4305 gtk/gtkfilechooserwidget.c:4313
 msgid "Program"
-msgstr ""
+msgstr "Праграма"
 
 #: gtk/gtkfilechooserwidget.c:4306
 msgid "Audio"
-msgstr ""
+msgstr "Аўдыё"
 
 #: gtk/gtkfilechooserwidget.c:4307 gtk/gtkfontbutton.c:549
 #: gtk/inspector/visual.ui:187
@@ -1492,27 +1492,27 @@ msgstr "Тэкст"
 
 #: gtk/gtkfilechooserwidget.c:4314
 msgid "Video"
-msgstr ""
+msgstr "Відэа"
 
 #: gtk/gtkfilechooserwidget.c:4315
 msgid "Contacts"
-msgstr ""
+msgstr "Кантакты"
 
 #: gtk/gtkfilechooserwidget.c:4316
 msgid "Calendar"
-msgstr ""
+msgstr "Каляндар"
 
 #: gtk/gtkfilechooserwidget.c:4317
 msgid "Document"
-msgstr ""
+msgstr "Дакумент"
 
 #: gtk/gtkfilechooserwidget.c:4318
 msgid "Presentation"
-msgstr ""
+msgstr "Прэзентацыя"
 
 #: gtk/gtkfilechooserwidget.c:4319
 msgid "Spreadsheet"
-msgstr ""
+msgstr "Табліца"
 
 #. Translators: We don't know whether this printer is
 #. * available to print to.
@@ -1778,11 +1778,11 @@ msgstr "_Схаваны"
 
 #: gtk/gtkmountoperation.c:724
 msgid "_Windows system"
-msgstr ""
+msgstr "_Сістэма Windows"
 
 #: gtk/gtkmountoperation.c:727
 msgid "_PIM"
-msgstr ""
+msgstr "_PIM"
 
 #: gtk/gtkmountoperation.c:733
 msgid "_Password"
@@ -1794,7 +1794,7 @@ msgstr "Адразу за_быцца на пароль"
 
 #: gtk/gtkmountoperation.c:765
 msgid "Remember password until you _logout"
-msgstr "Помніць пароль да _выхаду з сеансу"
+msgstr "Помніць пароль да _выхаду з сеанса"
 
 #: gtk/gtkmountoperation.c:776
 msgid "Remember _forever"
@@ -1894,7 +1894,7 @@ msgstr "Наладка старонкі"
 
 #: gtk/gtkpasswordentry.c:150
 msgid "Hide text"
-msgstr ""
+msgstr "Схаваць тэкст"
 
 #: gtk/gtkpasswordentry.c:155 gtk/gtkpasswordentry.c:522
 msgid "Show text"
@@ -1906,7 +1906,7 @@ msgstr "Caps Lock уключаны"
 
 #: gtk/gtkpasswordentry.c:597
 msgid "_Show Text"
-msgstr ""
+msgstr "_Паказваць тэкст"
 
 #. translators: %s is the name of a cloud provider for files
 #: gtk/gtkplacessidebar.c:913
@@ -1991,7 +1991,7 @@ msgstr "Не атрымалася запусціць \"%s\""
 #: gtk/gtkplacessidebar.c:1996
 #, c-format
 msgid "Error unlocking “%s”"
-msgstr ""
+msgstr "Не атрымалася разблакаваць \"%s\""
 
 #: gtk/gtkplacessidebar.c:1998
 #, c-format
@@ -2493,7 +2493,7 @@ msgstr "Не знойдзена зарэгістраваных праграм з
 
 #: gtk/gtksearchentry.c:528
 msgid "Clear entry"
-msgstr ""
+msgstr "Ачысціць запіс"
 
 #. Translators: This string is used to mark left/right variants of modifier
 #. * keys in the shortcut window (e.g. Control_L vs Control_R). Please keep
@@ -2614,12 +2614,12 @@ msgstr "%d%%"
 #: gtk/gtkwindow.c:6637
 #, c-format
 msgid "Do you want to use GTK Inspector?"
-msgstr ""
+msgstr "Хочаце выкарыстоўваць інспектара GTK?"
 
 #: gtk/gtkwindow.c:6639
 #, c-format
 msgid "GTK Inspector is an interactive debugger that lets you explore and modify the internals of any GTK application. Using it may cause the application to break or crash."
-msgstr ""
+msgstr "Інспектар GTK — інтэрактыўны адладчык, што дазваляе даследаваць і змяняць унутраныя даныя любой праграмы GTK. Выкарыстанне інспектара можа выклікаць крушэнне праграмы."
 
 #: gtk/gtkwindow.c:6644
 msgid "Don’t show this message again"
@@ -2660,7 +2660,7 @@ msgstr "Актываваць"
 
 #: gtk/inspector/action-editor.c:335
 msgid "Set State"
-msgstr ""
+msgstr "Вызначыць стан"
 
 #: gtk/inspector/actions.ui:30
 msgid "Enabled"
@@ -2697,7 +2697,7 @@ msgstr "Мэта"
 
 #: gtk/inspector/css-editor.c:129
 msgid "You can type here any CSS rule recognized by GTK."
-msgstr ""
+msgstr "Тут можна ўвесці любое правіла CSS, зразумелае GTK."
 
 #: gtk/inspector/css-editor.c:130
 msgid "You can temporarily disable this custom CSS by clicking on the “Pause” button above."
@@ -2754,7 +2754,7 @@ msgstr "Няма"
 
 #: gtk/inspector/general.ui:32
 msgid "GTK Version"
-msgstr ""
+msgstr "Версія GTK"
 
 #: gtk/inspector/general.ui:58
 msgid "GDK Backend"
@@ -2766,11 +2766,11 @@ msgstr "Адмалёўшчык GSK"
 
 #: gtk/inspector/general.ui:110
 msgid "Pango Fontmap"
-msgstr ""
+msgstr "Pango Fontmap"
 
 #: gtk/inspector/general.ui:136
 msgid "Media Backend"
-msgstr ""
+msgstr "Рухавік медыя"
 
 #: gtk/inspector/general.ui:175 gtk/ui/gtkplacesview.ui:80
 msgid "Prefix"
@@ -2873,7 +2873,7 @@ msgstr "Уласцівасці"
 
 #: gtk/inspector/misc-info.ui:336
 msgid "Renderer"
-msgstr ""
+msgstr "Адмалёўшчык"
 
 #: gtk/inspector/misc-info.ui:375
 msgid "Frame Clock"
@@ -2918,7 +2918,7 @@ msgstr "Паказальнік: %p"
 #: gtk/inspector/prop-editor.c:788
 #, c-format
 msgid "%s with value \"%s\""
-msgstr ""
+msgstr "%s са значэннем \"%s\""
 
 #. Translators: Both %s are type names, for example
 #. * GtkPropertyExpression with type GObject
@@ -2926,7 +2926,7 @@ msgstr ""
 #: gtk/inspector/prop-editor.c:799
 #, c-format
 msgid "%s with type %s"
-msgstr ""
+msgstr "%s з тыпам %s"
 
 #. Translators: Both %s are type names, for example
 #. * GtkObjectExpression for GtkStringObject 0x23456789
@@ -2934,7 +2934,7 @@ msgstr ""
 #: gtk/inspector/prop-editor.c:812
 #, c-format
 msgid "%s for %s %p"
-msgstr ""
+msgstr "%s для %s %p"
 
 #. Translators: Both %s are type names, for example
 #. * GtkPropertyExpression with value type: gchararray
@@ -2942,7 +2942,7 @@ msgstr ""
 #: gtk/inspector/prop-editor.c:842
 #, c-format
 msgid "%s with value type %s"
-msgstr ""
+msgstr "%s з тыпам значэння %s"
 
 #: gtk/inspector/prop-editor.c:1122
 #, c-format
@@ -2972,7 +2972,7 @@ msgstr "Слупок:"
 #: gtk/inspector/prop-editor.c:1410
 #, c-format
 msgid "Action from: %p (%s)"
-msgstr ""
+msgstr "Дзеянне з: %p (%s)"
 
 #: gtk/inspector/prop-editor.c:1465
 msgid "Reset"
@@ -3030,7 +3030,7 @@ msgstr "Дадаць адладачныя вузлы"
 
 #: gtk/inspector/recorder.ui:44
 msgid "Use a dark background"
-msgstr ""
+msgstr "Выкарыстоўваць цёмны фон"
 
 #: gtk/inspector/recorder.ui:53
 msgid "Save selected node"
@@ -3067,7 +3067,7 @@ msgstr "Памер:"
 
 #: gtk/inspector/shortcuts.ui:17
 msgid "Trigger"
-msgstr ""
+msgstr "Трыгер"
 
 #: gtk/inspector/size-groups.c:226
 msgctxt "sizegroup mode"
@@ -3095,7 +3095,7 @@ msgstr "Рэжым"
 
 #: gtk/inspector/statistics.c:400
 msgid "GLib must be configured with -Dbuildtype=debug"
-msgstr ""
+msgstr "GLib мусіць быць наладжаны з -Dbuildtype=debug"
 
 #: gtk/inspector/statistics.ui:60
 msgid "Self 1"
@@ -3131,11 +3131,11 @@ msgstr "Паказаць даныя"
 
 #: gtk/inspector/type-info.ui:14
 msgid "Hierarchy"
-msgstr ""
+msgstr "Іерархія"
 
 #: gtk/inspector/type-info.ui:35
 msgid "Implements"
-msgstr ""
+msgstr "Інвентар"
 
 #: gtk/inspector/visual.c:602 gtk/inspector/visual.c:621
 msgid "Theme is hardcoded by GTK_THEME"
@@ -3151,7 +3151,7 @@ msgstr "Адмалёўка GL выключаная"
 
 #: gtk/inspector/visual.ui:59
 msgid "GTK Theme"
-msgstr ""
+msgstr "Тэма GTK"
 
 #: gtk/inspector/visual.ui:83
 msgid "Dark Variant"
@@ -3207,7 +3207,7 @@ msgstr "Паказваць графічныя абнаўленні"
 
 #: gtk/inspector/visual.ui:434
 msgid "Show Fallback Rendering"
-msgstr ""
+msgstr "Паказваць рэзервовую адмалёўку"
 
 #: gtk/inspector/visual.ui:459
 msgid "Show Baselines"
@@ -3219,7 +3219,7 @@ msgstr "Паказваць межы макета"
 
 #: gtk/inspector/visual.ui:509
 msgid "Show Focus"
-msgstr ""
+msgstr "Паказаць фокус"
 
 #: gtk/inspector/visual.ui:548
 msgid "Simulate Touchscreen"
@@ -3255,31 +3255,31 @@ msgstr "Аб’екты"
 
 #: gtk/inspector/window.ui:223
 msgid "Toggle Sidebar"
-msgstr ""
+msgstr "Пераключыць бакавую панэль"
 
 #: gtk/inspector/window.ui:255
 msgid "Refresh action state"
-msgstr ""
+msgstr "Абнавіць стан дзеяння"
 
 #: gtk/inspector/window.ui:340
 msgid "Previous object"
-msgstr ""
+msgstr "Папярэдні аб’ект"
 
 #: gtk/inspector/window.ui:350
 msgid "Child object"
-msgstr ""
+msgstr "Дачынны аб’ект"
 
 #: gtk/inspector/window.ui:360
 msgid "Previous sibling"
-msgstr ""
+msgstr "Папярэдні сіблінг"
 
 #: gtk/inspector/window.ui:369
 msgid "List Position"
-msgstr ""
+msgstr "Пазіцыя ў спісе"
 
 #: gtk/inspector/window.ui:375
 msgid "Next sibling"
-msgstr ""
+msgstr "Наступны сіблінг"
 
 #: gtk/inspector/window.ui:408
 msgid "Miscellaneous"
@@ -3311,15 +3311,15 @@ msgstr "Меню"
 
 #: gtk/inspector/window.ui:499
 msgid "Controllers"
-msgstr ""
+msgstr "Кантролеры"
 
 #: gtk/inspector/window.ui:509
 msgid "Magnifier"
-msgstr "Павялічальнік"
+msgstr "Павелічальнік"
 
 #: gtk/inspector/window.ui:530
 msgid "Accessibility"
-msgstr ""
+msgstr "Адмысловыя магчымасці"
 
 #: gtk/inspector/window.ui:554
 msgid "Global"
@@ -3396,7 +3396,7 @@ msgstr "Пазіцыянаванне пад базавай адзнакай"
 #: gtk/open-type-layout.h:21
 msgctxt "OpenType layout"
 msgid "Below-base Substitutions"
-msgstr "Падбазаавыя замены"
+msgstr "Падбазавыя замены"
 
 #: gtk/open-type-layout.h:22
 msgctxt "OpenType layout"
@@ -4906,7 +4906,7 @@ msgstr "Канверт prc10"
 #: gtk/paper_names_offsets.c:174
 msgctxt "paper size"
 msgid "prc 16k"
-msgstr "prc 16k"
+msgstr "канверт prc 16k"
 
 #: gtk/paper_names_offsets.c:175
 msgctxt "paper size"
@@ -4921,7 +4921,7 @@ msgstr "Канверт prc3"
 #: gtk/paper_names_offsets.c:177
 msgctxt "paper size"
 msgid "prc 32k"
-msgstr "prc 32k"
+msgstr "канверт prc 32k"
 
 #: gtk/paper_names_offsets.c:178
 msgctxt "paper size"
@@ -5356,7 +5356,7 @@ msgstr "Бамум"
 #: gtk/script-names.c:94
 msgctxt "Script"
 msgid "Egyptian Hieroglyphs"
-msgstr ""
+msgstr "Егіпецкія іерогліфы"
 
 #: gtk/script-names.c:95
 msgctxt "Script"
@@ -5703,47 +5703,60 @@ msgid "Usage:\n"
 "  --id=ID      Preview only the named object\n"
 "  --css=FILE   Use style from CSS file\n\n"
 "Perform various tasks on GtkBuilder .ui files.\n"
-msgstr ""
+msgstr "Выкарыстанне:\n"
+"  gtk-builder-tool [ЗАГАД] [ПАРАМЕТР…] ФАЙЛ\n\n"
+"Загады:\n"
+"  validate     Праверыць файл\n"
+"  simplify     Спрасціць файл\n"
+"  enumerate    Спіс усіх названых аб'ектаў\n"
+"  preview      Папярэдні прагляд файла\n\n"
+"Simplify Options:\n"
+"  --replace    Замяніць файл\n"
+"  --3to4       Пераўтварыць з GTK у to GTK 4\n\n"
+"Параметры папярэдняга прагляду:\n"
+"  --id=ID      Папярэдні прагляд толькі названага аб'екта\n"
+"  --css=FILE   Выкарыстоўваць стыль з файла CSS\n\n"
+"Выконваць розныя задачы ў файлах GtkBuilder .ui.\n"
 
 #: gtk/tools/gtk-builder-tool-simplify.c:488
 #, c-format
 msgid "%s:%d: Couldn’t parse value for property '%s': %s\n"
-msgstr ""
+msgstr "%s:%d: не атрымалася разабраць значэнне ўласцівасці \"%s\": %s\n"
 
 #: gtk/tools/gtk-builder-tool-simplify.c:624
 #, c-format
 msgid "%s:%d: %sproperty %s::%s not found\n"
-msgstr ""
+msgstr "%s:%d: %sуласцівасць %s::%s не знойдзеная\n"
 
 #: gtk/tools/gtk-builder-tool-simplify.c:2102
 #, c-format
 msgid "Can’t load “%s”: %s\n"
-msgstr ""
+msgstr "Не атрымалася загрузіць \"%s\": %s\n"
 
 #: gtk/tools/gtk-builder-tool-simplify.c:2113
 #, c-format
 msgid "Can’t parse “%s”: %s\n"
-msgstr ""
+msgstr "Не атрымалася разабраць \"%s\": %s\n"
 
 #: gtk/tools/gtk-builder-tool-simplify.c:2137
 #, c-format
 msgid "Failed to read “%s”: %s\n"
-msgstr ""
+msgstr "Не атрымалася прачытаць \"%s\": %s\n"
 
 #: gtk/tools/gtk-builder-tool-simplify.c:2143
 #, c-format
 msgid "Failed to write %s: “%s”\n"
-msgstr ""
+msgstr "Не атрымалася запісаць %s: \"%s\"\n"
 
 #: gtk/tools/gtk-builder-tool-simplify.c:2183
 #, c-format
 msgid "No .ui file specified\n"
-msgstr ""
+msgstr "Файл .ui не вызначаны\n"
 
 #: gtk/tools/gtk-builder-tool-simplify.c:2189
 #, c-format
 msgid "Can only simplify a single .ui file without --replace\n"
-msgstr ""
+msgstr "Можа спрасціць толькі асобны файл .ui без --replace\n"
 
 #: gtk/tools/gtk-launch.c:40
 msgid "Show program version"
@@ -5972,7 +5985,7 @@ msgstr "Абраць колер"
 
 #: gtk/ui/gtkcoloreditor.ui:43
 msgid "Pick a color from the screen"
-msgstr ""
+msgstr "Абраць колер з экрана"
 
 #: gtk/ui/gtkcoloreditor.ui:143
 msgctxt "Color channel"
@@ -5996,7 +6009,7 @@ msgstr "V"
 
 #: gtk/ui/gtkdropdown.ui:62
 msgid "Search…"
-msgstr ""
+msgstr "Пошук…"
 
 #: gtk/ui/gtkemojichooser.ui:61 gtk/ui/gtkemojichooser.ui:228
 msgctxt "emoji category"
