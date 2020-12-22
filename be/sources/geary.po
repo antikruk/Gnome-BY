@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: 98e6872775a91bf27122ff608b6db605\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/geary/issues\n"
 "POT-Creation-Date: 2020-08-29 01:59+0000\n"
-"PO-Revision-Date: 2020-12-21 10:57\n"
+"PO-Revision-Date: 2020-12-22 10:53\n"
 "Last-Translator: Bruce Cowan <bruce@bcowan.me.uk>\n"
 "Language-Team: Belarusian\n"
 "Language: be_BY\n"
@@ -123,7 +123,7 @@ msgstr "Разгарнуць акно"
 
 #: desktop/org.gnome.Geary.gschema.xml:9
 msgid "True if the application window is maximized, false otherwise."
-msgstr "Ісціна, калі акно праграмы разгорнутае, хлусня - у адваротным выпадку."
+msgstr "\"true\", калі акно праграмы разгорнутае, \"false\" - у адваротным выпадку."
 
 #: desktop/org.gnome.Geary.gschema.xml:14
 msgid "Width of window"
@@ -179,7 +179,7 @@ msgstr "Паказаць / схаваць панэль фарматавання"
 
 #: desktop/org.gnome.Geary.gschema.xml:51
 msgid "True if the formatting toolbar in the composer is shown."
-msgstr "Ісціна, калі ў рэдактары паказваецца панэль фарматавання."
+msgstr "\"true\", калі ў рэдактары паказваецца панэль фарматавання."
 
 #: desktop/org.gnome.Geary.gschema.xml:56
 msgid "Position of message list pane"
@@ -195,7 +195,7 @@ msgstr "Аўтаматычна пераходзіць да наступнага 
 
 #: desktop/org.gnome.Geary.gschema.xml:63
 msgid "True if we should autoselect the next available conversation."
-msgstr "\"Ісціна\" - аўтаматычна пераходзіць да наступнай даступнай гутаркі."
+msgstr "\"true\" - аўтаматычна пераходзіць да наступнай даступнай гутаркі."
 
 #: desktop/org.gnome.Geary.gschema.xml:68
 msgid "Display message previews"
@@ -203,7 +203,7 @@ msgstr "Паказваць мініяцюры лістоў"
 
 #: desktop/org.gnome.Geary.gschema.xml:69
 msgid "True if we should display a short preview of each message."
-msgstr "\"Ісціна\" - спрошчаны папярэдні прагляд кожнага ліста."
+msgstr "\"true\" - спрошчаны папярэдні прагляд кожнага ліста."
 
 #: desktop/org.gnome.Geary.gschema.xml:74
 msgid "Use single key shortcuts"
@@ -235,7 +235,7 @@ msgstr "Апавяшчаць аб новых лістах падчас запу�
 
 #: desktop/org.gnome.Geary.gschema.xml:97
 msgid "True to notify of new mail at startup."
-msgstr "\"Ісціна\", каб апавяшчаць пра новыя лістах падчас запуску."
+msgstr "\"true\", каб апавяшчаць пра новыя лісты падчас запуску."
 
 #: desktop/org.gnome.Geary.gschema.xml:102
 msgid "Ask when opening an attachment"
@@ -243,7 +243,7 @@ msgstr "Пытацца падчас адкрыцця ўкладзеных фай
 
 #: desktop/org.gnome.Geary.gschema.xml:103
 msgid "True to ask when opening an attachment."
-msgstr "\"Ісціна\", каб пытацца пры адкрыцці ўкладзеных файлаў."
+msgstr "\"true\", каб пытацца пры адкрыцці ўкладзеных файлаў."
 
 #: desktop/org.gnome.Geary.gschema.xml:108
 msgid "Whether to compose emails in HTML"
@@ -251,7 +251,7 @@ msgstr "Ці пісаць лісты ў HTML"
 
 #: desktop/org.gnome.Geary.gschema.xml:109
 msgid "True to compose emails in HTML; false for plain text."
-msgstr "\"Ісціна\" - пісаць лісты ў HTML; \"хлусня\" - простым тэкстам."
+msgstr "\"true\" - пісаць лісты ў HTML; \"false\" - простым тэкстам."
 
 #: desktop/org.gnome.Geary.gschema.xml:114
 msgid "Advisory strategy for full-text searching"
@@ -307,7 +307,7 @@ msgstr "Ці можна перанесці старыя налады"
 
 #: desktop/org.gnome.Geary.gschema.xml:153
 msgid "False to check for the old “org.yorba.geary”-schema and copy its values."
-msgstr "\"Хлусня\" - правяраць старую схему “org.yorba.geary” і капіяваць яе значэнні."
+msgstr "\"false\" - правяраць старую схему “org.yorba.geary” і капіяваць яе значэнні."
 
 #. Translators: In-app notification label, when
 #. the app had a problem pinning an otherwise
