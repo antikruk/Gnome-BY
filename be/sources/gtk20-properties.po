@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: 98e6872775a91bf27122ff608b6db605\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-07 23:08+0000\n"
-"PO-Revision-Date: 2020-12-21 10:57\n"
+"PO-Revision-Date: 2020-12-22 10:53\n"
 "Last-Translator: Bruce Cowan <bruce@bcowan.me.uk>\n"
 "Language-Team: Belarusian\n"
 "Language: be_BY\n"
@@ -275,7 +275,7 @@ msgstr "Важна"
 
 #: ../gtk/gtkaction.c:364
 msgid "Whether the action is considered important. When TRUE, toolitem proxies for this action show text in GTK_TOOLBAR_BOTH_HORIZ mode."
-msgstr "Ці з’яўляецца дзеянне важным. Калі вызначана TRUE, проксі элементаў панэлі для дзеяння будуць паказваць тэкст у рэжыме GTK_TOOLBAR_BOTH_HORIZ."
+msgstr "Ці важнае дзеянне. Калі вызначана TRUE, проксі элементаў панэлі для дзеяння будуць паказваць тэкст у рэжыме GTK_TOOLBAR_BOTH_HORIZ."
 
 #: ../gtk/gtkaction.c:372
 msgid "Hide if empty"
@@ -1011,7 +1011,7 @@ msgstr "Пашыраны"
 
 #: ../gtk/gtkcellrenderer.c:271
 msgid "Row is an expander row, and is expanded"
-msgstr "Радок з’яўляецца пашыраемым, ён пашыраны"
+msgstr "Радок пашыраемы, ён пашыраны"
 
 #: ../gtk/gtkcellrenderer.c:278
 msgid "Cell background color name"
@@ -1966,7 +1966,7 @@ msgstr "Тып крывой"
 
 #: ../gtk/gtkcurve.c:128
 msgid "Is this curve linear, spline interpolated, or free-form"
-msgstr "Якой з’яўляецца гэтая крывая (лінейная, інтэрпаляванай, адвольнай формы)"
+msgstr ""
 
 #: ../gtk/gtkcurve.c:135
 msgid "Minimum X"
@@ -2462,7 +2462,7 @@ msgstr "Бачнае акно"
 
 #: ../gtk/gtkeventbox.c:92
 msgid "Whether the event box is visible, as opposed to invisible and only used to trap events."
-msgstr "Ці з’яўляецца вобласць падзей бачнай. Выкарыстоўваецца толькі, каб перахопліваць падзеі."
+msgstr "Ці бачная вобласць падзей. Выкарыстоўваецца толькі, каб перахопліваць падзеі."
 
 #: ../gtk/gtkeventbox.c:98
 msgid "Above child"
@@ -3293,7 +3293,7 @@ msgstr "Вертыкальны зрух"
 
 #: ../gtk/gtkmenu.c:639
 msgid "When the menu is a submenu, position it this number of pixels offset vertically"
-msgstr "Калі меню з’яўляецца падменю, яно размяшчаецца з вертыкальным зрухам у пікселях"
+msgstr "Калі меню - гэта падменю, яно размяшчаецца з вертыкальным зрухам у пікселях"
 
 #: ../gtk/gtkmenu.c:647
 msgid "Horizontal Offset"
@@ -3301,7 +3301,7 @@ msgstr "Гарызантальны зрух"
 
 #: ../gtk/gtkmenu.c:648
 msgid "When the menu is a submenu, position it this number of pixels offset horizontally"
-msgstr "Калі меню з’яўляецца падменю, яно размяшчаецца з гарызантальным зрухам у пікселях"
+msgstr "Калі меню - гэта падменю, яно размяшчаецца з гарызантальным зрухам у пікселях"
 
 #: ../gtk/gtkmenu.c:656
 msgid "Double Arrows"
@@ -5723,11 +5723,11 @@ msgstr "Ці ўплывае пазнака на ўзор фону"
 
 #: ../gtk/gtktexttag.c:580
 msgid "Foreground stipple set"
-msgstr "Узор пярэдняга плану"
+msgstr "Узор пярэдняга плана"
 
 #: ../gtk/gtktexttag.c:581
 msgid "Whether this tag affects the foreground stipple"
-msgstr "Ці ўплывае пазнака на ўзор пярэдняга плану"
+msgstr "Ці ўплывае пазнака на ўзор пярэдняга плана"
 
 #: ../gtk/gtktexttag.c:616
 msgid "Justification set"
@@ -6555,11 +6555,11 @@ msgstr "Ці можа гэты віджэт быць прадвызначаны�
 
 #: ../gtk/gtkwidget.c:636
 msgid "Has default"
-msgstr "З’яўляецца прадвызначаным"
+msgstr "Прадвызначаны"
 
 #: ../gtk/gtkwidget.c:637
 msgid "Whether the widget is the default widget"
-msgstr "Ці з’яўляецца гэты віджэт прадвызначаным"
+msgstr "Ці прадвызначаны гэты віджэт"
 
 #: ../gtk/gtkwidget.c:643
 msgid "Receives default"
@@ -6575,7 +6575,7 @@ msgstr "Складаны нашчадак"
 
 #: ../gtk/gtkwidget.c:651
 msgid "Whether the widget is part of a composite widget"
-msgstr "Ці з’яўляецца гэты віджэт часткай складанага віджэта"
+msgstr "Ці ёсць гэты віджэт часткай складанага віджэта"
 
 #: ../gtk/gtkwidget.c:657
 msgid "Style"
