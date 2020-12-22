@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: 98e6872775a91bf27122ff608b6db605\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/network-manager-applet/\n"
 "POT-Creation-Date: 2020-03-06 23:05+0100\n"
-"PO-Revision-Date: 2020-12-21 10:56\n"
+"PO-Revision-Date: 2020-12-22 10:52\n"
 "Last-Translator: Bruce Cowan <bruce@bcowan.me.uk>\n"
 "Language-Team: Belarusian\n"
 "Language: be_BY\n"
@@ -444,7 +444,7 @@ msgstr "IP-адрас"
 
 #: src/applet-dialogs.c:353
 msgid "Broadcast Address"
-msgstr "Адрас шырокай трансляцыі"
+msgstr "Адрас шырокапалоснай трансляцыі"
 
 #. Prefix
 #: src/applet-dialogs.c:365
@@ -1848,7 +1848,7 @@ msgstr "C_AK"
 
 #: src/connection-editor/ce-page-macsec.ui:181
 msgid "The pre-shared Connectivity Association Key"
-msgstr "Ключ асацыяцыі папярэдняй сумеснай сувязі"
+msgstr "Папярэдне вызначаны ключ сувязі"
 
 #: src/connection-editor/ce-page-macsec.ui:193
 msgid "C_KN"
@@ -1856,7 +1856,7 @@ msgstr "C_KN"
 
 #: src/connection-editor/ce-page-macsec.ui:206
 msgid " The pre-shared Connectivity-association Key Name"
-msgstr " Назва ключа папярэдняй сумеснай сувязі"
+msgstr " Назва папярэдне вызначанага ключа сувязі"
 
 #: src/connection-editor/ce-page-macsec.ui:217
 msgid "Parameters"
@@ -2313,11 +2313,11 @@ msgstr "Любы пратакол L4"
 
 #: src/connection-editor/ce-page-team.ui:604
 msgid "_Peer notification count"
-msgstr "_Колькасць апавяшчэнняў піра"
+msgstr "_Колькасць апавяшчэнняў вузла"
 
 #: src/connection-editor/ce-page-team.ui:619
 msgid "Peer _notification interval"
-msgstr "_Інтэрвал апавяшчэнняў піра"
+msgstr "_Інтэрвал апавяшчэнняў вузла"
 
 #: src/connection-editor/ce-page-team.ui:634
 msgid "_Multicast rejoin count"
@@ -3876,7 +3876,7 @@ msgstr "_Паказаць парольную фразу"
 
 #: src/wireless-security/eap-method-tls.c:47
 msgid "missing EAP-TLS identity"
-msgstr "ідэнтычнасць EAP-TLS адсутнічае"
+msgstr "уліковыя даныя EAP-TLS адсутнічаюць"
 
 #: src/wireless-security/eap-method-tls.c:234
 msgid "no user certificate selected"
@@ -3896,7 +3896,7 @@ msgstr "абраны файл ключа не існуе"
 
 #: src/wireless-security/eap-method-tls.ui:20
 msgid "I_dentity"
-msgstr "Ід_энтычнасць"
+msgstr "Уліко_выя даныя"
 
 #: src/wireless-security/eap-method-ttls.c:316
 msgid "MSCHAPv2 (no EAP)"
