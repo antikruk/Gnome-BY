@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: 98e6872775a91bf27122ff608b6db605\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gparted/issues\n"
 "POT-Creation-Date: 2020-01-10 18:26+0000\n"
-"PO-Revision-Date: 2020-12-21 10:57\n"
+"PO-Revision-Date: 2020-12-22 10:53\n"
 "Last-Translator: Bruce Cowan <bruce@bcowan.me.uk>\n"
 "Language-Team: Belarusian\n"
 "Language: be_BY\n"
@@ -2027,7 +2027,7 @@ msgstr[3] "Немагчыма стварыць больш %1 асноўных р
 
 #: ../src/Win_GParted.cc:1959
 msgid "If you want more partitions you should first create an extended partition. Such a partition can contain other partitions. Because an extended partition is also a primary partition it might be necessary to remove a primary partition first."
-msgstr "Калі вам патрэбна больш раздзелаў, то спачатку стварыце пашыраны раздзел. У такім раздзеле могуць змяшчацца іншыя раздзелы. Гэты раздзел з’яўляецца асноўным раздзелам, таму спачатку можа спатрэбіцца выдаліць асноўны раздзел."
+msgstr "Калі вам патрэбна больш раздзелаў, то спачатку стварыце пашыраны раздзел. У такім раздзеле могуць змяшчацца іншыя раздзелы. Гэты раздзел асноўны, таму спачатку можа спатрэбіцца выдаліць асноўны раздзел."
 
 #: ../src/Win_GParted.cc:2084
 msgid "Moving a partition might cause your operating system to fail to boot"
@@ -2397,7 +2397,7 @@ msgstr "У файлавых сістэмах FAT і NTFS у якасці UUID в
 
 #: ../src/fat16.cc:38 ../src/ntfs.cc:43
 msgid "Changing the UUID on external storage media and non-system partitions is usually safe, but guarantees cannot be given."
-msgstr "Змена UUID вонкавых носьбітаў і несістэмных раздзелаў не з’яўляецца бяспечнай."
+msgstr "Небяспечна змяняць UUID вонкавых носьбітаў і несістэмных раздзелаў."
 
 #. TO TRANSLATORS: these labels will be used in the partition menu
 #: ../src/linux_swap.cc:35
@@ -2452,7 +2452,7 @@ msgstr "Для запуску GParted патрабуюцца правы супе
 
 #: ../src/main.cc:52
 msgid "Since GParted is a powerful tool capable of destroying partition tables and vast amounts of data, only root may run it."
-msgstr "GParted ёсць магутнай прыладай, якая можа знішчыць табліцы раздзелаў і даныя, таму толькі суперкарыстальнік (root) можа запусціць яе."
+msgstr "GParted - магутны інструмент, які можа знішчыць табліцы раздзелаў і даныя, таму толькі суперкарыстальнік (root) можа запусціць праграму."
 
 #: ../src/ntfs.cc:41
 msgid "In an attempt to avoid invalidating the WPA key, on NTFS file systems only half of the UUID is set to a new random value."
