@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: 98e6872775a91bf27122ff608b6db605\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/glib-networking/issues\n"
 "POT-Creation-Date: 2020-07-07 13:28+0000\n"
-"PO-Revision-Date: 2020-10-01 08:07\n"
+"PO-Revision-Date: 2020-12-22 10:53\n"
 "Last-Translator: Zander Brown <zbrown@gnome.org>\n"
 "Language-Team: Belarusian\n"
 "Language: be_BY\n"
@@ -49,7 +49,7 @@ msgstr "Сервер запатрабаваў сертыфікат TLS"
 
 #: tls/base/gtlsconnection-base.c:1449
 msgid "Peer does not support safe renegotiation"
-msgstr "Пір не падтрымлівае бяспечнае пераўзгадненне"
+msgstr "Вузел не падтрымлівае бяспечнае пераўзгадненне"
 
 #: tls/base/gtlsconnection-base.c:1593 tls/gnutls/gtlsconnection-gnutls.c:347
 #: tls/openssl/gtlsconnection-openssl.c:189
@@ -111,7 +111,7 @@ msgstr "Не атрымалася стварыць злучэнне TLS: %s"
 #: tls/openssl/gtlsconnection-openssl.c:156
 #, c-format
 msgid "Peer failed to perform TLS handshake: %s"
-msgstr "У піра не атрымалася выканаць вітанне TLS: %s"
+msgstr "У вузла не атрымалася выканаць вітанне TLS: %s"
 
 #: tls/gnutls/gtlsconnection-gnutls.c:324
 msgid "TLS connection closed unexpectedly"
@@ -120,12 +120,12 @@ msgstr "Злучэнне TLS нечакана закрылася"
 #: tls/gnutls/gtlsconnection-gnutls.c:339
 #: tls/openssl/gtlsconnection-openssl.c:181
 msgid "TLS connection peer did not send a certificate"
-msgstr "Пір, з якім наладжваецца злучэнне TLS, не адправіў сертыфікат"
+msgstr "Вузел, з якім наладжваецца злучэнне TLS, не адправіў сертыфікат"
 
 #: tls/gnutls/gtlsconnection-gnutls.c:355
 #, c-format
 msgid "Peer sent fatal TLS alert: %s"
-msgstr "Пір адправіў фатальнае апавяшчэнне TLS: %s"
+msgstr "Вузел адправіў фатальнае апавяшчэнне TLS: %s"
 
 #: tls/gnutls/gtlsconnection-gnutls.c:365
 msgid "Protocol version downgrade attack detected"
