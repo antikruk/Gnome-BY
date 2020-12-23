@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: 98e6872775a91bf27122ff608b6db605\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/glib/issues\n"
 "POT-Creation-Date: 2020-08-24 08:55+0000\n"
-"PO-Revision-Date: 2020-12-21 10:57\n"
+"PO-Revision-Date: 2020-12-23 04:24\n"
 "Last-Translator: Bruce Cowan <bruce@bcowan.me.uk>\n"
 "Language-Team: Belarusian\n"
 "Language: be_BY\n"
@@ -959,7 +959,7 @@ msgstr "Падчас злучэння адбылася памылка: %s\n"
 #: gio/gdbus-tool.c:694
 #, c-format
 msgid "Error: %s is not a valid unique bus name.\n"
-msgstr "Памылка: %s не з'яўляецца прыдатнай унікальнай назвай шыны.\n"
+msgstr "Памылка: %s - непрыдатная унікальная назва шыны.\n"
 
 #: gio/gdbus-tool.c:713 gio/gdbus-tool.c:1024 gio/gdbus-tool.c:1818
 msgid "Error: Object path is not specified\n"
@@ -969,7 +969,7 @@ msgstr "Памылка: шлях да аб'екта не вызначаны\n"
 #: gio/gdbus-tool.c:2078
 #, c-format
 msgid "Error: %s is not a valid object path\n"
-msgstr "Памылка: %s не з'яўляецца шляхам да аб'екта\n"
+msgstr "Памылка: %s не ёсць шляхам да аб'екта\n"
 
 #: gio/gdbus-tool.c:756
 msgid "Error: Signal name is not specified\n"
@@ -983,12 +983,12 @@ msgstr ""
 #: gio/gdbus-tool.c:782
 #, c-format
 msgid "Error: %s is not a valid interface name\n"
-msgstr "Памылка: %s не з'яўляецца прыдатнай назвай інтэрфейсу\n"
+msgstr "Памылка: %s не ёсць прыдатнай назвай інтэрфейсу\n"
 
 #: gio/gdbus-tool.c:788
 #, c-format
 msgid "Error: %s is not a valid member name\n"
-msgstr "Памылка: %s не з'яўляецца прыдатнай назвай удзельніка\n"
+msgstr "Памылка: %s не ёсць прыдатнай назвай удзельніка\n"
 
 #. Use the original non-"parse-me-harder" error
 #: gio/gdbus-tool.c:825 gio/gdbus-tool.c:1156
@@ -2815,7 +2815,7 @@ msgstr "Падчас наладкі сімвалічнай спасылкі ад
 
 #: gio/glocalfileinfo.c:2348
 msgid "Error setting symlink: file is not a symlink"
-msgstr "Падчас наладкі сімвалічнай спасылкі адбылася памылка: файл не з'яўляецца сімвалічнай спасылкай"
+msgstr "Падчас наладкі сімвалічнай спасылкі адбылася памылка: файл не сімвалічная спасылка"
 
 #: gio/glocalfileinfo.c:2420
 #, c-format
@@ -2931,11 +2931,11 @@ msgstr ""
 
 #: gio/glocalfileoutputstream.c:928
 msgid "Target file is a directory"
-msgstr "Мэтавы файл з'яўляецца каталогам"
+msgstr "Мэтавы файл - каталог"
 
 #: gio/glocalfileoutputstream.c:933
 msgid "Target file is not a regular file"
-msgstr "Мэтавы файл не з'яўляецца звычайным файлам"
+msgstr "Мэтавы файл не ёсць звычайным файлам"
 
 #: gio/glocalfileoutputstream.c:945
 msgid "The file was externally modified"
@@ -3616,7 +3616,7 @@ msgstr ""
 
 #: gio/gsocks4aproxy.c:179
 msgid "The server is not a SOCKSv4 proxy server."
-msgstr "Гэты проксі-сервер не з'яўляецца серверам SOCKSv4."
+msgstr "Гэты проксі-сервер - не сервер SOCKSv4."
 
 #: gio/gsocks4aproxy.c:186
 msgid "Connection through SOCKSv4 server was rejected"
@@ -3624,7 +3624,7 @@ msgstr "Злучэнне праз сервер SOCKSv4 было адхілена
 
 #: gio/gsocks5proxy.c:153 gio/gsocks5proxy.c:338 gio/gsocks5proxy.c:348
 msgid "The server is not a SOCKSv5 proxy server."
-msgstr "Гэты проксі-сервер не з'яўляецца серверам SOCKSv5."
+msgstr "Гэты проксі-сервер - не сервер SOCKSv5."
 
 #: gio/gsocks5proxy.c:167 gio/gsocks5proxy.c:184
 msgid "The SOCKSv5 proxy requires authentication."
@@ -5125,7 +5125,7 @@ msgstr "пасля \"(?+\" чакалася лічба"
 
 #: glib/gregex.c:498
 msgid "] is an invalid data character in JavaScript compatibility mode"
-msgstr "\"]\" з'яўляецца хібным сімвалам даных у рэжыме сумяшчальнасці з JavaScript"
+msgstr "\"]\" - хібны сімвал даных у рэжыме сумяшчальнасці з JavaScript"
 
 #: glib/gregex.c:501
 msgid "different names for subpatterns of the same number are not allowed"
