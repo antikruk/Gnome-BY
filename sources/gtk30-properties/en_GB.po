@@ -53,7 +53,7 @@ window.gon={};gon.features={"suggestPipeline":true,"gitlabCiYmlPreview":false};
 
 
 <meta name="csrf-param" content="authenticity_token" />
-<meta name="csrf-token" content="joTLY8odA04elAFXvPqxsceve6zxSQyIbW4/NGxQXAsvva7DakQBKyqndYFr/HvA2zv1oL1eYSOOjk/za4W8zw==" />
+<meta name="csrf-token" content="uFYAlDnnnKKPppMy43wlvfIFeUdNgislC5URrs469AQGoauIFg9YiFeU5c/FahNmVcH0CCi0BYKBVRpbDN9aFA==" />
 <meta name="csp-nonce" />
 <meta name="action-cable-url" content="/-/cable" />
 <meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport">
@@ -10758,7 +10758,7 @@ msgstr &quot;The title of the colour profile to use&quot;
 </button>
 </div>
 <div class="modal-body">
-<form class="js-quick-submit js-upload-blob-form" data-method="put" action="/GNOME/gtk/-/update/gtk-3-24/po-properties/en_GB.po" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="1KKlIMa9jVGeF+b0lT1e3obzLcy8ymcYMLylITKn1fB1m8CAZuSPNKokkiJCO5SvmmejwPDdCrPTXNXmNXI1NA==" /><div class="dropzone">
+<form class="js-quick-submit js-upload-blob-form" data-method="put" action="/GNOME/gtk/-/update/gtk-3-24/po-properties/en_GB.po" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="Zu/YMj87ypny/FOhbJCwrmi3McRIOaBXKkmHp8R2TgHYGHMuENMOsyrOJVxKhoZ1z3O8iy0PjvCgiYxSBpPgEQ==" /><div class="dropzone">
 <div class="dropzone-previews blob-upload-dropzone-previews">
 <p class="dz-message light">
 Attach a file by drag &amp; drop or <a class="markdown-selector" href="#">click to upload</a>
@@ -10768,11 +10768,11 @@ Attach a file by drag &amp; drop or <a class="markdown-selector" href="#">click 
 <br>
 <div class="dropzone-alerts gl-alert gl-alert-danger gl-mb-5 data" style="display:none"></div>
 <div class="form-group row commit_message-group">
-<label class="col-form-label col-sm-2" for="commit_message-ec94d59e62410948c2ccaa1989bd54f3">Commit message
+<label class="col-form-label col-sm-2" for="commit_message-9d178565ad479e589060f22220ac69ef">Commit message
 </label><div class="col-sm-10">
 <div class="commit-message-container">
 <div class="max-width-marker"></div>
-<textarea name="commit_message" id="commit_message-ec94d59e62410948c2ccaa1989bd54f3" class="form-control js-commit-message" placeholder="Replace en_GB.po" required="required" rows="3">
+<textarea name="commit_message" id="commit_message-9d178565ad479e589060f22220ac69ef" class="form-control js-commit-message" placeholder="Replace en_GB.po" required="required" rows="3">
 Replace en_GB.po</textarea>
 </div>
 </div>
