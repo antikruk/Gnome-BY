@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: 98e6872775a91bf27122ff608b6db605\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-12-05 20:52+0000\n"
-"PO-Revision-Date: 2020-12-22 10:52\n"
+"PO-Revision-Date: 2020-12-23 04:23\n"
 "Last-Translator: Bruce Cowan <bruce@bcowan.me.uk>\n"
 "Language-Team: Belarusian\n"
 "Language: be_BY\n"
@@ -1675,7 +1675,7 @@ msgstr ""
 #: gtk/gtkcolorchooserwidget.c:451
 msgctxt "Color name"
 msgid "Light Orange"
-msgstr "Светлы аранжавы"
+msgstr "Светла-аранжавы"
 
 #: gtk/gtkcolorchooserwidget.c:452
 msgctxt "Color name"
@@ -1685,7 +1685,7 @@ msgstr "Аранжавы"
 #: gtk/gtkcolorchooserwidget.c:453
 msgctxt "Color name"
 msgid "Dark Orange"
-msgstr "Цёмны аранжавы"
+msgstr "Цёмна-аранжавы"
 
 #: gtk/gtkcolorchooserwidget.c:454
 msgctxt "Color name"
@@ -1954,7 +1954,7 @@ msgstr "Каталогі, назвы якіх пачынаюцца з \".\", ё�
 
 #: gtk/gtkfilechoosererrorstack.c:109
 msgid "File names starting with a “.” are hidden"
-msgstr "Файлы, назвы якіх пачынаюцца з \".\", з’яўляюцца схаванымі"
+msgstr "Файлы, назвы якіх пачынаюцца з \".\", ёсць схаванымі"
 
 #: gtk/gtkfilechoosererrorstack.c:113
 msgid "A folder with that name already exists"
@@ -2032,7 +2032,7 @@ msgstr "Можна абраць толькі каталогі"
 
 #: gtk/gtkfilechooserwidget.c:764
 msgid "The item that you selected is not a folder try using a different item."
-msgstr "Элемент, што вы абралі, не ёсць каталогам. Паспрабуйце іншы элемент."
+msgstr "Элемент, што вы абралі, не каталог. Паспрабуйце іншы элемент."
 
 #: gtk/gtkfilechooserwidget.c:772
 msgid "Invalid file name"
@@ -3518,7 +3518,7 @@ msgstr "Рухавік GDK"
 
 #: gtk/inspector/general.ui:84
 msgid "GSK Renderer"
-msgstr "Адмалёўшчык GSK"
+msgstr "Адмалёўнік GSK"
 
 #: gtk/inspector/general.ui:110
 msgid "Pango Fontmap"
@@ -3629,7 +3629,7 @@ msgstr "Уласцівасці"
 
 #: gtk/inspector/misc-info.ui:336
 msgid "Renderer"
-msgstr "Адмалёўшчык"
+msgstr "Адмалёўнік"
 
 #: gtk/inspector/misc-info.ui:375
 msgid "Frame Clock"
@@ -6627,7 +6627,7 @@ msgstr "%s: адсутнічае назва праграмы"
 #: gtk/tools/gtk-launch.c:138
 #, c-format
 msgid "Creating AppInfo from id not supported on non unix operating systems"
-msgstr "Стварэнне AppInfo з id не падтрымліваецца на АС, якія не з'яўляюцца Unix-сістэмамі"
+msgstr "Стварэнне AppInfo з id падтрымліваецца толькі Unix-сістэмамі"
 
 #. Translators: the first %s is the program name, the second one
 #. is the application name.
