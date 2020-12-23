@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: 98e6872775a91bf27122ff608b6db605\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/seahorse/issues\n"
 "POT-Creation-Date: 2020-07-13 16:23+0000\n"
-"PO-Revision-Date: 2020-12-21 10:56\n"
+"PO-Revision-Date: 2020-12-23 04:23\n"
 "Last-Translator: Bruce Cowan <bruce@bcowan.me.uk>\n"
 "Language-Team: Belarusian\n"
 "Language: be_BY\n"
@@ -349,7 +349,7 @@ msgstr "Слупок парадкавання ключоў Seahorse"
 
 #: data/org.gnome.seahorse.manager.gschema.xml:30
 msgid "Specify the column to sort the Seahorse key manager main window by. Columns are: “name”, “id”, “validity”, “expires”, “trust”, and “type”. Put a “-” in front of the column name to sort in descending order."
-msgstr "Вызначыць слупок, па якім будзе парадкавацца змесціва ў галоўным акне кіраўніка ключоўSeahorse. Слупкі: \"name\" (імя), \"id\" (ідэнтыфікатар), \"validity\" (правільнасць), \"expires\" (тэрмін дзеяння), \"trust\" (давер) і \"type\" (тып). Дадайце \"-\" у пачатак назвы слупка, каб парадкаваць у адваротным накірунку."
+msgstr "Вызначыць слупок, па якім будзе парадкавацца змесціва ў галоўным акне кіраўніка ключоўSeahorse. Слупкі: \"name\" (імя), \"id\" (ідэнтыфікатар), \"validity\" (правільнасць), \"expires\" (тэрмін дзеяння), \"trust\" (давер) і \"type\" (тып). Дадайце \"-\" у пачатак назвы слупка, каб парадкаваць у адваротным кірунку."
 
 #: data/org.gnome.seahorse.manager.gschema.xml:34
 msgid "Show validity column"
