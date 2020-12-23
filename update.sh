@@ -41,7 +41,8 @@ dir38=sources/xdg-user-dirs-gtk
 dir39=sources/yelp
 dir40=sources/yelp-xsl
 dir41=sources/gtk20-properties
-
+dir42=sources/gtk40
+dir43=sources/gtk40-properties
 
 
 
@@ -67,8 +68,8 @@ url16=https://gitlab.gnome.org/GNOME/gsettings-desktop-schemas/raw/master/po/en_
 url17=https://gitlab.gnome.org/GNOME/gspell/raw/master/po/en_GB.po
 url18=https://gitlab.gnome.org/Archive/gtk-engines/raw/master/po/en_GB.po
 url19=https://gitlab.gnome.org/GNOME/gtk/raw/gtk-2-24/po/en_GB.po
-url20=https://gitlab.gnome.org/GNOME/gtk/raw/master/po/en_GB.po
-url21=https://gitlab.gnome.org/GNOME/gtk/raw/master/po-properties/en_GB.po
+url20=https://gitlab.gnome.org/GNOME/gtk/-/tree/gtk-3-24/po/en_GB.po
+url21=https://gitlab.gnome.org/GNOME/gtk/-/tree/gtk-3-24/po-properties/en_GB.po
 url22=https://gitlab.gnome.org/GNOME/gtksourceview/raw/master/po/en_GB.po
 url23=https://gitlab.gnome.org/GNOME/gvfs/raw/master/po/en_GB.po
 url24=https://gitlab.gnome.org/GNOME/json-glib/raw/master/po/en_GB.po
@@ -89,7 +90,8 @@ url38=https://l10n.gnome.org/POT/xdg-user-dirs-gtk.master/xdg-user-dirs-gtk.mast
 url39=https://gitlab.gnome.org/GNOME/yelp/raw/master/po/en_GB.po
 url40=https://github.com/GNOME/yelp-xsl/raw/master/po/en_GB.po
 url41=https://gitlab.gnome.org/GNOME/gtk/raw/gtk-2-24/po-properties/en_GB.po
-
+url42=https://gitlab.gnome.org/GNOME/gtk/raw/master/po/en_GB.po
+url43=https://gitlab.gnome.org/GNOME/gtk/raw/master/po-properties/en_GB.po
 
 
 
@@ -135,5 +137,7 @@ wget -N -P $dir38 $url38
 wget -N -P $dir39 $url39
 wget -N -P $dir40 $url40
 wget -N -P $dir41 $url41
+wget -N -P $dir42 $url42
+wget -N -P $dir43 $url43
 
 exit
