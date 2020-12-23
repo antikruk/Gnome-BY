@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: 98e6872775a91bf27122ff608b6db605\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-07 23:06+0000\n"
-"PO-Revision-Date: 2020-12-21 10:57\n"
+"PO-Revision-Date: 2020-12-23 04:24\n"
 "Last-Translator: Bruce Cowan <bruce@bcowan.me.uk>\n"
 "Language-Team: Belarusian\n"
 "Language: be_BY\n"
@@ -2741,7 +2741,7 @@ msgstr "Элемент <%2$s> мае прадубляваны атрыбут \"%
 #: ../gtk/gtktextbufferserialize.c:961 ../gtk/gtktextbufferserialize.c:986
 #, c-format
 msgid "Attribute \"%s\" is invalid on <%s> element in this context"
-msgstr "У гэтым кантэксце атрыбут \"%s\" з'яўляецца хібным для элемента <%s>"
+msgstr "У гэтым кантэксце атрыбут \"%s\" хібны для элемента <%s>"
 
 #: ../gtk/gtktextbufferserialize.c:1022
 #, c-format
@@ -2766,12 +2766,12 @@ msgstr "Элемент <%s> недапушчальны ніжэй за <%s>"
 #: ../gtk/gtktextbufferserialize.c:1175
 #, c-format
 msgid "\"%s\" is not a valid attribute type"
-msgstr "\"%s\" не з'яўляецца прыдатным тыпам атрыбута"
+msgstr "\"%s\" - непрыдатны тып атрыбута"
 
 #: ../gtk/gtktextbufferserialize.c:1183
 #, c-format
 msgid "\"%s\" is not a valid attribute name"
-msgstr "\"%s\" не з'яўляецца прыдатнай назвай атрыбута"
+msgstr "\"%s\" - непрыдатная назва атрыбута"
 
 #: ../gtk/gtktextbufferserialize.c:1193
 #, c-format
@@ -2781,7 +2781,7 @@ msgstr "Немагчыма пераўтварыць \"%s\" у значэнне �
 #: ../gtk/gtktextbufferserialize.c:1202
 #, c-format
 msgid "\"%s\" is not a valid value for attribute \"%s\""
-msgstr "\"%s\" не з'яўляецца прыдатным значэннем атрыбута \"%s\""
+msgstr "\"%s\" - непрыдатнае значэнне атрыбута \"%s\""
 
 #: ../gtk/gtktextbufferserialize.c:1285
 #, c-format
@@ -2813,7 +2813,7 @@ msgstr "Серыялізаваныя даныя пашкоджаныя"
 
 #: ../gtk/gtktextbufferserialize.c:1857
 msgid "Serialized data is malformed. First section isn't GTKTEXTBUFFERCONTENTS-0001"
-msgstr "Серыялізаваныя даныя пашкоджаныя. Першым раздзелам не з'яўляецца GTKTEXTBUFFERCONTENTS-0001"
+msgstr "Серыялізаваныя даныя пашкоджаныя. Першым раздзелам не ёсць GTKTEXTBUFFERCONTENTS-0001"
 
 #: ../gtk/gtktextutil.c:61
 msgid "LRM _Left-to-right mark"

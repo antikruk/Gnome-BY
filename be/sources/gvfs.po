@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: 98e6872775a91bf27122ff608b6db605\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gvfs/issues\n"
 "POT-Creation-Date: 2020-01-31 15:49+0000\n"
-"PO-Revision-Date: 2020-10-01 08:06\n"
+"PO-Revision-Date: 2020-12-23 04:23\n"
 "Last-Translator: Bruce Cowan <bruce@bcowan.me.uk>\n"
 "Language-Team: Belarusian\n"
 "Language: be_BY\n"
@@ -437,7 +437,7 @@ msgstr "Файл не існуе"
 #: daemon/gvfsbackendsftp.c:3889 daemon/gvfsbackendsftp.c:4958
 #: daemon/gvfsbackendsftp.c:5997
 msgid "File is directory"
-msgstr "Файл з'яўляецца каталогам"
+msgstr "Гэты файл - каталог"
 
 #: daemon/gvfsafpvolume.c:406
 msgid "Too many files open"
@@ -552,7 +552,7 @@ msgstr "Зыходны файл і/ці мэтавы каталог не існ�
 
 #: daemon/gvfsafpvolume.c:1515
 msgid "Source file is a directory"
-msgstr "Зыходны файл з'яўляецца каталогам"
+msgstr "Мэтавы файл - каталог"
 
 #. Translators: range conflict means
 #. requested data are locked by another user
@@ -569,7 +569,7 @@ msgstr "Каталог не існуе"
 
 #: daemon/gvfsafpvolume.c:2197
 msgid "Target object is not a directory"
-msgstr "Мэтавы аб'ект не з'яўляецца каталогам"
+msgstr "Мэтавы файл - не каталог"
 
 #: daemon/gvfsafpvolume.c:2530
 msgid "File is not open for write access"
@@ -716,7 +716,7 @@ msgstr "Прылада \"%s\" заблакаваная. Увядзіце пар�
 #: daemon/gvfsbackendafc.c:648
 #, c-format
 msgid "The device “%s” is not trusted yet. Select “Trust” on the device and click “Try again”."
-msgstr "Прылада \"%s\" не з'яўляецца даверанай. Абярыце \"Давяраць\" на прыладзе і пстрыкніце \"Паўтарыць спробу\"."
+msgstr "Прылада \"%s\" недавераная. Абярыце \"Давяраць\" на прыладзе і пстрыкніце \"Паўтарыць спробу\"."
 
 #: daemon/gvfsbackendafc.c:1116 daemon/gvfsbackendarchive.c:746
 #: daemon/gvfsbackendcomputer.c:657 daemon/gvfsbackendgoogle.c:3275
@@ -744,7 +744,7 @@ msgstr "Гэты тып пераносу не падтрымліваецца"
 #: daemon/gvfsbackendcomputer.c:1391 daemon/gvfsbackendsmbbrowse.c:1104
 #: daemon/gvfsbackendsmbbrowse.c:1150
 msgid "Not a mountable file"
-msgstr "Файл не з’яўляецца мантавальным"
+msgstr "Файл немагчыма прымантаваць"
 
 #. Translators: first %s is username and second serververname
 #. Translators: first %s is volumename and second servername
@@ -843,7 +843,7 @@ msgstr "/ у %s"
 #: daemon/gvfsftpdircache.c:157
 #, c-format
 msgid "The file is not a directory"
-msgstr "Файл не з'яўляецца каталогам"
+msgstr "Мэтавы файл - не каталог"
 
 #. Translators: This is the name of the backend
 #: daemon/gvfsbackendburn.c:346
@@ -972,7 +972,7 @@ msgstr "Няма такога файла"
 #: daemon/gvfsbackendcdda.c:915
 #, c-format
 msgid "The file does not exist or isn’t an audio track"
-msgstr "Файл не існуе альбо не з'яўляецца аўдыятрэкам"
+msgstr "Файл не існуе альбо не ёсць аўдыятрэкам"
 
 #: daemon/gvfsbackendcdda.c:1021
 msgid "Audio CD File System Service"
@@ -1150,7 +1150,7 @@ msgstr "Не ўдалося атрымаць даныя з файла"
 #: daemon/gvfsbackendgoogle.c:2858 daemon/gvfsbackendgoogle.c:3661
 #: daemon/gvfsbackendnfs.c:1162
 msgid "Target file is not a regular file"
-msgstr "Мэтавы файл не з'яўляецца звычайным файлам"
+msgstr "Мэтавы файл не ёсць звычайным файлам"
 
 #: daemon/gvfsbackendgoogle.c:3282 daemon/gvfsbackendsftp.c:2331
 #: daemon/gvfsbackendsftp.c:2733 daemon/gvfsbackendsftp.c:2796
@@ -1188,7 +1188,7 @@ msgstr ""
 
 #: daemon/gvfsbackendgoogle.c:3653 daemon/gvfsbackendnfs.c:1152
 msgid "Target file is a directory"
-msgstr "Мэтавы файл з'яўляецца каталогам"
+msgstr "Мэтавы файл - каталог"
 
 #: daemon/gvfsbackendgoogle.c:3846 daemon/gvfsbackendgphoto2.c:3050
 msgid "Error writing file"
@@ -1353,15 +1353,15 @@ msgstr "Не падтрымліваецца (каталогі адрозніва
 
 #: daemon/gvfsbackendgphoto2.c:3110
 msgid "Not supported (the source is a directory, the destination is a directory too)"
-msgstr "Не падтрымліваецца (і крыніца, і мэта з'яўляюцца каталогамі)"
+msgstr "Не падтрымліваецца (і крыніца, і мэта - каталогі)"
 
 #: daemon/gvfsbackendgphoto2.c:3118
 msgid "Not supported (the source is a directory, but the destination is an existing file)"
-msgstr "Не падтрымліваецца (крыніца з'яўляецца каталогам, а мэтавы файл ужо існуе)"
+msgstr "Не падтрымліваецца (крыніца - каталог, а мэтавы файл ужо існуе)"
 
 #: daemon/gvfsbackendgphoto2.c:3130
 msgid "Not supported (the source is a file, but the destination is a directory)"
-msgstr "Не падтрымліваецца (крыніца з'яўляецца файлам, а мэта каталогам)"
+msgstr "Не падтрымліваецца (крыніца - файл, а мэта каталог)"
 
 #: daemon/gvfsbackendhttp.c:198
 #, c-format
@@ -1417,7 +1417,7 @@ msgstr "Файл не знойдзены"
 
 #: daemon/gvfsbackendmtp.c:1602
 msgid "Target is a directory"
-msgstr "Мэта з'яўляецца каталогам"
+msgstr "Мэта - каталог"
 
 #: daemon/gvfsbackendmtp.c:1607
 msgid "Can’t merge directories"

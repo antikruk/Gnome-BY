@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: 98e6872775a91bf27122ff608b6db605\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2010-08-28 10:38+0100\n"
-"PO-Revision-Date: 2020-10-01 08:07\n"
+"PO-Revision-Date: 2020-12-23 04:24\n"
 "Last-Translator: Philip Withnall <philip@tecnocode.co.uk>\n"
 "Language-Team: Belarusian\n"
 "Language: be_BY\n"
@@ -171,7 +171,7 @@ msgstr "Тып адзнакі для кнопак паласы пракрутк�
 
 #: ../schema/thinice.xml.in.in.h:9
 msgid "Mark Type for Scrollbar Handles, Handleboxes, etc"
-msgstr "Тып адзнакі для апрацоўшчыкаў паласы пракруткі і інш."
+msgstr "Тып адзнакі для апрацоўнікаў паласы пракруткі і інш."
 
 #: ../schema/thinice.xml.in.in.h:10
 msgid "None"

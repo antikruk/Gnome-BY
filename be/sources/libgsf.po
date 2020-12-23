@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: 98e6872775a91bf27122ff608b6db605\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-12 14:17+0100\n"
-"PO-Revision-Date: 2020-10-01 08:06\n"
+"PO-Revision-Date: 2020-12-23 04:23\n"
 "Last-Translator: Bruce Cowan <bruce@bcowan.me.uk>\n"
 "Language-Team: Belarusian\n"
 "Language: be_BY\n"
@@ -325,7 +325,7 @@ msgstr "Памер крыніцы без сціскання"
 #: ../gsf/gsf-input-memory.c:229 ../gsf/gsf-output-stdio.c:453
 #, c-format
 msgid "%s: Is not a regular file"
-msgstr "%s: не з’яўляецца звычайным файлам"
+msgstr "%s: незвычайны файлам"
 
 #: ../gsf/gsf-input-memory.c:242
 #, c-format

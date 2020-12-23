@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: 98e6872775a91bf27122ff608b6db605\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gtksourceview/issues\n"
 "POT-Creation-Date: 2019-08-04 12:56+0000\n"
-"PO-Revision-Date: 2020-10-01 08:06\n"
+"PO-Revision-Date: 2020-12-23 04:24\n"
 "Last-Translator: Zander Brown <zbrown@gnome.org>\n"
 "Language-Team: Belarusian\n"
 "Language: be_BY\n"
@@ -582,7 +582,7 @@ msgstr "Файл занадта вялікі."
 
 #: gtksourceview/gtksourcefileloader.c:783
 msgid "Not a regular file."
-msgstr "Файл не з'яўляецца звычайным."
+msgstr "Гэта незвычайны файл."
 
 #: gtksourceview/gtksourcefilesaver.c:981
 msgid "The file is externally modified."

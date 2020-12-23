@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: 98e6872775a91bf27122ff608b6db605\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/zenity/issues\n"
 "POT-Creation-Date: 2019-04-14 18:16+0000\n"
-"PO-Revision-Date: 2020-10-01 08:07\n"
+"PO-Revision-Date: 2020-12-23 04:24\n"
 "Last-Translator: Bruce Cowan <bruce@bcowan.me.uk>\n"
 "Language-Team: Belarusian\n"
 "Language: be_BY\n"
@@ -21,7 +21,7 @@ msgstr ""
 
 #: src/about.c:60
 msgid "This program is free software; you can redistribute it and/or modify it under the terms of the GNU Lesser General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.\n"
-msgstr "Гэтая праграма з'яўляецца свабодным праграмным забеспячэннем. Вы можаце распаўсюджвацьяе на ўмовах GNU Lesser General Public License (LGPL), апублікаванай Free Software Foundation, версіі 2 ці любой пазнейшай.\n"
+msgstr "Гэтая праграма - свабоднае праграмнае забеспячэнне. Вы можаце распаўсюджваць яе на ўмовах GNU Lesser General Public License (LGPL), апублікаванай Free Software Foundation, версіі 2 ці любой пазнейшай.\n"
 
 #: src/about.c:65
 msgid "This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU Lesser General Public License for more details.\n"

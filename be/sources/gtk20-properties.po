@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: 98e6872775a91bf27122ff608b6db605\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-07 23:08+0000\n"
-"PO-Revision-Date: 2020-12-21 10:57\n"
+"PO-Revision-Date: 2020-12-23 04:24\n"
 "Last-Translator: Bruce Cowan <bruce@bcowan.me.uk>\n"
 "Language-Team: Belarusian\n"
 "Language: be_BY\n"
@@ -168,11 +168,11 @@ msgstr "Ці пераносіць тэкст ліцэнзіі."
 
 #: ../gtk/gtkaccellabel.c:178
 msgid "Accelerator Closure"
-msgstr "Апрацоўшчык гарачай клавішы"
+msgstr "Апрацоўнік гарачай клавішы"
 
 #: ../gtk/gtkaccellabel.c:179
 msgid "The closure to be monitored for accelerator changes"
-msgstr "Зменная, якая будзе сачыць за зменамі гарачай клявішы"
+msgstr "Зменная, якая будзе сачыць за зменамі гарачай клавішы"
 
 #: ../gtk/gtkaccellabel.c:185
 msgid "Accelerator Widget"
@@ -180,7 +180,7 @@ msgstr "Віджэт гарачай клавішы"
 
 #: ../gtk/gtkaccellabel.c:186
 msgid "The widget to be monitored for accelerator changes"
-msgstr "Віджэжт, які сочыць за зменамі гарачай клавішы"
+msgstr "Віджэт, які сочыць за зменамі гарачай клавішы"
 
 #: ../gtk/gtkaction.c:220 ../gtk/gtkactiongroup.c:170 ../gtk/gtkprinter.c:111
 #: ../gtk/gtktextmark.c:89
@@ -275,7 +275,7 @@ msgstr "Важна"
 
 #: ../gtk/gtkaction.c:364
 msgid "Whether the action is considered important. When TRUE, toolitem proxies for this action show text in GTK_TOOLBAR_BOTH_HORIZ mode."
-msgstr "Ці з’яўляецца дзеянне важным. Калі вызначана TRUE, проксі элементаў панэлі для дзеяння будуць паказваць тэкст у рэжыме GTK_TOOLBAR_BOTH_HORIZ."
+msgstr "Ці важнае дзеянне. Калі вызначана TRUE, проксі элементаў панэлі для дзеяння будуць паказваць тэкст у рэжыме GTK_TOOLBAR_BOTH_HORIZ."
 
 #: ../gtk/gtkaction.c:372
 msgid "Hide if empty"
@@ -463,7 +463,7 @@ msgstr "Прастора для ўстаўкі ў правай частцы ві
 
 #: ../gtk/gtkarrow.c:95
 msgid "Arrow direction"
-msgstr "Накірунак стрэлкі"
+msgstr "Кірунак стрэлкі"
 
 #: ../gtk/gtkarrow.c:96
 msgid "The direction the arrow should point"
@@ -1011,7 +1011,7 @@ msgstr "Пашыраны"
 
 #: ../gtk/gtkcellrenderer.c:271
 msgid "Row is an expander row, and is expanded"
-msgstr "Радок з’яўляецца пашыраемым, ён пашыраны"
+msgstr "Радок пашыраемы, ён пашыраны"
 
 #: ../gtk/gtkcellrenderer.c:278
 msgid "Cell background color name"
@@ -1211,7 +1211,7 @@ msgstr "Арыентацыя"
 
 #: ../gtk/gtkcellrendererprogress.c:222 ../gtk/gtkprogressbar.c:127
 msgid "Orientation and growth direction of the progress bar"
-msgstr "Арыентацыя і накірунак росту радка прагрэсу"
+msgstr "Арыентацыя і кірунак росту радка прагрэсу"
 
 #: ../gtk/gtkcellrendererspin.c:93 ../gtk/gtkprogressbar.c:118
 #: ../gtk/gtkrange.c:377 ../gtk/gtkscalebutton.c:225
@@ -1432,7 +1432,7 @@ msgstr "Перанос"
 
 #: ../gtk/gtkcellrenderertext.c:412
 msgid "The preferred place to ellipsize the string, if the cell renderer does not have enough room to display the entire string"
-msgstr "Пажаданае месца пераносу радка, калі адмалёўшчыку ячэйкі не хапае месца для ўсяго радка"
+msgstr "Пажаданае месца пераносу радка, калі адмалёўніку ячэйкі не хапае месца для ўсяго радка"
 
 #: ../gtk/gtkcellrenderertext.c:431 ../gtk/gtkfilechooserbutton.c:421
 #: ../gtk/gtklabel.c:659
@@ -1449,7 +1449,7 @@ msgstr "Рэжым пераносу"
 
 #: ../gtk/gtkcellrenderertext.c:451
 msgid "How to break the string into multiple lines, if the cell renderer does not have enough room to display the entire string"
-msgstr "Як падзяляць радок на некалькі радкоў, калі адмалёўшчыку ячэйкі не хапае прасторы для адлюстравання ўсяго радка"
+msgstr "Як падзяляць радок на некалькі радкоў, калі адмалёўніку ячэйкі не хапае прасторы для адлюстравання ўсяго радка"
 
 #: ../gtk/gtkcellrenderertext.c:470 ../gtk/gtkcombobox.c:740
 msgid "Wrap width"
@@ -1966,7 +1966,7 @@ msgstr "Тып крывой"
 
 #: ../gtk/gtkcurve.c:128
 msgid "Is this curve linear, spline interpolated, or free-form"
-msgstr "Якой з’яўляецца гэтая крывая (лінейная, інтэрпаляванай, адвольнай формы)"
+msgstr ""
 
 #: ../gtk/gtkcurve.c:135
 msgid "Minimum X"
@@ -2462,7 +2462,7 @@ msgstr "Бачнае акно"
 
 #: ../gtk/gtkeventbox.c:92
 msgid "Whether the event box is visible, as opposed to invisible and only used to trap events."
-msgstr "Ці з’яўляецца вобласць падзей бачнай. Выкарыстоўваецца толькі, каб перахопліваць падзеі."
+msgstr "Ці бачная вобласць падзей. Выкарыстоўваецца толькі, каб перахопліваць падзеі."
 
 #: ../gtk/gtkeventbox.c:98
 msgid "Above child"
@@ -3253,7 +3253,7 @@ msgstr "Стан лініі адрыву"
 
 #: ../gtk/gtkmenu.c:578
 msgid "A boolean that indicates whether the menu is torn-off"
-msgstr "Лагічнае значэнне, якое паказвае, ці з'яўляецца меню адрыўным"
+msgstr "Лагічнае значэнне, якое паказвае, ці адрыўное меню"
 
 #: ../gtk/gtkmenu.c:592
 msgid "Monitor"
@@ -3293,7 +3293,7 @@ msgstr "Вертыкальны зрух"
 
 #: ../gtk/gtkmenu.c:639
 msgid "When the menu is a submenu, position it this number of pixels offset vertically"
-msgstr "Калі меню з’яўляецца падменю, яно размяшчаецца з вертыкальным зрухам у пікселях"
+msgstr "Калі меню - гэта падменю, яно размяшчаецца з вертыкальным зрухам у пікселях"
 
 #: ../gtk/gtkmenu.c:647
 msgid "Horizontal Offset"
@@ -3301,7 +3301,7 @@ msgstr "Гарызантальны зрух"
 
 #: ../gtk/gtkmenu.c:648
 msgid "When the menu is a submenu, position it this number of pixels offset horizontally"
-msgstr "Калі меню з’яўляецца падменю, яно размяшчаецца з гарызантальным зрухам у пікселях"
+msgstr "Калі меню - гэта падменю, яно размяшчаецца з гарызантальным зрухам у пікселях"
 
 #: ../gtk/gtkmenu.c:656
 msgid "Double Arrows"
@@ -3365,7 +3365,7 @@ msgstr "Ці можна змяніць гарачую клавішу меню, �
 
 #: ../gtk/gtkmenu.c:811
 msgid "Delay before submenus appear"
-msgstr "Затрымка перд з’яўленнем падменю"
+msgstr "Затрымка перад з’яўленнем падменю"
 
 #: ../gtk/gtkmenu.c:812
 msgid "Minimum time the pointer must stay over a menu item before the submenu appear"
@@ -3381,7 +3381,7 @@ msgstr "Час, які паказальнік мусіць знаходзіцц�
 
 #: ../gtk/gtkmenubar.c:168
 msgid "Pack direction"
-msgstr "Накірунак упакоўкі"
+msgstr "Кірунак пакавання"
 
 #: ../gtk/gtkmenubar.c:169
 msgid "The pack direction of the menubar"
@@ -3389,7 +3389,7 @@ msgstr "Напрамак пакавання меню"
 
 #: ../gtk/gtkmenubar.c:185
 msgid "Child Pack direction"
-msgstr "Накірунак пакавання нашчадка"
+msgstr "Кірунак пакавання нашчадка"
 
 #: ../gtk/gtkmenubar.c:186
 msgid "The child pack direction of the menubar"
@@ -3409,11 +3409,11 @@ msgstr "Памер прасторы паміж ценем панэлі меню 
 
 #: ../gtk/gtkmenubar.c:210
 msgid "Delay before drop down menus appear"
-msgstr "Затрымка перд з’яўленнем меню, што выплывае ўніз"
+msgstr "Затрымка перад з’яўленнем меню, што выплывае ўніз"
 
 #: ../gtk/gtkmenubar.c:211
 msgid "Delay before the submenus of a menu bar appear"
-msgstr "Затрымка перд з’яўленнем падменю з асноўнага меню"
+msgstr "Затрымка перад з’яўленнем падменю з асноўнага меню"
 
 #: ../gtk/gtkmenuitem.c:257
 msgid "Right Justified"
@@ -4300,7 +4300,7 @@ msgstr "Значэнне"
 
 #: ../gtk/gtkradioaction.c:112
 msgid "The value returned by gtk_radio_action_get_current_value() when this action is the current action of its group."
-msgstr "Значэнне, якое вяртае функцыя gtk_radio_action_get_current_value (), калі гэтае дзеянне з'яўляецца бягучым дзеяннем сваёй групы."
+msgstr "Значэнне, якое вяртае функцыя gtk_radio_action_get_current_value (), калі гэтае дзеянне ёсць бягучым дзеяннем сваёй групы."
 
 #: ../gtk/gtkradioaction.c:129
 msgid "The radio action whose group this action belongs to."
@@ -4344,7 +4344,7 @@ msgstr "Інвертавана"
 
 #: ../gtk/gtkrange.c:386
 msgid "Invert direction slider moves to increase range value"
-msgstr "Адвярнуць накірунак абраных паўзункамі абласцей, каб павялічыць дыяпазон"
+msgstr "Адвярнуць кірунак абраных паўзункамі абласцей, каб павялічыць дыяпазон"
 
 #: ../gtk/gtkrange.c:393
 msgid "Lower stepper sensitivity"
@@ -4396,11 +4396,11 @@ msgstr "Шырыня паласы пракруткі ці паказальнік
 
 #: ../gtk/gtkrange.c:470
 msgid "Trough Border"
-msgstr "Мяжа накіроўваючай"
+msgstr "Мяжа элемента кірунку"
 
 #: ../gtk/gtkrange.c:471
 msgid "Spacing between thumb/steppers and outer trough bevel"
-msgstr "Адлегласць паміж паказальнікам/кнопкамі перамяшчэння і вонкавай мяжой накіроўваючай"
+msgstr "Адлегласць паміж паказальнікам/кнопкамі перамяшчэння і вонкавай мяжой элемента кірунку"
 
 #: ../gtk/gtkrange.c:478
 msgid "Stepper Size"
@@ -4636,7 +4636,7 @@ msgstr "Інтэрвал значэнняў"
 
 #: ../gtk/gtkscale.c:254
 msgid "Space between value text and the slider/trough area"
-msgstr "Прастора паміж тэкстам і паўзунком/накіроўваючай"
+msgstr "Прастора паміж тэкстам і паўзунком/элементам кірунку"
 
 #: ../gtk/gtkscalebutton.c:207
 msgid "The value of the scale"
@@ -4950,11 +4950,11 @@ msgstr "Ці будзе ў дыялогах выкарыстоўвацца ал�
 
 #: ../gtk/gtksettings.c:477
 msgid "Alternative sort indicator direction"
-msgstr "Альтэрнатыўны накірунак індыкатара метаду парадкавання"
+msgstr "Альтэрнатыўны кірунак індыкатара метаду парадкавання"
 
 #: ../gtk/gtksettings.c:478
 msgid "Whether the direction of the sort indicators in list and tree views is inverted compared to the default (where down means ascending)"
-msgstr "Ці адварочваць накірунак індыкатара метаду парадкавання ў спісах альбо дрэвах (уніз азначае ўзрастанне)"
+msgstr "Ці адварочваць кірунак індыкатара метаду парадкавання ў спісах альбо дрэвах (уніз азначае ўзрастанне)"
 
 #: ../gtk/gtksettings.c:486
 msgid "Show the 'Input Methods' menu"
@@ -5211,7 +5211,7 @@ msgstr "Рэжым"
 
 #: ../gtk/gtksizegroup.c:302
 msgid "The directions in which the size group affects the requested sizes of its component widgets"
-msgstr "Накірункі ў якіх групы па памерах ўплываюць на вызначаныя памеры віджэтаў, што ў іх уваходзяць"
+msgstr "Кірункі ў якіх групы па памерах ўплываюць на вызначаныя памеры віджэтаў, што ў іх уваходзяць"
 
 #: ../gtk/gtksizegroup.c:318
 msgid "Ignore hidden"
@@ -5571,11 +5571,11 @@ msgstr "Растравы малюнак для выкарыстання ў як�
 
 #: ../gtk/gtktexttag.c:242
 msgid "Text direction"
-msgstr "Накірунак тэксту"
+msgstr "Кірунак тэксту"
 
 #: ../gtk/gtktexttag.c:243
 msgid "Text direction, e.g. right-to-left or left-to-right"
-msgstr "Накірунак тэксту (злева направа ці справа налева)"
+msgstr "Кірунак тэксту (злева направа ці справа налева)"
 
 #: ../gtk/gtktexttag.c:292
 msgid "Font style as a PangoStyle, e.g. PANGO_STYLE_ITALIC"
@@ -5723,11 +5723,11 @@ msgstr "Ці ўплывае пазнака на ўзор фону"
 
 #: ../gtk/gtktexttag.c:580
 msgid "Foreground stipple set"
-msgstr "Узор пярэдняга плану"
+msgstr "Узор пярэдняга плана"
 
 #: ../gtk/gtktexttag.c:581
 msgid "Whether this tag affects the foreground stipple"
-msgstr "Ці ўплывае пазнака на ўзор пярэдняга плану"
+msgstr "Ці ўплывае пазнака на ўзор пярэдняга плана"
 
 #: ../gtk/gtktexttag.c:616
 msgid "Justification set"
@@ -6555,11 +6555,11 @@ msgstr "Ці можа гэты віджэт быць прадвызначаны�
 
 #: ../gtk/gtkwidget.c:636
 msgid "Has default"
-msgstr "З’яўляецца прадвызначаным"
+msgstr "Прадвызначаны"
 
 #: ../gtk/gtkwidget.c:637
 msgid "Whether the widget is the default widget"
-msgstr "Ці з’яўляецца гэты віджэт прадвызначаным"
+msgstr "Ці прадвызначаны гэты віджэт"
 
 #: ../gtk/gtkwidget.c:643
 msgid "Receives default"
@@ -6575,7 +6575,7 @@ msgstr "Складаны нашчадак"
 
 #: ../gtk/gtkwidget.c:651
 msgid "Whether the widget is part of a composite widget"
-msgstr "Ці з’яўляецца гэты віджэт часткай складанага віджэта"
+msgstr "Ці ёсць гэты віджэт часткай складанага віджэта"
 
 #: ../gtk/gtkwidget.c:657
 msgid "Style"
@@ -6808,7 +6808,7 @@ msgstr "Мадальнае"
 
 #: ../gtk/gtkwindow.c:566
 msgid "If TRUE, the window is modal (other windows are not usable while this one is up)"
-msgstr "Калі TRUE, акно з’яўляецца мадальным (іншыя вокны немагчыма выкарыстоўваць, пакуль гэтае акно не закрыецца)"
+msgstr "Калі TRUE, то акно мадальнае (іншыя вокны немагчыма выкарыстоўваць, пакуль гэтае акно не закрыецца)"
 
 #: ../gtk/gtkwindow.c:573
 msgid "Window Position"
@@ -6864,7 +6864,7 @@ msgstr "Актыўны"
 
 #: ../gtk/gtkwindow.c:650
 msgid "Whether the toplevel is the current active window"
-msgstr "Ці з’яўляецца акно актыўным"
+msgstr "Ці актыўнае акно"
 
 #: ../gtk/gtkwindow.c:657
 msgid "Focus in Toplevel"

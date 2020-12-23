@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: 98e6872775a91bf27122ff608b6db605\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/yelp/issues\n"
 "POT-Creation-Date: 2019-04-19 15:58+0000\n"
-"PO-Revision-Date: 2020-10-01 08:06\n"
+"PO-Revision-Date: 2020-12-23 04:24\n"
 "Last-Translator: Zander Brown <zbrown@gnome.org>\n"
 "Language-Team: Belarusian\n"
 "Language: be_BY\n"
@@ -86,7 +86,7 @@ msgstr "Файл \"%s\" не існуе."
 #: libyelp/yelp-docbook-document.c:359
 #, c-format
 msgid "The file ‘%s’ could not be parsed because it is not a well-formed XML document."
-msgstr "Не атрымалася разабраць файл \"%s\", бо ён не з’яўляецца прыдатным дакументам XML."
+msgstr "Не атрымалася разабраць файл \"%s\", бо гэта непрыдатны дакумент XML."
 
 #: libyelp/yelp-docbook-document.c:372
 #, c-format
@@ -128,7 +128,7 @@ msgstr "Усе дакументы даведкі"
 #: libyelp/yelp-info-document.c:383
 #, c-format
 msgid "The file ‘%s’ could not be parsed because it is not a well-formed info page."
-msgstr "Не атрымалася разабраць файл \"%s\", бо ён не з’яўляецца карэктнай старонкай info."
+msgstr "Не атрымалася разабраць файл \"%s\", бо гэта некарэктная старонка info."
 
 #: libyelp/yelp-mallard-document.c:348
 #, c-format
