@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: 98e6872775a91bf27122ff608b6db605\n"
 "Report-Msgid-Bugs-To: https://bugzilla.gnome.org/enter_bug.cgi?product=folks&keywords=I18N+L10N&component=general\n"
 "POT-Creation-Date: 2017-09-27 12:13+0000\n"
-"PO-Revision-Date: 2020-10-01 08:07\n"
+"PO-Revision-Date: 2020-12-23 04:24\n"
 "Last-Translator: Bruce Cowan <bruce@bcowan.eu>\n"
 "Language-Team: Belarusian\n"
 "Language: be_BY\n"
@@ -573,7 +573,7 @@ msgstr "Немагчыма звязаць кантакты без асноўна
 #: folks/individual-aggregator.vala:2140 folks/individual-aggregator.vala:2471
 #, c-format
 msgid "Persona store ‘%s:%s’ is configured as primary, but could not be found or failed to load."
-msgstr "Сховішча \"%s:%s\" з'яўляецца асноўным, але яго не атрымалася адшукаць альбо загрузіць."
+msgstr "Сховішча \"%s:%s\" ёсць асноўным, але яго не атрымалася адшукаць альбо загрузіць."
 
 #: folks/individual-aggregator.vala:2141 folks/individual-aggregator.vala:2472
 #, c-format
@@ -856,7 +856,7 @@ msgstr "Падчас імпартавання кантактаў адбылас�
 #: tools/import.vala:199
 #, c-format
 msgid "Unrecognized source backend name ‘%s’. ‘%s’ is currently the only supported source backend."
-msgstr "Невядомая назва драйвера крыніцы \"%s\". Пакуль што адзіным магчымым драйверам з'яўляецца \"%s\"."
+msgstr "Невядомая назва драйвера крыніцы \"%s\". Пакуль што адзіным магчымым драйверам ёсць \"%s\"."
 
 #~ msgid ""
 #~ "Failed to determine whether we can set aliases on Telepathy account '%s': "
