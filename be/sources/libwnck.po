@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: 98e6872775a91bf27122ff608b6db605\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-02 22:48+0000\n"
-"PO-Revision-Date: 2020-10-01 08:06\n"
+"PO-Revision-Date: 2020-12-23 04:23\n"
 "Last-Translator: David Lodge <dave@cirt.net>\n"
 "Language-Team: Belarusian\n"
 "MIME-Version: 1.0\n"
@@ -128,7 +128,7 @@ msgstr "Паказваць толькі бягучую працоўную пра
 
 #: ../libwnck/test-pager.c:17 ../libwnck/test-tasklist.c:19
 msgid "Use RTL as default direction"
-msgstr "Выкарыстоўваць RTL як прадвызначаны накірунак"
+msgstr "Выкарыстоўваць RTL як прадвызначаны кірунак"
 
 #: ../libwnck/test-pager.c:18
 msgid "Show workspace names instead of workspace contents"
