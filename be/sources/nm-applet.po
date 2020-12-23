@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: 98e6872775a91bf27122ff608b6db605\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/network-manager-applet/\n"
 "POT-Creation-Date: 2020-03-06 23:05+0100\n"
-"PO-Revision-Date: 2020-12-22 10:52\n"
+"PO-Revision-Date: 2020-12-23 04:23\n"
 "Last-Translator: Bruce Cowan <bruce@bcowan.me.uk>\n"
 "Language-Team: Belarusian\n"
 "Language: be_BY\n"
@@ -53,7 +53,7 @@ msgstr "Праграма nm-connection-editor працуе з NetworkManager д�
 
 #: nm-connection-editor.appdata.xml.in:27
 msgid "The NetworkManager Developers"
-msgstr "Распрацоўшчыкі NetworkManager"
+msgstr "Распрацоўнікі NetworkManager"
 
 #: nm-connection-editor.desktop.in:3
 msgid "Advanced Network Configuration"
@@ -85,7 +85,7 @@ msgstr "уласцівасць стварэння \"%s\" для аб’екта 
 #: shared/nm-utils/nm-shared-utils.c:815
 #, c-format
 msgid "'%s::%s' is not a valid property name; '%s' is not a GObject subtype"
-msgstr "\"%s::%s\" - непрыдатная назва для ўласцівасці; \"%s\" не з’яўляецца падтыпам GObject"
+msgstr "\"%s::%s\" - непрыдатная назва для ўласцівасці; \"%s\" не ёсць падтыпам GObject"
 
 #: shared/nm-utils/nm-shared-utils.c:824
 #, c-format
@@ -95,7 +95,7 @@ msgstr "не атрымалася вызначыць уласцівасць \"%s
 #: shared/nm-utils/nm-shared-utils.c:835
 #, c-format
 msgid "value \"%s\" of type '%s' is invalid or out of range for property '%s' of type '%s'"
-msgstr "значэнне \"%sд тыпу \"%s\" з’яўляецца непрыдатным альбо знаходзіцца па-за дыяпазонам для ўласцівасці \"%s\" тыпу \"%s\""
+msgstr "значэнне \"%s\" тыпу \"%s\" непрыдатнае альбо знаходзіцца па-за дыяпазонам для ўласцівасці \"%s\" тыпу \"%s\""
 
 #: src/8021x.ui:11 src/ethernet-dialog.c:85
 msgid "802.1X authentication"
@@ -3636,7 +3636,7 @@ msgstr "Выкарыстанне:"
 
 #: src/main.c:30
 msgid "This program is a component of NetworkManager (https://wiki.gnome.org/Projects/NetworkManager/)."
-msgstr "Гэтая праграма з'яўляецца часткай NetworkManager (https://wiki.gnome.org/Projects/NetworkManager/)."
+msgstr "Гэтая праграма - частка NetworkManager (https://wiki.gnome.org/Projects/NetworkManager/)."
 
 #: src/main.c:31
 msgid "It is not intended for command-line interaction but instead runs in the GNOME desktop environment."
