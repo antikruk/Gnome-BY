@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: 98e6872775a91bf27122ff608b6db605\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-08-26 22:34+0000\n"
-"PO-Revision-Date: 2020-10-01 08:06\n"
+"PO-Revision-Date: 2020-12-23 04:24\n"
 "Last-Translator: Bruce Cowan <bruce@bcowan.me.uk>\n"
 "Language-Team: Belarusian\n"
 "Language: be_BY\n"
@@ -126,7 +126,7 @@ msgstr "Інструмент, які зараз выкарыстоўваецца
 
 #: gdk/gdkdevice.c:246 gtk/gtkmenubutton.c:372 gtk/gtkshortcutsshortcut.c:688
 msgid "Direction"
-msgstr "Накірунак"
+msgstr "Кірунак"
 
 #: gdk/gdkdevice.c:247
 #| msgid "The pack direction of the menubar"
@@ -463,11 +463,11 @@ msgstr "Параметр для выкліку дзеянняў"
 
 #: gtk/gtkactionbar.c:154 gtk/gtkinfobar.c:379
 msgid "Reveal"
-msgstr ""
+msgstr "Адкрыццё"
 
 #: gtk/gtkactionbar.c:155
 msgid "Controls whether the action bar shows its contents or not"
-msgstr ""
+msgstr "Вызначае, ці паказвае панэль дзеянняў сваё змесціва"
 
 #: gtk/gtkadjustment.c:139 gtk/gtkcellrendererprogress.c:150
 #: gtk/gtkdroptarget.c:647 gtk/gtkscalebutton.c:205 gtk/gtkspinbutton.c:415
@@ -627,11 +627,11 @@ msgstr "Зарэгістраваць праз кіраўніка сеансаў"
 
 #: gtk/gtkapplication.c:614
 msgid "Screensaver Active"
-msgstr ""
+msgstr "Ахоўнік экрана актыўны"
 
 #: gtk/gtkapplication.c:615
 msgid "Whether the screensaver is active"
-msgstr ""
+msgstr "Ці актыўны ахоўнік экрана"
 
 #: gtk/gtkapplication.c:621
 msgid "Menubar"
@@ -1192,7 +1192,7 @@ msgstr "Пашыраны"
 
 #: gtk/gtkcellrenderer.c:378
 msgid "Row is an expander row, and is expanded"
-msgstr "Радок з’яўляецца пашыраемым, ён пашыраны."
+msgstr "Радок пашыраемы, ён пашыраны"
 
 #: gtk/gtkcellrenderer.c:385
 msgid "Cell background color name"
@@ -1349,7 +1349,7 @@ msgstr "Інвертавана"
 
 #: gtk/gtkcellrendererprogress.c:231 gtk/gtkprogressbar.c:187
 msgid "Invert the direction in which the progress bar grows"
-msgstr "Адваротны накірунак росту індыкатара прагрэсу"
+msgstr "Адваротны кірунак росту індыкатара прагрэсу"
 
 #: gtk/gtkcellrendererspin.c:132 gtk/gtkrange.c:365 gtk/gtkscalebutton.c:215
 #: gtk/gtkscrollbar.c:217 gtk/gtkspinbutton.c:365
@@ -1563,7 +1563,7 @@ msgstr "Перанос"
 
 #: gtk/gtkcellrenderertext.c:445
 msgid "The preferred place to ellipsize the string, if the cell renderer does not have enough room to display the entire string"
-msgstr "Пажаданае месца пераносу радка, калі адмалёўшчыку ячэйкі не хапае месца для ўсяго радка"
+msgstr "Пажаданае месца пераносу радка, калі адмалёўніку ячэйкі не хапае месца для ўсяго радка"
 
 #: gtk/gtkcellrenderertext.c:461 gtk/gtkfilechooserbutton.c:535
 #: gtk/gtklabel.c:889
@@ -1588,7 +1588,7 @@ msgstr "Рэжым пераносу"
 
 #: gtk/gtkcellrenderertext.c:497
 msgid "How to break the string into multiple lines, if the cell renderer does not have enough room to display the entire string"
-msgstr "Як падзяляць радок на некалькі радкоў, калі адмалёўшчыку ячэйкі не хапае прасторы для адлюстравання ўсяго радка"
+msgstr "Як падзяляць радок на некалькі радкоў, калі адмалёўніку ячэйкі не хапае прасторы для адлюстравання ўсяго радка"
 
 #: gtk/gtkcellrenderertext.c:513
 msgid "Wrap width"
@@ -2813,11 +2813,11 @@ msgstr "Спіс пазіцый прыпынкаў табуляцыі, ўжыв�
 
 #: gtk/gtkentry.c:915
 msgid "Emoji icon"
-msgstr ""
+msgstr "Значкі эмоджы"
 
 #: gtk/gtkentry.c:916
 msgid "Whether to show an icon for Emoji"
-msgstr ""
+msgstr "Ці паказваць значкі эмоджы"
 
 #: gtk/gtkentry.c:928 gtk/gtklabel.c:953 gtk/gtkpasswordentry.c:435
 #: gtk/gtktext.c:939 gtk/gtktextview.c:1074
@@ -2830,11 +2830,11 @@ msgstr ""
 
 #: gtk/gtkentry.c:935 gtk/gtktext.c:912
 msgid "Enable Emoji completion"
-msgstr ""
+msgstr "Уключыць прапанову замены эмоджы"
 
 #: gtk/gtkentry.c:936 gtk/gtktext.c:913
 msgid "Whether to suggest Emoji replacements"
-msgstr ""
+msgstr "Ці прапаноўваць замену эмоджы"
 
 #: gtk/gtkentrycompletion.c:295
 msgid "Completion Model"
@@ -3161,7 +3161,7 @@ msgstr "Мінімум нашчадкаў у радку"
 
 #: gtk/gtkflowbox.c:3629
 msgid "The minimum number of children to allocate consecutively in the given orientation."
-msgstr "Мінімальная колькасць нашчадкаў, што паслядоўна размяшчаюцца ў дадзеным накірунку."
+msgstr "Мінімальная колькасць нашчадкаў, што паслядоўна размяшчаюцца ў дадзеным кірунку."
 
 #: gtk/gtkflowbox.c:3642
 msgid "Maximum Children Per Line"
@@ -3169,7 +3169,7 @@ msgstr "Максімум нашчадкаў у радку"
 
 #: gtk/gtkflowbox.c:3643
 msgid "The maximum amount of children to request space for consecutively in the given orientation."
-msgstr "Максімальная колькасць нашчадкаў, што паслядоўна размяшчаюцца ў дадзеным накірунку."
+msgstr "Максімальная колькасць нашчадкаў, што паслядоўна размяшчаюцца ў дадзеным кірунку."
 
 #: gtk/gtkflowbox.c:3655
 msgid "Vertical spacing"
@@ -3229,31 +3229,31 @@ msgstr "Ці ўключаны папярэдні прагляд тэксту"
 
 #: gtk/gtkfontchooser.c:116
 msgid "Selection level"
-msgstr ""
+msgstr "Узровень выбару"
 
 #: gtk/gtkfontchooser.c:117
 msgid "Whether to select family, face or font"
-msgstr ""
+msgstr "Ці патрэбна абіраць сямейства, выгляд і шрыфт"
 
 #: gtk/gtkfontchooser.c:133
 msgid "Font features"
-msgstr ""
+msgstr "Асаблівасці шрыфту"
 
 #: gtk/gtkfontchooser.c:134
 msgid "Font features as a string"
-msgstr ""
+msgstr "Асаблівасці шрыфту як радок"
 
 #: gtk/gtkfontchooser.c:149
 msgid "Language for which features have been selected"
-msgstr ""
+msgstr "Мова, для якой былі абраныя асаблівасці"
 
 #: gtk/gtkfontchooserwidget.c:661
 msgid "The tweak action"
-msgstr ""
+msgstr "Дзеянне наладкі"
 
 #: gtk/gtkfontchooserwidget.c:662
 msgid "The toggle action to switch to the tweak page"
-msgstr ""
+msgstr "Дзеянне пераключэння для пераходу на старонку налад"
 
 #: gtk/gtkframe.c:170
 msgid "Text of the frame’s label"
@@ -3305,7 +3305,7 @@ msgstr "Ці будзе жэст апрацоўваць толькі падзе�
 
 #: gtk/gtkgesturesingle.c:278 gtk/gtkgesturesingle.c:279
 msgid "Whether the gesture is exclusive"
-msgstr "Ці з’яўляецца жэст унікальным"
+msgstr "Ці ўнікальны жэст"
 
 #: gtk/gtkgesturesingle.c:290
 msgid "Button number"
@@ -4175,7 +4175,7 @@ msgstr "Тэкст"
 
 #: gtk/gtkmodelbutton.c:1118
 msgid "The text of the button includes XML markup. See pango_parse_markup()"
-msgstr ""
+msgstr "Тэкст кнопкі змяшчае XML-разметку. Глядзіце pango_parse_markup()"
 
 #: gtk/gtkmodelbutton.c:1142
 msgid "Menu name"
@@ -4244,7 +4244,7 @@ msgstr "Загаловак дыялогу выбару файлаў"
 
 #: gtk/gtknativedialog.c:227
 msgid "If TRUE, the dialog is modal (other windows are not usable while this one is up)"
-msgstr "Калі TRUE, акно з’яўляецца мадальным (іншыя вокны немагчыма выкарыстоўваць, пакуль гэтае акно не закрыецца)"
+msgstr "Калі TRUE, то акно мадальнае (іншыя вокны немагчыма выкарыстоўваць, пакуль гэтае акно не закрыецца)"
 
 #: gtk/gtknativedialog.c:239
 msgid "Whether the dialog is currently visible"
@@ -4630,11 +4630,11 @@ msgstr "Ці будзе на бакавой панэлі размяшчацца 
 
 #: gtk/gtkplacessidebar.c:4386
 msgid "Show “Starred Location”"
-msgstr ""
+msgstr "Паказваць адзначаныя файлы"
 
 #: gtk/gtkplacessidebar.c:4387
 msgid "Whether the sidebar includes an item to show starred files"
-msgstr ""
+msgstr "Ці будуць на бакавой панэлі паказвацца адзначаныя файлы"
 
 #: gtk/gtkplacesview.c:2239
 msgid "Loading"
@@ -5118,7 +5118,7 @@ msgstr "GtkAdjustment, які змяшчае бягучае значэнне д�
 
 #: gtk/gtkrange.c:373
 msgid "Invert direction slider moves to increase range value"
-msgstr "Адвярнуць накірунак абраных паўзункамі абласцей, каб павялічыць дыяпазон"
+msgstr "Адвярнуць кірунак абраных паўзункамі абласцей, каб павялічыць дыяпазон"
 
 #: gtk/gtkrange.c:386
 msgid "Show Fill Level"
@@ -5242,7 +5242,7 @@ msgstr "Гарызантальнае выраўноўванне"
 
 #: gtk/gtkscrollable.c:76
 msgid "Horizontal adjustment that is shared between the scrollable widget and its controller"
-msgstr "Гарызантальнае выраўноўванне, што з’яўляецца агульным для віджэта і яго кантролера"
+msgstr "Гарызантальнае выраўноўванне, агульнае для віджэта і яго кантролера"
 
 #: gtk/gtkscrollable.c:90
 msgid "Vertical adjustment"
@@ -5250,7 +5250,7 @@ msgstr "Вертыкальнае выраўноўванне"
 
 #: gtk/gtkscrollable.c:91
 msgid "Vertical adjustment that is shared between the scrollable widget and its controller"
-msgstr "Вертыкальнае выраўноўванне, што з’яўляецца агульным для віджэта і яго кантролера"
+msgstr "Вертыкальнае выраўноўванне, агульнае для віджэта і яго кантролера"
 
 #: gtk/gtkscrollable.c:105
 msgid "Horizontal Scrollable Policy"
@@ -5437,12 +5437,12 @@ msgstr "Ці будуць адлюстроўвацца два курсора д�
 #: gtk/gtksettings.c:391
 #| msgid "Cursor Position"
 msgid "Cursor Aspect Ratio"
-msgstr ""
+msgstr "Прапорцыі курсора"
 
 #: gtk/gtksettings.c:392
 #| msgid "The orientation of the orientable"
 msgid "The aspect ratio of the text caret"
-msgstr ""
+msgstr "Прапорцыі тэкставага курсора"
 
 #: gtk/gtksettings.c:399
 msgid "Theme Name"
@@ -5542,11 +5542,11 @@ msgstr "Ці будзе ў дыялогах выкарыстоўвацца ал�
 
 #: gtk/gtksettings.c:513
 msgid "Alternative sort indicator direction"
-msgstr "Альтэрнатыўны накірунак індыкатара метаду парадкавання"
+msgstr "Альтэрнатыўны кірунак індыкатара метаду парадкавання"
 
 #: gtk/gtksettings.c:514
 msgid "Whether the direction of the sort indicators in list and tree views is inverted compared to the default (where down means ascending)"
-msgstr "Ці адварочваць накірунак індыкатара метаду парадкавання ў спісах альбо дрэвах (уніз азначае ўзрастанне)"
+msgstr "Ці адварочваць кірунак індыкатара метаду парадкавання ў спісах альбо дрэвах (уніз азначае ўзрастанне)"
 
 #: gtk/gtksettings.c:521
 msgid "Enable Animations"
@@ -5759,7 +5759,7 @@ msgstr "Ці будзе паказвацца курсор у тэксце"
 
 #: gtk/gtksettings.c:963 gtk/gtksettings.c:964
 msgid "Whether to use overlay scrollbars"
-msgstr ""
+msgstr "Ці патрэбна выкарыстоўваць накладзеныя палосы пракруткі"
 
 #: gtk/gtkshortcutaction.c:942
 #| msgid "Section Name"
@@ -5889,7 +5889,7 @@ msgstr "Ці быў вызначаны падзагаловак"
 
 #: gtk/gtkshortcutsshortcut.c:689
 msgid "Text direction for which this shortcut is active"
-msgstr "Накірунак тэксту, для якога гэтае спалучэнне актыўна"
+msgstr "Кірунак тэксту, для якога гэтае спалучэнне актыўна"
 
 #: gtk/gtkshortcutsshortcut.c:701
 msgid "Shortcut Type"
@@ -5961,7 +5961,7 @@ msgstr "Рэжым"
 
 #: gtk/gtksizegroup.c:227
 msgid "The directions in which the size group affects the requested sizes of its component widgets"
-msgstr "Накірункі ў якіх групы па памерах ўплываюць на вызначаныя памеры віджэтаў, што ў іх уваходзяць"
+msgstr "Кірункі, ў якіх групы па памерах ўплываюць на вызначаныя памеры віджэтаў, што ў іх уваходзяць"
 
 #: gtk/gtkslicelistmodel.c:265
 msgid "Child model to take slice from"
@@ -6003,7 +6003,7 @@ msgstr "Паскарэнне"
 
 #: gtk/gtkspinbutton.c:373
 msgid "The acceleration rate when you hold down a button or key"
-msgstr ""
+msgstr "Хуткасць паскарэння пры ўтрымліванні кнопкі альбо клавішы"
 
 #: gtk/gtkspinbutton.c:386
 msgid "Snap to Ticks"
@@ -6329,11 +6329,11 @@ msgstr "Асноўны колер як RGBA"
 
 #: gtk/gtktexttag.c:265
 msgid "Text direction"
-msgstr "Накірунак тэксту"
+msgstr "Кірунак тэксту"
 
 #: gtk/gtktexttag.c:266
 msgid "Text direction, e.g. right-to-left or left-to-right"
-msgstr "Накірунак (злева направа ці справа налева)"
+msgstr "Кірунак тэксту (злева направа ці справа налева)"
 
 #: gtk/gtktexttag.c:315
 msgid "Font style as a PangoStyle, e.g. PANGO_STYLE_ITALIC"
@@ -7259,11 +7259,11 @@ msgstr "Ці будзе віджэт перахопліваць фокус ув�
 
 #: gtk/gtkwidget.c:1018
 msgid "Has default"
-msgstr "З’яўляецца прадвызначаным"
+msgstr "Прадвызначаны"
 
 #: gtk/gtkwidget.c:1019
 msgid "Whether the widget is the default widget"
-msgstr "Ці з’яўляецца гэты віджэт прадвызначаным"
+msgstr "Ці прадвызначаны гэты віджэт"
 
 #: gtk/gtkwidget.c:1025
 msgid "Receives default"
@@ -7445,7 +7445,7 @@ msgstr "Калі TRUE, карыстальнікі могуць змяняць п
 
 #: gtk/gtkwindow.c:751
 msgid "If TRUE, the window is modal (other windows are not usable while this one is up)"
-msgstr "Калі TRUE, акно з’яўляецца мадальным (іншыя вокны немагчыма выкарыстоўваць, пакуль гэтае акно не закрыецца)"
+msgstr "Калі TRUE, то акно мадальнае (іншыя вокны немагчыма выкарыстоўваць, пакуль гэтае акно не закрыецца)"
 
 #: gtk/gtkwindow.c:757
 msgid "Default Width"
@@ -7509,7 +7509,7 @@ msgstr "Актыўна"
 
 #: gtk/gtkwindow.c:837
 msgid "Whether the toplevel is the current active window"
-msgstr "Ці з’яўляецца акно актыўным"
+msgstr "Ці актыўнае акно"
 
 #: gtk/gtkwindow.c:848
 msgid "Decorated"
