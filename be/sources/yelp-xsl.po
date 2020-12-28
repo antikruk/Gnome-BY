@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: 98e6872775a91bf27122ff608b6db605\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/yelp-xsl/issues\n"
 "POT-Creation-Date: 2019-05-23 16:51+0000\n"
-"PO-Revision-Date: 2020-12-21 10:56\n"
+"PO-Revision-Date: 2020-12-24 07:44\n"
 "Last-Translator: Zander Brown <zbrown@gnome.org>\n"
 "Language-Team: Belarusian\n"
 "Language: be_BY\n"
@@ -130,7 +130,7 @@ msgstr "Кандыдат"
 #. Accessible title for a caution note.
 #: yelp-xsl.xml.in:137
 msgid "Caution"
-msgstr ""
+msgstr "Увага"
 
 #. (itstool) path: msg/msgstr
 #. Accessible title for an close button.
@@ -160,7 +160,7 @@ msgstr "Creative Commons"
 #. Accessible title for a danger note.
 #: yelp-xsl.xml.in:162
 msgid "Danger"
-msgstr ""
+msgstr "Небяспечна"
 
 #. (itstool) path: msg/msgstr
 #. Default title for a dedication section.
@@ -220,7 +220,7 @@ msgstr "Індэкс"
 #. Default title for a DocBook legal notice.
 #: yelp-xsl.xml.in:216
 msgid "Legal"
-msgstr "Прававыя ўмовы"
+msgstr "Юрыдычная інфармацыя"
 
 #. (itstool) path: msg/msgstr
 #. Generic title for license information when it's not a known license.
@@ -257,7 +257,7 @@ msgstr "Нататка"
 #. Title for a list of links to sections on the current page.
 #: yelp-xsl.xml.in:248
 msgid "On This Page"
-msgstr ""
+msgstr "На гэтай старонцы"
 
 #. (itstool) path: msg/msgstr
 #. Title for a list contributors other than authors, editors, translators,
@@ -279,7 +279,7 @@ msgstr "Састарэла"
 #. Accessible title for a package note.
 #: yelp-xsl.xml.in:269
 msgid "Package"
-msgstr ""
+msgstr "Пакунак"
 
 #. (itstool) path: msg/msgstr
 #. Tooltip on play/pause buttons for audio and video objects.

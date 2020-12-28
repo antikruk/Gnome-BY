@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: 98e6872775a91bf27122ff608b6db605\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/seahorse/issues\n"
 "POT-Creation-Date: 2020-07-13 16:23+0000\n"
-"PO-Revision-Date: 2020-12-23 04:23\n"
+"PO-Revision-Date: 2020-12-24 07:44\n"
 "Last-Translator: Bruce Cowan <bruce@bcowan.me.uk>\n"
 "Language-Team: Belarusian\n"
 "Language: be_BY\n"
@@ -205,7 +205,7 @@ msgstr "Адкліканы"
 #: data/gtk/help-overlay.ui:9
 msgctxt "shortcut window"
 msgid "Overview"
-msgstr ""
+msgstr "Агляд"
 
 #: data/gtk/help-overlay.ui:14
 msgctxt "shortcut window"
@@ -215,17 +215,17 @@ msgstr "Даведка"
 #: data/gtk/help-overlay.ui:21
 msgctxt "shortcut window"
 msgid "Open menu"
-msgstr ""
+msgstr "Адкрыць меню"
 
 #: data/gtk/help-overlay.ui:28
 msgctxt "shortcut window"
 msgid "Create a new item"
-msgstr ""
+msgstr "Стварыць новы элемент"
 
 #: data/gtk/help-overlay.ui:35
 msgctxt "shortcut window"
 msgid "Import item from file"
-msgstr ""
+msgstr "Імпартаваць элемент з файла"
 
 #: data/gtk/help-overlay.ui:42
 msgctxt "shortcut window"
@@ -235,7 +235,7 @@ msgstr "Пошук"
 #: data/gtk/help-overlay.ui:49
 msgctxt "shortcut window"
 msgid "Shortcut list"
-msgstr ""
+msgstr "Спіс спалучэнняў клавіш"
 
 #: data/gtk/help-overlay.ui:56
 msgctxt "shortcut window"
@@ -245,31 +245,31 @@ msgstr "Выйсці"
 #: data/gtk/help-overlay.ui:64
 msgctxt "shortcut window"
 msgid "Navigation"
-msgstr ""
+msgstr "Навігацыя"
 
 #: data/gtk/help-overlay.ui:69
 #| msgid "Couldn't remove keyring"
 msgctxt "shortcut window"
 msgid "Select previous keyring"
-msgstr ""
+msgstr "Абраць папярэднюю вязку ключоў"
 
 #: data/gtk/help-overlay.ui:76
 #| msgid "Selected %d key"
 #| msgid_plural "Selected %d keys"
 msgctxt "shortcut window"
 msgid "Select next keyring"
-msgstr ""
+msgstr "Абраць наступную вязку ключоў"
 
 #: data/gtk/help-overlay.ui:83
 #| msgid "Show sidebar listing keyrings"
 msgctxt "shortcut window"
 msgid "Show sidebar (on small screens)"
-msgstr ""
+msgstr "Паказваць бакавую панэль (на маленькіх экранах)"
 
 #: data/gtk/help-overlay.ui:90
 msgctxt "shortcut window"
 msgid "Show keyring contents (on small screens)"
-msgstr ""
+msgstr "Паказваць змесціва вязкі ключоў (на маленькіх экранах)"
 
 #: data/org.gnome.seahorse.gschema.xml:5
 msgid "Auto retrieve keys"
@@ -401,7 +401,7 @@ msgstr "Кіраванне паролямі і ключамі шыфраванн
 
 #: data/org.gnome.seahorse.Application.appdata.xml.in:9
 msgid "Seahorse is a GNOME application for managing encryption keys."
-msgstr ""
+msgstr "Seahorse - праграма для працоўнага асяроддзя GNOME для кіравання ключамі шыфравання."
 
 #: data/org.gnome.seahorse.Application.appdata.xml.in:12
 msgid "With seahorse you can create and manage PGP keys, create and manage SSH keys, publish and retrieve keys from key servers, cache your passphrase so you don’t have to keep typing it and backup your keys and keyring."
@@ -423,7 +423,7 @@ msgstr "вязка ключоў;шыфраванне;бяспека;подпіс
 
 #: gkr/gkr-backend.vala:43
 msgid "Stored personal passwords, credentials and secrets"
-msgstr "Захаваныя асабістыя паролі, паўнамоцтвы і сакрэты"
+msgstr "Захаваныя асабістыя паролі, паўнамоцтвы і даныя"
 
 #: gkr/gkr-item-add.vala:113 src/sidebar.vala:451
 msgid "Couldn’t unlock"
@@ -435,11 +435,11 @@ msgstr "Не атрымалася дадаць элемент"
 
 #: gkr/gkr-item-info.vala:30
 msgid "Password or Secret"
-msgstr ""
+msgstr "Пароль або асабістыя даныя"
 
 #: gkr/gkr-item-info.vala:120
 msgid "Network connection secret"
-msgstr "Сакрэт сеткавага злучэння"
+msgstr "Даныя сеткавага злучэння"
 
 #: gkr/gkr-item-info.vala:127
 msgid "Wi-Fi password"
@@ -537,7 +537,7 @@ msgstr "Пароль да сховішча ключоў"
 
 #: gkr/gkr-item.vala:173
 msgid "Network Manager secret"
-msgstr "Сакрэт сеткавага кіраўніка"
+msgstr "Даныя сеткавага кіраўніка"
 
 #: gkr/gkr-item.vala:341
 #, c-format
@@ -974,11 +974,11 @@ msgstr "RSA (толькі шыфраванне)"
 
 #: pgp/seahorse-gpgme-add-subkey.ui:28
 msgid "Key _Type"
-msgstr ""
+msgstr "_Тып ключа"
 
 #: pgp/seahorse-gpgme-add-subkey.ui:54
 msgid "Key _Length"
-msgstr ""
+msgstr "_Даўжыня ключа"
 
 #: pgp/seahorse-gpgme-add-subkey.ui:71
 msgid "Length of Key"
@@ -1357,7 +1357,7 @@ msgstr "Не атрымалася дадаць ключ для адклікан�
 
 #: pgp/seahorse-gpgme-secret-deleter.c:64 ssh/deleter.vala:43
 msgid "I understand that this secret key will be permanently deleted."
-msgstr "Я разумею, што гэты сакрэтны ключ будзе незваротна выдалены."
+msgstr "Я разумею, што гэты ключ асабістых даных будзе незваротна выдалены."
 
 #: pgp/seahorse-gpgme-sign-dialog.c:146
 #, c-format
@@ -1482,7 +1482,7 @@ msgstr "Ключ паспяхова імпартаваны"
 
 #: pgp/seahorse-keyserver-results.c:154
 msgid "Import"
-msgstr ""
+msgstr "Імпарт"
 
 #: pgp/seahorse-keyserver-results.c:156
 msgid "Can’t import key"
@@ -1611,10 +1611,10 @@ msgstr "Ключы PGP ужываюцца для шыфравання элект
 #, c-format
 msgid "(and %d other)"
 msgid_plural "(and %d others)"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
+msgstr[0] "(і яшчэ %d)"
+msgstr[1] "(і яшчэ %d)"
+msgstr[2] "(і яшчэ %d)"
+msgstr[3] "(і яшчэ %d)"
 
 #: pgp/seahorse-pgp-key.c:573
 msgid "Personal PGP key"
@@ -1768,11 +1768,11 @@ msgstr "Калі вы больш не верыце, што гэтым ключо
 
 #: pgp/seahorse-pgp-private-key-properties.ui:30
 msgid "Export _secret key"
-msgstr ""
+msgstr "Экспарт ключа _асабістых даных"
 
 #: pgp/seahorse-pgp-private-key-properties.ui:34
 msgid "Export _public key"
-msgstr ""
+msgstr "Экспарт _публічнага ключа"
 
 #: pgp/seahorse-pgp-private-key-properties.ui:68
 #: pgp/seahorse-pgp-public-key-properties.ui:61
@@ -1902,7 +1902,7 @@ msgstr "Змяніць узровень да_веру да ўласніка:"
 
 #: pgp/seahorse-pgp-private-key-properties.ui:890
 msgid "_Export to file"
-msgstr ""
+msgstr "_Экспарт у файл"
 
 #: pgp/seahorse-pgp-private-key-properties.ui:906
 msgid "Actions"
@@ -1980,12 +1980,12 @@ msgstr "Даты:"
 #: pgp/seahorse-pgp-public-key-properties.ui:828
 #| msgid "Indicate Trust:"
 msgid "Indicate trust:"
-msgstr ""
+msgstr "Узровень даверу:"
 
 #: pgp/seahorse-pgp-public-key-properties.ui:845
 #| msgid "You _Trust the Owner:"
 msgid "You _trust the owner:"
-msgstr ""
+msgstr "_Вы давяраеце ўласніку:"
 
 #: pgp/seahorse-pgp-subkey.c:161
 msgid "Encrypt"
@@ -2184,7 +2184,7 @@ msgstr "Экспартаваць сертыфікат"
 
 #: pkcs11/seahorse-pkcs11-properties.ui:41
 msgid "Request Certificate"
-msgstr ""
+msgstr "Запыт сертыфіката"
 
 #: pkcs11/seahorse-pkcs11-properties.ui:42
 msgid "Create a certificate request file for this key"
@@ -2228,7 +2228,7 @@ msgstr "<Даныя для імпартавання"
 
 #: src/import-dialog.vala:38
 msgid "_Import"
-msgstr ""
+msgstr "_Імпарт"
 
 #: src/import-dialog.vala:74
 msgid "Import failed"
@@ -2327,7 +2327,7 @@ msgstr "Ключ GPG"
 #: src/seahorse-key-manager.ui:132
 #| msgid "Used to encrypt email and files"
 msgid "Used to encrypt emails and files"
-msgstr ""
+msgstr "Выкарыстоўваецца для шыфравання электронных лістоў і файлаў"
 
 #: src/seahorse-key-manager.ui:159
 msgid "Password keyring"
@@ -2339,7 +2339,7 @@ msgstr "Выкарыстоўваецца для захавання пароля�
 
 #: src/seahorse-key-manager.ui:200
 msgid "Safely store a password or secret"
-msgstr "Бяспечна захоўвае паролі альбо сакрэты"
+msgstr "Бяспечна захоўвае паролі альбо асабістыя даныя"
 
 #: src/seahorse-key-manager.ui:234
 msgid "Used to request a certificate"
@@ -2381,7 +2381,7 @@ msgstr "Разблакаваць"
 #: src/seahorse-key-manager-widgets.ui:7
 #| msgid "_Copy Key"
 msgid "Copy secret"
-msgstr ""
+msgstr "Скапіяваць асабістыя даныя"
 
 #: src/seahorse-key-manager-widgets.ui:12
 msgid "Export…"
@@ -2437,7 +2437,7 @@ msgstr[3] "Сапраўды выдаліць %u ключоў SSH?"
 
 #: ssh/exporter.vala:52
 msgid "Secret SSH keys"
-msgstr "Сакрэтныя ключы SSH"
+msgstr "Ключы даных SSH"
 
 #: ssh/exporter.vala:56
 msgid "Public SSH keys"
@@ -2627,11 +2627,11 @@ msgstr "Месцазнаходжанне"
 
 #: ssh/seahorse-ssh-key-properties.ui:228
 msgid "Public Key"
-msgstr ""
+msgstr "Публічны ключ"
 
 #: ssh/seahorse-ssh-key-properties.ui:243
 msgid "Copy public key to clipboard"
-msgstr ""
+msgstr "Скапіяваць публічны ключ у буфер абмену"
 
 #: ssh/seahorse-ssh-key-properties.ui:272
 msgid "Remote Access"
