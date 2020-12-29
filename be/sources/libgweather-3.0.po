@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: 98e6872775a91bf27122ff608b6db605\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/libgweather/issues\n"
 "POT-Creation-Date: 2019-10-15 10:53+0000\n"
-"PO-Revision-Date: 2020-10-01 08:06\n"
+"PO-Revision-Date: 2020-12-29 06:22\n"
 "Last-Translator: Bruce Cowan <bruce@bcowan.me.uk>\n"
 "Language-Team: Belarusian\n"
 "Language: be_BY\n"
@@ -881,7 +881,7 @@ msgstr "%d ℃"
 #: libgweather/gweather-weather.c:914
 #, c-format
 msgid "%.1f K"
-msgstr "%. 1f K"
+msgstr "%.1f K"
 
 #. TRANSLATOR: This is the temperature in kelvin (U+212A KELVIN SIGN)
 #. * with a non-break space (U+00A0) between the digits and the degrees sign
@@ -1064,7 +1064,7 @@ msgstr "URL-адрас радарнай мапы"
 
 #: schemas/org.gnome.GWeather.gschema.xml:6
 msgid "The custom URL from where to retrieve a radar map, or empty for disabling radar maps."
-msgstr "Адвольны URL-адрас, адкуль патрэбна атрымліваць мапу радара, або пустое значэннедля выключэння радарнай мапы."
+msgstr "Адвольны URL-адрас, адкуль патрэбна атрымліваць мапу радара, або пустое значэнне для выключэння радарнай мапы."
 
 #: schemas/org.gnome.GWeather.gschema.xml:13
 msgid "Temperature unit"
@@ -1072,7 +1072,7 @@ msgstr "Адзінка вымярэння тэмпературы"
 
 #: schemas/org.gnome.GWeather.gschema.xml:14
 msgid "The unit of temperature used for showing weather. Valid values are “kelvin”, “centigrade” and “fahrenheit”."
-msgstr "Адзінка вымярэння тэмпературы для паказу надвор'я. Магчымыя значэнні: 'kelvin' (Кельвіна), 'centigrade' (Цэльсія) ці 'fahrenheit' (Фарэнгейта)."
+msgstr "Адзінка вымярэння тэмпературы для паказу надвор'я. Магчымыя значэнні: \"kelvin\" (Кельвіна), \"centigrade\" (Цэльсія) ці \"fahrenheit\" (Фарэнгейта)."
 
 #: schemas/org.gnome.GWeather.gschema.xml:21
 msgid "Distance unit"
@@ -1080,7 +1080,7 @@ msgstr "Адзінка вымярэння адлегласці"
 
 #: schemas/org.gnome.GWeather.gschema.xml:22
 msgid "The unit of distance used for showing weather (for example for visibility or for distance of important events). Valid values are “meters”, “km” and “miles”."
-msgstr "Адзінка вымярэння адлегласці для паказу надвор'я (напрыклад, для бачнасці ці адлегласці да важных падзей). Магчымыя значэнні: 'meters' (метраў), 'km' (кіламетраў) ці 'miles' (міляў)."
+msgstr "Адзінка вымярэння адлегласці для паказу надвор'я (напрыклад, для бачнасці ці адлегласці да важных падзей). Магчымыя значэнні: \"meters\" (метраў), \"km\" (кіламетраў) ці \"miles\" (міляў)."
 
 #: schemas/org.gnome.GWeather.gschema.xml:29
 msgid "Speed unit"
@@ -1088,7 +1088,7 @@ msgstr "Адзінка вымярэння хуткасці"
 
 #: schemas/org.gnome.GWeather.gschema.xml:30
 msgid "The unit of speed used for showing weather (for example for wind speed). Valid values are “ms” (meters per second), “kph” (kilometers per hour), “mph” (miles per hour), “knots” and “bft” (Beaufort scale)."
-msgstr "Адзінка вымярэння хуткасці для паказу надвор'я (напрыклад, для хуткасціветру). Магчымыя значэнні: 'ms' (метраў за секунду), 'kph' (кіламетраў за гадзіну), 'mph' (міляў за гадзіну), 'knots' (вузлоў) ці 'bft' (шкала Бафорта)."
+msgstr "Адзінка вымярэння хуткасці для паказу надвор'я (напрыклад, для хуткасці ветру). Магчымыя значэнні: \"ms\" (метраў за секунду), \"kph\"(кіламетраў за гадзіну), \"mph\" (міляў за гадзіну), \"knots\" (вузлоў) ці \"bft\" (шкала Бафорта)."
 
 #: schemas/org.gnome.GWeather.gschema.xml:38
 msgid "Pressure unit"
@@ -1096,7 +1096,7 @@ msgstr "Адзінка вымярэння ціску"
 
 #: schemas/org.gnome.GWeather.gschema.xml:39
 msgid "The unit of pressure used for showing weather. Valid values are “kpa” (kilopascal), “hpa” (hectopascal), “mb” (millibar, mathematically equivalent to 1 hPa but shown differently), “mm-hg” (millimeters of mercury), “inch-hg” (inches of mercury), “atm” (atmospheres)."
-msgstr "Адзінка вымярэння ціску для паказу надвор'я. Магчымыя значэнні: 'kpa' (кілапаскаляў), 'hpa' (гектапаскаляў), 'mb' (мілібар, матэматычна эквівалентна з 1 гПа, але паказваецца ў іншай форме), 'mm-hg' (міліметраў ртутнага слупка), 'inch-hg' (цаляў ртутнага слупка), 'atm' (атмасфер)."
+msgstr "Адзінка вымярэння ціску для паказу надвор'я. Магчымыя значэнні: \"kpa\" (кілапаскаляў), \"hpa\" (гектапаскаляў), \"mb\" (мілібар, матэматычна эквівалентна з 1 гПа, але паказваецца ў іншай форме), \"mm-hg\" (міліметраў ртутнага слупка), \"inch-hg\" (цаляў ртутнага слупка), \"atm\" (атмасфер)."
 
 #. TRANSLATORS: pick a default location to use in the weather applet. This should
 #. usually be the largest city or the capital of your country. If you're not picking
