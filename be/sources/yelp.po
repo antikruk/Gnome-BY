@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: 98e6872775a91bf27122ff608b6db605\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/yelp/issues\n"
 "POT-Creation-Date: 2019-04-19 15:58+0000\n"
-"PO-Revision-Date: 2020-12-23 04:24\n"
+"PO-Revision-Date: 2020-12-29 06:22\n"
 "Last-Translator: Zander Brown <zbrown@gnome.org>\n"
 "Language-Team: Belarusian\n"
 "Language: be_BY\n"
@@ -35,23 +35,23 @@ msgstr "Усталяваць <string/>"
 #: data/yelp.appdata.xml.in:6
 #| msgid " GNOME Help Browser"
 msgid "GNOME Help"
-msgstr ""
+msgstr "Даведнік GNOME"
 
 #: data/yelp.appdata.xml.in:7
 msgid "Help viewer for GNOME"
-msgstr ""
+msgstr "Сродак для прагляду даведкі па GNOME"
 
 #: data/yelp.appdata.xml.in:9
 msgid "Yelp is the GNOME help viewer. It is the default Mallard viewer, but it can also display DocBook, info, man, and HTML documentation."
-msgstr ""
+msgstr "Yelp - сродак для прагляду даведкі па GNOME. Асноўным фарматам для яго ёсць Mallard, але праграма таксама можа адлюстроўваць DocBook, info, man і HTML."
 
 #: data/yelp.appdata.xml.in:13
 msgid "It makes it easy to find the documentation you need, with interactive search and bookmarks."
-msgstr ""
+msgstr "Інтэрактыўны пошук і закладкі спрашчаюць навігацыю па дакументацыі."
 
 #: data/yelp.appdata.xml.in:17
 msgid "It also has an editor mode, which shows editorial comments and revision statuses when editing Mallard documents."
-msgstr ""
+msgstr "Таксама ў праграмы ёсць рэжым рэдактара, у якім паказваюцца каментары і стан рэвізіі для дакументаў Mallard."
 
 #: data/yelp.appdata.xml.in:30
 msgid "The GNOME Project"
@@ -111,7 +111,7 @@ msgstr "Вынікі пошуку \"%s\""
 #: libyelp/yelp-document.c:1080
 #, c-format
 msgid "No matching help pages found in “%s”."
-msgstr "Адпаведных старонак даведак не знойдзена ў \"%s\"."
+msgstr "Адпаведных старонак даведкі не знойдзена ў \"%s\"."
 
 #: libyelp/yelp-document.c:1086
 msgid "No matching help pages found."
@@ -268,7 +268,7 @@ msgstr "Уключыць рэжым рэдактара"
 #: src/yelp-application.c:270 src/yelp-window.c:1188 src/yelp-window.c:1196
 #: yelp.desktop.in:3
 msgid "Help"
-msgstr "Дапамога"
+msgstr "Даведка"
 
 #: src/yelp-window.c:343
 msgid "Back"
@@ -288,11 +288,11 @@ msgstr "Новае акно"
 
 #: src/yelp-window.c:367
 msgid "Find…"
-msgstr "Шукаць..."
+msgstr "Пошук…"
 
 #: src/yelp-window.c:368
 msgid "Print…"
-msgstr "Друкаваць..."
+msgstr "Друк…"
 
 #: src/yelp-window.c:373
 msgid "Previous Page"
