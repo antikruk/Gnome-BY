@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: 98e6872775a91bf27122ff608b6db605\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-25 14:50+0000\n"
-"PO-Revision-Date: 2020-12-21 10:56\n"
+"PO-Revision-Date: 2020-12-29 06:22\n"
 "Last-Translator: Bruce Cowan <bruce@bcowan.me.uk>\n"
 "Language-Team: Belarusian\n"
 "Language: be_BY\n"
@@ -40,7 +40,7 @@ msgstr "Азія"
 #. FIXME: rename this to Atlantic Ocean
 msgctxt "Region"
 msgid "Atlantic"
-msgstr "Атлантыка"
+msgstr "Атлантычны акіян"
 
 msgid "Australasia and Oceania"
 msgstr "Аўстралія і Акеанія"
@@ -206,7 +206,7 @@ msgstr "Балгарыя"
 
 #. BF - Burkina Faso
 msgid "Burkina Faso"
-msgstr "Буркіна Фасо"
+msgstr "Буркіна-Фасо"
 
 #. BI - Burundi
 msgid "Burundi"
@@ -341,7 +341,7 @@ msgstr "Егіпет"
 
 #. SV - El Salvador
 msgid "El Salvador"
-msgstr "Сальвадор"
+msgstr "Эль Сальвадор"
 
 #. GQ - Equatorial Guinea
 msgid "Equatorial Guinea"
@@ -509,7 +509,7 @@ msgstr "Індыя"
 
 #. ID - Indonesia
 msgid "Indonesia"
-msgstr "Інданэзія"
+msgstr "Інданезія"
 
 #. IR - Islamic Republic of Iran
 msgid "Iran"
@@ -718,7 +718,7 @@ msgstr "Мазамбік"
 #. more Google hits in English)
 #.
 msgid "Myanmar"
-msgstr "М’янмарскае"
+msgstr "М'янма"
 
 #. NA - Namibia
 msgid "Namibia"
@@ -913,14 +913,14 @@ msgstr "Самоа"
 #. SM - San Marino
 msgctxt "Country"
 msgid "San Marino"
-msgstr "Сан Марына"
+msgstr "Сан-Марына"
 
 #. ST - Sao Tome and Principe. The local (Portuguese) name is
 #. "São Tomé and Príncipe". The official ISO 3166 short English
 #. name does not have the accents.
 #.
 msgid "Sao Tome and Principe"
-msgstr "Sao Tome and Principe"
+msgstr "Сан-Тамэ і Прынсіпі"
 
 #. SA - Saudi Arabia
 msgid "Saudi Arabia"
@@ -1193,21 +1193,21 @@ msgstr "Palmer Station (Chile Time)"
 #. from context.
 #.
 msgid "Rothera Research Station"
-msgstr "Станцыя Стэнлі Рэнджэр"
+msgstr "Даследчая станцыя Ратэры"
 
 #. A Japanese research station in Antarctica. The string is
 #. only used in places where "Antarctica" is already clear
 #. from context.
 #.
 msgid "Showa Station"
-msgstr "Станцыя Showa"
+msgstr "Станцыя Шоўа"
 
 #. An Australian research station in Antarctica. The string
 #. is only used in places where "Antarctica" is already
 #. clear from context.
 #.
 msgid "Mawson Station"
-msgstr "Станцыя Mawson"
+msgstr "Станцыя Моўсан"
 
 #. A Russian research station in Antarctica. The string is
 #. only used in places where "Antarctica" is already clear
@@ -1221,7 +1221,7 @@ msgstr "Станцыя Ўсход"
 #. clear from context.
 #.
 msgid "Davis Station"
-msgstr "Станцыя Davis"
+msgstr "Станцыя Дэвіса"
 
 #. An Australian research station in Antarctica, which
 #. keeps the same time as Western Australia. The string is
@@ -1229,14 +1229,14 @@ msgstr "Станцыя Davis"
 #. from context.
 #.
 msgid "Casey Station (Western Australia Time)"
-msgstr "Станцыя Casey (Заходне-Аўстралійскі час)"
+msgstr "Станцыя Кэйсі (Заходне-Аўстралійскі час)"
 
 #. A French research station in Antarctica. The string is
 #. only used in places where "Antarctica" is already clear
 #. from context.
 #.
 msgid "Dumont d'Urville Station"
-msgstr "Станцыя Dumont d'Urville"
+msgstr "Станцыя Дзюмон-д'Урвіль"
 
 #. An American research station in Antarctica, which keeps
 #. the same time as New Zealand. The string is only used in
@@ -1322,7 +1322,7 @@ msgstr "Атлантычны час"
 #. from context.
 #.
 msgid "Western Time"
-msgstr "Заходні час"
+msgstr "Заходні час (Аўстралія)"
 
 #. The commonly-used name for an unofficial time zone used
 #. in part of southwestern Australia. The string is only
@@ -1330,7 +1330,7 @@ msgstr "Заходні час"
 #. context.
 #.
 msgid "Central Western Time"
-msgstr "Цэнтральны заходні час"
+msgstr "Цэнтральны заходні час (Аўстралія)"
 
 #. The time zone used in Central Australia. This string is
 #. specifically for the time zone as implemented in the
@@ -1425,19 +1425,19 @@ msgstr "Gambier Islands"
 #. name in Indonesian is "Waktu Indonesia Bagian Barat".
 #.
 msgid "Western Indonesia Time"
-msgstr "Заходні інданэзійскі час"
+msgstr "Заходні інданезійскі час"
 
 #. The timezone on the central islands of Indonesia. The
 #. name in Indonesian is "Waktu Indonesia Bagian Tengah".
 #.
 msgid "Central Indonesia Time"
-msgstr "Цэнтральны інданэзійскі час"
+msgstr "Цэнтральны інданезійскі час"
 
 #. The timezone on the eastern islands of Indonesia. The
 #. name in Indonesian is "Waktu Indonesia Bagian Timur".
 #.
 msgid "Eastern Indonesia Time"
-msgstr "Усходні інданэзійскі час"
+msgstr "Усходні інданезійскі час"
 
 #. The time zone in the Gilbert Islands, one of the three
 #. main island groups of Kiribati. This string is only used
@@ -1821,7 +1821,7 @@ msgstr "Камчацкі час"
 #. clear from context.
 #.
 msgid "Canary Islands"
-msgstr "Canary Islands"
+msgstr "Канарскія астравы"
 
 #. This refers to the time zone for mainland Spain (as
 #. opposed to the time zone for the Canary Islands).
@@ -1989,7 +1989,7 @@ msgstr "Заходняя Аўстралія"
 #.
 msgctxt "State in Belgium"
 msgid "Antwerp"
-msgstr "Антвэрпэн"
+msgstr "Антверпен"
 
 #. A state in Belgium. local name (nl): Brussel, Vlaams- en
 #. Waals-Brabant. local name (fr): Bruxelles, Brabant flamand
@@ -2129,7 +2129,7 @@ msgstr "Rio Grande do Sul"
 #. A state/province/territory in Brazil
 msgctxt "State in Brazil"
 msgid "Rio de Janeiro"
-msgstr "Рыа-дэ-Жанэйра"
+msgstr "Рыа-дэ-Жанейра"
 
 #. A state/province/territory in Brazil
 msgid "Rondônia"
@@ -2175,7 +2175,7 @@ msgstr "New Brunswick"
 
 #. A state/province/territory in Canada
 msgid "Newfoundland and Labrador"
-msgstr "Newfoundland and Labrador"
+msgstr "Ньюфаўндленд і Лабрадор"
 
 #. A state/province/territory in Canada
 msgid "Northwest Territories"
@@ -2192,7 +2192,7 @@ msgstr "Nunavut"
 #. A state/province/territory in Canada
 msgctxt "State in Canada"
 msgid "Ontario"
-msgstr "Антарыё"
+msgstr "Антарыа"
 
 #. A state/province/territory in Canada
 msgid "Prince Edward Island"
@@ -2201,7 +2201,7 @@ msgstr "Prince Edward Island"
 #. A state/province/territory in Canada
 msgctxt "State in Canada"
 msgid "Quebec"
-msgstr "Квэбэк"
+msgstr "Квебек"
 
 #. A state/province/territory in Canada
 msgid "Saskatchewan"
@@ -2615,7 +2615,7 @@ msgstr "Каларада"
 
 #. A state/province/territory in United States
 msgid "Connecticut"
-msgstr "Канэктыкут"
+msgstr "Канектыкут"
 
 #. A state/province/territory in United States
 msgid "Delaware"
@@ -2653,7 +2653,7 @@ msgstr "Індыяна"
 
 #. A state/province/territory in United States
 msgid "Iowa"
-msgstr "Аёва"
+msgstr "Аява"
 
 #. A state/province/territory in United States
 msgid "Kansas"
@@ -2677,7 +2677,7 @@ msgstr "Мэрыленд"
 
 #. A state/province/territory in United States
 msgid "Massachusetts"
-msgstr "Масачусэтс"
+msgstr "Масачусетс"
 
 #. A state/province/territory in United States
 msgid "Michigan"
@@ -2734,7 +2734,7 @@ msgstr "Паўночная Дакота"
 
 #. A state/province/territory in United States
 msgid "Ohio"
-msgstr "Агаё"
+msgstr "Агая"
 
 #. A state/province/territory in United States
 msgid "Oklahoma"
@@ -2762,7 +2762,7 @@ msgstr "Паўднёвая Дакота"
 
 #. A state/province/territory in United States
 msgid "Tennessee"
-msgstr "Тэнэсі"
+msgstr "Тэнесі"
 
 #. A state/province/territory in United States
 msgid "Texas"
@@ -3539,7 +3539,7 @@ msgstr "Yacuiba"
 
 #. A city in Bosnia and Herzegovina
 msgid "Banja Luka"
-msgstr "Баня Лука"
+msgstr "Баня-Лука"
 
 #. A city in Bosnia and Herzegovina
 msgid "Mostar"
@@ -3846,7 +3846,7 @@ msgstr "Сальвадор"
 #. A city in Rio Grande do Sul in Brazil
 msgctxt "City in Rio Grande do Sul, Brazil"
 msgid "Santa Maria"
-msgstr "Санта Марыя"
+msgstr "Санта-Марыя"
 
 #. A city in Pará in Brazil
 msgid "Santarém"
@@ -4449,7 +4449,7 @@ msgstr "Fort Nelson"
 
 #. A city in Northwest Territories in Canada
 msgid "Fort Providence"
-msgstr "Форт Правідэнс"
+msgstr "Форт-Провідэнс"
 
 #. A city in Northwest Territories in Canada
 msgid "Fort Simpson"
@@ -4982,7 +4982,7 @@ msgstr "Pangnirtung"
 
 #. A city in Quebec in Canada
 msgid "Parent"
-msgstr "Продак"
+msgstr ""
 
 #. A city in Northwest Territories in Canada
 msgid "Paulatuk"
@@ -6575,7 +6575,7 @@ msgstr "Chartres"
 
 #. A city in France
 msgid "Cherbourg"
-msgstr "Шербур"
+msgstr "Шэрбур"
 
 #. A city in France
 msgid "Châteauroux"
@@ -6631,7 +6631,7 @@ msgstr "Istres"
 
 #. A city in France
 msgid "La Roche-sur-Yon"
-msgstr "Ла-Рош-сюр-Йон"
+msgstr "Ла-Рош-сюр-Ён"
 
 #. A city in France
 msgid "La Rochelle"
@@ -6667,7 +6667,7 @@ msgstr "Ліён"
 
 #. A city in France
 msgid "Marseille"
-msgstr "Марсэль"
+msgstr "Марсель"
 
 #. A city in France
 msgid "Melun"
@@ -6728,7 +6728,7 @@ msgstr "Nîmes"
 #. A city in France
 msgctxt "City in France"
 msgid "Orange"
-msgstr "Аранжавы"
+msgstr ""
 
 #. A city in France
 msgid "Orléans"
@@ -6797,7 +6797,7 @@ msgstr "Salon"
 
 #. A city in France
 msgid "Strasbourg"
-msgstr "Страсбург"
+msgstr "Страсбур"
 
 #. A city in France
 msgid "Tarbes"
@@ -10103,7 +10103,7 @@ msgstr "Гданьск"
 
 #. A city in Poland
 msgid "Katowice"
-msgstr "Катавіцэ"
+msgstr "Катавіцы"
 
 #. A city in Poland
 msgid "Kraków"
@@ -10550,7 +10550,7 @@ msgstr "Рыбінск"
 #. Санкт-Петербург".
 #.
 msgid "Saint Petersburg"
-msgstr "Санкт Пецярбург"
+msgstr "Санкт-Пецярбург"
 
 #. A city in Russia.
 #. The local name in Russian is "Самара".
@@ -10703,7 +10703,7 @@ msgstr "Apia"
 #. The capital of San Marino
 msgctxt "City in San Marino"
 msgid "San Marino"
-msgstr "Сан Марына"
+msgstr "Сан-Марына"
 
 #. A city in Saudi Arabia
 msgid "'Ar'ar"
@@ -10964,7 +10964,7 @@ msgstr "Durban"
 
 #. A city in South Africa
 msgid "Johannesburg"
-msgstr "Ёханэсбург"
+msgstr "Яганэсбург"
 
 #. A city in South Africa
 msgid "Klerksdorp"
@@ -11082,7 +11082,7 @@ msgstr "Барселона"
 
 #. A city in Spain
 msgid "Bilbao"
-msgstr "Більбао"
+msgstr "Більбаа"
 
 #. A city in Spain
 msgid "Colmenar Viejo"
@@ -11750,7 +11750,7 @@ msgstr "Анкара"
 
 #. A city in Turkey
 msgid "Antalya"
-msgstr "Анталія"
+msgstr "Анталья"
 
 #. A city in Turkey
 msgid "Balikesir"
@@ -12416,7 +12416,7 @@ msgstr "Abilene"
 
 #. A city in Virginia in the United States
 msgid "Abingdon"
-msgstr "Абінгдон"
+msgstr "Абінгдан"
 
 #. A city in Oklahoma in the United States
 msgid "Ada"
@@ -12599,7 +12599,7 @@ msgstr "Anaktuvuk Pass"
 
 #. A city in Alaska in the United States
 msgid "Anchorage"
-msgstr "Анкорыдж"
+msgstr "Анкарыдж"
 
 #. A city in Alabama in the United States
 msgid "Andalusia"
@@ -12721,7 +12721,7 @@ msgstr "Asheboro"
 
 #. A city in North Carolina in the United States
 msgid "Asheville"
-msgstr "Эшвіль"
+msgstr "Эшвіл"
 
 #. A city in Virginia in the United States
 msgctxt "City in Virginia, United States"
@@ -12757,7 +12757,7 @@ msgstr "Атланта"
 #. A city in Iowa in the United States
 msgctxt "City in Iowa, United States"
 msgid "Atlantic"
-msgstr "Атлантыка"
+msgstr "Атлантык"
 
 #. A city in New Jersey in the United States
 msgid "Atlantic City"
@@ -14192,7 +14192,7 @@ msgstr "Edenton"
 
 #. A city in Texas in the United States
 msgid "Edinburg"
-msgstr "Эдынбург (ЗША)"
+msgstr "Эдынбург"
 
 #. A city in California in the United States
 msgid "Edwards"
@@ -16022,15 +16022,15 @@ msgstr "Longville"
 
 #. A city in California in the United States
 msgid "Los Alamitos"
-msgstr "Лос Аламітас"
+msgstr "Лос-Аламітас"
 
 #. A city in New Mexico in the United States
 msgid "Los Alamos"
-msgstr "Лос Аламас"
+msgstr "Лос-Аламас"
 
 #. A city in California in the United States
 msgid "Los Angeles"
-msgstr "Лос Анжэлес"
+msgstr "Лос-Анджэлес"
 
 #. A city in Virginia in the United States
 msgid "Louisa"
@@ -17020,27 +17020,27 @@ msgstr "Антарыё"
 #. A city in Oregon in the United States
 msgctxt "City in Oregon, United States"
 msgid "Ontario"
-msgstr "Антарыё"
+msgstr "Антарыа"
 
 #. A city in California in the United States
 msgctxt "City in California, United States"
 msgid "Orange"
-msgstr "Аранжавы"
+msgstr "Orange"
 
 #. A city in Massachusetts in the United States
 msgctxt "City in Massachusetts, United States"
 msgid "Orange"
-msgstr "Аранжавы"
+msgstr "Orange"
 
 #. A city in Texas in the United States
 msgctxt "City in Texas, United States"
 msgid "Orange"
-msgstr "Аранжавы"
+msgstr "Orange"
 
 #. A city in Virginia in the United States
 msgctxt "City in Virginia, United States"
 msgid "Orange"
-msgstr "Аранжавы"
+msgstr "Orange"
 
 #. A city in Iowa in the United States
 msgid "Orange City"
@@ -17139,7 +17139,7 @@ msgstr "Paducah"
 
 #. A city in Arizona in the United States
 msgid "Page"
-msgstr "Старонка"
+msgstr "Page"
 
 #. A city in Colorado in the United States
 msgid "Pagosa Springs"
@@ -17633,7 +17633,7 @@ msgstr "Rawlins"
 
 #. A city in Pennsylvania in the United States
 msgid "Reading"
-msgstr "Чытанне"
+msgstr "Reading"
 
 #. A city in California in the United States
 msgid "Red Bluff"
@@ -18009,7 +18009,7 @@ msgstr "Santa Fe"
 #. A city in California in the United States
 msgctxt "City in California, United States"
 msgid "Santa Maria"
-msgstr "Санта Марыя"
+msgstr "Санта-Марыя"
 
 #. A city in California in the United States
 msgid "Santa Monica"
@@ -18799,7 +18799,7 @@ msgstr "Vinton"
 
 #. A city in Virginia in the United States
 msgid "Virginia Beach"
-msgstr "Вірджынія Біч"
+msgstr "Вірджынія-Біч"
 
 #. A city in California in the United States
 msgid "Visalia"
@@ -19217,12 +19217,12 @@ msgstr "Yonkers"
 #. A city in Nebraska in the United States
 msgctxt "City in Nebraska, United States"
 msgid "York"
-msgstr "York"
+msgstr "Ёрк"
 
 #. A city in Pennsylvania in the United States
 msgctxt "City in Pennsylvania, United States"
 msgid "York"
-msgstr "York"
+msgstr "Ёрк"
 
 #. A city in Ohio in the United States
 msgid "Youngstown"
@@ -19440,7 +19440,7 @@ msgstr "Ханой"
 #. The local name in Vietnamese is "Thanh Pho Ho Chi Minh".
 #.
 msgid "Ho Chi Minh City"
-msgstr "Хо Шы Мін"
+msgstr "Хашымін"
 
 #. A city in Wallis and Futuna
 msgid "Mata'utu"
