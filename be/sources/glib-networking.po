@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: 98e6872775a91bf27122ff608b6db605\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/glib-networking/issues\n"
 "POT-Creation-Date: 2020-07-07 13:28+0000\n"
-"PO-Revision-Date: 2020-12-22 10:53\n"
+"PO-Revision-Date: 2021-01-13 12:33\n"
 "Last-Translator: Zander Brown <zbrown@gnome.org>\n"
 "Language-Team: Belarusian\n"
 "Language: be_BY\n"
@@ -219,7 +219,7 @@ msgstr "Не атрымалася стварыць кантэкст TLS: %s"
 #, c-format
 #| msgid "Could not parse PEM certificate: %s"
 msgid "Could not set MAX protocol to %ld: %s"
-msgstr ""
+msgstr "Не атрымалася вызначыць максімальны пратакол %ld: %s"
 
 #: tls/openssl/gtlsconnection-openssl.c:197
 #, c-format
@@ -232,13 +232,13 @@ msgstr "Занадта вялікі дайджэст для ключа RSA"
 
 #: tls/openssl/gtlsconnection-openssl.c:213
 msgid "Secure renegotiation is disabled"
-msgstr ""
+msgstr "Бяспечнае ўзгадненне адключана"
 
 #: tls/openssl/gtlsconnection-openssl.c:234
 #, c-format
 #| msgid "Connection is closed"
 msgid "%s: The connection is broken"
-msgstr ""
+msgstr "%s: злучэнне хібнае"
 
 #: tls/openssl/gtlsconnection-openssl.c:669
 msgid "Error performing TLS close"
@@ -252,7 +252,7 @@ msgstr "Не атрымалася стварыць сховішча сертыф
 #, c-format
 #| msgid "Failed to load system trust store: %s"
 msgid "Failed to populate trust list from %s: %s"
-msgstr ""
+msgstr "Не атрымалася запоўніць спіс давераных рэсурсаў з %s: %s"
 
 #: tls/openssl/gtlsserverconnection-openssl.c:179
 #: tls/openssl/gtlsserverconnection-openssl.c:247
