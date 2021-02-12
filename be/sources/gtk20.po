@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: 98e6872775a91bf27122ff608b6db605\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-07 23:06+0000\n"
-"PO-Revision-Date: 2020-12-23 04:24\n"
+"PO-Revision-Date: 2021-02-12 17:06\n"
 "Last-Translator: Bruce Cowan <bruce@bcowan.me.uk>\n"
 "Language-Team: Belarusian\n"
 "Language: be_BY\n"
@@ -59,12 +59,12 @@ msgstr "НАЗВА"
 #. Description of --display=DISPLAY in --help output
 #: ../gdk/gdk.c:157
 msgid "X display to use"
-msgstr "Выкарыстоўваемы дысплей X"
+msgstr "Дысплэй X, які выкарыстоўваецца"
 
 #. Placeholder in --display=DISPLAY in --help output
 #: ../gdk/gdk.c:158
 msgid "DISPLAY"
-msgstr "ДЫСПЛЕЙ"
+msgstr "ДЫСПЛЭЙ"
 
 #. Description of --screen=SCREEN in --help output
 #: ../gdk/gdk.c:160
@@ -1459,7 +1459,7 @@ msgstr "прадвызначана:LTR"
 #: ../gtk/gtkmain.c:797
 #, c-format
 msgid "Cannot open display: %s"
-msgstr "Не атрымалася адкрыць дысплей: %s"
+msgstr "Не атрымалася адкрыць дысплэй: %s"
 
 #: ../gtk/gtkmain.c:834
 msgid "GTK+ Options"
