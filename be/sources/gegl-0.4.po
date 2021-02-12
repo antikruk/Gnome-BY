@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: 98e6872775a91bf27122ff608b6db605\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gegl/issues\n"
 "POT-Creation-Date: 2019-08-26 20:18+0000\n"
-"PO-Revision-Date: 2020-12-21 10:57\n"
+"PO-Revision-Date: 2021-02-12 17:06\n"
 "Last-Translator: Bruce Cowan <bruce@bcowan.me.uk>\n"
 "Language-Team: Belarusian\n"
 "Language: be_BY\n"
@@ -1434,7 +1434,7 @@ msgstr ""
 
 #: operations/common/display.c:142
 msgid "Display"
-msgstr "Дысплей"
+msgstr "Дысплэй"
 
 #: operations/common/display.c:144
 msgid "Display the input buffer in a window."
