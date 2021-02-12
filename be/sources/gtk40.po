@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: 98e6872775a91bf27122ff608b6db605\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-12-05 20:52+0000\n"
-"PO-Revision-Date: 2020-12-23 06:32\n"
+"PO-Revision-Date: 2021-02-12 17:06\n"
 "Last-Translator: Bruce Cowan <bruce@bcowan.me.uk>\n"
 "Language-Team: Belarusian\n"
 "Language: be_BY\n"
@@ -21,7 +21,7 @@ msgstr ""
 #: gdk/broadway/gdkbroadway-server.c:133
 #, c-format
 msgid "Broadway display type not supported: %s"
-msgstr "Тып дысплея broadway не падтрымліваецца: %s"
+msgstr "Тып дысплэя broadway не падтрымліваецца: %s"
 
 #: gdk/gdkclipboard.c:239
 msgid "This clipboard cannot store data."
@@ -426,7 +426,7 @@ msgstr "Вэб-камера"
 #: gdk/keyname-table.h:6913
 msgctxt "keyboard label"
 msgid "Display"
-msgstr "Дысплей"
+msgstr "Дысплэй"
 
 #: gdk/keyname-table.h:6914
 msgctxt "keyboard label"
@@ -3534,7 +3534,7 @@ msgstr "Прэфікс"
 
 #: gtk/inspector/general.ui:377
 msgid "Display"
-msgstr "Дысплей"
+msgstr "Дысплэй"
 
 #: gtk/inspector/general.ui:404
 msgid "RGBA Visual"
