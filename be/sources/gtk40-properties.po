@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: 98e6872775a91bf27122ff608b6db605\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-08-26 22:34+0000\n"
-"PO-Revision-Date: 2020-12-23 06:31\n"
+"PO-Revision-Date: 2021-02-12 17:06\n"
 "Last-Translator: Bruce Cowan <bruce@bcowan.me.uk>\n"
 "Language-Team: Belarusian\n"
 "Language: be_BY\n"
@@ -24,7 +24,7 @@ msgstr ""
 #: gtk/gtkicontheme.c:994 gtk/gtkmountoperation.c:191 gtk/gtkstylecontext.c:145
 #: gtk/gtkwindow.c:829
 msgid "Display"
-msgstr "Дысплей"
+msgstr "Дысплэй"
 
 #: gdk/gdkcursor.c:180 gtk/gtktexttag.c:616
 msgid "Fallback"
@@ -70,11 +70,11 @@ msgstr ""
 
 #: gdk/gdkdevice.c:124
 msgid "Device Display"
-msgstr "Дысплей прылады"
+msgstr "Дысплэй прылады"
 
 #: gdk/gdkdevice.c:125
 msgid "Display which the device belongs to"
-msgstr "Дысплей, якому належыць прылада"
+msgstr "Дысплэй, якому належыць прылада"
 
 #: gdk/gdkdevice.c:136 gdk/gdkdevice.c:137
 msgid "Device name"
@@ -196,11 +196,11 @@ msgstr ""
 
 #: gdk/gdkdisplaymanager.c:171
 msgid "Default Display"
-msgstr "Прадвызначаны дысплей"
+msgstr "Прадвызначаны дысплэй"
 
 #: gdk/gdkdisplaymanager.c:172
 msgid "The default display for GDK"
-msgstr "Прадвызначаны дысплей для GDK"
+msgstr "Прадвызначаны дысплэй для GDK"
 
 #: gdk/gdkdrawcontext.c:156
 msgid "The GDK display used to create the context"
