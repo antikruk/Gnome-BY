@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: 98e6872775a91bf27122ff608b6db605\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-09-13 13:15+0000\n"
-"PO-Revision-Date: 2020-12-24 07:45\n"
+"PO-Revision-Date: 2021-02-12 17:06\n"
 "Last-Translator: Stephan Woidowski <swoidowski@t-online.de>\n"
 "Language-Team: Belarusian\n"
 "Language: be_BY\n"
@@ -21,7 +21,7 @@ msgstr ""
 #: gdk/gdkapplaunchcontext.c:127 gdk/gdkcursor.c:139 gdk/gdkdevicemanager.c:185
 #: gdk/gdkglcontext.c:317 gdk/gdkseat.c:202 gdk/gdkseat.c:203
 msgid "Display"
-msgstr "Дысплей"
+msgstr "Дысплэй"
 
 #: gdk/gdkcursor.c:131
 msgid "Cursor type"
@@ -33,15 +33,15 @@ msgstr "Стандартны тып курсора"
 
 #: gdk/gdkcursor.c:140
 msgid "Display of this cursor"
-msgstr "Дысплей гэтага курсора"
+msgstr "Дысплэй гэтага курсора"
 
 #: gdk/gdkdevice.c:123
 msgid "Device Display"
-msgstr "Дысплей прылады"
+msgstr "Дысплэй прылады"
 
 #: gdk/gdkdevice.c:124
 msgid "Display which the device belongs to"
-msgstr "Дысплей, якому належыць прылада"
+msgstr "Дысплэй, якому належыць прылада"
 
 #: gdk/gdkdevice.c:138
 msgid "Device manager"
@@ -125,19 +125,19 @@ msgstr "Інструмент, які зараз выкарыстоўваецца
 
 #: gdk/gdkdevicemanager.c:186
 msgid "Display for the device manager"
-msgstr "Дысплей для кіраўніка прылад"
+msgstr "Дысплэй для кіраўніка прылад"
 
 #: gdk/gdkdisplaymanager.c:162
 msgid "Default Display"
-msgstr "Прадвызначаны дысплей"
+msgstr "Прадвызначаны дысплэй"
 
 #: gdk/gdkdisplaymanager.c:163
 msgid "The default display for GDK"
-msgstr "Прадвызначаны дысплей для GDK"
+msgstr "Прадвызначаны дысплэй для GDK"
 
 #: gdk/gdkglcontext.c:318
 msgid "The GDK display used to create the GL context"
-msgstr "Дысплей GDK, што выкарыстоўваецца для стварэння змесціва GL"
+msgstr "Дысплэй GDK, што выкарыстоўваецца для стварэння змесціва GL"
 
 #: gdk/gdkglcontext.c:333 gtk/gtkwidget.c:1347
 msgid "Window"
