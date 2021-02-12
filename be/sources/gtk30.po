@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: 98e6872775a91bf27122ff608b6db605\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-01-18 19:42+0000\n"
-"PO-Revision-Date: 2021-02-07 07:23\n"
+"PO-Revision-Date: 2021-02-12 17:06\n"
 "Last-Translator: Bruce Cowan <bruce@bcowan.me.uk>\n"
 "Language-Team: Belarusian\n"
 "Language: be_BY\n"
@@ -21,7 +21,7 @@ msgstr ""
 #: gdk/broadway/gdkbroadway-server.c:144
 #, c-format
 msgid "Broadway display type not supported: %s"
-msgstr "Тып дысплея broadway не падтрымліваецца: %s"
+msgstr "Тып дысплэя broadway не падтрымліваецца: %s"
 
 #: gdk/gdk.c:179
 #, c-format
@@ -56,12 +56,12 @@ msgstr "НАЗВА"
 #. Description of --display=DISPLAY in --help output
 #: gdk/gdk.c:235
 msgid "X display to use"
-msgstr "Дысплей X, які выкарыстоўваецца"
+msgstr "Дысплэй X, які выкарыстоўваецца"
 
 #. Placeholder in --display=DISPLAY in --help output
 #: gdk/gdk.c:236
 msgid "DISPLAY"
-msgstr "ДЫСПЛЕЙ"
+msgstr "ДЫСПЛЭЙ"
 
 #. Description of --gdk-debug=FLAGS in --help output
 #: gdk/gdk.c:240
@@ -449,7 +449,7 @@ msgstr "Вэб-камера"
 #: gdk/keyname-table.h:6913
 msgctxt "keyboard label"
 msgid "Display"
-msgstr "Дысплей"
+msgstr "Дысплэй"
 
 #: gdk/keyname-table.h:6914
 msgctxt "keyboard label"
@@ -2964,7 +2964,7 @@ msgstr "Скінуць адладачныя сцягі GTK+"
 #: gtk/gtkmain.c:811 gtk/gtkmain.c:1005
 #, c-format
 msgid "Cannot open display: %s"
-msgstr "Не атрымалася адкрыць дысплей: %s"
+msgstr "Не атрымалася адкрыць дысплэй: %s"
 
 #: gtk/gtkmain.c:923
 msgid "GTK+ Options"
@@ -4165,7 +4165,7 @@ msgstr "Рухавік GDK"
 
 #: gtk/inspector/general.ui:373
 msgid "Display"
-msgstr "Дысплей"
+msgstr "Дысплэй"
 
 #: gtk/inspector/general.ui:408
 msgid "RGBA visual"
