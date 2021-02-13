@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: 98e6872775a91bf27122ff608b6db605\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-07 23:08+0000\n"
-"PO-Revision-Date: 2021-02-12 17:06\n"
+"PO-Revision-Date: 2021-02-13 17:02\n"
 "Last-Translator: Bruce Cowan <bruce@bcowan.me.uk>\n"
 "Language-Team: Belarusian\n"
 "Language: be_BY\n"
@@ -48,7 +48,7 @@ msgstr "Параметры шрыфту"
 
 #: ../gdk/gdkscreen.c:76
 msgid "The default font options for the screen"
-msgstr "Прадвызначаныя параметры шрыфту для экрану"
+msgstr "Прадвызначаныя параметры шрыфту для экрана"
 
 #: ../gdk/gdkscreen.c:83
 msgid "Font resolution"
