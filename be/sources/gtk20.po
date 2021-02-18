@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: 98e6872775a91bf27122ff608b6db605\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-07 23:06+0000\n"
-"PO-Revision-Date: 2021-02-12 17:06\n"
+"PO-Revision-Date: 2021-02-18 07:23\n"
 "Last-Translator: Bruce Cowan <bruce@bcowan.me.uk>\n"
 "Language-Team: Belarusian\n"
 "Language: be_BY\n"
@@ -197,82 +197,82 @@ msgstr "Num_Lock"
 #: ../gdk/keyname-table.h:3960
 msgctxt "keyboard label"
 msgid "KP_Space"
-msgstr "KP_Прагал"
+msgstr "_Прагал лічбавай клавіятуры"
 
 #: ../gdk/keyname-table.h:3961
 msgctxt "keyboard label"
 msgid "KP_Tab"
-msgstr "_Tab лічбавай панэлі"
+msgstr "_Tab лічбавай клавіятуры"
 
 #: ../gdk/keyname-table.h:3962
 msgctxt "keyboard label"
 msgid "KP_Enter"
-msgstr "_Enter лічбавай панэлі"
+msgstr "_Enter лічбавай клавіятуры"
 
 #: ../gdk/keyname-table.h:3963
 msgctxt "keyboard label"
 msgid "KP_Home"
-msgstr "_Home лічбавай панэлі"
+msgstr "_Home лічбавай клавіятуры"
 
 #: ../gdk/keyname-table.h:3964
 msgctxt "keyboard label"
 msgid "KP_Left"
-msgstr "KP_Улева"
+msgstr "_Улева лічбавай клавіятуры"
 
 #: ../gdk/keyname-table.h:3965
 msgctxt "keyboard label"
 msgid "KP_Up"
-msgstr "KP_Уверх"
+msgstr "_Уверх лічбавай клавіятуры"
 
 #: ../gdk/keyname-table.h:3966
 msgctxt "keyboard label"
 msgid "KP_Right"
-msgstr "KP_Управа"
+msgstr "_Управа лічбавай клавіятуры"
 
 #: ../gdk/keyname-table.h:3967
 msgctxt "keyboard label"
 msgid "KP_Down"
-msgstr "KP_Уніз"
+msgstr "_Уніз лічбавай клавіятуры"
 
 #: ../gdk/keyname-table.h:3968
 msgctxt "keyboard label"
 msgid "KP_Page_Up"
-msgstr "_Page_Up лічбавай панэлі"
+msgstr "_Page_Up лічбавай клавіятуры"
 
 #: ../gdk/keyname-table.h:3969
 msgctxt "keyboard label"
 msgid "KP_Prior"
-msgstr "_Prior лічбавай панэлі"
+msgstr "_Prior лічбавай клавіятуры"
 
 #: ../gdk/keyname-table.h:3970
 msgctxt "keyboard label"
 msgid "KP_Page_Down"
-msgstr "_Page_Down лічбавай панэлі"
+msgstr "_Page_Down лічбавай клавіятуры"
 
 #: ../gdk/keyname-table.h:3971
 msgctxt "keyboard label"
 msgid "KP_Next"
-msgstr "_Next лічбавай панэлі"
+msgstr "_Next лічбавай клавіятуры"
 
 #: ../gdk/keyname-table.h:3972
 msgctxt "keyboard label"
 msgid "KP_End"
-msgstr "_End лічбавай панэлі"
+msgstr "_End лічбавай клавіятуры"
 
 #: ../gdk/keyname-table.h:3973
 msgctxt "keyboard label"
 msgid "KP_Begin"
-msgstr "_Begin лічбавай панэлі"
+msgstr "_Begin лічбавай клавіятуры"
 
 #: ../gdk/keyname-table.h:3974
 msgctxt "keyboard label"
 msgid "KP_Insert"
-msgstr "_Insert лічбавай панэлі"
+msgstr "_Insert лічбавай клавіятуры"
 
 #: ../gdk/keyname-table.h:3975
 msgctxt "keyboard label"
 msgid "KP_Delete"
-msgstr "_Delete лічбавай панэлі"
+msgstr "_Delete лічбавай клавіятуры"
 
 #: ../gdk/keyname-table.h:3976
 msgctxt "keyboard label"
