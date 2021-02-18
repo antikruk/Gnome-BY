@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: 98e6872775a91bf27122ff608b6db605\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gparted/issues\n"
 "POT-Creation-Date: 2020-01-10 18:26+0000\n"
-"PO-Revision-Date: 2020-12-22 10:53\n"
+"PO-Revision-Date: 2021-02-18 07:23\n"
 "Last-Translator: Bruce Cowan <bruce@bcowan.me.uk>\n"
 "Language-Team: Belarusian\n"
 "Language: be_BY\n"
@@ -1482,7 +1482,7 @@ msgstr "Хіба Libparted"
 
 #: ../src/GParted_Core.cc:4191
 msgid "Libparted Unsupported Feature"
-msgstr "Непадтрымліваемая libparted функцыя"
+msgstr "Libparted не падтрымлівае гэтую функцыя"
 
 #: ../src/GParted_Core.cc:4194
 msgid "Libparted unknown exception"
