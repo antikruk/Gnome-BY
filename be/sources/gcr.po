@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: 98e6872775a91bf27122ff608b6db605\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gcr/issues\n"
 "POT-Creation-Date: 2020-02-06 09:50+0000\n"
-"PO-Revision-Date: 2020-12-21 10:57\n"
+"PO-Revision-Date: 2021-02-18 07:22\n"
 "Last-Translator: Bruce Cowan <bruce@bcowan.me.uk>\n"
 "Language-Team: Belarusian\n"
 "Language: be_BY\n"
@@ -333,7 +333,7 @@ msgstr "Зарэгістраваны ідэнтыфікатар"
 
 #: gcr/gcr-certificate-request.c:406
 msgid "Unsupported key type for certificate request"
-msgstr "Непадтрымліваемы тып ключа для запыту сертыфіката"
+msgstr "Тып ключа для запыту сертыфіката не падтрымліваецца"
 
 #: gcr/gcr-certificate-request.c:493 gcr/gcr-certificate-request.c:578
 msgid "The key cannot be used to sign the request"
