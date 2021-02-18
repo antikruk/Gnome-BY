@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: 98e6872775a91bf27122ff608b6db605\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/libsoup/issues\n"
 "POT-Creation-Date: 2020-09-17 06:36+0000\n"
-"PO-Revision-Date: 2020-12-29 06:22\n"
+"PO-Revision-Date: 2021-02-18 07:23\n"
 "Last-Translator: Stephan Woidowski <swoidowski@t-online.de>\n"
 "Language-Team: Belarusian\n"
 "Language: be_BY\n"
@@ -134,7 +134,7 @@ msgstr "Нельга імпартаваць непадлучаны сокет"
 #: libsoup/soup-websocket.c:479 libsoup/soup-websocket.c:523
 #: libsoup/soup-websocket.c:539
 msgid "Server requested unsupported extension"
-msgstr "Сервер запытаў непадтрымліваемае пашырэнне"
+msgstr "Сервер запытаў пашырэнне, якое не падтрымліваецца"
 
 #: libsoup/soup-websocket.c:502 libsoup/soup-websocket.c:694
 #, c-format
@@ -182,7 +182,7 @@ msgstr "Сервер праігнараваў вітанне WebSocket"
 
 #: libsoup/soup-websocket.c:1004
 msgid "Server requested unsupported protocol"
-msgstr "Сервер запытаў непадтрымліваемы пратакол"
+msgstr "Сервер запытаў пратакол, які не падтрымліваецца"
 
 #: libsoup/soup-tld.c:150
 msgid "No public-suffix list available."
