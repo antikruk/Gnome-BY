@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: 98e6872775a91bf27122ff608b6db605\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2010-08-28 10:38+0100\n"
-"PO-Revision-Date: 2020-12-23 04:24\n"
+"PO-Revision-Date: 2021-02-23 12:33\n"
 "Last-Translator: Philip Withnall <philip@tecnocode.co.uk>\n"
 "Language-Team: Belarusian\n"
 "Language: be_BY\n"
@@ -151,7 +151,7 @@ msgstr "Цалкам"
 
 #: ../schema/thinice.xml.in.in.h:4
 msgid "Handlebox Marks"
-msgstr "Сімвалы апрацоўваемай вобласці"
+msgstr "Сімвалы вобласці, якая апрацоўваецца"
 
 #: ../schema/thinice.xml.in.in.h:5
 msgid "Inverted Dot"
