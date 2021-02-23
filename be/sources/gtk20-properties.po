@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: 98e6872775a91bf27122ff608b6db605\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-07 23:08+0000\n"
-"PO-Revision-Date: 2021-02-13 17:02\n"
+"PO-Revision-Date: 2021-02-23 12:33\n"
 "Last-Translator: Bruce Cowan <bruce@bcowan.me.uk>\n"
 "Language-Team: Belarusian\n"
 "Language: be_BY\n"
@@ -232,7 +232,7 @@ msgstr "GIcon"
 #: ../gtk/gtkaction.c:303 ../gtk/gtkcellrendererpixbuf.c:206
 #: ../gtk/gtkimage.c:341 ../gtk/gtkstatusicon.c:254
 msgid "The GIcon being displayed"
-msgstr "Адлюстроўваемы значок GIcon"
+msgstr "Значок GIcon, які паказваецца"
 
 #: ../gtk/gtkaction.c:323 ../gtk/gtkcellrendererpixbuf.c:171
 #: ../gtk/gtkimage.c:323 ../gtk/gtkprinter.c:160 ../gtk/gtkstatusicon.c:237
@@ -1238,7 +1238,7 @@ msgstr "Лічбы"
 
 #: ../gtk/gtkcellrendererspin.c:124 ../gtk/gtkspinbutton.c:227
 msgid "The number of decimal places to display"
-msgstr "Колькасць адлюстроўваемых дзесятковых разрадаў"
+msgstr "Колькасць дзесятковых разрадаў, якія паказваюцца"
 
 #: ../gtk/gtkcellrendererspinner.c:124 ../gtk/gtkcheckmenuitem.c:98
 #: ../gtk/gtkmenu.c:507 ../gtk/gtkspinner.c:128 ../gtk/gtktoggleaction.c:119
