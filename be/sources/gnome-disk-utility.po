@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: 98e6872775a91bf27122ff608b6db605\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-disk-utility/issues\n"
 "POT-Creation-Date: 2020-02-16 14:20+0000\n"
-"PO-Revision-Date: 2020-12-21 10:57\n"
+"PO-Revision-Date: 2021-02-23 12:33\n"
 "Last-Translator: Zander Brown <zbrown@gnome.org>\n"
 "Language-Team: Belarusian\n"
 "Language: be_BY\n"
@@ -3026,7 +3026,7 @@ msgstr "Тып файлавай сістэмы"
 
 #: src/disks/ui/edit-fstab-dialog.ui:219
 msgid "Display _Name"
-msgstr "_Адлюстроўваемая назва"
+msgstr "Назва, якая _паказваецца"
 
 #: src/disks/ui/edit-fstab-dialog.ui:238
 msgid "If set, the name to use for the device in the user interface [x-gvfs-name=]"
