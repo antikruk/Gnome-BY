@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: 98e6872775a91bf27122ff608b6db605\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-07 23:08+0000\n"
-"PO-Revision-Date: 2021-02-23 12:33\n"
+"PO-Revision-Date: 2021-02-24 12:33\n"
 "Last-Translator: Bruce Cowan <bruce@bcowan.me.uk>\n"
 "Language-Team: Belarusian\n"
 "Language: be_BY\n"
@@ -1276,7 +1276,7 @@ msgstr "Атрыбуты"
 
 #: ../gtk/gtkcellrenderertext.c:212
 msgid "A list of style attributes to apply to the text of the renderer"
-msgstr "Спіс атрыбутаў стылю, што ўжываюцца да адлюстроўваемага тэксту"
+msgstr "Спіс атрыбутаў стылю, што ўжываюцца да тэксту, які паказваецца"
 
 #: ../gtk/gtkcellrenderertext.c:219
 msgid "Single Paragraph Mode"
@@ -4826,7 +4826,7 @@ msgstr "Назва тэмы значкоў"
 
 #: ../gtk/gtksettings.c:303
 msgid "Name of icon theme to use"
-msgstr "Назва выкарыстоўваемай тэмы значкоў"
+msgstr "Назва тэмы значкоў, якая выкарыстоўваецца"
 
 #: ../gtk/gtksettings.c:311
 msgid "Fallback Icon Theme Name"
