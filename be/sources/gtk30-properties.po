@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: 98e6872775a91bf27122ff608b6db605\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-09-13 13:15+0000\n"
-"PO-Revision-Date: 2021-02-13 17:02\n"
+"PO-Revision-Date: 2021-02-24 12:33\n"
 "Last-Translator: Stephan Woidowski <swoidowski@t-online.de>\n"
 "Language-Team: Belarusian\n"
 "Language: be_BY\n"
@@ -266,7 +266,7 @@ msgstr "GIcon"
 #: gtk/deprecated/gtkaction.c:343 gtk/deprecated/gtkstatusicon.c:280
 #: gtk/gtkcellrendererpixbuf.c:282 gtk/gtkimage.c:360
 msgid "The GIcon being displayed"
-msgstr "Адлюстроўваемы значок GIcon"
+msgstr "Значок GIcon, які паказваецца"
 
 #: gtk/deprecated/gtkaction.c:365 gtk/deprecated/gtkstatusicon.c:263
 #: gtk/gtkcellrendererpixbuf.c:245 gtk/gtkimage.c:343 gtk/gtkprinter.c:170
@@ -2232,7 +2232,7 @@ msgstr "Лічбы"
 
 #: gtk/gtkcellrendererspin.c:144 gtk/gtkspinbutton.c:396
 msgid "The number of decimal places to display"
-msgstr "Колькасць адлюстроўваемых дзесятковых разрадаў"
+msgstr "Колькасць дзесятковых разрадаў, якія паказваюцца"
 
 #: gtk/gtkcellrendererspinner.c:126
 msgid "Whether the spinner is active (ie. shown) in the cell"
@@ -2264,7 +2264,7 @@ msgstr "Атрыбуты"
 
 #: gtk/gtkcellrenderertext.c:270
 msgid "A list of style attributes to apply to the text of the renderer"
-msgstr "Спіс атрыбутаў стылю, што ўжываюцца да адлюстроўваемага тэксту"
+msgstr "Спіс атрыбутаў стылю, што ўжываюцца да тэксту, які паказваецца"
 
 #: gtk/gtkcellrenderertext.c:276
 msgid "Single Paragraph Mode"
@@ -3973,7 +3973,7 @@ msgstr "Нумар кнопкі"
 
 #: gtk/gtkgesturesingle.c:292
 msgid "Button number to listen to"
-msgstr "Нумар апрацоўваемай кнопкі"
+msgstr "Нумар кнопкі, якая апрацоўваецца"
 
 #: gtk/gtkglarea.c:784
 msgid "Context"
