@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: 98e6872775a91bf27122ff608b6db605\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-08-26 22:34+0000\n"
-"PO-Revision-Date: 2021-02-12 17:06\n"
+"PO-Revision-Date: 2021-02-24 12:33\n"
 "Last-Translator: Bruce Cowan <bruce@bcowan.me.uk>\n"
 "Language-Team: Belarusian\n"
 "Language: be_BY\n"
@@ -1302,7 +1302,7 @@ msgstr "Значок"
 
 #: gtk/gtkcellrendererpixbuf.c:225 gtk/gtkimage.c:226
 msgid "The GIcon being displayed"
-msgstr "Адлюстроўваемы значок GIcon"
+msgstr "Значок GIcon, які паказваецца"
 
 #: gtk/gtkcellrendererprogress.c:151
 msgid "Value of the progress bar"
@@ -1374,7 +1374,7 @@ msgstr "Лічбы"
 
 #: gtk/gtkcellrendererspin.c:159 gtk/gtkspinbutton.c:380
 msgid "The number of decimal places to display"
-msgstr "Колькасць адлюстроўваемых дзесятковых разрадаў"
+msgstr "Колькасць дзесятковых разрадаў, якія паказваюцца"
 
 #: gtk/gtkcellrendererspinner.c:138 gtk/gtkmodelbutton.c:1130
 #: gtk/gtkmodelbutton.c:1131 gtk/gtkswitch.c:528 gtk/gtktogglebutton.c:208
@@ -1412,7 +1412,7 @@ msgstr "Разметка тэксту для адлюстравання"
 
 #: gtk/gtkcellrenderertext.c:268
 msgid "A list of style attributes to apply to the text of the renderer"
-msgstr "Спіс атрыбутаў стылю, што ўжываюцца да адлюстроўваемага тэксту"
+msgstr "Спіс атрыбутаў стылю, што ўжываюцца да тэксту, які паказваецца"
 
 #: gtk/gtkcellrenderertext.c:274
 msgid "Single Paragraph Mode"
@@ -3313,7 +3313,7 @@ msgstr "Нумар кнопкі"
 
 #: gtk/gtkgesturesingle.c:291
 msgid "Button number to listen to"
-msgstr "Нумар апрацоўваемай кнопкі"
+msgstr "Нумар кнопкі, якая апрацоўваецца"
 
 #: gtk/gtkglarea.c:798
 msgid "Context"
