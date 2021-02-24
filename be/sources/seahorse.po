@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: 98e6872775a91bf27122ff608b6db605\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/seahorse/issues\n"
 "POT-Creation-Date: 2020-07-13 16:23+0000\n"
-"PO-Revision-Date: 2020-12-24 07:44\n"
+"PO-Revision-Date: 2021-02-24 12:33\n"
 "Last-Translator: Bruce Cowan <bruce@bcowan.me.uk>\n"
 "Language-Team: Belarusian\n"
 "Language: be_BY\n"
@@ -713,7 +713,7 @@ msgstr "Год"
 
 #: libegg/egg-datetime.c:329
 msgid "Displayed year"
-msgstr "Адлюстроўваемы год"
+msgstr "Год"
 
 #: libegg/egg-datetime.c:334
 msgid "Month"
@@ -721,7 +721,7 @@ msgstr "Месяц"
 
 #: libegg/egg-datetime.c:335
 msgid "Displayed month"
-msgstr "Адлюстроўваемы месяц"
+msgstr "Месяц"
 
 #: libegg/egg-datetime.c:340
 msgid "Day"
@@ -729,7 +729,7 @@ msgstr "Дзень"
 
 #: libegg/egg-datetime.c:341
 msgid "Displayed day of month"
-msgstr "Адлюстроўваемы дзень месяца"
+msgstr "Дзень месяца"
 
 #: libegg/egg-datetime.c:346
 msgid "Hour"
@@ -737,7 +737,7 @@ msgstr "Гадзіна"
 
 #: libegg/egg-datetime.c:347
 msgid "Displayed hour"
-msgstr "Адлюстроўваемая гадзіна"
+msgstr "Гадзіна"
 
 #: libegg/egg-datetime.c:352
 msgid "Minute"
@@ -745,7 +745,7 @@ msgstr "Хвіліна"
 
 #: libegg/egg-datetime.c:353
 msgid "Displayed minute"
-msgstr "Адлюстроўваемая хвіліна"
+msgstr "Хвіліна"
 
 #: libegg/egg-datetime.c:358
 msgid "Second"
@@ -753,7 +753,7 @@ msgstr "Секунда"
 
 #: libegg/egg-datetime.c:359
 msgid "Displayed second"
-msgstr "Адлюстроўваемая секунда"
+msgstr "Секунда"
 
 #: libegg/egg-datetime.c:364
 msgid "Lower limit year"
