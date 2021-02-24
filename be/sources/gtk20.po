@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: 98e6872775a91bf27122ff608b6db605\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-07 23:06+0000\n"
-"PO-Revision-Date: 2021-02-18 07:23\n"
+"PO-Revision-Date: 2021-02-24 12:33\n"
 "Last-Translator: Bruce Cowan <bruce@bcowan.me.uk>\n"
 "Language-Team: Belarusian\n"
 "Language: be_BY\n"
@@ -69,7 +69,7 @@ msgstr "ДЫСПЛЭЙ"
 #. Description of --screen=SCREEN in --help output
 #: ../gdk/gdk.c:160
 msgid "X screen to use"
-msgstr "Выкарыстоўваемы экран X"
+msgstr "Экран X, які выкарыстоўваецца"
 
 #. Placeholder in --screen=SCREEN in --help output
 #: ../gdk/gdk.c:161
